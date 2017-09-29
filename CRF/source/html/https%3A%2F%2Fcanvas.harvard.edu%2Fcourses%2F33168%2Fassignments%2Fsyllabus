@@ -1,0 +1,1181 @@
+
+
+<!DOCTYPE html>
+<html class="scripts-not-loaded" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Syllabus for Java, Hadoop, Lambda Expressions, and Streams</title>
+  <!--[if lte IE 9]> <meta http-equiv=refresh content="0; URL=/ie-9-is-not-supported.html" /> <![endif]-->
+  <link rel="shortcut icon" type="image/x-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/favicon-e10d657a73.ico" />
+  <link rel="apple-touch-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/apple-touch-icon-585e5d997d.png" />
+  
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.css" />
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/common-de9877d2f0.css" />
+  <script>
+//<![CDATA[
+
+!function(){
+  var o,s,v;
+  if (!(window.Promise && Object.assign && Object.values && [].find && [].includes && (o={},s=Symbol(),v={},o[s]=v,o[s]===v) && (function f(){}).bind().name==='bound f')) {
+    s = 's', document.write('<'+s+'cr'+'ipt src="https://du11hjcvx0uqb.cloudfront.net/dist/ie11-polyfill-64b21f7f37.js"></'+s+'c'+'ript>');
+  }
+}();
+      
+//]]>
+</script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/lato-fontfaceobserver-11a14bc0b6.js" async="async"></script>
+  
+  <meta name="apple-itunes-app" content="app-id=480883488" />
+<link rel="manifest" href="/web-app-manifest/manifest.json" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#008EE2">
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/tinymce-29f8b0a23f.css" />
+<link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/syllabus-2f51f24f19.css" />
+  
+  <link rel="stylesheet" media="all" href="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/4225502/global.min.css" />
+  <script>
+    function _earlyClick(e){
+      var c = e.target
+      while (c && c.ownerDocument) {
+        if (c.getAttribute('href') == '#' || c.getAttribute('data-method')) {
+          e.preventDefault()
+          (_earlyClick.clicks = _earlyClick.clicks || []).push(c)
+          break
+        }
+        c = c.parentNode
+      }
+    }
+    document.addEventListener('click', _earlyClick)
+  </script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.js" defer="defer"></script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/vendor.bundle-2585fc489b.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/New_York-c3226761e3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/en_US-80a0ce259b.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/appBootstrap.bundle-43015c2be3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/common.bundle-07f53473d3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/syllabus.bundle-8eb56aaa04.js" defer="defer"></script>
+</head>
+
+<body class="with-left-side course-menu-expanded with-right-side syllabus primary-nav-expanded context-course_33168">
+
+<noscript>
+  <div role="alert" class="ic-flash-static ic-flash-error">
+    <div class="ic-flash__icon" aria-hidden="true">
+      <i class="icon-warning"></i>
+    </div>
+    <h1>You need to have JavaScript enabled in order to access this site.</h1>
+  </div>
+</noscript>
+
+
+
+
+
+<ul id="flash_message_holder"></ul>
+<div id="flash_screenreader_holder"></div>
+
+<div id="application" class="ic-app">
+  
+  <header id="header" class="ic-app-header no-print no-user">
+    <a href="#content" id="skip_navigation_link">Skip To Content</a>
+      <div role="region" class="ic-app-header__main-navigation" aria-label="Main Navigation">
+        <div class="ic-app-header__logomark-container">
+          <a href="https://canvas.harvard.edu/" class="ic-app-header__logomark">
+            <span class="screenreader-only">Dashboard</span>
+          </a>
+        </div>
+        <ul id="menu" class="ic-app-header__menu-list">
+            <li class="menu-item ic-app-header__menu-list-item">
+              <a id="global_nav_login_link" href="/login" class="ic-app-header__menu-list-link">
+                <div class="menu-item-icon-container" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--login" version="1.1" x="0" y="0" viewBox="241 -241 512 512" enable-background="new 241 -241 512 512" xml:space="preserve"><path d="M743.9 5.9l-35.7-35.7H492.9c-6.5-16.2-17.3-32-31.7-46.4 -50.4-50.4-132-50.4-182.4 0s-50.4 132.1 0 182.5 132 50.4 182.4 0c11.8-11.8 20.6-25.9 27-41.8H547L570.6 88l22.8-22.8L616.2 88 639 65.2 661.8 88l24.1-24.1 15.6-1.5 4.6-0.5L753 15 743.9 5.9 743.9 5.9zM694.4 37.1l-15.6 1.5 -4.6 0.5 -12.4 12.4 -12.9-12.9h-19.8l-12.9 12.9 -12.9-12.9h-19.8l-12.9 12.9 -12.9-12.9h-87.6l-2.9 8.8c-5.3 16-13.2 29.5-24.2 40.6 -40.3 40.3-105.6 40.3-145.9 0s-40.3-105.7 0-146 105.6-40.3 145.9 0c14.3 14.3 24.4 29.8 28.6 44.6l2.7 9.4h223.3l19 19L694.4 37.1 694.4 37.1zM322.3-16.2c-17.5 17.5-17.5 46 0 63.5 17.5 17.5 46 17.5 63.5 0 17.5-17.5 17.5-46 0-63.5C368.2-33.8 339.8-33.8 322.3-16.2L322.3-16.2zM367.6 29.1c-7.5 7.5-19.7 7.5-27.2 0 -7.5-7.5-7.5-19.7 0-27.2s19.7-7.5 27.2 0S375.2 21.6 367.6 29.1L367.6 29.1z"/></svg>
+
+                </div>
+                <div class="menu-item__text">
+                  Login
+                </div>
+              </a>
+            </li>
+          <li class="ic-app-header__menu-list-item ">
+            <a id="global_nav_dashboard_link" href="https://canvas.harvard.edu/" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--dashboard" version="1.1" x="0" y="0" viewBox="0 0 280 200" enable-background="new 0 0 280 200" xml:space="preserve"><path d="M273.09,180.75H197.47V164.47h62.62A122.16,122.16,0,1,0,17.85,142a124,124,0,0,0,2,22.51H90.18v16.29H6.89l-1.5-6.22A138.51,138.51,0,0,1,1.57,142C1.57,65.64,63.67,3.53,140,3.53S278.43,65.64,278.43,142a137.67,137.67,0,0,1-3.84,32.57ZM66.49,87.63,50.24,71.38,61.75,59.86,78,76.12Zm147,0L202,76.12l16.25-16.25,11.51,11.51ZM131.85,53.82v-23h16.29v23Zm15.63,142.3a31.71,31.71,0,0,1-28-16.81c-6.4-12.08-15.73-72.29-17.54-84.25a8.15,8.15,0,0,1,13.58-7.2c8.88,8.21,53.48,49.72,59.88,61.81a31.61,31.61,0,0,1-27.9,46.45ZM121.81,116.2c4.17,24.56,9.23,50.21,12,55.49A15.35,15.35,0,1,0,161,157.3C158.18,152,139.79,133.44,121.81,116.2Z" /></svg>
+
+              </div>
+              <div class="menu-item__text">Dashboard</div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ic-app-header__menu-list-item--active">
+            <a id="global_nav_courses_link" href="/courses" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--courses" version="1.1" x="0" y="0" viewBox="0 0 280 259" enable-background="new 0 0 280 259" xml:space="preserve"><path d="M73.31,198c-11.93,0-22.22,8-24,18.73a26.67,26.67,0,0,0-.3,3.63v.3a22,22,0,0,0,5.44,14.65,22.47,22.47,0,0,0,17.22,8H200V228.19h-134V213.08H200V198Zm21-105.74h90.64V62H94.3ZM79.19,107.34V46.92H200v60.42Zm7.55,30.21V122.45H192.49v15.11ZM71.65,16.71A22.72,22.72,0,0,0,49,39.36V190.88a41.12,41.12,0,0,1,24.32-8h157V16.71ZM33.88,39.36A37.78,37.78,0,0,1,71.65,1.6H245.36V198H215.15v45.32h22.66V258.4H71.65a37.85,37.85,0,0,1-37.76-37.76Z"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Courses
+              </div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_calendar_link" href="/calendar" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--calendar" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M197.07,213.38h16.31V197.07H197.07Zm-16.31,16.31V180.76h48.92v48.92Zm-48.92-16.31h16.31V197.07H131.85Zm-16.31,16.31V180.76h48.92v48.92ZM66.62,213.38H82.93V197.07H66.62ZM50.32,229.68V180.76H99.24v48.92Zm146.75-81.53h16.31V131.85H197.07Zm-16.31,16.31V115.54h48.92v48.92Zm-48.92-16.31h16.31V131.85H131.85Zm-16.31,16.31V115.54h48.92v48.92ZM66.62,148.15H82.93V131.85H66.62ZM50.32,164.46V115.54H99.24v48.92ZM34,262.29H246V82.93H34ZM246,66.62V42.16A8.17,8.17,0,0,0,237.84,34H213.38v8.15a8.15,8.15,0,1,1-16.31,0V34H82.93v8.15a8.15,8.15,0,0,1-16.31,0V34H42.16A8.17,8.17,0,0,0,34,42.16V66.62Zm-8.15-48.92a24.49,24.49,0,0,1,24.46,24.46V278.6H17.71V42.16A24.49,24.49,0,0,1,42.16,17.71H66.62V9.55a8.15,8.15,0,0,1,16.31,0v8.15H197.07V9.55a8.15,8.15,0,1,1,16.31,0v8.15Z"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Calendar
+              </div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_conversations_link" href="/conversations" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--inbox" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M91.72,120.75h96.56V104.65H91.72Zm0,48.28h80.47V152.94H91.72Zm0-96.56h80.47V56.37H91.72Zm160.94,34.88H228.52V10.78h-177v96.56H27.34A24.17,24.17,0,0,0,3.2,131.48V244.14a24.17,24.17,0,0,0,24.14,24.14H252.66a24.17,24.17,0,0,0,24.14-24.14V131.48A24.17,24.17,0,0,0,252.66,107.34Zm0,16.09a8.06,8.06,0,0,1,8,8v51.77l-32.19,19.31V123.44ZM67.58,203.91v-177H212.42v177ZM27.34,123.44H51.48v79.13L19.29,183.26V131.48A8.06,8.06,0,0,1,27.34,123.44ZM252.66,252.19H27.34a8.06,8.06,0,0,1-8-8V202l30,18H230.75l30-18v42.12A8.06,8.06,0,0,1,252.66,252.19Z"/></svg>
+
+                <span class="menu-item__badge" style="display: none">0</span>
+              </div>
+              <div class="menu-item__text">
+                Inbox
+              </div>
+            </a>
+          </li>
+          <li class="ic-app-header__menu-list-item">
+           <a id="global_nav_help_link" class="ic-app-header__menu-list-link" data-track-category="help system" data-track-label="help button" href="http://help.instructure.com/">
+              <div class="menu-item-icon-container" role="presentation">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg menu-item__icon svg-icon-help" version="1.1" x="0" y="0" viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve" fill="currentColor"><path d="M100,127.88A11.15,11.15,0,1,0,111.16,139,11.16,11.16,0,0,0,100,127.88Zm8.82-88.08a33.19,33.19,0,0,1,23.5,23.5,33.54,33.54,0,0,1-24,41.23,3.4,3.4,0,0,0-2.74,3.15v9.06H94.42v-9.06a14.57,14.57,0,0,1,11.13-14,22.43,22.43,0,0,0,13.66-10.27,22.73,22.73,0,0,0,2.31-17.37A21.92,21.92,0,0,0,106,50.59a22.67,22.67,0,0,0-19.68,3.88,22.18,22.18,0,0,0-8.65,17.64H66.54a33.25,33.25,0,0,1,13-26.47A33.72,33.72,0,0,1,108.82,39.8ZM100,5.2A94.8,94.8,0,1,0,194.8,100,94.91,94.91,0,0,0,100,5.2m0,178.45A83.65,83.65,0,1,1,183.65,100,83.73,83.73,0,0,1,100,183.65" transform="translate(-5.2 -5.2)"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Help
+              </div>
+</a>          </li>
+        </ul>
+      </div>
+      <div class="ic-app-header__secondary-navigation">
+        <ul class="ic-app-header__menu-list">
+          <li class="menu-item ic-app-header__menu-list-item">
+            <button
+              id="primaryNavToggle"
+              class="ic-app-header__menu-list-link ic-app-header__menu-list-link--nav-toggle"
+              aria-label="
+                Minimize global navigation"
+              title="
+                Minimize global navigation"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--navtoggle" version="1.1" x="0" y="0" width="40" height="32" viewBox="0 0 40 32" xml:space="preserve">
+  <path d="M39.5,30.28V2.48H37.18v27.8Zm-4.93-13.9L22.17,4,20.53,5.61l9.61,9.61H.5v2.31H30.14l-9.61,9.61,1.64,1.64Z"/>
+</svg>
+
+            </button>
+          </li>
+        </ul>
+      </div>
+    <div id="global_nav_tray_container"></div>
+  </header>
+
+
+  <div id="instructure_ajax_error_box">
+    <div style="text-align: right; background-color: #fff;"><a href="#" class="close_instructure_ajax_error_box_link">Close</a></div>
+    <iframe id="instructure_ajax_error_result" src="about:blank" style="border: 0;" title="Error"></iframe>
+  </div>
+
+  
+
+  <div id="wrapper" class="ic-Layout-wrapper">
+      <div class="ic-app-nav-toggle-and-crumbs no-print">
+          <button type="button" id="courseMenuToggle" class="Button Button--link ic-app-course-nav-toggle" aria-live="polite" aria-label="Hide Courses Navigation Menu" title="Hide Courses Navigation Menu">
+            <i class="icon-hamburger" aria-hidden="true"></i>
+          </button>
+          <div class="ic-app-crumbs">
+        <nav id="breadcrumbs" role="navigation" aria-label="breadcrumbs"><ul><li class="home"><a href="/"><span class="ellipsible">      <i class="icon-home"
+         title="My Dashboard">
+        <span class="screenreader-only">My Dashboard</span>
+      </i>
+</span></a></li><li><span class="ellipsible">CSCI E-55 (14298)</span></li><li><span class="ellipsible">Syllabus</span></li></ul></nav>
+        </div>
+      </div>
+    <div id="main" class="ic-Layout-columns">
+        <div class="ic-Layout-watermark"></div>
+        <div id="left-side"
+          class="ic-app-course-menu list-view"
+          style="display: block"
+          >
+              <span id="section-tabs-header-subtitle" class="ellipsis">2017-2018 Fall</span>
+            <nav role="navigation" aria-label="Courses Navigation Menu"><ul id="section-tabs"><li class="section"><a href="/courses/33168/assignments/syllabus" title="Syllabus" class="syllabus active">Syllabus</a></li><li class="section"><a href="/courses/33168/external_tools/25681" title="Piazza" class="context_external_tool_25681">Piazza</a></li><li class="section"><a href="/courses/33168/external_tools/13815" title="Student Resources" class="context_external_tool_13815">Student Resources</a></li></ul></nav>
+        </div>
+      <div id="not_right_side" class="ic-app-main-content">
+        <div id="content-wrapper" class="ic-Layout-contentWrapper">
+            
+
+          <div id="content" class="ic-Layout-contentMain" role="main">
+            
+
+
+
+<div class="ic-Action-header">
+  <div class="ic-Action-header__Primary">
+    <h1 class="ic-Action-header__Heading">Course Syllabus</h1>
+  </div>
+  <div class="ic-Action-header__Secondary">
+    <a href="#" class="jump_to_today_link">Jump to Today</a>
+  </div>
+</div>
+
+<div id="course_syllabus" style="margin-bottom: 10px;" class="user_content">
+  <p><img style="width: 100%;" src="/courses/33168/files/4157409/preview?verifier=edZAHWfIP1Jt5nosVWR36Sd7jcNGPDUU250UVYWQ" alt="Marquee image: Harvard Extension School shield on decorative paper" data-api-endpoint="https://canvas.harvard.edu/api/v1$IMS-CC-FILEBASE$/Template%20images/PaperShieldBanner.png?canvas_download=1&amp;canvas_qs_verifier=KBdi7qbAsL1oyUp6f839HnhJ3DhpxlrUFFSzkluL" data-api-returntype="File"></p>
+<table style="width: 35%; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="background-color: #1e5494; text-align: center; vertical-align: middle;">
+<h4 style="text-align: center;"><a class="icon-commons" style="color: white; text-decoration: white;" href="/courses/33168/modules/items/296871">   <strong>Click Here to Get Started</strong></a></h4>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="ic-Table" style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="content-box pad-box-micro border border-b border-t" style="background-color: whitesmoke;">
+<h2 style="text-align: center;"><a class="icon-syllabus" style="color: black; text-decoration: none;"> Syllabus</a></h2>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<p> <i><i><strong>This course is intended for programmers who want to learn Java, first as an object oriented language, then as a functional language (Java 8). Tools and applications considered along the way will include</strong></i></i></p>
+<ul>
+<li>The MapReduce programming model (MR)</li>
+<li>The Hadoop api's for solving MR problems</li>
+<li>Unit testing using <span style="font-family: 'courier new';"><strong>JUnit</strong></span>
+</li>
+<li>Build tools</li>
+<li>Java tools for generating API documents, i.e. Javadoc's.</li>
+</ul>
+<p><i><i></i></i></p>
+<hr>
+<p>The course starts from the simplest program, <span style="font-family: 'courier new';"><strong>HelloWorld.java</strong></span>, and builds a comprehensive understanding of the language, its features, its syntax, its libraries, up through an in-depth study of the sophisticated, complicated, tricky business of <span style="font-family: 'courier new';"><strong>Threads</strong></span>. This comprises the evolution of Java as an object oriented language, culminating in the major release known as Java 7 (2011). Three years later Java 8 took the language through a radical change by supporting functional programming. This course will present the bare bones of those functional features.</p>
+<p><a name="prerequisites"></a><strong>Prerequisites:</strong> There are no formal prerequisites for this course, but there are some requirements of common sense. The course is intended for students who already call themselves "programmers". It is definitely not an introductory course. Downloading and installing software packages, acquiring software tools and learning to use them, and running programs from the command line, i.e. a terminal window, are integral parts of solving the homework problems. The ingredient that will give the greatest advantage is the most elusive to describe, and that is something that comes with programming experience, namely, debugging, i.e. the ability to ask the right questions when your software misbehaves.</p>
+<p><strong>Requirements:</strong><a name="requirements"></a></p>
+<ul>
+<ul>
+<li>8 homeworks, staggered at 2-week intervals. Three will model a real world system of elevators, floors and passengers; two will model a multi-threaded client/server banking application; three will use Java 8 features and Hadoop API's.</li>
+<li>No examinations. No hour exams. No final. The skills and knowledge we are aiming for do not give themselves to examination.</li>
+<li>No particular hardware or software platform is required. You must have a computing environment that includes Java 8, i.e. you must be able to run Java code in your environment.</li>
+</ul>
+</ul>
+<p><a></a></p>
+<p><strong>How Tough Is This Course Going To Be? </strong>It will be tough. It is a programming course, after all. You will write a lot of code, in a new language and some of it will use a techniques quite unfamiliar to you. You will need at least an elementary proficiency in basic Unix utilities, e.g. <span style="font-family: 'courier new';"><strong>head, tail, cat, grep.</strong></span> But it will not be among the toughest courses, the ones that are legendary. You will not write a compiler, or an operating system. How tough it may turn out to be for you depends on your programming experience. The level of effort to do very well is inversely proportional to the level of those imponderable intuitions you possess. If you've written a lot of code in an object oriented language like C++ or Python, and your debugging skills are sharp you might spend as little as 5-10 hours for each homework. And the less your preparation the more effort you will need to do very well. If you are in doubt, ask yourself, Are in a position to cope with a course that turns out to be very demanding? Look at your commitments and ask yourself can I give up my weekends for four months in order to deal with a crisis, if that's how it turns out. </p>
+<p><a name="software"></a></p>
+<p><strong>What this course is NOT:</strong></p>
+<ul>
+<li>It is NOT an introductory course</li>
+<li>This course is <span style="font-size: 12pt;">NOT a course in Object Oriented Design</span>
+</li>
+<li>It is NOT <strong><i>just</i></strong> a Java course</li>
+<li>It is NOT a thorough exploration of Java 8 features</li>
+<li>It is NOT a course in building Hadoop applications or managing Hadoop clusters</li>
+</ul>
+<p><a name="textbooks"></a>There is no official course text book, only recommended books. You might even consider doing without a textbook and relying instead on the tutorials available from Oracle's website. They are excellent and comprehensive. Book Suggestions:</p>
+<ul>
+<li><span style="font-size: large;"><a href="https://www.amazon.com/Core-Java-I-Fundamentals-10th/dp/0134177304"> Core Java Volume I--Fundamentals (10th Edition) (Core Series) 10th Edition</a> by Cay Horstmann, ISBN-13: 978-0134177304 ISBN-10: 0134177304</span></li>
+<li>
+<a href="https://www.amazon.com/Core-Java-II-Advanced-Features-10th/dp/0134177290/ref=pd_bxgy_14_2?_encoding=UTF8&amp;pd_rd_i=0134177290&amp;pd_rd_r=YKE1Y203PWNTTF7XTG1R&amp;pd_rd_w=yA2i9&amp;pd_rd_wg=99v0O&amp;psc=1&amp;refRID=YKE1Y203PWNTTF7XTG1R"> Core Java, Volume II--Advanced Features (10th Edition) (Core Series) 10th Edition</a> by Cay Horstmann, ISBN-13: 978-0134177298 ISBN-10: 0134177290</li>
+<li>
+<a href="https://www.amazon.com/Java-Action-Lambdas-functional-style-programming/dp/1617291994/ref=sr_1_1?ie=UTF8&amp;qid=1499710216&amp;sr=8-1&amp;keywords=java+8+in+action">Java 8 in Action: Lamdas, Streams and Functional Programming</a> by by Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft. ISBN-13: 978-1617291999 ISBN-10: 1617291994</li>
+<li>
+<strong>Oracle tutorials</strong>: <a href="http://java.sun.com/docs/books/tutorial/index.html">Tutorial index</a>, also <a href="http://java.sun.com/docs/books/tutorial/reallybigindex.html">The Really Big Index</a> These links are so useful that I have them bookmarked in my browser.</li>
+<li>The Java doc pages for Java. In the Java world there is a new form of programmer's reference manual which is made up of "Java doc" html pages for all the classes that comprise a given system. Java itself has such a web of pages describing all the classes that make up the standard Java libraries: <a href="http://docs.oracle.com/javase/8/docs/api/">JDK1.8 API's</a> Bookmark this page, if you haven't already.</li>
+</ul>
+<p><strong>Software</strong></p>
+<p>There is no specific requirement for software in this course. One needs a Java computing environment, of course, which means a version of the JDK (Java Developers Kit). The very latest version released by Oracle is Java SE 8u131 / 8u112, referred to as <strong>Java SE 8</strong>. You can download this version of Java here: <a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">Java SE Downloads</a></p>
+<p><span style="font-size: 12pt;"><span><span>Commercial software projects typically involve teams of software engineers organized around software subsystems. The sheer volume of code becomes a challenge to manage and navigating between the files, especially across subsystems, becomes close to impossible without the help of an IDE (Integrated Development Environment). IDE's enable you to skip from file to file with just a mouse click. An IDE catches syntax errors as you type them and offers name completion with a keystroke. There are several IDE's wide use. Two products bear mention, one free, one for purchase:</span></span></span></p>
+<ul>
+<li>A commericial IDE that has won the approval of advanced Java developers is <strong>IntelliJ IDEA</strong> from JetBrains. JetBrains has granted students taking this course a free, year-long license to the full-strength version. There is a free community version available online. [License info will be posted later.]</li>
+</ul>
+<p> </p>
+<ul>
+<li>A free IDE that has become a standard is <strong>Eclipse</strong>. It had a long period of development and several releases as a commercial product of IBM, then has became an open source application. Get it here: <a href="http://www.eclipse.org/">http://www.eclipse.org</a>
+</li>
+</ul>
+<ul>
+<li>
+<span style="font-size: 12pt;">Also worth mentioning is Oracle's <a href="http://www.netbeans.org/">NetBeans</a>, which is bundled with the latest JDK.</span> </li>
+</ul>
+<p> </p>
+<p>When you start learning Java your systems will be tiny and you can get by with just a text editor. My own personal favorite is a beautiful, beloved, venerable piece of software called <a href="http://www.gnu.org/software/emacs/emacs.html">emacs</a>. Many older generation programmers use emacs rather than an IDE. Two advantages of emacs are its free cost and the fact that it can be found (or imported) everywhere.</p>
+<p>There are two reasons to write your first few homeworks using a plain text editor. (1) With a simple editor you and your code are always face to face, with no third party IDE between you and it. When you compile and build your programs from a command line, you may develop a better understanding of how the software works, without the magic of an IDE. And, (2) however straightforward and self explanatory an IDE is, you will need time to it get on your system, install it and learn how to use it.</p>
+<p><strong>How to Get a Headstart</strong> There are two things one can do to be prepared: (1) establish your computing environment (purchase and install an IDE and test it out, or brush up on your emacs skills, if you are a confirmed hacker and are ready to write, compile and debug your code in emacs), and, (2) do the</p>
+<p><span style="font-size: 12pt;"></span><a href="http://courses.dce.harvard.edu/~cscie55/hw0-fall2017.htm">"jump start" homework (Homework #0)</a>.</p>
+<p><strong>Who's Teaching This Course?</strong></p>
+<p>I retired from a 33-year career in the software profession in 2015, the last four years at Google. Here you'll find a summary of my <a href="https://courses.dce.harvard.edu/~cscie55/life-in-software.html">Life in Software</a>. For personal details about me follow this link <a href="http://courses.dce.harvard.edu/~cscie55/personal2017.html"> Personal</a>.</p>
+<p>The Teaching Fellows in this course come from leading companies in the software industry. If I were hiring a software team to write commercial products written in Java, these are precisely the people I would seek to hire.</p>
+<hr>
+<p><span style="font-size: medium;"><strong>Harvard Extension School notices</strong></span></p>
+<p><i> The Extension School is committed to providing an accessible academic community. The Accessibility Office offers a variety of accommodations and services to students with documented disabilities. Please visit <a href="https://www.extension.harvard.edu/resources-policies/resources/disability-services-accessibility"> Disability Services Accessibility</a> for more information.</i></p>
+<p>You are responsible for understanding Harvard Extension School policies on academic integrity (<a href="http://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity"> Academic Integrity</a>) and how to use sources responsibly. Not knowing the rules, misunderstanding the rules, running out of time, submitting the wrong draft, or being overwhelmed with multiple demands are not acceptable excuses. There are no excuses for failure to uphold academic integrity. To support your learning about academic citation rules, please visit the Harvard Extension School <a href="http://www.extension.harvard.edu/resources-policies/resources/tips-avoid-plagiarism"> Tips to Avoid Plagiarism</a> , where you'll find links to the Harvard Guide to Using Sources and two free online 15-minute tutorials to test your knowledge of academic citation policy. The tutorials are anonymous open-learning tools.</p>
+<hr>
+<p><strong>© Charles Sawyer, 2017</strong></p>
+<p><span style="font-family: 'courier new'; font-size: small;"><strong>echo '[q]sa[ln0=aln256%Pln256/snlbx]sb3135071790101768542287578439snlbxq' | dc</strong></span></p>
+</td>
+</tr>
+<tr>
+<td>
+<div class="content-box pad-box-micro border border-b border-t" style="background-color: whitesmoke;">
+<h2 style="text-align: center;"><a class="icon-rubric-dark" style="color: black; text-decoration: none;"> Course Information</a></h2>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<p> <iframe style="width: 100%; height: 200px;" title="Course Info" src="https://canvas-course-info.tlt.harvard.edu/course_info/widget.html?f=title&amp;f=course.registrar_code_display&amp;f=term.display_name&amp;f=instructors_display&amp;f=location&amp;f=meeting_time&amp;f=exam_group&amp;f=description&amp;f=notes" width="300" height="150" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen"></iframe> </p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 30%; float: right;" cellspacing="10" cellpadding="9">
+<tbody>
+<tr>
+<td style="border-color: gray; background-color: whitesmoke;">
+<h2 style="text-align: center;"><span style="color: #000000;"><a class="icon-user" style="color: #000000;" href="/courses/7955" target="_blank"><span style="font-size: 10pt;">Student Support Tips</span></a></span></h2>
+</td>
+</tr>
+<tr>
+<td style="border-color: gray; background-color: whitesmoke;">
+<h2 style="text-align: center;"><span style="color: #000000;"><a class="icon-educators" style="color: #000000;" href="/courses/4514" target="_blank"><span style="font-size: 10pt;">Instructor Support Tips</span></a> </span></h2>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="clear: both;"> </p>
+</div>
+<div id="course_syllabus_details" style="display: none;">
+  <p>The syllabus page shows a table-oriented view of the course schedule, and the basics of
+course grading.  You can add any other comments, notes, or thoughts you have about the course
+structure, course policies or anything else.</p>
+
+<p>To add some comments, click the &quot;Edit&quot; link at the top.</p>
+</div>
+<form id="edit_course_syllabus_form" style="display: none; margin-bottom: 10px;" action="/courses/33168" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="uVAzYIXn41PxrVPUv0enNeeF1R2I77dc6G137iQEU8T6YGpP8o2XOqjGJLr7PdNels7sfNLZnCqxDxumdzIShw==" />
+  <div style="float: right;">
+    <a href="#" class="toggle_views_link toggle_html_editor_link">HTML Editor</a>
+    <a href="#" class="toggle_views_link toggle_rich_editor_link" style="display:none;">Rich Content Editor</a>
+  </div>
+  <label for="course_syllabus_body">Syllabus Description:</label>
+  <div class="clear"></div>
+  <textarea style="width: 100%; height: 300px;" id="course_syllabus_body" name="course[syllabus_body]">
+</textarea>
+  <div class='form-actions'>
+    <button type="button" class="btn cancel_button">Cancel</button>
+    <button type="submit" class='btn btn-primary'>Update Syllabus</button>
+  </div>
+</form>
+<h2>Course Summary:</h2>
+
+<div id="syllabusContainer">
+  <div id="syllabus_links">
+    <a id="toggle_special_dates_in_syllabus">&nbsp;</a>
+  </div>
+  <table id="syllabus" class="ic-Table--condensed">
+    <thead>
+      <tr>
+        <th scope="col" style="width: 25%;">Date</th>
+        <th scope="col" style="width: 75%;">Details</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td scope="row">
+          <span id="loading_indicator"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+          </div>
+        </div>
+        <div id="right-side-wrapper" class="ic-app-main-content__secondary">
+          <aside id="right-side" role="complementary">
+              
+<div id="sidebar_content">
+  
+<div class="mini_month">
+  <div class="mini-cal-header">
+    <button class="prev_month_link Button Button--icon-action"><i class="icon-arrow-open-left"></i><span class="screenreader-only">Prev month</span></button>
+    <button class="next_month_link Button Button--icon-action"><i class="icon-arrow-open-right"></i><span class="screenreader-only">Next month</span></button>
+    <span class="mini-cal-month-and-year">
+      <span class="month_name">September</span>
+      <span class="year_number">2017</span>
+    </span>
+  </div>
+  <div style="display: none;">
+    <span class="month_number">9</span>
+  </div>
+  <table class="mini_calendar" cellspacing="0">
+    <caption class="screenreader-only">Calendar</caption>
+    <thead>
+      <tr>
+          <th scope="col">
+            <span class="screenreader-only">
+              Sunday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Monday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Tuesday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Wednesday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Thursday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Friday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Saturday
+            </span>
+          </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_08_27" class="mini_calendar_day day other_month previous_month date_08_27_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                27
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_28" class="mini_calendar_day day other_month previous_month date_08_28_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                28
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_29" class="mini_calendar_day day other_month previous_month date_08_29_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                29
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_30" class="mini_calendar_day day other_month previous_month date_08_30_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                30
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_31" class="mini_calendar_day day other_month previous_month date_08_31_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                31
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_01" class="mini_calendar_day day current_month date_09_01_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                1
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_02" class="mini_calendar_day day current_month date_09_02_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                2
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_03" class="mini_calendar_day day current_month date_09_03_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                3
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_04" class="mini_calendar_day day current_month date_09_04_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                4
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_05" class="mini_calendar_day day current_month date_09_05_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                5
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_06" class="mini_calendar_day day current_month date_09_06_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                6
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_07" class="mini_calendar_day day current_month date_09_07_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                7
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_08" class="mini_calendar_day day current_month date_09_08_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                8
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_09" class="mini_calendar_day day current_month date_09_09_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                9
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_10" class="mini_calendar_day day current_month date_09_10_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                10
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_11" class="mini_calendar_day day current_month date_09_11_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                11
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_12" class="mini_calendar_day day current_month date_09_12_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                12
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_13" class="mini_calendar_day day current_month date_09_13_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                13
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_14" class="mini_calendar_day day current_month date_09_14_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                14
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_15" class="mini_calendar_day day current_month date_09_15_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                15
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_16" class="mini_calendar_day day current_month date_09_16_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                16
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_17" class="mini_calendar_day day current_month date_09_17_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                17
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_18" class="mini_calendar_day day current_month date_09_18_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                18
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_19" class="mini_calendar_day day current_month date_09_19_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                19
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_20" class="mini_calendar_day day current_month date_09_20_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                20
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_21" class="mini_calendar_day day current_month date_09_21_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                21
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_22" class="mini_calendar_day day current_month date_09_22_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                22
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_23" class="mini_calendar_day day current_month date_09_23_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                23
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_24" class="mini_calendar_day day current_month today date_09_24_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                24
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_25" class="mini_calendar_day day current_month date_09_25_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                25
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_26" class="mini_calendar_day day current_month date_09_26_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                26
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_27" class="mini_calendar_day day current_month date_09_27_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                27
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_28" class="mini_calendar_day day current_month date_09_28_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                28
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_29" class="mini_calendar_day day current_month date_09_29_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                29
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_30" class="mini_calendar_day day current_month date_09_30_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                30
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_10_01" class="mini_calendar_day day other_month next_month date_10_01_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                1
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_02" class="mini_calendar_day day other_month next_month date_10_02_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                2
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_03" class="mini_calendar_day day other_month next_month date_10_03_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                3
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_04" class="mini_calendar_day day other_month next_month date_10_04_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                4
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_05" class="mini_calendar_day day other_month next_month date_10_05_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                5
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_06" class="mini_calendar_day day other_month next_month date_10_06_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                6
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_07" class="mini_calendar_day day other_month next_month date_10_07_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                7
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+    
+<div role="complementary" aria-label="Assignment Weights">
+  <h2>Assignments are weighted by group:</h2>
+
+  <table class="summary">
+    <thead>
+    <tr>
+      <th scope='col'>Group</th>
+      <th scope='col'>Weight</th>
+    </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <th scope='row'>Overview</th>
+          <td>0%</td>
+        </tr>
+        <tr>
+          <th scope='row'>Java 7:</th>
+          <td>75%</td>
+        </tr>
+        <tr>
+          <th scope='row'>The Hadoop and the MapReduce Program Model, Streams and Lambda Expressions</th>
+          <td>25%</td>
+        </tr>
+      <tr style="font-weight: bold;">
+        <th scope='row'>Total</th>
+        <td>100%</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+</div>
+
+<div id="editor_tabs" class="ui-tabs--mini" style="display: none;">
+
+  <span class="wiki-sidebar-header" role="heading" aria-level="2">Insert Content into the Page</span>
+  <ul>
+    <li><a href="#editor_tabs_2">Links</a></li>
+    <li><a href="#editor_tabs_4">Images</a></li>
+  </ul>
+  <div id="editor_tabs_2" role="application">
+    Link to other content in the course.
+      <a href="/courses/33168/external_tools/retrieve?url=%7B%7B+url+%7D%7D" id="external_tool_retrieve_url" style="display: none;">&nbsp;</a>
+      <a href="/courses/33168/external_tools/%7B%7B%20id%20%7D%7D/resource_selection?editor=1" id="context_external_tool_resource_selection_url" style="display: none;">&nbsp;</a>
+    Click any page to insert a link to that page.
+    <div id="pages_accordion" class="ui-accordion--mini" role="tabpanel">
+      <a href="https://canvas.harvard.edu/courses/33168/pages/%7B%7B%20page_url%20%7D%7D" id="wiki_sidebar_wiki_url" style="display: none;">&nbsp;</a>
+      <div>
+        <div class="header" aria-controls="pages_tab_panel" role="tab"><a href="#">Wiki Pages</a></div>
+        <div id="pages_tab_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33168/pages/building-and-running-jarfile-for-hw-number-2">Building and running jarfile for HW #2</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33168/pages/exceptions-example">Exceptions Example </a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33168/pages/getting-started">Getting Started</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33168/pages/homepage-week-by-week">Homepage: Week By Week</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33168/pages/java-language-features">Java Language Features</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33168/pages/lecture-number-3">Lecture #3</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33168/pages/on-choosing-an-ide">On Choosing an IDE</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33168/pages/sections">Sections</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33168/pages/teaching-staff">Teaching Staff</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33168/pages/tips-for-jar">Tips for jar</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33168/pages/week-1">Week 1</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33168/pages/week-2">Week 2</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33168/pages/week-3">Week 3</a></li>
+            </ul>
+        </div>
+      </div>
+      <div>
+        <div aria-controls="assignment_panel" role="tab" class="header" aria-controls="wiki_pages_panel"><a href="#">Assignments</a></div>
+         <div id="assignment_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this assignment"><a href="/courses/33168/assignments">Assignment List</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33168/assignments/151805">Assignment 1</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33168/assignments/151806">Assignment 2</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33168/assignments/151807">Assignment 3</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33168/assignments/151808">Assignment 4</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33168/assignments/151809">Assignment 5</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33168/assignments/151810">Assignment 6</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33168/assignments/151811">Assignment 7</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33168/assignments/151812">Assignment 8</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33168/assignments/159762">Overview</a></li>
+            </ul>
+         </div>
+      </div>
+      <div>
+        <div aria-controls="quizzes_panel" class="header" role="tab"><a href="#">Quizzes</a></div>
+         <div id="quizzes_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this quiz"><a href="/courses/33168/quizzes">Quiz List</a></li>
+            </ul>
+         </div>
+      </div>
+      <div>
+        <div class="header" aria-controls="announcements_panel" role="tab"><a href="#">Announcements</a></div>
+         <div id="announcements_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this announcement"><a href="/courses/33168/announcements">Announcements List</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33168/announcements/244456">Building and running HW #2 jar file</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33168/announcements/244258">Exceptions Example</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33168/announcements/243061">Section 3 files available</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33168/announcements/243197">Recording Section #3 September 19th</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33168/announcements/242190">Lecture #3</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33168/announcements/240061">Section 2: 9/12/17, Recording</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33168/announcements/238622">Lecture #2</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33168/announcements/237450">Supplement: Packages and CLASSPATH</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33168/announcements/236991">Section 1 Demo Project and Notes </a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33168/announcements/237092">Section Sep 5, Recording</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33168/announcements/235955">Update</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33168/announcements/229822">Greetings</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33168/announcements/233434">Changes to homework due dates</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33168/announcements/233067">Out sick</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33168/announcements/231705">Getting IDE &quot;Idea&quot; license</a></li>
+            </ul>
+         </div>
+      </div>
+
+      <div>
+        <div role="tab" aria-controls="discussions_panel" class="header"><a href="#">Discussions</a></div>
+         <div id="discussions_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this topic"><a href="/courses/33168/discussion_topics">Discussion Index</a></li>
+            </ul>
+         </div>
+      </div>
+
+      <div>
+        <div role="tab" aria-controls="modules_panel" class="header"><a href="#">Modules</a></div>
+          <div id="modules_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this module"><a href="/courses/33168/modules">Modules List</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33168/modules/74077">Content Pages</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33168/modules/74078">Additional</a></li>
+            </ul>
+          </div>
+      </div>
+
+      <div>
+        <div class="header" role="tab" aria-controls="groups_panel"><a href="#">Course Navigation</a></div>
+         <div role="tabpanel" id="groups_panel">
+            <ul class="wiki_pages page_list">
+                <li title="Click to insert a link to the assignments page"><a href="/courses/33168/assignments">Assignment List</a></li>
+                <li title="Click to insert a link to the wiki"><a href="https://canvas.harvard.edu/courses/33168/pages">Wiki Home</a></li>
+                <li title="Click to insert a link to the discussions page"><a href="/courses/33168/discussion_topics">Discussions Index</a></li>
+                <li title="Click to insert a link to the syllabus"><a href="/courses/33168/assignments/syllabus">Course Syllabus</a></li>
+                <li title="Click to insert a link to the announcements page"><a href="/courses/33168/announcements">Announcement List</a></li>
+                <li title="Click to insert a link to the files page"><a href="/courses/33168/files">Files Index</a></li>
+                <li title="Click to insert a link to the collaborations page"><a href="/courses/33168/collaborations">Collaborations</a></li>
+                <li title="Click to insert a link to the grades page"><a href="/courses/33168/grades">Grades</a></li>
+                <li title="Click to insert a link to the people page"><a href="/courses/33168/users">People</a></li>
+                <li title="Click to insert a link to the modules page"><a href="/courses/33168/modules">Modules</a></li>
+            </ul>
+         </div>
+      </div>
+    </div>
+
+  </div>
+  <div aria-atomic="true" id="editor_tabs_4">
+    Click any image to embed the image in the page.
+    <div>
+      <a tabindex="0" href="#" class="find_new_image_link find">Find images on flickr creative commons</a>
+    </div>
+    <div id="wiki_sidebar_image_uploads" class="uploading_file_list uploading_image_list" style="display: none;">
+      <div class="uploading">
+        Uploading <span class="filename">file</span>...
+        <div>
+          <img alt="Loading..." src="https://du11hjcvx0uqb.cloudfront.net/dist/images/ajax-loader-bar-71e6988298.gif" />
+        </div>
+      </div>
+      <div class="remaining">
+        <span class="files_remaining">0</span> more to upload
+      </div>
+      
+<a href="#" style="text-align: center display: none;" class="img_link" title="Click to embed image">
+  <div class="img_holder">
+    <img class="img" data-url="" src="" alt="{{ display_name }}" title="Click to embed {{ display_name }}">
+  </div>
+  <div class="display_name">{{ display_name }}</div>
+</a>
+
+    </div>
+    <div class="image_list_holder ">
+      <div class="dragging_message">Drop Images Here to upload</div>
+      <div class="image_list" style="max-height: 300px; overflow: auto;" data-url="/courses/33168/images">
+      </div>
+    </div>
+  </div>
+  <div style="display: none;">
+    <a href="/services?service_type=BookmarkService" class="bookmark_services_url">&nbsp;</a>
+    <a href="/search/bookmarks?q=%7B%7B+query+%7D%7D&amp;service_type=%7B%7B+service_type+%7D%7D" class="bookmark_search_url">&nbsp;</a>
+    <span class="context_code">course_33168</span>
+    <div id="wiki_sidebar_select_folder_dialog">
+      Select a destination folder for these <span class="file_count">&nbsp;</span> files:
+      <div style="margin: 20px;">
+        <select class="folder_id">
+        </select>
+      </div>
+      <div class="button-container">
+        <button type="button" class="btn select_button">Upload Files to Folder</button>
+        <button type="button" class="btn cancel_button btn button-secondary">Cancel</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+          </aside>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    <div style="display:none;"><!-- Everything inside of this should always stay hidden -->
+    </div>
+    
+<div id="cant_record_dialog" style="display: none;">
+  <div>
+    In order to create video or audio recordings your computer needs to be 
+    webcam-enabled.  If you don&#39;t have a webcam on your computer, you can still
+    record audio-only messages by first installing the Google Video Chat
+    plugin.
+  </div>
+  <div style="text-align: center; font-size: 1.5em; margin: 10px;">
+    <a href="http://www.google.com/chat/video" target="_blank" class="btn">Install the Video Plugin</a>
+  </div>
+  <div class="links" style="text-align: right; font-size: 0.8em; display: none;">
+    <a href="#" class="cant_record_link">Don&#39;t have a webcam?</a>
+  </div>
+</div>
+  <div id='aria_alerts' class='hide-text affix' role="alert" aria-live="assertive"></div>
+  <div id='StudentTray__Container'></div>
+  <script>
+  INST = {"environment":"production","allowMediaComments":true,"kalturaSettings":{"domain":"nv.instructuremedia.com","resource_domain":"nv.instructuremedia.com","rtmp_domain":"fms-prod.instructuremedia.com","partner_id":"9","subpartner_id":"0","player_ui_conf":"0","kcw_ui_conf":"0","upload_ui_conf":"0","max_file_size_bytes":534773760,"do_analytics":false,"hide_rte_button":false,"js_uploader":true},"googleAnalyticsAccount":"UA-9138420-1","disableScribdPreviews":true,"logPageViews":true,"maxVisibleEditorButtons":3,"editorButtons":[{"name":"YouTube","id":18015,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=youtube","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/youtube_icon.png","canvas_icon_class":null,"width":560,"height":600},{"name":"Vimeo","id":18016,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=vimeo","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/vimeo_icon.png","canvas_icon_class":null,"width":560,"height":600},{"name":"DCE Matterhorn Course Recordings","id":19109,"url":"https://dce-mhvideo-lti.herokuapp.com/mhvideo_lti/lti_launch","icon_url":"https://dce-mhvideo-lti.herokuapp.com/static/images/television.png","canvas_icon_class":null,"width":800,"height":400},{"name":"Course Info","id":20525,"url":"https://canvas-course-info.tlt.harvard.edu/course_info/lti_launch","icon_url":"https://canvas-course-info.tlt.harvard.edu/static/images/course-info.png","canvas_icon_class":null,"width":800,"height":400}]};
+  ENV = {"ASSET_HOST":"https://du11hjcvx0uqb.cloudfront.net","active_brand_config":"af37e5be444f4a553c9c812a9a990322","active_brand_config_json_url":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.json","url_to_what_gets_loaded_inside_the_tinymce_editor_css":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/what_gets_loaded_inside_the_tinymce_editor-542d1c188c.css","current_user_id":null,"current_user":{},"current_user_roles":null,"current_user_disabled_inbox":null,"files_domain":"cluster28-files.instructure.com","DOMAIN_ROOT_ACCOUNT_ID":18750000000000001,"k12":false,"help_link_name":"Help","help_link_icon":"help","use_high_contrast":null,"SETTINGS":{"open_registration":false,"eportfolios_enabled":true,"collapse_global_nav":null,"show_feedback_link":true,"enable_profiles":true},"context_asset_string":"course_33168","ping_url":"https://canvas.harvard.edu/api/v1/courses/33168/ping","TIMEZONE":"America/New_York","CONTEXT_TIMEZONE":"America/New_York","LOCALE":"en","BIGEASY_LOCALE":"en_US","FULLCALENDAR_LOCALE":"en","MOMENT_LOCALE":"en","RICH_CONTENT_SERVICE_ENABLED":true,"RICH_CONTENT_APP_HOST":"rich-content-iad.inscloudgate.net","RICH_CONTENT_CDN_HOST":"dvgcns7dz7zc.cloudfront.net/rce_service/versions/","RICH_CONTENT_SIDEBAR_SOURCE":"api","RICH_CONTENT_CAN_UPLOAD_FILES":false,"CONTEXT_ACTION_SOURCE":"syllabus","NEW_USER_TUTORIALS":{"is_enabled":false},"SYLLABUS_PER_PAGE":"100","CAN_READ":false,"SYLLABUS_BODY":"\u003cp\u003e\u003cimg style=\"width: 100%;\" src=\"/courses/33168/files/4157409/preview?verifier=edZAHWfIP1Jt5nosVWR36Sd7jcNGPDUU250UVYWQ\" alt=\"Marquee image: Harvard Extension School shield on decorative paper\" data-api-endpoint=\"https://canvas.harvard.edu/api/v1$IMS-CC-FILEBASE$/Template%20images/PaperShieldBanner.png?canvas_download=1\u0026amp;canvas_qs_verifier=KBdi7qbAsL1oyUp6f839HnhJ3DhpxlrUFFSzkluL\" data-api-returntype=\"File\"\u003e\u003c/p\u003e\n\u003ctable style=\"width: 35%; margin-left: auto; margin-right: auto;\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"background-color: #1e5494; text-align: center; vertical-align: middle;\"\u003e\n\u003ch4 style=\"text-align: center;\"\u003e\u003ca class=\"icon-commons\" style=\"color: white; text-decoration: white;\" href=\"/courses/33168/modules/items/296871\"\u003e   \u003cstrong\u003eClick Here to Get Started\u003c/strong\u003e\u003c/a\u003e\u003c/h4\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003ctable class=\"ic-Table\" style=\"width: 100%;\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cdiv class=\"content-box pad-box-micro border border-b border-t\" style=\"background-color: whitesmoke;\"\u003e\n\u003ch2 style=\"text-align: center;\"\u003e\u003ca class=\"icon-syllabus\" style=\"color: black; text-decoration: none;\"\u003e Syllabus\u003c/a\u003e\u003c/h2\u003e\n\u003c/div\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cp\u003e \u003ci\u003e\u003ci\u003e\u003cstrong\u003eThis course is intended for programmers who want to learn Java, first as an object oriented language, then as a functional language (Java 8). Tools and applications considered along the way will include\u003c/strong\u003e\u003c/i\u003e\u003c/i\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eThe MapReduce programming model (MR)\u003c/li\u003e\n\u003cli\u003eThe Hadoop api's for solving MR problems\u003c/li\u003e\n\u003cli\u003eUnit testing using \u003cspan style=\"font-family: 'courier new';\"\u003e\u003cstrong\u003eJUnit\u003c/strong\u003e\u003c/span\u003e\n\u003c/li\u003e\n\u003cli\u003eBuild tools\u003c/li\u003e\n\u003cli\u003eJava tools for generating API documents, i.e. Javadoc's.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003ci\u003e\u003ci\u003e\u003c/i\u003e\u003c/i\u003e\u003c/p\u003e\n\u003chr\u003e\n\u003cp\u003eThe course starts from the simplest program, \u003cspan style=\"font-family: 'courier new';\"\u003e\u003cstrong\u003eHelloWorld.java\u003c/strong\u003e\u003c/span\u003e, and builds a comprehensive understanding of the language, its features, its syntax, its libraries, up through an in-depth study of the sophisticated, complicated, tricky business of \u003cspan style=\"font-family: 'courier new';\"\u003e\u003cstrong\u003eThreads\u003c/strong\u003e\u003c/span\u003e. This comprises the evolution of Java as an object oriented language, culminating in the major release known as Java 7 (2011). Three years later Java 8 took the language through a radical change by supporting functional programming. This course will present the bare bones of those functional features.\u003c/p\u003e\n\u003cp\u003e\u003ca name=\"prerequisites\"\u003e\u003c/a\u003e\u003cstrong\u003ePrerequisites:\u003c/strong\u003e There are no formal prerequisites for this course, but there are some requirements of common sense. The course is intended for students who already call themselves \"programmers\". It is definitely not an introductory course. Downloading and installing software packages, acquiring software tools and learning to use them, and running programs from the command line, i.e. a terminal window, are integral parts of solving the homework problems. The ingredient that will give the greatest advantage is the most elusive to describe, and that is something that comes with programming experience, namely, debugging, i.e. the ability to ask the right questions when your software misbehaves.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eRequirements:\u003c/strong\u003e\u003ca name=\"requirements\"\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cul\u003e\n\u003cli\u003e8 homeworks, staggered at 2-week intervals. Three will model a real world system of elevators, floors and passengers; two will model a multi-threaded client/server banking application; three will use Java 8 features and Hadoop API's.\u003c/li\u003e\n\u003cli\u003eNo examinations. No hour exams. No final. The skills and knowledge we are aiming for do not give themselves to examination.\u003c/li\u003e\n\u003cli\u003eNo particular hardware or software platform is required. You must have a computing environment that includes Java 8, i.e. you must be able to run Java code in your environment.\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003ca\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eHow Tough Is This Course Going To Be? \u003c/strong\u003eIt will be tough. It is a programming course, after all. You will write a lot of code, in a new language and some of it will use a techniques quite unfamiliar to you. You will need at least an elementary proficiency in basic Unix utilities, e.g. \u003cspan style=\"font-family: 'courier new';\"\u003e\u003cstrong\u003ehead, tail, cat, grep.\u003c/strong\u003e\u003c/span\u003e But it will not be among the toughest courses, the ones that are legendary. You will not write a compiler, or an operating system. How tough it may turn out to be for you depends on your programming experience. The level of effort to do very well is inversely proportional to the level of those imponderable intuitions you possess. If you've written a lot of code in an object oriented language like C++ or Python, and your debugging skills are sharp you might spend as little as 5-10 hours for each homework. And the less your preparation the more effort you will need to do very well. If you are in doubt, ask yourself, Are in a position to cope with a course that turns out to be very demanding? Look at your commitments and ask yourself can I give up my weekends for four months in order to deal with a crisis, if that's how it turns out. \u003c/p\u003e\n\u003cp\u003e\u003ca name=\"software\"\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWhat this course is NOT:\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eIt is NOT an introductory course\u003c/li\u003e\n\u003cli\u003eThis course is \u003cspan style=\"font-size: 12pt;\"\u003eNOT a course in Object Oriented Design\u003c/span\u003e\n\u003c/li\u003e\n\u003cli\u003eIt is NOT \u003cstrong\u003e\u003ci\u003ejust\u003c/i\u003e\u003c/strong\u003e a Java course\u003c/li\u003e\n\u003cli\u003eIt is NOT a thorough exploration of Java 8 features\u003c/li\u003e\n\u003cli\u003eIt is NOT a course in building Hadoop applications or managing Hadoop clusters\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003ca name=\"textbooks\"\u003e\u003c/a\u003eThere is no official course text book, only recommended books. You might even consider doing without a textbook and relying instead on the tutorials available from Oracle's website. They are excellent and comprehensive. Book Suggestions:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"font-size: large;\"\u003e\u003ca href=\"https://www.amazon.com/Core-Java-I-Fundamentals-10th/dp/0134177304\"\u003e Core Java Volume I--Fundamentals (10th Edition) (Core Series) 10th Edition\u003c/a\u003e by Cay Horstmann, ISBN-13: 978-0134177304 ISBN-10: 0134177304\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003e\n\u003ca href=\"https://www.amazon.com/Core-Java-II-Advanced-Features-10th/dp/0134177290/ref=pd_bxgy_14_2?_encoding=UTF8\u0026amp;pd_rd_i=0134177290\u0026amp;pd_rd_r=YKE1Y203PWNTTF7XTG1R\u0026amp;pd_rd_w=yA2i9\u0026amp;pd_rd_wg=99v0O\u0026amp;psc=1\u0026amp;refRID=YKE1Y203PWNTTF7XTG1R\"\u003e Core Java, Volume II--Advanced Features (10th Edition) (Core Series) 10th Edition\u003c/a\u003e by Cay Horstmann, ISBN-13: 978-0134177298 ISBN-10: 0134177290\u003c/li\u003e\n\u003cli\u003e\n\u003ca href=\"https://www.amazon.com/Java-Action-Lambdas-functional-style-programming/dp/1617291994/ref=sr_1_1?ie=UTF8\u0026amp;qid=1499710216\u0026amp;sr=8-1\u0026amp;keywords=java+8+in+action\"\u003eJava 8 in Action: Lamdas, Streams and Functional Programming\u003c/a\u003e by by Raoul-Gabriel Urma, Mario Fusco, Alan Mycroft. ISBN-13: 978-1617291999 ISBN-10: 1617291994\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eOracle tutorials\u003c/strong\u003e: \u003ca href=\"http://java.sun.com/docs/books/tutorial/index.html\"\u003eTutorial index\u003c/a\u003e, also \u003ca href=\"http://java.sun.com/docs/books/tutorial/reallybigindex.html\"\u003eThe Really Big Index\u003c/a\u003e These links are so useful that I have them bookmarked in my browser.\u003c/li\u003e\n\u003cli\u003eThe Java doc pages for Java. In the Java world there is a new form of programmer's reference manual which is made up of \"Java doc\" html pages for all the classes that comprise a given system. Java itself has such a web of pages describing all the classes that make up the standard Java libraries: \u003ca href=\"http://docs.oracle.com/javase/8/docs/api/\"\u003eJDK1.8 API's\u003c/a\u003e Bookmark this page, if you haven't already.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003eSoftware\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eThere is no specific requirement for software in this course. One needs a Java computing environment, of course, which means a version of the JDK (Java Developers Kit). The very latest version released by Oracle is Java SE 8u131 / 8u112, referred to as \u003cstrong\u003eJava SE 8\u003c/strong\u003e. You can download this version of Java here: \u003ca href=\"http://www.oracle.com/technetwork/java/javase/downloads/index.html\"\u003eJava SE Downloads\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 12pt;\"\u003e\u003cspan\u003e\u003cspan\u003eCommercial software projects typically involve teams of software engineers organized around software subsystems. The sheer volume of code becomes a challenge to manage and navigating between the files, especially across subsystems, becomes close to impossible without the help of an IDE (Integrated Development Environment). IDE's enable you to skip from file to file with just a mouse click. An IDE catches syntax errors as you type them and offers name completion with a keystroke. There are several IDE's wide use. Two products bear mention, one free, one for purchase:\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eA commericial IDE that has won the approval of advanced Java developers is \u003cstrong\u003eIntelliJ IDEA\u003c/strong\u003e from JetBrains. JetBrains has granted students taking this course a free, year-long license to the full-strength version. There is a free community version available online. [License info will be posted later.]\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eA free IDE that has become a standard is \u003cstrong\u003eEclipse\u003c/strong\u003e. It had a long period of development and several releases as a commercial product of IBM, then has became an open source application. Get it here: \u003ca href=\"http://www.eclipse.org/\"\u003ehttp://www.eclipse.org\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cspan style=\"font-size: 12pt;\"\u003eAlso worth mentioning is Oracle's \u003ca href=\"http://www.netbeans.org/\"\u003eNetBeans\u003c/a\u003e, which is bundled with the latest JDK.\u003c/span\u003e \u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eWhen you start learning Java your systems will be tiny and you can get by with just a text editor. My own personal favorite is a beautiful, beloved, venerable piece of software called \u003ca href=\"http://www.gnu.org/software/emacs/emacs.html\"\u003eemacs\u003c/a\u003e. Many older generation programmers use emacs rather than an IDE. Two advantages of emacs are its free cost and the fact that it can be found (or imported) everywhere.\u003c/p\u003e\n\u003cp\u003eThere are two reasons to write your first few homeworks using a plain text editor. (1) With a simple editor you and your code are always face to face, with no third party IDE between you and it. When you compile and build your programs from a command line, you may develop a better understanding of how the software works, without the magic of an IDE. And, (2) however straightforward and self explanatory an IDE is, you will need time to it get on your system, install it and learn how to use it.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eHow to Get a Headstart\u003c/strong\u003e There are two things one can do to be prepared: (1) establish your computing environment (purchase and install an IDE and test it out, or brush up on your emacs skills, if you are a confirmed hacker and are ready to write, compile and debug your code in emacs), and, (2) do the\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 12pt;\"\u003e\u003c/span\u003e\u003ca href=\"http://courses.dce.harvard.edu/~cscie55/hw0-fall2017.htm\"\u003e\"jump start\" homework (Homework #0)\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWho's Teaching This Course?\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eI retired from a 33-year career in the software profession in 2015, the last four years at Google. Here you'll find a summary of my \u003ca href=\"https://courses.dce.harvard.edu/~cscie55/life-in-software.html\"\u003eLife in Software\u003c/a\u003e. For personal details about me follow this link \u003ca href=\"http://courses.dce.harvard.edu/~cscie55/personal2017.html\"\u003e Personal\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eThe Teaching Fellows in this course come from leading companies in the software industry. If I were hiring a software team to write commercial products written in Java, these are precisely the people I would seek to hire.\u003c/p\u003e\n\u003chr\u003e\n\u003cp\u003e\u003cspan style=\"font-size: medium;\"\u003e\u003cstrong\u003eHarvard Extension School notices\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003ci\u003e The Extension School is committed to providing an accessible academic community. The Accessibility Office offers a variety of accommodations and services to students with documented disabilities. Please visit \u003ca href=\"https://www.extension.harvard.edu/resources-policies/resources/disability-services-accessibility\"\u003e Disability Services Accessibility\u003c/a\u003e for more information.\u003c/i\u003e\u003c/p\u003e\n\u003cp\u003eYou are responsible for understanding Harvard Extension School policies on academic integrity (\u003ca href=\"http://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity\"\u003e Academic Integrity\u003c/a\u003e) and how to use sources responsibly. Not knowing the rules, misunderstanding the rules, running out of time, submitting the wrong draft, or being overwhelmed with multiple demands are not acceptable excuses. There are no excuses for failure to uphold academic integrity. To support your learning about academic citation rules, please visit the Harvard Extension School \u003ca href=\"http://www.extension.harvard.edu/resources-policies/resources/tips-avoid-plagiarism\"\u003e Tips to Avoid Plagiarism\u003c/a\u003e , where you'll find links to the Harvard Guide to Using Sources and two free online 15-minute tutorials to test your knowledge of academic citation policy. The tutorials are anonymous open-learning tools.\u003c/p\u003e\n\u003chr\u003e\n\u003cp\u003e\u003cstrong\u003e© Charles Sawyer, 2017\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-family: 'courier new'; font-size: small;\"\u003e\u003cstrong\u003eecho '[q]sa[ln0=aln256%Pln256/snlbx]sb3135071790101768542287578439snlbxq' | dc\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cdiv class=\"content-box pad-box-micro border border-b border-t\" style=\"background-color: whitesmoke;\"\u003e\n\u003ch2 style=\"text-align: center;\"\u003e\u003ca class=\"icon-rubric-dark\" style=\"color: black; text-decoration: none;\"\u003e Course Information\u003c/a\u003e\u003c/h2\u003e\n\u003c/div\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cp\u003e \u003ciframe style=\"width: 100%; height: 200px;\" title=\"Course Info\" src=\"https://canvas-course-info.tlt.harvard.edu/course_info/widget.html?f=title\u0026amp;f=course.registrar_code_display\u0026amp;f=term.display_name\u0026amp;f=instructors_display\u0026amp;f=location\u0026amp;f=meeting_time\u0026amp;f=exam_group\u0026amp;f=description\u0026amp;f=notes\" width=\"300\" height=\"150\" allowfullscreen=\"allowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\"\u003e\u003c/iframe\u003e \u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003ctable style=\"width: 30%; float: right;\" cellspacing=\"10\" cellpadding=\"9\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"border-color: gray; background-color: whitesmoke;\"\u003e\n\u003ch2 style=\"text-align: center;\"\u003e\u003cspan style=\"color: #000000;\"\u003e\u003ca class=\"icon-user\" style=\"color: #000000;\" href=\"/courses/7955\" target=\"_blank\"\u003e\u003cspan style=\"font-size: 10pt;\"\u003eStudent Support Tips\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/h2\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"border-color: gray; background-color: whitesmoke;\"\u003e\n\u003ch2 style=\"text-align: center;\"\u003e\u003cspan style=\"color: #000000;\"\u003e\u003ca class=\"icon-educators\" style=\"color: #000000;\" href=\"/courses/4514\" target=\"_blank\"\u003e\u003cspan style=\"font-size: 10pt;\"\u003eInstructor Support Tips\u003c/span\u003e\u003c/a\u003e \u003c/span\u003e\u003c/h2\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp style=\"clear: both;\"\u003e \u003c/p\u003e","notices":[]};
+</script>
+
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/navigation_header.bundle-9669f80a51.js" defer="defer"></script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/4225508/global.min.js" defer="defer"></script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/3751539/EXPGlobal.js" defer="defer"></script>
+
+</div> <!-- #application -->
+</body>
+</html>

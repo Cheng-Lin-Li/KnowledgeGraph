@@ -1,0 +1,1355 @@
+
+
+<!DOCTYPE html>
+<html class="scripts-not-loaded" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Syllabus for Fundamentals of Academic Writing</title>
+  <!--[if lte IE 9]> <meta http-equiv=refresh content="0; URL=/ie-9-is-not-supported.html" /> <![endif]-->
+  <link rel="shortcut icon" type="image/x-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/favicon-e10d657a73.ico" />
+  <link rel="apple-touch-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/apple-touch-icon-585e5d997d.png" />
+  
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.css" />
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/common-de9877d2f0.css" />
+  <script>
+//<![CDATA[
+
+!function(){
+  var o,s,v;
+  if (!(window.Promise && Object.assign && Object.values && [].find && [].includes && (o={},s=Symbol(),v={},o[s]=v,o[s]===v) && (function f(){}).bind().name==='bound f')) {
+    s = 's', document.write('<'+s+'cr'+'ipt src="https://du11hjcvx0uqb.cloudfront.net/dist/ie11-polyfill-64b21f7f37.js"></'+s+'c'+'ript>');
+  }
+}();
+      
+//]]>
+</script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/lato-fontfaceobserver-11a14bc0b6.js" async="async"></script>
+  
+  <meta name="apple-itunes-app" content="app-id=480883488" />
+<link rel="manifest" href="/web-app-manifest/manifest.json" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#008EE2">
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/tinymce-29f8b0a23f.css" />
+<link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/syllabus-2f51f24f19.css" />
+  
+  <link rel="stylesheet" media="all" href="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/4225502/global.min.css" />
+  <script>
+    function _earlyClick(e){
+      var c = e.target
+      while (c && c.ownerDocument) {
+        if (c.getAttribute('href') == '#' || c.getAttribute('data-method')) {
+          e.preventDefault()
+          (_earlyClick.clicks = _earlyClick.clicks || []).push(c)
+          break
+        }
+        c = c.parentNode
+      }
+    }
+    document.addEventListener('click', _earlyClick)
+  </script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.js" defer="defer"></script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/vendor.bundle-2585fc489b.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/New_York-c3226761e3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/en_US-80a0ce259b.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/appBootstrap.bundle-43015c2be3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/common.bundle-07f53473d3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/syllabus.bundle-8eb56aaa04.js" defer="defer"></script>
+</head>
+
+<body class="with-left-side course-menu-expanded with-right-side syllabus primary-nav-expanded context-course_33131">
+
+<noscript>
+  <div role="alert" class="ic-flash-static ic-flash-error">
+    <div class="ic-flash__icon" aria-hidden="true">
+      <i class="icon-warning"></i>
+    </div>
+    <h1>You need to have JavaScript enabled in order to access this site.</h1>
+  </div>
+</noscript>
+
+
+
+
+
+<ul id="flash_message_holder"></ul>
+<div id="flash_screenreader_holder"></div>
+
+<div id="application" class="ic-app">
+  
+  <header id="header" class="ic-app-header no-print no-user">
+    <a href="#content" id="skip_navigation_link">Skip To Content</a>
+      <div role="region" class="ic-app-header__main-navigation" aria-label="Main Navigation">
+        <div class="ic-app-header__logomark-container">
+          <a href="https://canvas.harvard.edu/" class="ic-app-header__logomark">
+            <span class="screenreader-only">Dashboard</span>
+          </a>
+        </div>
+        <ul id="menu" class="ic-app-header__menu-list">
+            <li class="menu-item ic-app-header__menu-list-item">
+              <a id="global_nav_login_link" href="/login" class="ic-app-header__menu-list-link">
+                <div class="menu-item-icon-container" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--login" version="1.1" x="0" y="0" viewBox="241 -241 512 512" enable-background="new 241 -241 512 512" xml:space="preserve"><path d="M743.9 5.9l-35.7-35.7H492.9c-6.5-16.2-17.3-32-31.7-46.4 -50.4-50.4-132-50.4-182.4 0s-50.4 132.1 0 182.5 132 50.4 182.4 0c11.8-11.8 20.6-25.9 27-41.8H547L570.6 88l22.8-22.8L616.2 88 639 65.2 661.8 88l24.1-24.1 15.6-1.5 4.6-0.5L753 15 743.9 5.9 743.9 5.9zM694.4 37.1l-15.6 1.5 -4.6 0.5 -12.4 12.4 -12.9-12.9h-19.8l-12.9 12.9 -12.9-12.9h-19.8l-12.9 12.9 -12.9-12.9h-87.6l-2.9 8.8c-5.3 16-13.2 29.5-24.2 40.6 -40.3 40.3-105.6 40.3-145.9 0s-40.3-105.7 0-146 105.6-40.3 145.9 0c14.3 14.3 24.4 29.8 28.6 44.6l2.7 9.4h223.3l19 19L694.4 37.1 694.4 37.1zM322.3-16.2c-17.5 17.5-17.5 46 0 63.5 17.5 17.5 46 17.5 63.5 0 17.5-17.5 17.5-46 0-63.5C368.2-33.8 339.8-33.8 322.3-16.2L322.3-16.2zM367.6 29.1c-7.5 7.5-19.7 7.5-27.2 0 -7.5-7.5-7.5-19.7 0-27.2s19.7-7.5 27.2 0S375.2 21.6 367.6 29.1L367.6 29.1z"/></svg>
+
+                </div>
+                <div class="menu-item__text">
+                  Login
+                </div>
+              </a>
+            </li>
+          <li class="ic-app-header__menu-list-item ">
+            <a id="global_nav_dashboard_link" href="https://canvas.harvard.edu/" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--dashboard" version="1.1" x="0" y="0" viewBox="0 0 280 200" enable-background="new 0 0 280 200" xml:space="preserve"><path d="M273.09,180.75H197.47V164.47h62.62A122.16,122.16,0,1,0,17.85,142a124,124,0,0,0,2,22.51H90.18v16.29H6.89l-1.5-6.22A138.51,138.51,0,0,1,1.57,142C1.57,65.64,63.67,3.53,140,3.53S278.43,65.64,278.43,142a137.67,137.67,0,0,1-3.84,32.57ZM66.49,87.63,50.24,71.38,61.75,59.86,78,76.12Zm147,0L202,76.12l16.25-16.25,11.51,11.51ZM131.85,53.82v-23h16.29v23Zm15.63,142.3a31.71,31.71,0,0,1-28-16.81c-6.4-12.08-15.73-72.29-17.54-84.25a8.15,8.15,0,0,1,13.58-7.2c8.88,8.21,53.48,49.72,59.88,61.81a31.61,31.61,0,0,1-27.9,46.45ZM121.81,116.2c4.17,24.56,9.23,50.21,12,55.49A15.35,15.35,0,1,0,161,157.3C158.18,152,139.79,133.44,121.81,116.2Z" /></svg>
+
+              </div>
+              <div class="menu-item__text">Dashboard</div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ic-app-header__menu-list-item--active">
+            <a id="global_nav_courses_link" href="/courses" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--courses" version="1.1" x="0" y="0" viewBox="0 0 280 259" enable-background="new 0 0 280 259" xml:space="preserve"><path d="M73.31,198c-11.93,0-22.22,8-24,18.73a26.67,26.67,0,0,0-.3,3.63v.3a22,22,0,0,0,5.44,14.65,22.47,22.47,0,0,0,17.22,8H200V228.19h-134V213.08H200V198Zm21-105.74h90.64V62H94.3ZM79.19,107.34V46.92H200v60.42Zm7.55,30.21V122.45H192.49v15.11ZM71.65,16.71A22.72,22.72,0,0,0,49,39.36V190.88a41.12,41.12,0,0,1,24.32-8h157V16.71ZM33.88,39.36A37.78,37.78,0,0,1,71.65,1.6H245.36V198H215.15v45.32h22.66V258.4H71.65a37.85,37.85,0,0,1-37.76-37.76Z"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Courses
+              </div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_calendar_link" href="/calendar" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--calendar" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M197.07,213.38h16.31V197.07H197.07Zm-16.31,16.31V180.76h48.92v48.92Zm-48.92-16.31h16.31V197.07H131.85Zm-16.31,16.31V180.76h48.92v48.92ZM66.62,213.38H82.93V197.07H66.62ZM50.32,229.68V180.76H99.24v48.92Zm146.75-81.53h16.31V131.85H197.07Zm-16.31,16.31V115.54h48.92v48.92Zm-48.92-16.31h16.31V131.85H131.85Zm-16.31,16.31V115.54h48.92v48.92ZM66.62,148.15H82.93V131.85H66.62ZM50.32,164.46V115.54H99.24v48.92ZM34,262.29H246V82.93H34ZM246,66.62V42.16A8.17,8.17,0,0,0,237.84,34H213.38v8.15a8.15,8.15,0,1,1-16.31,0V34H82.93v8.15a8.15,8.15,0,0,1-16.31,0V34H42.16A8.17,8.17,0,0,0,34,42.16V66.62Zm-8.15-48.92a24.49,24.49,0,0,1,24.46,24.46V278.6H17.71V42.16A24.49,24.49,0,0,1,42.16,17.71H66.62V9.55a8.15,8.15,0,0,1,16.31,0v8.15H197.07V9.55a8.15,8.15,0,1,1,16.31,0v8.15Z"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Calendar
+              </div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_conversations_link" href="/conversations" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--inbox" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M91.72,120.75h96.56V104.65H91.72Zm0,48.28h80.47V152.94H91.72Zm0-96.56h80.47V56.37H91.72Zm160.94,34.88H228.52V10.78h-177v96.56H27.34A24.17,24.17,0,0,0,3.2,131.48V244.14a24.17,24.17,0,0,0,24.14,24.14H252.66a24.17,24.17,0,0,0,24.14-24.14V131.48A24.17,24.17,0,0,0,252.66,107.34Zm0,16.09a8.06,8.06,0,0,1,8,8v51.77l-32.19,19.31V123.44ZM67.58,203.91v-177H212.42v177ZM27.34,123.44H51.48v79.13L19.29,183.26V131.48A8.06,8.06,0,0,1,27.34,123.44ZM252.66,252.19H27.34a8.06,8.06,0,0,1-8-8V202l30,18H230.75l30-18v42.12A8.06,8.06,0,0,1,252.66,252.19Z"/></svg>
+
+                <span class="menu-item__badge" style="display: none">0</span>
+              </div>
+              <div class="menu-item__text">
+                Inbox
+              </div>
+            </a>
+          </li>
+          <li class="ic-app-header__menu-list-item">
+           <a id="global_nav_help_link" class="ic-app-header__menu-list-link" data-track-category="help system" data-track-label="help button" href="http://help.instructure.com/">
+              <div class="menu-item-icon-container" role="presentation">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg menu-item__icon svg-icon-help" version="1.1" x="0" y="0" viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve" fill="currentColor"><path d="M100,127.88A11.15,11.15,0,1,0,111.16,139,11.16,11.16,0,0,0,100,127.88Zm8.82-88.08a33.19,33.19,0,0,1,23.5,23.5,33.54,33.54,0,0,1-24,41.23,3.4,3.4,0,0,0-2.74,3.15v9.06H94.42v-9.06a14.57,14.57,0,0,1,11.13-14,22.43,22.43,0,0,0,13.66-10.27,22.73,22.73,0,0,0,2.31-17.37A21.92,21.92,0,0,0,106,50.59a22.67,22.67,0,0,0-19.68,3.88,22.18,22.18,0,0,0-8.65,17.64H66.54a33.25,33.25,0,0,1,13-26.47A33.72,33.72,0,0,1,108.82,39.8ZM100,5.2A94.8,94.8,0,1,0,194.8,100,94.91,94.91,0,0,0,100,5.2m0,178.45A83.65,83.65,0,1,1,183.65,100,83.73,83.73,0,0,1,100,183.65" transform="translate(-5.2 -5.2)"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Help
+              </div>
+</a>          </li>
+        </ul>
+      </div>
+      <div class="ic-app-header__secondary-navigation">
+        <ul class="ic-app-header__menu-list">
+          <li class="menu-item ic-app-header__menu-list-item">
+            <button
+              id="primaryNavToggle"
+              class="ic-app-header__menu-list-link ic-app-header__menu-list-link--nav-toggle"
+              aria-label="
+                Minimize global navigation"
+              title="
+                Minimize global navigation"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--navtoggle" version="1.1" x="0" y="0" width="40" height="32" viewBox="0 0 40 32" xml:space="preserve">
+  <path d="M39.5,30.28V2.48H37.18v27.8Zm-4.93-13.9L22.17,4,20.53,5.61l9.61,9.61H.5v2.31H30.14l-9.61,9.61,1.64,1.64Z"/>
+</svg>
+
+            </button>
+          </li>
+        </ul>
+      </div>
+    <div id="global_nav_tray_container"></div>
+  </header>
+
+
+  <div id="instructure_ajax_error_box">
+    <div style="text-align: right; background-color: #fff;"><a href="#" class="close_instructure_ajax_error_box_link">Close</a></div>
+    <iframe id="instructure_ajax_error_result" src="about:blank" style="border: 0;" title="Error"></iframe>
+  </div>
+
+  
+
+  <div id="wrapper" class="ic-Layout-wrapper">
+      <div class="ic-app-nav-toggle-and-crumbs no-print">
+          <button type="button" id="courseMenuToggle" class="Button Button--link ic-app-course-nav-toggle" aria-live="polite" aria-label="Hide Courses Navigation Menu" title="Hide Courses Navigation Menu">
+            <i class="icon-hamburger" aria-hidden="true"></i>
+          </button>
+          <div class="ic-app-crumbs">
+        <nav id="breadcrumbs" role="navigation" aria-label="breadcrumbs"><ul><li class="home"><a href="/"><span class="ellipsible">      <i class="icon-home"
+         title="My Dashboard">
+        <span class="screenreader-only">My Dashboard</span>
+      </i>
+</span></a></li><li><span class="ellipsible">EXPO E-15 Section 2 (15228)</span></li><li><span class="ellipsible">Syllabus</span></li></ul></nav>
+        </div>
+      </div>
+    <div id="main" class="ic-Layout-columns">
+        <div class="ic-Layout-watermark"></div>
+        <div id="left-side"
+          class="ic-app-course-menu list-view"
+          style="display: block"
+          >
+              <span id="section-tabs-header-subtitle" class="ellipsis">2017-2018 Fall</span>
+            <nav role="navigation" aria-label="Courses Navigation Menu"><ul id="section-tabs"><li class="section"><a href="/courses/33131/assignments/syllabus" title="Syllabus" class="syllabus active">Syllabus</a></li><li class="section"><a href="/courses/33131/external_tools/26220" title="Web Conference Sessions" class="context_external_tool_26220">Web Conference Sessions</a></li><li class="section"><a href="/courses/33131/external_tools/13815" title="Student Resources" class="context_external_tool_13815">Student Resources</a></li></ul></nav>
+        </div>
+      <div id="not_right_side" class="ic-app-main-content">
+        <div id="content-wrapper" class="ic-Layout-contentWrapper">
+            
+
+          <div id="content" class="ic-Layout-contentMain" role="main">
+            
+
+
+
+<div class="ic-Action-header">
+  <div class="ic-Action-header__Primary">
+    <h1 class="ic-Action-header__Heading">Course Syllabus</h1>
+  </div>
+  <div class="ic-Action-header__Secondary">
+    <a href="#" class="jump_to_today_link">Jump to Today</a>
+  </div>
+</div>
+
+<div id="course_syllabus" style="margin-bottom: 10px;" class="user_content">
+  <p><img style="width: 100%;" src="/courses/33131/files/4157104/preview?verifier=1DzbQmVlc3cWmazsaEK8XJd4V7gdNwss6JC7mwLM" alt="Marquee image: Harvard Extension School shield on decorative paper" data-api-endpoint="https://canvas.harvard.edu/api/v1$IMS-CC-FILEBASE$/Template%20images/PaperShieldBanner.png?canvas_download=1&amp;canvas_qs_verifier=KBdi7qbAsL1oyUp6f839HnhJ3DhpxlrUFFSzkluL" data-api-returntype="File"></p>
+<table class="ic-Table" style="width: 100%;">
+<tbody>
+<tr style="text-align: center;">
+<td>
+<div class="content-box pad-box-micro border border-b border-t" style="background-color: whitesmoke;">
+<h2 style="text-align: center;"><a class="icon-syllabus" style="color: black; text-decoration: none;"> Syllabus</a></h2>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;"><span style="color: #0000ff;"><strong>EXPO E-15</strong> <strong>Section 7</strong> <strong>CRN15228</strong></span></p>
+<p style="text-align: center;"><span style="color: #0000ff;"><strong>FUNDAMENTALS OF ACADEMIC WRITING</strong></span></p>
+<p style="text-align: center;"><span style="color: #0000ff;"><span style="font-weight: 400;">Christina Grenier                                                                              </span> <span style="font-weight: 400;">        </span> Fall<span style="font-weight: 400;"> 2017</span></span></p>
+<p style="text-align: center;"><span style="color: #0000ff;"><span style="font-weight: 400;">cgrenier@fas.harvard.edu                                                            </span> <span style="font-weight: 400;">        </span> <span style="font-weight: 400;">Mondays 7:20-9:20</span></span></p>
+<p style="text-align: center;"><span style="color: #0000ff;"><strong>https://canvas.harvard.edu/courses/33131</strong></span></p>
+<br><br>
+<p><strong>Course Overview  </strong></p>
+<p><span style="font-weight: 400;">This course is designed for students seeking preparation for EXPO E-25, </span><i><span style="font-weight: 400;">Introduction to Academic Writing and Critical Reading,</span></i><span style="font-weight: 400;"> and for students who wish to review such basics of academic argument as thesis, evidence, and structure. You’ll do short writing assignments that will help you develop the skills essential for producing persuasive academic essays. You’ll also learn strategies for reading and analyzing complex texts.</span></p>
+<p><span style="font-weight: 400;">In this course, you’ll learn how to develop your ideas and how to convince readers that your ideas matter. To this end, we’ll emphasize writing as an act of self-discovery, as an act of critical thinking, and as an act of communicating with an audience. Good essays don’t appear spontaneously. They emerge, usually, from many time-consuming drafts:  with each draft, the writer moves closer to what she or he wants to say. The willingness to revise may be the greatest difference between a confident writer and an insecure one. In fact, confident writers realize that the first draft or two is always more like a conversation they have with themselves than it is a communication with readers. After reflecting on their ideas through successive drafts, writers can then turn to the art of writing for an audience, anticipating and shaping readers’ responses to the essay’s ideas. So, throughout the semester, we’ll learn strategies for turning writer-based prose into reader-based prose—strategies, that is, for revising drafts to produce essays that readers will find clear and persuasive.</span></p>
+<p><span style="font-weight: 400;">To write clear and persuasive academic essays, it’s necessary to keep readers’ expectations in mind. An essay has to state exactly what idea it’s going to test and why readers should care about that idea. An essay needs to prove the idea to readers by supporting it with carefully reasoned claims that are substantiated by ample evidence that’s presented in an organized fashion. An essay must anticipate and refute readers’ objections to the argument to prevent readers from summarily dismissing the idea. And an essay must express its ideas in clear, lively, and graceful prose.</span></p>
+<p><span style="font-weight: 400;">We’ll see these characteristics in many of the assigned readings for the course. By learning how to interpret the strategies, claims, evidence, assumptions, language, and tone that authors deploy in these readings, you’ll find material for writing your own essays as well as examples of compelling academic writing.</span></p>
+<p><strong>COURSE POLICIES AND REQUIREMENTS</strong></p>
+<p><strong>Required Texts</strong></p>
+<p><span style="font-weight: 400;">Barnet, Sylvan, Pat Bellanca and Marcia Stubbs. </span><i><span style="font-weight: 400;">A Short Guide to College Writing</span></i><span style="font-weight: 400;">. 5th ed., Pearson, 2014.</span></p>
+<p><span style="font-weight: 400;">Barnet, Sylvan and William E. Cain. <em>A Short Guide to Writing About Literature. </em>12th ed., Pearson, 2011.</span></p>
+<p><span style="font-weight: 400;"><span>The assigned readings and the reading schedule can be found in this syllabus and in the Assignments page on our Canvas site. Before the semester begins, make sure you have <a href="https://get.adobe.com/reader/">Adobe</a> or some other software that allows you to read PDFs since all but the excepted text below we will be reading this semester will be provided to you in this form at the course's Canvas site. </span></span></p>
+<p><strong>Writing Assignments</strong></p>
+<p><span style="font-weight: 400;">You’ll write two (4- to 5-page) essays. The first essay will ask you to take a stand on an educational issue; the second will be a close reading of a short story. We’ll break down each essay into steps; to prepare a draft, you’ll complete and hand in brief “pre-draft” assignments that ask you to brainstorm ideas and flesh out important parts of your argument. You’ll submit at least one draft and a revision for each essay assignment. To get the most you can out of the course, you need to make each draft a complete, full-length essay (that is, a piece of writing with a beginning, a middle, and an end) with a controlling idea, organization, and supporting evidence. You’ll receive feedback on your draft from your peers and me, and, after substantial re-working of that draft, you’ll submit a revision.</span></p>
+<p><strong>Online course overview: Seminar Format, Participation, Workshops and Completion of Work</strong></p>
+<p><span style="font-weight: 400;">Harvard Extension School’s website contains an overview of online courses on the following link –</span><a href="https://www.extension.harvard.edu/academics/courses/types-courses"> <span style="font-weight: 400;">https://www.extension.harvard.edu/academics/courses/types-courses</span></a><span style="font-weight: 400;">.</span></p>
+<p><span style="font-weight: 400;">Because this class is taught in a participatory seminar format, there will be no lecture videos, rather recordings of each class will be available to registered students. Before registering and attending our first class, students are expected to be familiar with Harvard Extension School’s distance education policies (see</span><a href="https://www.extension.harvard.edu/academics/courses/types-courses/web-conference-course-guidelines"> <span style="font-weight: 400;">https://www.extension.harvard.edu/academics/courses/types-courses/web-conference-course-guidelines</span></a><span style="font-weight: 400;">).</span></p>
+<p><strong>Most importantly, registered students must be familiar with Zoom before our first class; you must also have a headset with a microphone so that you can participate in class discussions. Harvard Extension School has provided the following website to walk students through technical set-up and navigation of Zoom:</strong><a href="https://support.zoom.us/hc/en-us/categories/200101697-Getting-Started"> <strong>https://support.zoom.us/hc/en-us/categories/200101697-Getting-Started</strong></a><strong>.</strong></p>
+<p><span style="font-weight: 400;">This is a seminar class in which everyone’s active participation is not only encouraged, but expected. I hope that even if you are generally reserved, you will make an effort to participate in discussions and our website blogs. Sharing ideas—especially those you may feel tentative about—is a mark of intellectual generosity.</span></p>
+<p><span style="font-weight: 400;">Over the course of the semester, everyone’s writing will be workshopped in class. You will also be responding regularly, in writing, to each other’s work. Since most writers—whether they are neophytes or professionals—struggle with the same sorts of problems, you will find the workshops and peer review exercises pertinent to your own work, even while you examine that of your classmates. Indeed, responding to your peers’ work will help you become a sharper critic of your own writing.</span></p>
+<p><span style="font-weight: 400;">Writing courses at Harvard are rigorous and move along at a quick and steady pace. This means that we must make the most of the time we have together each week. </span><strong>Class begins at 7:20</strong><span style="font-weight: 400;">; you may logon as early as 6:50. You are expected to be logged on and to be fully prepared to participate when class begins—that is, to have read and thought about whatever readings were assigned and to have the required writing with you (including copies for your peer review group, if necessary.)  Although I am sympathetic to the exigencies of your hectic schedules and many deadlines, lateness of any sort—in joining class or turning in work—will be penalized. Such lateness is extremely disruptive to our schedule and discussions, and is unfair to the other students who do login, participate and hand their work in, on time. Please note that excuses related to computer or printer failure, collapse, theft, damage (or any other mishap) won’t be accepted. Be sure your technology is in good working order, that you keep your work backed up and have extra hard copies, and that you know where you can turn for help should any of the aforementioned tragedies befall you. </span><strong>All assignments must be submitted into our Canvas site by midnight—12 am EST—on the assignment’s due date—no late assignments are accepted, unless I tell you otherwise.</strong></p>
+<p><span style="font-weight: 400;">Despite being an online course, student attendance and participation is required and essential. If you are absent from class without valid excuse more than twice, you risk being excluded from and failing the course. A student who is regularly late by even a few minutes can expect to see his or her final grade suffer as a result. </span><strong>Any student who is more than 15 minutes late in joining class will be counted as absent. A missed conference appointment (see below) also counts as an absence from class</strong><span style="font-weight: 400;">. If you must miss a class, please notify me by email in advance, and consult your email for class recordings and any missed materials. Before each essay is due, you are also responsible for scheduling a conference with me during mutually convenient times. These conferences will be devoted (1) to discussing how to revise your essay to make it express more effectively what you want the essay to say and (2) to setting goals for the assignments to come. Please prepare for these conferences by rereading your draft and making some notes for yourself regarding the possible ways you might go about revising.</span></p>
+<p> </p>
+<p><strong>The process</strong></p>
+<p><u>Reading:</u></p>
+<p>At the beginning of each unit, we will read and discuss a variety of texts. All reading must be completed by the assigned class session. The readings and the reading schedule can be found in this syllabus and in the Assignments page on the Canvas site. Before the semester begins, make sure you have Adobe or some other software that allows you to read PDFs since all but the excepted text below we will be reading this semester will be provided to you in this form at the course's Canvas site. </p>
+<p>We will discuss reading strategies throughout the semester, but as an initial point I would suggest that you either print out and mark up copies of the readings or use software that allows you to make and save on-screen notes and comments. Being an active reader is essential to becoming a good writer.</p>
+<p><strong><em>Please</em></strong><span> </span><strong><em>note:</em></strong><span> </span><strong><em>For</em></strong><span> </span><strong><em>the</em></strong><span> </span><strong><em>essays and all other class materials we will be writing, you are<span> </span><u>not<span> </span></u>to consult any sources other than those provided by me (unless I specifically direct you to do so).<span> </span></em></strong>Consulting outside sources – even just a quick Google search to “generate” ideas – could potentially constitute plagiarism (see the policy on Academic Honesty, below).</p>
+<p><u>Response papers, discussion posts, and short writing:</u></p>
+<p>For each unit, you will produce several short writings that respond to a particular question about the reading, that focus on a particular writing skill, or that help jumpstart your thinking for the unit essay. We will sometimes (but not always) revise and resubmit these assignments. These assignments will be graded. They will be graded with the idea in mind that they are exploratory writings (i.e., they are not always going to be fully developed and finalized),<span> </span><em>but<span> </span></em>also with the idea in mind that they are assignments that should be taken seriously.</p>
+<p><u>Drafts:</u></p>
+<p>After reading and responding to the materials, you will submit a draft of the unit essay. The draft must be substantial – that is, it need not be full-length, but it must show engagement and effort. Drafts are not graded, but I will provide extensive commentary, questions, and suggestions before returning them to you. Though at an early stage of the writing process, your drafts nonetheless should be polished technically: i.e., grammar, format, and citation should all be correct. You will attach to your draft a “cover letter” in which you discuss the strengths and weaknesses of your draft, as well as answer certain specific questions I will provide you.</p>
+<p><u>Peer Review Draft workshop:</u></p>
+<p>For each unit, we will spend at least one class period “workshopping” your drafts. In addition to receiving commentary and suggestion from your classmates on your own work, you will be expected to provide helpful and thorough commentary and suggestion on your classmates’ work. Procedural details for each workshop will be provided at the appropriate times. We do workshops because one of the best ways to learn to analyze your own writing is through articulating (and hearing articulated) analysis of another’s.</p>
+<p><u>Revision:</u></p>
+<p>After analyzing and rethinking your work through comments and workshops, you will revise your draft before submitting it for a grade. Revisions are usually extensive – that is, you should expect (and plan) to rethink and rewrite much of your essay between the draft and revision, and not just fix a few typos or proofreading errors. The revising process is crucial to improving as a writer and thus should be taken seriously. Like all writers at all levels of experience and expertise, you should plan on spending a lot of time revising.</p>
+<p> </p>
+<p><strong>Deadlines</strong></p>
+<p>As a writing-intensive class, this course runs on an especially tight schedule. You will have  substantial writing assignments to complete each week, and so falling behind can be particularly dangerous. Nonetheless, in the interest of fairness, late work will be penalized (typically at the rate of one-third of a letter grade per day late –<span> </span><em>not per class meeting late</em>). If you see that you will be unable to meet a deadline, notify me in advance.</p>
+<p> </p>
+<p><strong>Submitting essays</strong></p>
+<p>For this course, we will be using MLA style for citations and format, so be sure to familiarize yourself with it. Start by spending time here:<span> </span><strong>«</strong><a href="http://usingsources.fas.harvard.edu/icb/icb.do"><strong>http://usingsources.fas.harvard.edu/icb/icb.do</strong></a><strong>»</strong>( We’ll talk about the Guide more in class.) In addition, you<span> </span><u>must</u><span> </span>adhere to the following guidelines:</p>
+<ul>
+<li><span>Use only 12 point Times New Roman font, double-spaced.</span></li>
+<li>Use 1” right, left, top, and bottom margins. Left justify only. Do<span> </span><u>not<span> </span></u>add extra spaces between paragraphs.</li>
+<li>On the first page only, write the following information in the<span> </span><strong>upper</strong><strong><span> </span>left hand corner</strong>:</li>
+<ul>
+<li>Your name</li>
+<li>Expo E-15 Essay #, Draft/Revision</li>
+<li>Date</li>
+</ul>
+<li><span>Number each page (including the first) in the upper right hand corner; the page number should be preceded by your Last Name</span></li>
+</ul>
+<p> </p>
+<p><strong>Grades</strong></p>
+<p>Final grades will be determined according to the scale below. Please note that as the semester progresses, assignments will be graded with increasing rigor. In other words, as we learn more about writing and develop as writers, I will be holding you to higher standards: what may be forgiven in the first response paper or essay will not be forgiven in the second (this applies especially to the technical matters of citation). Note also that you will get grades on<span> </span><em>revisions only<span> </span></em>(i.e., drafts are required but not graded). Grades on revisions are final; you may not revise a revision for another grade.</p>
+<p>We will discuss grades and the grading process in class, but please note that grades for this class should not be thought of in the same way that they might be in other classes. Writing is a process of thoughtful articulation and revision – there is never a single “correct” essay against which your essay will be graded. Instead, essays will be better or worse in how they accomplish particular goals and purposes; essay grades will reflect this rather than a pre-established standard.</p>
+<p>Unit Essay 1: 35%</p>
+<p>Unit Essay 2: 45%</p>
+<p>Response Papers and other writing assignments: 20%</p>
+<p> </p>
+<p><strong>Writing Program policy on work completion</strong></p>
+<p>Because this course is a planned sequence of writing, it is an official program-wide policy that you must write all of the assigned essays to pass the course, and you must write them within the schedule of the course<span> </span><em>in order<span> </span></em>(i.e., not all at once in the last few days of the semester after you have fallen behind). If you fail to submit at least a substantial draft of an essay by the end of that essay’s unit (unless you have documented a medical problem), you are eligible to be officially excluded from the course and failed.</p>
+<p> </p>
+<p><strong>Writing Program policy on attendance</strong></p>
+<p>Because instruction in E15 proceeds by sequential writing activities, your consistent attendance is essential. It is an official program-wide policy that if you are absent without medical or religious excuse more than twice, you are eligible to be officially excluded from the course and failed. On your second unexcused absence, you will receive a warning of your status in regard to that policy. Apart from religious holidays, only medical absences can be excused. Absences because of special events, such as athletic meets, debates, conferences, and concerts are not excusable absences.</p>
+<p> </p>
+<p><strong>Academic Honesty</strong></p>
+<p>From the Extension School (<a href="http://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity">http://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity</a>):</p>
+<p>Plagiarism is the theft of someone else’s ideas and work. It is the incorporation of facts, ideas, or specific language that are not common knowledge, are taken from another source, and are not properly cited.</p>
+<p>Whether a student copies verbatim or simply rephrases the ideas of another without properly acknowledging the source, the theft is the same. A computer program written as part of the student’s academic work is, like a paper, expected to be the student’s original work and subject to the same standards of representation. In the preparation of work submitted to meet course, program, or school requirements, whether a draft or a final version of a paper, project, take-home exam, computer program, placement exam, application essay, oral presentation, or other work, students must take great care to distinguish their own ideas and language from information derived from sources. Sources include published and unpublished primary and secondary materials, the Internet, and information and opinions of other people.</p>
+<p>Whenever ideas or facts are derived from a student’s reading or research, the sources must be properly cited.</p>
+<p>You are responsible for understanding Harvard Extension School policies on academic integrity (<a href="http://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity">http://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity</a>) and how to use sources responsibly.</p>
+<p>Not knowing the rules, misunderstanding the rules, running out of time, submitting the wrong draft, or being overwhelmed with multiple demands are not acceptable excuses. There are no excuses for failure to uphold academic integrity. To support your learning about academic citation rules, please visit the Harvard Extension School Tips to Avoid Plagiarism (<a href="https://fasmail.harvard.edu/OWA/redir.aspx?C=N8K4vnMWDkqDSdLRax09ahanCye5FtMIKq-9efMeedTQuj1IqrSmgObw8qfQx1_RtYbS_9lrzPs.&amp;URL=http%3a%2f%2fwww.extension.harvard.edu%2fresources-policies%2fresources%2ftips-avoid-plagiarism">www.extension.harvard.edu/resources-policies/resources/tips-avoid-plagiarism</a>), where you'll find links to the Harvard Guide to Using Sources and two free online 15-minute tutorials to test your knowledge of academic citation policy. The tutorials are anonymous open-learning tools.</p>
+<p> </p>
+<p><strong>Disability Services</strong></p>
+<p>The Extension School is committed to providing an accessible academic community. The Accessibility Office offers a variety of accommodations and services to students with documented disabilities. Please visit<span> </span><a href="https://fasmail.harvard.edu/OWA/redir.aspx?C=N8K4vnMWDkqDSdLRax09ahanCye5FtMIKq-9efMeedTQuj1IqrSmgObw8qfQx1_RtYbS_9lrzPs.&amp;URL=http%3a%2f%2fwww.extension.harvard.edu%2fresources-policies%2fresources%2fdisability-services-accessibility">www.extension.harvard.edu/resources-policies/resources/disability-services-accessibility</a><span> </span>for more information.<span> </span></p>
+<p> </p>
+<p><strong>Writing Center</strong></p>
+<p><span style="font-weight: 400;">Be sure to take advantage of the resources available to you through the Extension School’s Writing Center in Grossman Library. Students who are enrolled in online courses may schedule appointments up to one week in advance, but are limited to two tutorials per week totaling no more than 7 tutorials per semester. To request a tutorial, send an email detailing the course you are enrolled in, an explanation of the assignment and due date to writing_center@dcemail.harvard.edu. </span><strong>Be sure to attach your assignment as a Word (.doc or .docx) or PDF (.pdf) file</strong><span style="font-weight: 400;"> and as always when seeking detailed feedback, ask specific questions and explain your concerns about your writing. You should receive a response within 72 hours. If you are a local student, the Writing Center asks that you come for an in-person tutorial. For more detailed explanation, see the Writing Center link on the Harvard Extension School website</span><a href="https://www.extension.harvard.edu/resources-policies/resources/writing-center"><span style="font-weight: 400;"> https://www.extension.harvard.edu/resources-policies/resources/writing-center</span></a><span style="font-weight: 400;">. </span></p>
+<p> </p>
+<p><strong>Contacting me</strong></p>
+<p>If you have a general question whose answer might benefit your classmates, please use our Canvas Discussions page. For specific questions, email is the best way to contact me, but please note that I cannot guarantee that I will be able to respond the same night to emails received after 8pm, though I will always try my best to respond within 24 hours. In the interest of fairness, however, I cannot respond to or comment on whole “intermediate” drafts (i.e., a second or third draft of a unit essay). I am always happy to answer<span> </span><em>specific questions</em>. “Is this a good thesis?” or “How can I improve my introductory paragraph?” are<span> </span><em>not<span> </span></em>specific questions; “Would it be clearer if I said<span> </span><em>x<span> </span></em>instead of<span> </span><em>y</em>?” or “I am worried about the connections between paragraphs 4 and 5”<span> </span><em>are</em><span> </span>specific questions. Emailers who include an attempt to answer their own questions are most commendable.</p>
+<p><strong> </strong></p>
+<p style="text-align: center;"><strong>UNIT 1: The Persuasive Essay:  Taking a Stand on an Educational Issue</strong></p>
+<p><span style="font-weight: 400;">Academic writers in the social sciences and the humanities make a living in great part from staking out a position on various issues. Entering into debates that mark their fields and public discourse, they clarify, refute, complicate, or elaborate on arguments that other writers have made; often they advance ideas that spawn new debates. This work also offers the personal satisfaction that comes from voicing ideas so rigorously and thoughtfully that their colleagues and the educated public take those ideas seriously. To convince their audience that their position on an issue is valid, writers take pains to define the reason for discussing an issue (</span><i><span style="font-weight: 400;">motive</span></i><span style="font-weight: 400;">), to express a compelling—not obvious, not frivolous—idea succinctly and precisely (</span><i><span style="font-weight: 400;">thesis</span></i><span style="font-weight: 400;">), and to develop that idea with analytical claims, evidence, and attention to objections that an opponent might make to their idea (</span><i><span style="font-weight: 400;">counterargument</span></i><span style="font-weight: 400;">).</span></p>
+<p><strong>Unit 1 Assignments</strong></p>
+<p><span style="font-weight: 400;">To become familiar with such tools and experiences of academic writing, in your first essay you will take a stand on an educational issue. To help you define your position, you’ll investigate the ideas in each week’s additional assigned readings.</span></p>
+<p><span style="font-weight: 400;">After reading the additional essays, you’ll choose one text and focus on a significant aspect of its argument about education that you find problematical. This is perhaps the most difficult challenge of the assignment, yet the ability to shape a compelling question from your reading—a question that can drive an argumentative essay—is absolutely central to effective academic writing. Writing Exercises 1.1 through 1.3 will help you toward that goal.</span></p>
+<p><span style="font-weight: 400;">To craft an effective essay, then, you’ll need to define the problem that you see in your selected essay’s argument, thus showing your readers your motive for writing your essay, for staking out your position. You’ll need to express your essay’s arguable assertion—your stand, or idea, or thesis—on that problem and to persuade your readers that your stand is valid by using evidence from your text (and possibly from other assigned readings) and from your experience. To strengthen your argument, you’ll also need to anticipate any objections that your readers might raise to your idea.</span></p>
+<p style="text-align: center;"><strong>Unit 1 Class Schedule</strong></p>
+<p><strong>Week 1 Aug. 28 – Introduction; Observation vs. Analytical Claim</strong></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Introductions</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Syllabus and course overview</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Writing Sample</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">In class exercise – Observation vs. Analytical Claim</span></li>
+</ul>
+<p><span style="font-weight: 400;">For next week:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Read Chapters 1 &amp; 2 in </span><i><span style="font-weight: 400;">A Short Guide to College Writing </span></i><span style="font-weight: 400;">and Michael Moore “Idiot Nation”</span>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Writing Exercise 1.1 due</span></li>
+</ul>
+<p><strong>How to Begin Exercise 1.1:</strong></p>
+<p><span style="font-weight: 400;">Review the additional assigned essays. Then select one essay that you would like to think about further. You’ll want to choose a text whose ideas challenge the beliefs you hold so that you can generate a provocative idea for your essay. This text will be the central source for your essay.</span></p>
+<p><strong>Your Assignment:</strong></p>
+<p><span style="font-weight: 400;">Whenever you read a text, your first job, always, is to accurately accurately what it has to say. So the first exercise of this sequence asks you to write a pure summary of the essay you’ve chosen. Your summary should be less than a page (aim for about 18 lines).</span></p>
+<p><strong>Some Advice:</strong></p>
+<ol>
+<li><span style="font-weight: 400;"> Read the source essay you’ve chosen again and annotate the text. By “annotate,” I mean mark up your text, underlining or circling or highlighting key passages, words, and phrases, and noting in the margins what the author’s thesis (main idea) and supporting claims are. The aim of this reading is to determine accurately the author’s main idea, that is, the argument he or she is making.</span></li>
+<li><span style="font-weight: 400;"> Then locate important supporting points. Zero in on the key points; forget (for the moment) the rest.</span></li>
+<li><span style="font-weight: 400;"> Begin your summary by identifying the author and the source. State the main idea. Then present his or her key supporting points.</span></li>
+<li><span style="font-weight: 400;"> Don’t evaluate; merely report. Your aim in this summary is to provide a concise, accurate version of the original.</span></li>
+<li>
+<span style="font-weight: 400;"> </span><i><span style="font-weight: 400;">Use your own words</span></i><span style="font-weight: 400;"> and an occasional quoted phrase.</span>
+</li>
+</ol>
+<p><strong>Sept. 4 –<span> NO CLASS – Labor Day Holiday</span></strong></p>
+<p><strong>Week 2  Sept. 11–  Summary; Motive and Thesis</strong></p>
+<p><span style="font-weight: 400;">For next week:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Read Chapter 3 in <i>A Short Guide to College Writing</i></span><i><span style="font-weight: 400;"> </span></i><span style="font-weight: 400;">and John Taylor Gatto, “Against School”</span>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Writing Exercise 1.2 due</span></li>
+</ul>
+<p><strong>Writing Exercise 1.2</strong></p>
+<p><span style="font-weight: 400;">By now you’ve selected a text, and by summarizing the author’s main idea and key supporting points, you’ve accurately determined what the text says. The next two exercises will ask you to investigate the text. First you will ask what truth the author has to offer you, and then you will challenge the text by questioning the author’s idea, thinking, and evidence. Your judgment of the text will result from considering these two exercises against one another. What should emerge from them is a tension between your different views of the text that is difficult to resolve. Resolving this tension—this problem—will lead you to an idea that pushes beyond or against the ideas in the text.</span></p>
+<p><strong>Your Assignment:</strong></p>
+<p><span style="font-weight: 400;">Consider the world from the author’s point of view. How does the evidence of your personal experience, your observations, or your knowledge tend to affirm the author’s ideas?  Explain to the author in a letter of about two pages. Please cite the title and author of any sources—other assigned essays or any other outside texts you’ve read—that you might refer to in your letter. Since you are addressing a person, write in a conversational style.</span></p>
+<p><strong>Week 3  Sept. 18 – “Elements of the Essay”; Prose and Style; Using Sources</strong></p>
+<p><span style="font-weight: 400;">For next week:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Read Chapter 7 in <i>A Short Guide to College Writing</i></span><span style="font-weight: 400;"> and Mike Rose “I Just Wanna be Average”</span>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Writing Exercise 1.3 due</span></li>
+</ul>
+<p><strong>Writing Exercise 1.3</strong></p>
+<p><span style="font-weight: 400;">You’ve begun to interact with the ideas of a text. In Exercise 1.2 you considered what truth the author of the text has to offer you. Now it’s time to challenge the text.</span></p>
+<p><strong>Your assignment:</strong></p>
+<p><span style="font-weight: 400;">First, investigate the author’s ideas, thinking, and evidence using the questions on the following page whenever you find them helpful. Feel free to invent other questions that help you pry beneath the surface of the text or that allow you to make imaginative connections to evidence from your personal experience, your observations, or your knowledge. Annotate again: write notes to yourself in the margins, underline, use your notebook—whatever will provide you with an informal record of your thinking.</span></p>
+<p><span style="font-weight: 400;">Then in about two pages (double-spaced), write a letter responding to the author in a good-natured tone. In your letter, tell the author the results of your latest investigations. Use a conversational style as you do your best to make your letter thoughtful and interesting. Again, please cite the author and title of any outside sources that you may refer to in your letter.</span><strong> </strong></p>
+<p><strong>Week 4 Sept. 25 – Thesis and Counterargument; Developing an Idea; Outlines</strong></p>
+<p><span style="font-weight: 400;">For next week:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Read Chapter 4 in <i>A Short Guide to College Writing</i></span><span style="font-weight: 400;"> and Jonathan Kozol, “Confections of Apartheid”</span>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">First Draft of Essay 1 due with accompanying Cover Letter</span></li>
+</ul>
+<p><strong><i>Essay 1:  Taking a Stance on an Educational Issue</i></strong></p>
+<p><span style="font-weight: 400;">Exercises 1.1-1.3 have helped you define a position on your selected assigned essay. You have summarized the article and affirmed and challenged the author’s stance based on your own experiences. While Exercises 1.2 and 1.3 asked you to write a letter to the author and encouraged a conversational tone, you will now write an academic essay analyzing the educational issue. You should focus on some problematical aspect of the source, a gap or inconsistency, and explicate the problem. You should push beyond or against the author’s ideas to offer </span><i><span style="font-weight: 400;">an idea of your own</span></i><span style="font-weight: 400;">. Your assignment should be 4-5 pages in length.</span></p>
+<p><strong>Some advice before you begin:</strong></p>
+<ol>
+<li>
+<strong>   Focus. </strong><span style="font-weight: 400;">What question or problem provides the focus of the essay?  Be sure to introduce this problem in the introduction of your essay and orient your reader in terms of who, what, when, and where.</span>
+</li>
+<li>
+<strong>   Evidence. </strong><span style="font-weight: 400;">The middle of your essay, the main body, has to accomplish three tasks in terms of specific evidence:</span>
+</li>
+<li><span style="font-weight: 400;">   Provide necessary background information</span></li>
+<li><span style="font-weight: 400;">   Elaborate the problem as you see it</span></li>
+<li><span style="font-weight: 400;">   Develop the problem</span></li>
+</ol>
+<p><span style="font-weight: 400;">Giving evidence for your claims is one way of convincing your readers that you’ve thought carefully about the point you’re making. Evidence for a claim may be as simple as a direct quotation or a paraphrase from the text; but quotations generally do not speak for themselves—you must explain how they illuminate the point you’re making in order to let your reader follow your logic. That is, to reach your audience you need to demonstrate how and why your evidence really does support your point.</span></p>
+<ol start="3">
+<li>
+<strong>   Idea. </strong><span style="font-weight: 400;">What is your idea; that is, what conclusion (interpretation) do you come to?  Does your idea account for the evidence, and is the evidence sufficient to the idea?</span>
+</li>
+<li>
+<strong>   What’s at stake?</strong><span style="font-weight: 400;">  Finally, do you do more than merely demonstrate a problem? Are you offering a new perspective or a new solution to the issue at hand?  Be sure you don’t leave your reader asking “So What?” once they’ve finished reading your essay.</span>
+</li>
+<li>
+<strong>   Conclusion. </strong><span style="font-weight: 400;">In most drafts, the weakest part of the essay is the last part. But think about the so-what factor and summarize your analysis.</span>
+</li>
+<li>
+<strong>  Write a cover letter to me about your essay. </strong><span style="font-weight: 400;">I will expect such a letter for every essay you turn in, draft AND final essay. Tell me the subject of your essay (state your main THESIS ARGUMENT) and tell me what you think its strengths and weaknesses are. Your letter need not be exhaustive, but it should be specific. A page sounds right, but shorter is fine as long as you give reasons for what you identify as the essay’s strengths and weaknesses. In articulating for yourself what you’ve written about, where it works and where it doesn’t, you will become an attentive critic of your own writing and ideas.</span>
+</li>
+</ol>
+<p><strong>Week 5 Oct. 2 – Shaping the Paragraph; Unifying an Argument</strong></p>
+<p><span style="font-weight: 400;">Sign up for individual Conferences for Essay 1 to take place during mutual agreed upon times</span></p>
+<p><span style="font-weight: 400;">For next class:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Read Chapter 5 in <i>A Short Guide to College Writing</i></span><span style="font-weight: 400;"> and Andrew Delbanco “College at Risk”</span>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Revise Essay 1 and prepare a new Cover letter for  Peer Review</span></li>
+</ul>
+<p><strong>Oct. 9 –<span> NO CLASS Columbus Day Holiday</span></strong></p>
+<p><strong>Week 6 Oct. 16 – Editing; Common Problems in Drafts</strong></p>
+<p><span style="font-weight: 400;">Exchange essays and cover letters for Peer Review on Oct. 23</span></p>
+<p><span style="font-weight: 400;">For next class:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Read Chapter 6 in </span><i><span style="font-weight: 400;">A Short Guide</span></i>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Read and provide both marginal feedback and writer a reader-response letter for each student writer. Please send your comments to your group no later than Sunday Oct. 22 at midnight EST</span></li>
+</ul>
+<p><strong>Week 7 Oct. 23 – Interpreting Feedback and Peer Review Conference of Essay 1</strong></p>
+<p><span style="font-weight: 400;">For next class:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Final Draft of Essay 1 and Cover Letter due</span></li>
+</ul>
+<br>
+<p><strong>Unit 2</strong></p>
+<p><strong>The Short Story:  Analyzing a Text</strong></p>
+<p><span style="font-weight: 400;">A common type of academic argument is the interpretation of what a text might mean. Scholars call this kind of interpretive operation “a close reading” of the text, or “a textual analysis.”  Instructors expect students to perform this kind of analytical operation with proficiency, for the mastery of interpretative skills gives students the powerful tools they need for thinking and writing in and outside their fields.</span></p>
+<p><strong>Unit 2 Assignments</strong></p>
+<p><span style="font-weight: 400;">Since the skill of textual analysis is so important, our second essay assignment of the semester will introduce you to the demands of interpreting a single text—in this case a short story. The essay will offer your interpretation of what the story is most essentially </span><i><span style="font-weight: 400;">about</span></i><span style="font-weight: 400;">. How can you explain and describe the </span><i><span style="font-weight: 400;">essence</span></i><span style="font-weight: 400;"> of the story?  In a conventional summary, you would mostly be giving the straightforward details of the story: the who, what, when, where, how—in these assignments those details will emerge but they will unfold as part of your explanation of the story. Unlike a straightforward summary, which usually would not provoke much response, your interpretive summary should be </span><i><span style="font-weight: 400;">arguable</span></i><span style="font-weight: 400;">—it should invite analysis. To help you with this operation, you will first work your way through three pre-draft exercises that reflect the different strategies that scholars use when they interpret a text; then you will write a draft.</span></p>
+<p><strong>Unit 2 Class Schedule</strong></p>
+<p><strong>Week 8 Oct. 30 – Introduction to Literary Analysis; Incorporating Personal Experience</strong></p>
+<p><span style="font-weight: 400;">For next class:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Read Chapters 1 &amp; 2 in </span><i><span style="font-weight: 400;">A Short Guide to Writing About Literature</span></i><span style="font-weight: 400;"> and Edgar Allan Poe, “The Cask of Amontillado”</span>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Writing Exercise 2.1 due</span></li>
+</ul>
+<p><strong> </strong></p>
+<p><strong>Writing Exercise 2.1</strong></p>
+<ol>
+<li>
+<span style="font-weight: 400;"> </span> <span style="font-weight: 400;">Read Edgar Allan Poe’s “The Cask of Amontillado.”  First, read the story all the way through so that you have a sense of it as a whole. Then re-read the story and annotate the text; that is, mark passages that perplex and interest you, circle words or phrases that seem to make a pattern in the text or that strike you as intriguing; jot down in the text’s margins any questions or ideas you have about what this story might mean. Choose three passages that you think are significant. A passage may be a few lines or a short paragraph. By “significant,” I mean important, curious, or problematical in terms of the whole story. Don’t shy away from passages you don’t understand or that don’t seem to fit in. Often, it is exactly such a passage that will turn out to be the key to your view of the text.</span>
+</li>
+<li>
+<span style="font-weight: 400;"> </span> <span style="font-weight: 400;">Quote each passage and note the page number in parentheses. Then, after each quoted passage, briefly explain why you chose it. Your assignment should add up to approximately a page and a half of writing (double spaced), no more than two.</span>
+</li>
+</ol>
+<p><span style="font-weight: 400;">Again, please see our course policy for details on how I’d like you to format your writing assignments.</span></p>
+<br>
+<p><strong>Week 9 Nov. 6 – The World of the Short Story</strong></p>
+<p><span style="font-weight: 400;">For next class:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Read Chapter 3 in </span><i><span style="font-weight: 400;">A Short Guide to Writing about Literature, </span></i><span style="font-weight: 400;">John Updike “A&amp;P” as well as Joyce Carol Oates “Where Are You Going, Where Have You Been?”</span>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Writing Exercise 2.2 </span></li>
+</ul>
+<br>
+<p><strong>Writing Exercise 2.2</strong></p>
+<p><span style="font-weight: 400;">In your first assignment, you investigated a text by close reading, annotating, and selecting key passages. This assignment asks you to investigate two additional stories using a different approach. As before, you begin with close reading.</span></p>
+<p><span style="font-weight: 400;">Please read John Updike’s “A&amp;P” and Joyce Carol Oates’ “Where Are You Going, Where Have You Been.”  Then re-read each story and annotate it.</span></p>
+<p><span style="font-weight: 400;">Write a 1 ½ page  (no longer) interpretive summary of ONE of these stories. Choose two scenes that you would point to as evidence for your claim, and one scene that poses a challenge to your claim. Briefly describe each and how it works (or does not work) to support your interpretation. What do you make of the writer’s </span><i><span style="font-weight: 400;">choices</span></i><span style="font-weight: 400;"> in these scenes—why choose to let the story unfold in this particular way?  Why choose to have the character make a specific comment, or take an action in a certain way, at a certain moment?  Be sure to </span><i><span style="font-weight: 400;">pay close attention to the language</span></i><span style="font-weight: 400;"> of the scenes. Which words are especially noteworthy—which are most evocative, suggestive, persuasive, strident, surprising?  Which puzzle you?  </span></p>
+<br>
+<p><strong>Week 10 Nov. 13 – Motive Part II; Focusing a Literary Analysis</strong></p>
+<p><span style="font-weight: 400;">For next class:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Read Chapter 4 in </span><i><span style="font-weight: 400;">A Short Guide to Writing About Literature </span></i><span style="font-weight: 400;">and Bharti Mukherjee “The Management of Grief”</span>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Writing Exercise 2.3</span></li>
+</ul>
+<p><strong>Writing Exercise 2.3</strong></p>
+<p><span style="font-weight: 400;">So far you have investigated three stories, using different approaches to help you get beneath the surface of a text. But now it’s time to choose the story you will work with for this essay.</span></p>
+<p><span style="font-weight: 400;">Your assignment is to select one of the assigned short stories for Essay 2. Then please do the following:</span></p>
+<p><span style="font-weight: 400;">Reread the story you’ve chosen to write about, taking notes, underlining key words and phrases, marking the passages that seem important or different or strange. Summarize the story in a sentence or two and then say what issue or issues it engages. Then pose two questions about the issue or issues—two questions about (in other words) what the story </span><i><span style="font-weight: 400;">means</span></i><span style="font-weight: 400;">. Each question should:</span></p>
+<ol>
+<li style="font-weight: 400;"><span style="font-weight: 400;">be a real question, a question to which there is no single, easy answer</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">refer to the particular passage or passages in the story that made you ask the question</span></li>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">articulate what </span><i><span style="font-weight: 400;">you</span></i><span style="font-weight: 400;"> find genuinely puzzling or mysterious about the story</span>
+</li>
+</ol>
+<p><strong>Week 11 Nov. 20 – Integrating Quotations</strong></p>
+<p><span style="font-weight: 400;">For next week:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Read Chapter 10 in </span><i><span style="font-weight: 400;">A Short Guide to Writing About Literature </span></i><span style="font-weight: 400;">and James Baldwin, “Sonny’s Blues” </span>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">For next class Draft of Essay 2 and Cover Letter due</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Individual Conferences for Essay 2 to take place during mutual agreed upon times</span></li>
+</ul>
+<p><span style="font-weight: 400;">  </span></p>
+<p><strong><i>Essay 2:  Analyzing a Text</i></strong></p>
+<p><span style="font-weight: 400;">This essay should explore one of the questions you developed in Exercise 2.3 and should provide a tentative answer to it. If you are still having difficulty focusing your essay, use the approaches from Exercises 2.1 and 2.2 with the story you have selected to provoke more analysis. Your question will become more focused—and probably more complicated—as you reread and think: your initial sense of what </span><i><span style="font-weight: 400;">happens</span></i><span style="font-weight: 400;"> in the story may change as a result of your work; a new issue may have emerged; your understanding of what’s most important about the text may become more complex; an alternate way of interpreting the story may become more compelling. At this point in the process, you’ll likely want to consider some new passages and reconsider some old ones.</span></p>
+<p><span style="font-weight: 400;">Think of your task here as explaining to your readers what the text you’ve chosen to write about </span><i><span style="font-weight: 400;">means</span></i><span style="font-weight: 400;">. Your readers in this case are your classmates and me. Assume we’ve read the story you’re writing about, but that we don’t </span><i><span style="font-weight: 400;">know</span></i><span style="font-weight: 400;"> it as well as you do. Through analysis of particular passages from the text, show us how you arrived at your interpretation.</span></p>
+<p><span style="font-weight: 400;">Be sure to give your essay an interesting title. Your draft should have a beginning, a middle, and an end. It should be vividly written in clear, economical prose, and, like all good essays, it should attempt to open your readers’ eyes to some new way of seeing things. Your essay should be between 4 and 5 pages. Again, please consult our syllabus for format requirements.</span></p>
+<p><span style="font-weight: 400;">Some advice before you begin:</span></p>
+<ol>
+<li>
+<span style="font-weight: 400;"> </span> <strong>Focus. </strong><span style="font-weight: 400;">Introduce the story and then let the readers know what problem you see in it. A clear focus in the beginning tells readers what you will be thinking about in the essay. It also helps keep you on track.</span>
+</li>
+<li>
+<span style="font-weight: 400;"> </span> <strong>Analyze your evidence</strong><span style="font-weight: 400;">. Merely presenting evidence is usually not enough to make your idea clear. You will also need to analyze, or reflect on, your evidence—that is, to think in writing about its significance. When you analyze, you tell yourself and your readers how you see the evidence. You enact the thinking that will lead both you and your readers toward your idea (your conclusion.)  You make your thinking accessible. In effect, you are saying, “Here’s what I think, and here’s why I think it.”  Analyzing serves other purposes, too:  it will help you develop your essay, to connect pieces of evidence, and, finally, to create transitions between your paragraphs. It will help make your essay cohere.</span>
+</li>
+<li>
+<span style="font-weight: 400;"> </span> <strong>Orient your readers</strong><span style="font-weight: 400;">. Please remember that you’re writing for an intelligent, public audience. Your readers will lose patience with you if you refer mysteriously to your text, assuming they know what you mean. You will have to explain yourself fully, working in necessary background information so that your readers can follow your thinking. And refer concretely and accurately to your text, using selected quotations.</span>
+</li>
+</ol>
+<p><strong>Week 12 Nov. 27 – Structure and Conclusions; “Elements of the Essay” revisited</strong></p>
+<p><span style="font-weight: 400;">Sign up for individual Conferences for Essay 2 to take place during mutual agreed upon times</span></p>
+<p><span style="font-weight: 400;">For next week:</span></p>
+<ul>
+<li style="font-weight: 400;">
+<span style="font-weight: 400;">Read Chapter 14 in </span><i><span style="font-weight: 400;">A Short Guide to Writing About Literature</span></i>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Second Draft of Essay 2 due with accompanying Cover Letter – Exchange for Peer Review</span></li>
+</ul>
+<p><span style="font-weight: 400;">  </span></p>
+<p><strong>Week 13 Dec. 4 –  Structure and Conclusions</strong></p>
+<p><span style="font-weight: 400;">Exchange Peer Review Cover Letters and revised Essay 2 </span></p>
+<p><span style="font-weight: 400;">For next week:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Read and provide both marginal feedback and writer a reader-response letter for each student writer. Please send your comments to your group no later than Sunday Dec. 10 at midnight EST</span></li>
+</ul>
+<p><strong>Week 14 Dec. 11 –  Peer Review</strong></p>
+<p><strong>Friday, Dec. 15  –  Final Revision Due</strong></p>
+<p><span style="font-weight: 400;">Final Revision of Essay 2 and Course Portfolio Due</span></p>
+</td>
+</tr>
+<tr>
+<td>
+<div class="content-box pad-box-micro border border-b border-t" style="background-color: whitesmoke;">
+<h2 style="text-align: center;"><a class="icon-rubric-dark" style="color: black; text-decoration: none;"> Course Information</a></h2>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<p> <iframe style="width: 100%; height: 200px;" title="Course Info" src="https://canvas-course-info.tlt.harvard.edu/course_info/widget.html?f=title&amp;f=course.registrar_code_display&amp;f=term.display_name&amp;f=instructors_display&amp;f=location&amp;f=meeting_time&amp;f=exam_group&amp;f=description&amp;f=notes" width="300" height="150" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen"></iframe></p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="course_syllabus_details" style="display: none;">
+  <p>The syllabus page shows a table-oriented view of the course schedule, and the basics of
+course grading.  You can add any other comments, notes, or thoughts you have about the course
+structure, course policies or anything else.</p>
+
+<p>To add some comments, click the &quot;Edit&quot; link at the top.</p>
+</div>
+<form id="edit_course_syllabus_form" style="display: none; margin-bottom: 10px;" action="/courses/33131" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="NLy04bwzq+Vx01Q67sjMEFleNV3nvMwRLniIU1eXMxhn2MKtxEPIrgSXLWyb+7lSEjVXKoPegn1XS8EkO+V6SA==" />
+  <div style="float: right;">
+    <a href="#" class="toggle_views_link toggle_html_editor_link">HTML Editor</a>
+    <a href="#" class="toggle_views_link toggle_rich_editor_link" style="display:none;">Rich Content Editor</a>
+  </div>
+  <label for="course_syllabus_body">Syllabus Description:</label>
+  <div class="clear"></div>
+  <textarea style="width: 100%; height: 300px;" id="course_syllabus_body" name="course[syllabus_body]">
+</textarea>
+  <div class='form-actions'>
+    <button type="button" class="btn cancel_button">Cancel</button>
+    <button type="submit" class='btn btn-primary'>Update Syllabus</button>
+  </div>
+</form>
+<h2>Course Summary:</h2>
+
+<div id="syllabusContainer">
+  <div id="syllabus_links">
+    <a id="toggle_special_dates_in_syllabus">&nbsp;</a>
+  </div>
+  <table id="syllabus" class="ic-Table--condensed">
+    <thead>
+      <tr>
+        <th scope="col" style="width: 25%;">Date</th>
+        <th scope="col" style="width: 75%;">Details</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td scope="row">
+          <span id="loading_indicator"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+          </div>
+        </div>
+        <div id="right-side-wrapper" class="ic-app-main-content__secondary">
+          <aside id="right-side" role="complementary">
+              
+<div id="sidebar_content">
+  
+<div class="mini_month">
+  <div class="mini-cal-header">
+    <button class="prev_month_link Button Button--icon-action"><i class="icon-arrow-open-left"></i><span class="screenreader-only">Prev month</span></button>
+    <button class="next_month_link Button Button--icon-action"><i class="icon-arrow-open-right"></i><span class="screenreader-only">Next month</span></button>
+    <span class="mini-cal-month-and-year">
+      <span class="month_name">September</span>
+      <span class="year_number">2017</span>
+    </span>
+  </div>
+  <div style="display: none;">
+    <span class="month_number">9</span>
+  </div>
+  <table class="mini_calendar" cellspacing="0">
+    <caption class="screenreader-only">Calendar</caption>
+    <thead>
+      <tr>
+          <th scope="col">
+            <span class="screenreader-only">
+              Sunday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Monday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Tuesday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Wednesday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Thursday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Friday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Saturday
+            </span>
+          </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_08_27" class="mini_calendar_day day other_month previous_month date_08_27_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                27
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_28" class="mini_calendar_day day other_month previous_month date_08_28_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                28
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_29" class="mini_calendar_day day other_month previous_month date_08_29_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                29
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_30" class="mini_calendar_day day other_month previous_month date_08_30_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                30
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_31" class="mini_calendar_day day other_month previous_month date_08_31_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                31
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_01" class="mini_calendar_day day current_month date_09_01_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                1
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_02" class="mini_calendar_day day current_month date_09_02_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                2
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_03" class="mini_calendar_day day current_month date_09_03_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                3
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_04" class="mini_calendar_day day current_month date_09_04_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                4
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_05" class="mini_calendar_day day current_month date_09_05_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                5
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_06" class="mini_calendar_day day current_month date_09_06_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                6
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_07" class="mini_calendar_day day current_month date_09_07_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                7
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_08" class="mini_calendar_day day current_month date_09_08_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                8
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_09" class="mini_calendar_day day current_month date_09_09_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                9
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_10" class="mini_calendar_day day current_month date_09_10_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                10
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_11" class="mini_calendar_day day current_month date_09_11_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                11
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_12" class="mini_calendar_day day current_month date_09_12_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                12
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_13" class="mini_calendar_day day current_month date_09_13_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                13
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_14" class="mini_calendar_day day current_month date_09_14_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                14
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_15" class="mini_calendar_day day current_month date_09_15_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                15
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_16" class="mini_calendar_day day current_month date_09_16_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                16
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_17" class="mini_calendar_day day current_month date_09_17_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                17
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_18" class="mini_calendar_day day current_month date_09_18_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                18
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_19" class="mini_calendar_day day current_month date_09_19_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                19
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_20" class="mini_calendar_day day current_month date_09_20_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                20
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_21" class="mini_calendar_day day current_month date_09_21_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                21
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_22" class="mini_calendar_day day current_month date_09_22_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                22
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_23" class="mini_calendar_day day current_month date_09_23_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                23
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_24" class="mini_calendar_day day current_month today date_09_24_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                24
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_25" class="mini_calendar_day day current_month date_09_25_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                25
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_26" class="mini_calendar_day day current_month date_09_26_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                26
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_27" class="mini_calendar_day day current_month date_09_27_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                27
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_28" class="mini_calendar_day day current_month date_09_28_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                28
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_29" class="mini_calendar_day day current_month date_09_29_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                29
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_30" class="mini_calendar_day day current_month date_09_30_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                30
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_10_01" class="mini_calendar_day day other_month next_month date_10_01_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                1
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_02" class="mini_calendar_day day other_month next_month date_10_02_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                2
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_03" class="mini_calendar_day day other_month next_month date_10_03_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                3
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_04" class="mini_calendar_day day other_month next_month date_10_04_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                4
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_05" class="mini_calendar_day day other_month next_month date_10_05_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                5
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_06" class="mini_calendar_day day other_month next_month date_10_06_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                6
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_07" class="mini_calendar_day day other_month next_month date_10_07_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                7
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+    
+<div role="complementary" aria-label="Assignment Weights">
+  <h2>Course assignments are not weighted.</h2>
+</div>
+
+</div>
+
+<div id="editor_tabs" class="ui-tabs--mini" style="display: none;">
+
+  <span class="wiki-sidebar-header" role="heading" aria-level="2">Insert Content into the Page</span>
+  <ul>
+    <li><a href="#editor_tabs_2">Links</a></li>
+    <li><a href="#editor_tabs_4">Images</a></li>
+  </ul>
+  <div id="editor_tabs_2" role="application">
+    Link to other content in the course.
+      <a href="/courses/33131/external_tools/retrieve?url=%7B%7B+url+%7D%7D" id="external_tool_retrieve_url" style="display: none;">&nbsp;</a>
+      <a href="/courses/33131/external_tools/%7B%7B%20id%20%7D%7D/resource_selection?editor=1" id="context_external_tool_resource_selection_url" style="display: none;">&nbsp;</a>
+    Click any page to insert a link to that page.
+    <div id="pages_accordion" class="ui-accordion--mini" role="tabpanel">
+      <a href="https://canvas.harvard.edu/courses/33131/pages/%7B%7B%20page_url%20%7D%7D" id="wiki_sidebar_wiki_url" style="display: none;">&nbsp;</a>
+      <div>
+        <div class="header" aria-controls="pages_tab_panel" role="tab"><a href="#">Wiki Pages</a></div>
+        <div id="pages_tab_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33131/pages/web-conference-sessions">Web Conference Sessions</a></li>
+            </ul>
+        </div>
+      </div>
+      <div>
+        <div aria-controls="assignment_panel" role="tab" class="header" aria-controls="wiki_pages_panel"><a href="#">Assignments</a></div>
+         <div id="assignment_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this assignment"><a href="/courses/33131/assignments">Assignment List</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33131/assignments/170454">Class 1</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33131/assignments/170458">Class 2</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33131/assignments/169347">Class 2 Recording</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33131/assignments/170461">Class 3</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33131/assignments/170596">Class 3 Recording</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33131/assignments/154340">Conference with Chris regarding Essay 1 Revision</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33131/assignments/154439">Conference with Chris regarding Essay 2 Revision</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33131/assignments/153201">Draft of Essay 1 and Cover Letter</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33131/assignments/153202">Draft of Essay 2 and Cover Letter due</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33131/assignments/153203">Exercise 1.1</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33131/assignments/153204">Exercise 1.2</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33131/assignments/153205">Exercise 1.3</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33131/assignments/153206">Exercise 2.1</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33131/assignments/153207">Exercise 2.2</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33131/assignments/153208">Exercise 2.3</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33131/assignments/153209">Final Revision of Essay 1 and Cover Letter</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33131/assignments/153210">Final Revision of Essay 2 and Cover Letter Due</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33131/assignments/153211">In-class write Day 1</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33131/assignments/153212">Readings for Unit 1</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33131/assignments/153213">Readings for Unit 2</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33131/assignments/154448">Revised Cover Letter and Revised Essay 1 for Peer Review Exchange</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33131/assignments/154449">Revised Cover Letter and Revised Essay 2 for Peer Review Workshop</a></li>
+            </ul>
+         </div>
+      </div>
+      <div>
+        <div aria-controls="quizzes_panel" class="header" role="tab"><a href="#">Quizzes</a></div>
+         <div id="quizzes_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this quiz"><a href="/courses/33131/quizzes">Quiz List</a></li>
+            </ul>
+         </div>
+      </div>
+      <div>
+        <div class="header" aria-controls="announcements_panel" role="tab"><a href="#">Announcements</a></div>
+         <div id="announcements_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this announcement"><a href="/courses/33131/announcements">Announcements List</a></li>
+            </ul>
+         </div>
+      </div>
+
+      <div>
+        <div role="tab" aria-controls="discussions_panel" class="header"><a href="#">Discussions</a></div>
+         <div id="discussions_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this topic"><a href="/courses/33131/discussion_topics">Discussion Index</a></li>
+            </ul>
+         </div>
+      </div>
+
+      <div>
+        <div role="tab" aria-controls="modules_panel" class="header"><a href="#">Modules</a></div>
+          <div id="modules_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this module"><a href="/courses/33131/modules">Modules List</a></li>
+            </ul>
+          </div>
+      </div>
+
+      <div>
+        <div class="header" role="tab" aria-controls="groups_panel"><a href="#">Course Navigation</a></div>
+         <div role="tabpanel" id="groups_panel">
+            <ul class="wiki_pages page_list">
+                <li title="Click to insert a link to the assignments page"><a href="/courses/33131/assignments">Assignment List</a></li>
+                <li title="Click to insert a link to the wiki"><a href="https://canvas.harvard.edu/courses/33131/pages">Wiki Home</a></li>
+                <li title="Click to insert a link to the discussions page"><a href="/courses/33131/discussion_topics">Discussions Index</a></li>
+                <li title="Click to insert a link to the syllabus"><a href="/courses/33131/assignments/syllabus">Course Syllabus</a></li>
+                <li title="Click to insert a link to the announcements page"><a href="/courses/33131/announcements">Announcement List</a></li>
+                <li title="Click to insert a link to the files page"><a href="/courses/33131/files">Files Index</a></li>
+                <li title="Click to insert a link to the collaborations page"><a href="/courses/33131/collaborations">Collaborations</a></li>
+                <li title="Click to insert a link to the grades page"><a href="/courses/33131/grades">Grades</a></li>
+                <li title="Click to insert a link to the people page"><a href="/courses/33131/users">People</a></li>
+                <li title="Click to insert a link to the modules page"><a href="/courses/33131/modules">Modules</a></li>
+            </ul>
+         </div>
+      </div>
+    </div>
+
+  </div>
+  <div aria-atomic="true" id="editor_tabs_4">
+    Click any image to embed the image in the page.
+    <div>
+      <a tabindex="0" href="#" class="find_new_image_link find">Find images on flickr creative commons</a>
+    </div>
+    <div id="wiki_sidebar_image_uploads" class="uploading_file_list uploading_image_list" style="display: none;">
+      <div class="uploading">
+        Uploading <span class="filename">file</span>...
+        <div>
+          <img alt="Loading..." src="https://du11hjcvx0uqb.cloudfront.net/dist/images/ajax-loader-bar-71e6988298.gif" />
+        </div>
+      </div>
+      <div class="remaining">
+        <span class="files_remaining">0</span> more to upload
+      </div>
+      
+<a href="#" style="text-align: center display: none;" class="img_link" title="Click to embed image">
+  <div class="img_holder">
+    <img class="img" data-url="" src="" alt="{{ display_name }}" title="Click to embed {{ display_name }}">
+  </div>
+  <div class="display_name">{{ display_name }}</div>
+</a>
+
+    </div>
+    <div class="image_list_holder ">
+      <div class="dragging_message">Drop Images Here to upload</div>
+      <div class="image_list" style="max-height: 300px; overflow: auto;" data-url="/courses/33131/images">
+      </div>
+    </div>
+  </div>
+  <div style="display: none;">
+    <a href="/services?service_type=BookmarkService" class="bookmark_services_url">&nbsp;</a>
+    <a href="/search/bookmarks?q=%7B%7B+query+%7D%7D&amp;service_type=%7B%7B+service_type+%7D%7D" class="bookmark_search_url">&nbsp;</a>
+    <span class="context_code">course_33131</span>
+    <div id="wiki_sidebar_select_folder_dialog">
+      Select a destination folder for these <span class="file_count">&nbsp;</span> files:
+      <div style="margin: 20px;">
+        <select class="folder_id">
+        </select>
+      </div>
+      <div class="button-container">
+        <button type="button" class="btn select_button">Upload Files to Folder</button>
+        <button type="button" class="btn cancel_button btn button-secondary">Cancel</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+          </aside>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    <div style="display:none;"><!-- Everything inside of this should always stay hidden -->
+    </div>
+    
+<div id="cant_record_dialog" style="display: none;">
+  <div>
+    In order to create video or audio recordings your computer needs to be 
+    webcam-enabled.  If you don&#39;t have a webcam on your computer, you can still
+    record audio-only messages by first installing the Google Video Chat
+    plugin.
+  </div>
+  <div style="text-align: center; font-size: 1.5em; margin: 10px;">
+    <a href="http://www.google.com/chat/video" target="_blank" class="btn">Install the Video Plugin</a>
+  </div>
+  <div class="links" style="text-align: right; font-size: 0.8em; display: none;">
+    <a href="#" class="cant_record_link">Don&#39;t have a webcam?</a>
+  </div>
+</div>
+  <div id='aria_alerts' class='hide-text affix' role="alert" aria-live="assertive"></div>
+  <div id='StudentTray__Container'></div>
+  <script>
+  INST = {"environment":"production","allowMediaComments":true,"kalturaSettings":{"domain":"nv.instructuremedia.com","resource_domain":"nv.instructuremedia.com","rtmp_domain":"fms-prod.instructuremedia.com","partner_id":"9","subpartner_id":"0","player_ui_conf":"0","kcw_ui_conf":"0","upload_ui_conf":"0","max_file_size_bytes":534773760,"do_analytics":false,"hide_rte_button":false,"js_uploader":true},"googleAnalyticsAccount":"UA-9138420-1","disableScribdPreviews":true,"logPageViews":true,"maxVisibleEditorButtons":3,"editorButtons":[{"name":"YouTube","id":18015,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=youtube","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/youtube_icon.png","canvas_icon_class":null,"width":560,"height":600},{"name":"Vimeo","id":18016,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=vimeo","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/vimeo_icon.png","canvas_icon_class":null,"width":560,"height":600},{"name":"DCE Matterhorn Course Recordings","id":19109,"url":"https://dce-mhvideo-lti.herokuapp.com/mhvideo_lti/lti_launch","icon_url":"https://dce-mhvideo-lti.herokuapp.com/static/images/television.png","canvas_icon_class":null,"width":800,"height":400},{"name":"Course Info","id":20525,"url":"https://canvas-course-info.tlt.harvard.edu/course_info/lti_launch","icon_url":"https://canvas-course-info.tlt.harvard.edu/static/images/course-info.png","canvas_icon_class":null,"width":800,"height":400}]};
+  ENV = {"ASSET_HOST":"https://du11hjcvx0uqb.cloudfront.net","active_brand_config":"af37e5be444f4a553c9c812a9a990322","active_brand_config_json_url":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.json","url_to_what_gets_loaded_inside_the_tinymce_editor_css":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/what_gets_loaded_inside_the_tinymce_editor-542d1c188c.css","current_user_id":null,"current_user":{},"current_user_roles":null,"current_user_disabled_inbox":null,"files_domain":"cluster28-files.instructure.com","DOMAIN_ROOT_ACCOUNT_ID":18750000000000001,"k12":false,"help_link_name":"Help","help_link_icon":"help","use_high_contrast":null,"SETTINGS":{"open_registration":false,"eportfolios_enabled":true,"collapse_global_nav":null,"show_feedback_link":true,"enable_profiles":true},"context_asset_string":"course_33131","ping_url":"https://canvas.harvard.edu/api/v1/courses/33131/ping","TIMEZONE":"America/New_York","CONTEXT_TIMEZONE":"America/New_York","LOCALE":"en","BIGEASY_LOCALE":"en_US","FULLCALENDAR_LOCALE":"en","MOMENT_LOCALE":"en","RICH_CONTENT_SERVICE_ENABLED":true,"RICH_CONTENT_APP_HOST":"rich-content-iad.inscloudgate.net","RICH_CONTENT_CDN_HOST":"dvgcns7dz7zc.cloudfront.net/rce_service/versions/","RICH_CONTENT_SIDEBAR_SOURCE":"api","RICH_CONTENT_CAN_UPLOAD_FILES":false,"CONTEXT_ACTION_SOURCE":"syllabus","NEW_USER_TUTORIALS":{"is_enabled":false},"SYLLABUS_PER_PAGE":"100","CAN_READ":false,"SYLLABUS_BODY":"\u003cp\u003e\u003cimg style=\"width: 100%;\" src=\"/courses/33131/files/4157104/preview?verifier=1DzbQmVlc3cWmazsaEK8XJd4V7gdNwss6JC7mwLM\" alt=\"Marquee image: Harvard Extension School shield on decorative paper\" data-api-endpoint=\"https://canvas.harvard.edu/api/v1$IMS-CC-FILEBASE$/Template%20images/PaperShieldBanner.png?canvas_download=1\u0026amp;canvas_qs_verifier=KBdi7qbAsL1oyUp6f839HnhJ3DhpxlrUFFSzkluL\" data-api-returntype=\"File\"\u003e\u003c/p\u003e\n\u003ctable class=\"ic-Table\" style=\"width: 100%;\"\u003e\n\u003ctbody\u003e\n\u003ctr style=\"text-align: center;\"\u003e\n\u003ctd\u003e\n\u003cdiv class=\"content-box pad-box-micro border border-b border-t\" style=\"background-color: whitesmoke;\"\u003e\n\u003ch2 style=\"text-align: center;\"\u003e\u003ca class=\"icon-syllabus\" style=\"color: black; text-decoration: none;\"\u003e Syllabus\u003c/a\u003e\u003c/h2\u003e\n\u003c/div\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cp style=\"text-align: center;\"\u003e\u003cspan style=\"color: #0000ff;\"\u003e\u003cstrong\u003eEXPO E-15\u003c/strong\u003e \u003cstrong\u003eSection 7\u003c/strong\u003e \u003cstrong\u003eCRN15228\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp style=\"text-align: center;\"\u003e\u003cspan style=\"color: #0000ff;\"\u003e\u003cstrong\u003eFUNDAMENTALS OF ACADEMIC WRITING\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp style=\"text-align: center;\"\u003e\u003cspan style=\"color: #0000ff;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eChristina Grenier                                                                              \u003c/span\u003e \u003cspan style=\"font-weight: 400;\"\u003e        \u003c/span\u003e Fall\u003cspan style=\"font-weight: 400;\"\u003e 2017\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp style=\"text-align: center;\"\u003e\u003cspan style=\"color: #0000ff;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003ecgrenier@fas.harvard.edu                                                            \u003c/span\u003e \u003cspan style=\"font-weight: 400;\"\u003e        \u003c/span\u003e \u003cspan style=\"font-weight: 400;\"\u003eMondays 7:20-9:20\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp style=\"text-align: center;\"\u003e\u003cspan style=\"color: #0000ff;\"\u003e\u003cstrong\u003ehttps://canvas.harvard.edu/courses/33131\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cbr\u003e\u003cbr\u003e\n\u003cp\u003e\u003cstrong\u003eCourse Overview  \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eThis course is designed for students seeking preparation for EXPO E-25, \u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003eIntroduction to Academic Writing and Critical Reading,\u003c/span\u003e\u003c/i\u003e\u003cspan style=\"font-weight: 400;\"\u003e and for students who wish to review such basics of academic argument as thesis, evidence, and structure. You’ll do short writing assignments that will help you develop the skills essential for producing persuasive academic essays. You’ll also learn strategies for reading and analyzing complex texts.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eIn this course, you’ll learn how to develop your ideas and how to convince readers that your ideas matter. To this end, we’ll emphasize writing as an act of self-discovery, as an act of critical thinking, and as an act of communicating with an audience. Good essays don’t appear spontaneously. They emerge, usually, from many time-consuming drafts:  with each draft, the writer moves closer to what she or he wants to say. The willingness to revise may be the greatest difference between a confident writer and an insecure one. In fact, confident writers realize that the first draft or two is always more like a conversation they have with themselves than it is a communication with readers. After reflecting on their ideas through successive drafts, writers can then turn to the art of writing for an audience, anticipating and shaping readers’ responses to the essay’s ideas. So, throughout the semester, we’ll learn strategies for turning writer-based prose into reader-based prose—strategies, that is, for revising drafts to produce essays that readers will find clear and persuasive.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eTo write clear and persuasive academic essays, it’s necessary to keep readers’ expectations in mind. An essay has to state exactly what idea it’s going to test and why readers should care about that idea. An essay needs to prove the idea to readers by supporting it with carefully reasoned claims that are substantiated by ample evidence that’s presented in an organized fashion. An essay must anticipate and refute readers’ objections to the argument to prevent readers from summarily dismissing the idea. And an essay must express its ideas in clear, lively, and graceful prose.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eWe’ll see these characteristics in many of the assigned readings for the course. By learning how to interpret the strategies, claims, evidence, assumptions, language, and tone that authors deploy in these readings, you’ll find material for writing your own essays as well as examples of compelling academic writing.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eCOURSE POLICIES AND REQUIREMENTS\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eRequired Texts\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eBarnet, Sylvan, Pat Bellanca and Marcia Stubbs. \u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003eA Short Guide to College Writing\u003c/span\u003e\u003c/i\u003e\u003cspan style=\"font-weight: 400;\"\u003e. 5th ed., Pearson, 2014.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eBarnet, Sylvan and William E. Cain. \u003cem\u003eA Short Guide to Writing About Literature. \u003c/em\u003e12th ed., Pearson, 2011.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003e\u003cspan\u003eThe assigned readings and the reading schedule can be found in this syllabus and in the Assignments page on our Canvas site. Before the semester begins, make sure you have \u003ca href=\"https://get.adobe.com/reader/\"\u003eAdobe\u003c/a\u003e or some other software that allows you to read PDFs since all but the excepted text below we will be reading this semester will be provided to you in this form at the course's Canvas site. \u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWriting Assignments\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eYou’ll write two (4- to 5-page) essays. The first essay will ask you to take a stand on an educational issue; the second will be a close reading of a short story. We’ll break down each essay into steps; to prepare a draft, you’ll complete and hand in brief “pre-draft” assignments that ask you to brainstorm ideas and flesh out important parts of your argument. You’ll submit at least one draft and a revision for each essay assignment. To get the most you can out of the course, you need to make each draft a complete, full-length essay (that is, a piece of writing with a beginning, a middle, and an end) with a controlling idea, organization, and supporting evidence. You’ll receive feedback on your draft from your peers and me, and, after substantial re-working of that draft, you’ll submit a revision.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eOnline course overview: Seminar Format, Participation, Workshops and Completion of Work\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eHarvard Extension School’s website contains an overview of online courses on the following link –\u003c/span\u003e\u003ca href=\"https://www.extension.harvard.edu/academics/courses/types-courses\"\u003e \u003cspan style=\"font-weight: 400;\"\u003ehttps://www.extension.harvard.edu/academics/courses/types-courses\u003c/span\u003e\u003c/a\u003e\u003cspan style=\"font-weight: 400;\"\u003e.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eBecause this class is taught in a participatory seminar format, there will be no lecture videos, rather recordings of each class will be available to registered students. Before registering and attending our first class, students are expected to be familiar with Harvard Extension School’s distance education policies (see\u003c/span\u003e\u003ca href=\"https://www.extension.harvard.edu/academics/courses/types-courses/web-conference-course-guidelines\"\u003e \u003cspan style=\"font-weight: 400;\"\u003ehttps://www.extension.harvard.edu/academics/courses/types-courses/web-conference-course-guidelines\u003c/span\u003e\u003c/a\u003e\u003cspan style=\"font-weight: 400;\"\u003e).\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eMost importantly, registered students must be familiar with Zoom before our first class; you must also have a headset with a microphone so that you can participate in class discussions. Harvard Extension School has provided the following website to walk students through technical set-up and navigation of Zoom:\u003c/strong\u003e\u003ca href=\"https://support.zoom.us/hc/en-us/categories/200101697-Getting-Started\"\u003e \u003cstrong\u003ehttps://support.zoom.us/hc/en-us/categories/200101697-Getting-Started\u003c/strong\u003e\u003c/a\u003e\u003cstrong\u003e.\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eThis is a seminar class in which everyone’s active participation is not only encouraged, but expected. I hope that even if you are generally reserved, you will make an effort to participate in discussions and our website blogs. Sharing ideas—especially those you may feel tentative about—is a mark of intellectual generosity.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eOver the course of the semester, everyone’s writing will be workshopped in class. You will also be responding regularly, in writing, to each other’s work. Since most writers—whether they are neophytes or professionals—struggle with the same sorts of problems, you will find the workshops and peer review exercises pertinent to your own work, even while you examine that of your classmates. Indeed, responding to your peers’ work will help you become a sharper critic of your own writing.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eWriting courses at Harvard are rigorous and move along at a quick and steady pace. This means that we must make the most of the time we have together each week. \u003c/span\u003e\u003cstrong\u003eClass begins at 7:20\u003c/strong\u003e\u003cspan style=\"font-weight: 400;\"\u003e; you may logon as early as 6:50. You are expected to be logged on and to be fully prepared to participate when class begins—that is, to have read and thought about whatever readings were assigned and to have the required writing with you (including copies for your peer review group, if necessary.)  Although I am sympathetic to the exigencies of your hectic schedules and many deadlines, lateness of any sort—in joining class or turning in work—will be penalized. Such lateness is extremely disruptive to our schedule and discussions, and is unfair to the other students who do login, participate and hand their work in, on time. Please note that excuses related to computer or printer failure, collapse, theft, damage (or any other mishap) won’t be accepted. Be sure your technology is in good working order, that you keep your work backed up and have extra hard copies, and that you know where you can turn for help should any of the aforementioned tragedies befall you. \u003c/span\u003e\u003cstrong\u003eAll assignments must be submitted into our Canvas site by midnight—12 am EST—on the assignment’s due date—no late assignments are accepted, unless I tell you otherwise.\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eDespite being an online course, student attendance and participation is required and essential. If you are absent from class without valid excuse more than twice, you risk being excluded from and failing the course. A student who is regularly late by even a few minutes can expect to see his or her final grade suffer as a result. \u003c/span\u003e\u003cstrong\u003eAny student who is more than 15 minutes late in joining class will be counted as absent. A missed conference appointment (see below) also counts as an absence from class\u003c/strong\u003e\u003cspan style=\"font-weight: 400;\"\u003e. If you must miss a class, please notify me by email in advance, and consult your email for class recordings and any missed materials. Before each essay is due, you are also responsible for scheduling a conference with me during mutually convenient times. These conferences will be devoted (1) to discussing how to revise your essay to make it express more effectively what you want the essay to say and (2) to setting goals for the assignments to come. Please prepare for these conferences by rereading your draft and making some notes for yourself regarding the possible ways you might go about revising.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eThe process\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cu\u003eReading:\u003c/u\u003e\u003c/p\u003e\n\u003cp\u003eAt the beginning of each unit, we will read and discuss a variety of texts. All reading must be completed by the assigned class session. The readings and the reading schedule can be found in this syllabus and in the Assignments page on the Canvas site. Before the semester begins, make sure you have Adobe or some other software that allows you to read PDFs since all but the excepted text below we will be reading this semester will be provided to you in this form at the course's Canvas site. \u003c/p\u003e\n\u003cp\u003eWe will discuss reading strategies throughout the semester, but as an initial point I would suggest that you either print out and mark up copies of the readings or use software that allows you to make and save on-screen notes and comments. Being an active reader is essential to becoming a good writer.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cem\u003ePlease\u003c/em\u003e\u003c/strong\u003e\u003cspan\u003e \u003c/span\u003e\u003cstrong\u003e\u003cem\u003enote:\u003c/em\u003e\u003c/strong\u003e\u003cspan\u003e \u003c/span\u003e\u003cstrong\u003e\u003cem\u003eFor\u003c/em\u003e\u003c/strong\u003e\u003cspan\u003e \u003c/span\u003e\u003cstrong\u003e\u003cem\u003ethe\u003c/em\u003e\u003c/strong\u003e\u003cspan\u003e \u003c/span\u003e\u003cstrong\u003e\u003cem\u003eessays and all other class materials we will be writing, you are\u003cspan\u003e \u003c/span\u003e\u003cu\u003enot\u003cspan\u003e \u003c/span\u003e\u003c/u\u003eto consult any sources other than those provided by me (unless I specifically direct you to do so).\u003cspan\u003e \u003c/span\u003e\u003c/em\u003e\u003c/strong\u003eConsulting outside sources – even just a quick Google search to “generate” ideas – could potentially constitute plagiarism (see the policy on Academic Honesty, below).\u003c/p\u003e\n\u003cp\u003e\u003cu\u003eResponse papers, discussion posts, and short writing:\u003c/u\u003e\u003c/p\u003e\n\u003cp\u003eFor each unit, you will produce several short writings that respond to a particular question about the reading, that focus on a particular writing skill, or that help jumpstart your thinking for the unit essay. We will sometimes (but not always) revise and resubmit these assignments. These assignments will be graded. They will be graded with the idea in mind that they are exploratory writings (i.e., they are not always going to be fully developed and finalized),\u003cspan\u003e \u003c/span\u003e\u003cem\u003ebut\u003cspan\u003e \u003c/span\u003e\u003c/em\u003ealso with the idea in mind that they are assignments that should be taken seriously.\u003c/p\u003e\n\u003cp\u003e\u003cu\u003eDrafts:\u003c/u\u003e\u003c/p\u003e\n\u003cp\u003eAfter reading and responding to the materials, you will submit a draft of the unit essay. The draft must be substantial – that is, it need not be full-length, but it must show engagement and effort. Drafts are not graded, but I will provide extensive commentary, questions, and suggestions before returning them to you. Though at an early stage of the writing process, your drafts nonetheless should be polished technically: i.e., grammar, format, and citation should all be correct. You will attach to your draft a “cover letter” in which you discuss the strengths and weaknesses of your draft, as well as answer certain specific questions I will provide you.\u003c/p\u003e\n\u003cp\u003e\u003cu\u003ePeer Review Draft workshop:\u003c/u\u003e\u003c/p\u003e\n\u003cp\u003eFor each unit, we will spend at least one class period “workshopping” your drafts. In addition to receiving commentary and suggestion from your classmates on your own work, you will be expected to provide helpful and thorough commentary and suggestion on your classmates’ work. Procedural details for each workshop will be provided at the appropriate times. We do workshops because one of the best ways to learn to analyze your own writing is through articulating (and hearing articulated) analysis of another’s.\u003c/p\u003e\n\u003cp\u003e\u003cu\u003eRevision:\u003c/u\u003e\u003c/p\u003e\n\u003cp\u003eAfter analyzing and rethinking your work through comments and workshops, you will revise your draft before submitting it for a grade. Revisions are usually extensive – that is, you should expect (and plan) to rethink and rewrite much of your essay between the draft and revision, and not just fix a few typos or proofreading errors. The revising process is crucial to improving as a writer and thus should be taken seriously. Like all writers at all levels of experience and expertise, you should plan on spending a lot of time revising.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eDeadlines\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eAs a writing-intensive class, this course runs on an especially tight schedule. You will have  substantial writing assignments to complete each week, and so falling behind can be particularly dangerous. Nonetheless, in the interest of fairness, late work will be penalized (typically at the rate of one-third of a letter grade per day late –\u003cspan\u003e \u003c/span\u003e\u003cem\u003enot per class meeting late\u003c/em\u003e). If you see that you will be unable to meet a deadline, notify me in advance.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSubmitting essays\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eFor this course, we will be using MLA style for citations and format, so be sure to familiarize yourself with it. Start by spending time here:\u003cspan\u003e \u003c/span\u003e\u003cstrong\u003e«\u003c/strong\u003e\u003ca href=\"http://usingsources.fas.harvard.edu/icb/icb.do\"\u003e\u003cstrong\u003ehttp://usingsources.fas.harvard.edu/icb/icb.do\u003c/strong\u003e\u003c/a\u003e\u003cstrong\u003e»\u003c/strong\u003e( We’ll talk about the Guide more in class.) In addition, you\u003cspan\u003e \u003c/span\u003e\u003cu\u003emust\u003c/u\u003e\u003cspan\u003e \u003c/span\u003eadhere to the following guidelines:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan\u003eUse only 12 point Times New Roman font, double-spaced.\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003eUse 1” right, left, top, and bottom margins. Left justify only. Do\u003cspan\u003e \u003c/span\u003e\u003cu\u003enot\u003cspan\u003e \u003c/span\u003e\u003c/u\u003eadd extra spaces between paragraphs.\u003c/li\u003e\n\u003cli\u003eOn the first page only, write the following information in the\u003cspan\u003e \u003c/span\u003e\u003cstrong\u003eupper\u003c/strong\u003e\u003cstrong\u003e\u003cspan\u003e \u003c/span\u003eleft hand corner\u003c/strong\u003e:\u003c/li\u003e\n\u003cul\u003e\n\u003cli\u003eYour name\u003c/li\u003e\n\u003cli\u003eExpo E-15 Essay #, Draft/Revision\u003c/li\u003e\n\u003cli\u003eDate\u003c/li\u003e\n\u003c/ul\u003e\n\u003cli\u003e\u003cspan\u003eNumber each page (including the first) in the upper right hand corner; the page number should be preceded by your Last Name\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eGrades\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eFinal grades will be determined according to the scale below. Please note that as the semester progresses, assignments will be graded with increasing rigor. In other words, as we learn more about writing and develop as writers, I will be holding you to higher standards: what may be forgiven in the first response paper or essay will not be forgiven in the second (this applies especially to the technical matters of citation). Note also that you will get grades on\u003cspan\u003e \u003c/span\u003e\u003cem\u003erevisions only\u003cspan\u003e \u003c/span\u003e\u003c/em\u003e(i.e., drafts are required but not graded). Grades on revisions are final; you may not revise a revision for another grade.\u003c/p\u003e\n\u003cp\u003eWe will discuss grades and the grading process in class, but please note that grades for this class should not be thought of in the same way that they might be in other classes. Writing is a process of thoughtful articulation and revision – there is never a single “correct” essay against which your essay will be graded. Instead, essays will be better or worse in how they accomplish particular goals and purposes; essay grades will reflect this rather than a pre-established standard.\u003c/p\u003e\n\u003cp\u003eUnit Essay 1: 35%\u003c/p\u003e\n\u003cp\u003eUnit Essay 2: 45%\u003c/p\u003e\n\u003cp\u003eResponse Papers and other writing assignments: 20%\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWriting Program policy on work completion\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eBecause this course is a planned sequence of writing, it is an official program-wide policy that you must write all of the assigned essays to pass the course, and you must write them within the schedule of the course\u003cspan\u003e \u003c/span\u003e\u003cem\u003ein order\u003cspan\u003e \u003c/span\u003e\u003c/em\u003e(i.e., not all at once in the last few days of the semester after you have fallen behind). If you fail to submit at least a substantial draft of an essay by the end of that essay’s unit (unless you have documented a medical problem), you are eligible to be officially excluded from the course and failed.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWriting Program policy on attendance\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eBecause instruction in E15 proceeds by sequential writing activities, your consistent attendance is essential. It is an official program-wide policy that if you are absent without medical or religious excuse more than twice, you are eligible to be officially excluded from the course and failed. On your second unexcused absence, you will receive a warning of your status in regard to that policy. Apart from religious holidays, only medical absences can be excused. Absences because of special events, such as athletic meets, debates, conferences, and concerts are not excusable absences.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAcademic Honesty\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eFrom the Extension School (\u003ca href=\"http://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity\"\u003ehttp://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity\u003c/a\u003e):\u003c/p\u003e\n\u003cp\u003ePlagiarism is the theft of someone else’s ideas and work. It is the incorporation of facts, ideas, or specific language that are not common knowledge, are taken from another source, and are not properly cited.\u003c/p\u003e\n\u003cp\u003eWhether a student copies verbatim or simply rephrases the ideas of another without properly acknowledging the source, the theft is the same. A computer program written as part of the student’s academic work is, like a paper, expected to be the student’s original work and subject to the same standards of representation. In the preparation of work submitted to meet course, program, or school requirements, whether a draft or a final version of a paper, project, take-home exam, computer program, placement exam, application essay, oral presentation, or other work, students must take great care to distinguish their own ideas and language from information derived from sources. Sources include published and unpublished primary and secondary materials, the Internet, and information and opinions of other people.\u003c/p\u003e\n\u003cp\u003eWhenever ideas or facts are derived from a student’s reading or research, the sources must be properly cited.\u003c/p\u003e\n\u003cp\u003eYou are responsible for understanding Harvard Extension School policies on academic integrity (\u003ca href=\"http://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity\"\u003ehttp://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity\u003c/a\u003e) and how to use sources responsibly.\u003c/p\u003e\n\u003cp\u003eNot knowing the rules, misunderstanding the rules, running out of time, submitting the wrong draft, or being overwhelmed with multiple demands are not acceptable excuses. There are no excuses for failure to uphold academic integrity. To support your learning about academic citation rules, please visit the Harvard Extension School Tips to Avoid Plagiarism (\u003ca href=\"https://fasmail.harvard.edu/OWA/redir.aspx?C=N8K4vnMWDkqDSdLRax09ahanCye5FtMIKq-9efMeedTQuj1IqrSmgObw8qfQx1_RtYbS_9lrzPs.\u0026amp;URL=http%3a%2f%2fwww.extension.harvard.edu%2fresources-policies%2fresources%2ftips-avoid-plagiarism\"\u003ewww.extension.harvard.edu/resources-policies/resources/tips-avoid-plagiarism\u003c/a\u003e), where you'll find links to the Harvard Guide to Using Sources and two free online 15-minute tutorials to test your knowledge of academic citation policy. The tutorials are anonymous open-learning tools.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eDisability Services\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eThe Extension School is committed to providing an accessible academic community. The Accessibility Office offers a variety of accommodations and services to students with documented disabilities. Please visit\u003cspan\u003e \u003c/span\u003e\u003ca href=\"https://fasmail.harvard.edu/OWA/redir.aspx?C=N8K4vnMWDkqDSdLRax09ahanCye5FtMIKq-9efMeedTQuj1IqrSmgObw8qfQx1_RtYbS_9lrzPs.\u0026amp;URL=http%3a%2f%2fwww.extension.harvard.edu%2fresources-policies%2fresources%2fdisability-services-accessibility\"\u003ewww.extension.harvard.edu/resources-policies/resources/disability-services-accessibility\u003c/a\u003e\u003cspan\u003e \u003c/span\u003efor more information.\u003cspan\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWriting Center\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eBe sure to take advantage of the resources available to you through the Extension School’s Writing Center in Grossman Library. Students who are enrolled in online courses may schedule appointments up to one week in advance, but are limited to two tutorials per week totaling no more than 7 tutorials per semester. To request a tutorial, send an email detailing the course you are enrolled in, an explanation of the assignment and due date to writing_center@dcemail.harvard.edu. \u003c/span\u003e\u003cstrong\u003eBe sure to attach your assignment as a Word (.doc or .docx) or PDF (.pdf) file\u003c/strong\u003e\u003cspan style=\"font-weight: 400;\"\u003e and as always when seeking detailed feedback, ask specific questions and explain your concerns about your writing. You should receive a response within 72 hours. If you are a local student, the Writing Center asks that you come for an in-person tutorial. For more detailed explanation, see the Writing Center link on the Harvard Extension School website\u003c/span\u003e\u003ca href=\"https://www.extension.harvard.edu/resources-policies/resources/writing-center\"\u003e\u003cspan style=\"font-weight: 400;\"\u003e https://www.extension.harvard.edu/resources-policies/resources/writing-center\u003c/span\u003e\u003c/a\u003e\u003cspan style=\"font-weight: 400;\"\u003e. \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eContacting me\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eIf you have a general question whose answer might benefit your classmates, please use our Canvas Discussions page. For specific questions, email is the best way to contact me, but please note that I cannot guarantee that I will be able to respond the same night to emails received after 8pm, though I will always try my best to respond within 24 hours. In the interest of fairness, however, I cannot respond to or comment on whole “intermediate” drafts (i.e., a second or third draft of a unit essay). I am always happy to answer\u003cspan\u003e \u003c/span\u003e\u003cem\u003especific questions\u003c/em\u003e. “Is this a good thesis?” or “How can I improve my introductory paragraph?” are\u003cspan\u003e \u003c/span\u003e\u003cem\u003enot\u003cspan\u003e \u003c/span\u003e\u003c/em\u003especific questions; “Would it be clearer if I said\u003cspan\u003e \u003c/span\u003e\u003cem\u003ex\u003cspan\u003e \u003c/span\u003e\u003c/em\u003einstead of\u003cspan\u003e \u003c/span\u003e\u003cem\u003ey\u003c/em\u003e?” or “I am worried about the connections between paragraphs 4 and 5”\u003cspan\u003e \u003c/span\u003e\u003cem\u003eare\u003c/em\u003e\u003cspan\u003e \u003c/span\u003especific questions. Emailers who include an attempt to answer their own questions are most commendable.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp style=\"text-align: center;\"\u003e\u003cstrong\u003eUNIT 1: The Persuasive Essay:  Taking a Stand on an Educational Issue\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eAcademic writers in the social sciences and the humanities make a living in great part from staking out a position on various issues. Entering into debates that mark their fields and public discourse, they clarify, refute, complicate, or elaborate on arguments that other writers have made; often they advance ideas that spawn new debates. This work also offers the personal satisfaction that comes from voicing ideas so rigorously and thoughtfully that their colleagues and the educated public take those ideas seriously. To convince their audience that their position on an issue is valid, writers take pains to define the reason for discussing an issue (\u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003emotive\u003c/span\u003e\u003c/i\u003e\u003cspan style=\"font-weight: 400;\"\u003e), to express a compelling—not obvious, not frivolous—idea succinctly and precisely (\u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003ethesis\u003c/span\u003e\u003c/i\u003e\u003cspan style=\"font-weight: 400;\"\u003e), and to develop that idea with analytical claims, evidence, and attention to objections that an opponent might make to their idea (\u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003ecounterargument\u003c/span\u003e\u003c/i\u003e\u003cspan style=\"font-weight: 400;\"\u003e).\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eUnit 1 Assignments\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eTo become familiar with such tools and experiences of academic writing, in your first essay you will take a stand on an educational issue. To help you define your position, you’ll investigate the ideas in each week’s additional assigned readings.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eAfter reading the additional essays, you’ll choose one text and focus on a significant aspect of its argument about education that you find problematical. This is perhaps the most difficult challenge of the assignment, yet the ability to shape a compelling question from your reading—a question that can drive an argumentative essay—is absolutely central to effective academic writing. Writing Exercises 1.1 through 1.3 will help you toward that goal.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eTo craft an effective essay, then, you’ll need to define the problem that you see in your selected essay’s argument, thus showing your readers your motive for writing your essay, for staking out your position. You’ll need to express your essay’s arguable assertion—your stand, or idea, or thesis—on that problem and to persuade your readers that your stand is valid by using evidence from your text (and possibly from other assigned readings) and from your experience. To strengthen your argument, you’ll also need to anticipate any objections that your readers might raise to your idea.\u003c/span\u003e\u003c/p\u003e\n\u003cp style=\"text-align: center;\"\u003e\u003cstrong\u003eUnit 1 Class Schedule\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 1 Aug. 28 – Introduction; Observation vs. Analytical Claim\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eIntroductions\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eSyllabus and course overview\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eWriting Sample\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eIn class exercise – Observation vs. Analytical Claim\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eFor next week:\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\n\u003cspan style=\"font-weight: 400;\"\u003eRead Chapters 1 \u0026amp; 2 in \u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003eA Short Guide to College Writing \u003c/span\u003e\u003c/i\u003e\u003cspan style=\"font-weight: 400;\"\u003eand Michael Moore “Idiot Nation”\u003c/span\u003e\n\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eWriting Exercise 1.1 due\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003eHow to Begin Exercise 1.1:\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eReview the additional assigned essays. Then select one essay that you would like to think about further. You’ll want to choose a text whose ideas challenge the beliefs you hold so that you can generate a provocative idea for your essay. This text will be the central source for your essay.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eYour Assignment:\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eWhenever you read a text, your first job, always, is to accurately accurately what it has to say. So the first exercise of this sequence asks you to write a pure summary of the essay you’ve chosen. Your summary should be less than a page (aim for about 18 lines).\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSome Advice:\u003c/strong\u003e\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\u003cspan style=\"font-weight: 400;\"\u003e Read the source essay you’ve chosen again and annotate the text. By “annotate,” I mean mark up your text, underlining or circling or highlighting key passages, words, and phrases, and noting in the margins what the author’s thesis (main idea) and supporting claims are. The aim of this reading is to determine accurately the author’s main idea, that is, the argument he or she is making.\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003e\u003cspan style=\"font-weight: 400;\"\u003e Then locate important supporting points. Zero in on the key points; forget (for the moment) the rest.\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003e\u003cspan style=\"font-weight: 400;\"\u003e Begin your summary by identifying the author and the source. State the main idea. Then present his or her key supporting points.\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003e\u003cspan style=\"font-weight: 400;\"\u003e Don’t evaluate; merely report. Your aim in this summary is to provide a concise, accurate version of the original.\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003e\n\u003cspan style=\"font-weight: 400;\"\u003e \u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003eUse your own words\u003c/span\u003e\u003c/i\u003e\u003cspan style=\"font-weight: 400;\"\u003e and an occasional quoted phrase.\u003c/span\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cstrong\u003eSept. 4 –\u003cspan\u003e NO CLASS – Labor Day Holiday\u003c/span\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 2  Sept. 11–  Summary; Motive and Thesis\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eFor next week:\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\n\u003cspan style=\"font-weight: 400;\"\u003eRead Chapter 3 in \u003ci\u003eA Short Guide to College Writing\u003c/i\u003e\u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003e \u003c/span\u003e\u003c/i\u003e\u003cspan style=\"font-weight: 400;\"\u003eand John Taylor Gatto, “Against School”\u003c/span\u003e\n\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eWriting Exercise 1.2 due\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003eWriting Exercise 1.2\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eBy now you’ve selected a text, and by summarizing the author’s main idea and key supporting points, you’ve accurately determined what the text says. The next two exercises will ask you to investigate the text. First you will ask what truth the author has to offer you, and then you will challenge the text by questioning the author’s idea, thinking, and evidence. Your judgment of the text will result from considering these two exercises against one another. What should emerge from them is a tension between your different views of the text that is difficult to resolve. Resolving this tension—this problem—will lead you to an idea that pushes beyond or against the ideas in the text.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eYour Assignment:\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eConsider the world from the author’s point of view. How does the evidence of your personal experience, your observations, or your knowledge tend to affirm the author’s ideas?  Explain to the author in a letter of about two pages. Please cite the title and author of any sources—other assigned essays or any other outside texts you’ve read—that you might refer to in your letter. Since you are addressing a person, write in a conversational style.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 3  Sept. 18 – “Elements of the Essay”; Prose and Style; Using Sources\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eFor next week:\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\n\u003cspan style=\"font-weight: 400;\"\u003eRead Chapter 7 in \u003ci\u003eA Short Guide to College Writing\u003c/i\u003e\u003c/span\u003e\u003cspan style=\"font-weight: 400;\"\u003e and Mike Rose “I Just Wanna be Average”\u003c/span\u003e\n\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eWriting Exercise 1.3 due\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003eWriting Exercise 1.3\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eYou’ve begun to interact with the ideas of a text. In Exercise 1.2 you considered what truth the author of the text has to offer you. Now it’s time to challenge the text.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eYour assignment:\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eFirst, investigate the author’s ideas, thinking, and evidence using the questions on the following page whenever you find them helpful. Feel free to invent other questions that help you pry beneath the surface of the text or that allow you to make imaginative connections to evidence from your personal experience, your observations, or your knowledge. Annotate again: write notes to yourself in the margins, underline, use your notebook—whatever will provide you with an informal record of your thinking.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eThen in about two pages (double-spaced), write a letter responding to the author in a good-natured tone. In your letter, tell the author the results of your latest investigations. Use a conversational style as you do your best to make your letter thoughtful and interesting. Again, please cite the author and title of any outside sources that you may refer to in your letter.\u003c/span\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 4 Sept. 25 – Thesis and Counterargument; Developing an Idea; Outlines\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eFor next week:\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\n\u003cspan style=\"font-weight: 400;\"\u003eRead Chapter 4 in \u003ci\u003eA Short Guide to College Writing\u003c/i\u003e\u003c/span\u003e\u003cspan style=\"font-weight: 400;\"\u003e and Jonathan Kozol, “Confections of Apartheid”\u003c/span\u003e\n\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eFirst Draft of Essay 1 due with accompanying Cover Letter\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003e\u003ci\u003eEssay 1:  Taking a Stance on an Educational Issue\u003c/i\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eExercises 1.1-1.3 have helped you define a position on your selected assigned essay. You have summarized the article and affirmed and challenged the author’s stance based on your own experiences. While Exercises 1.2 and 1.3 asked you to write a letter to the author and encouraged a conversational tone, you will now write an academic essay analyzing the educational issue. You should focus on some problematical aspect of the source, a gap or inconsistency, and explicate the problem. You should push beyond or against the author’s ideas to offer \u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003ean idea of your own\u003c/span\u003e\u003c/i\u003e\u003cspan style=\"font-weight: 400;\"\u003e. Your assignment should be 4-5 pages in length.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSome advice before you begin:\u003c/strong\u003e\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cstrong\u003e   Focus. \u003c/strong\u003e\u003cspan style=\"font-weight: 400;\"\u003eWhat question or problem provides the focus of the essay?  Be sure to introduce this problem in the introduction of your essay and orient your reader in terms of who, what, when, and where.\u003c/span\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003e   Evidence. \u003c/strong\u003e\u003cspan style=\"font-weight: 400;\"\u003eThe middle of your essay, the main body, has to accomplish three tasks in terms of specific evidence:\u003c/span\u003e\n\u003c/li\u003e\n\u003cli\u003e\u003cspan style=\"font-weight: 400;\"\u003e   Provide necessary background information\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003e\u003cspan style=\"font-weight: 400;\"\u003e   Elaborate the problem as you see it\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003e\u003cspan style=\"font-weight: 400;\"\u003e   Develop the problem\u003c/span\u003e\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eGiving evidence for your claims is one way of convincing your readers that you’ve thought carefully about the point you’re making. Evidence for a claim may be as simple as a direct quotation or a paraphrase from the text; but quotations generally do not speak for themselves—you must explain how they illuminate the point you’re making in order to let your reader follow your logic. That is, to reach your audience you need to demonstrate how and why your evidence really does support your point.\u003c/span\u003e\u003c/p\u003e\n\u003col start=\"3\"\u003e\n\u003cli\u003e\n\u003cstrong\u003e   Idea. \u003c/strong\u003e\u003cspan style=\"font-weight: 400;\"\u003eWhat is your idea; that is, what conclusion (interpretation) do you come to?  Does your idea account for the evidence, and is the evidence sufficient to the idea?\u003c/span\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003e   What’s at stake?\u003c/strong\u003e\u003cspan style=\"font-weight: 400;\"\u003e  Finally, do you do more than merely demonstrate a problem? Are you offering a new perspective or a new solution to the issue at hand?  Be sure you don’t leave your reader asking “So What?” once they’ve finished reading your essay.\u003c/span\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003e   Conclusion. \u003c/strong\u003e\u003cspan style=\"font-weight: 400;\"\u003eIn most drafts, the weakest part of the essay is the last part. But think about the so-what factor and summarize your analysis.\u003c/span\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003e  Write a cover letter to me about your essay. \u003c/strong\u003e\u003cspan style=\"font-weight: 400;\"\u003eI will expect such a letter for every essay you turn in, draft AND final essay. Tell me the subject of your essay (state your main THESIS ARGUMENT) and tell me what you think its strengths and weaknesses are. Your letter need not be exhaustive, but it should be specific. A page sounds right, but shorter is fine as long as you give reasons for what you identify as the essay’s strengths and weaknesses. In articulating for yourself what you’ve written about, where it works and where it doesn’t, you will become an attentive critic of your own writing and ideas.\u003c/span\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 5 Oct. 2 – Shaping the Paragraph; Unifying an Argument\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eSign up for individual Conferences for Essay 1 to take place during mutual agreed upon times\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eFor next class:\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\n\u003cspan style=\"font-weight: 400;\"\u003eRead Chapter 5 in \u003ci\u003eA Short Guide to College Writing\u003c/i\u003e\u003c/span\u003e\u003cspan style=\"font-weight: 400;\"\u003e and Andrew Delbanco “College at Risk”\u003c/span\u003e\n\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eRevise Essay 1 and prepare a new Cover letter for  Peer Review\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003eOct. 9 –\u003cspan\u003e NO CLASS Columbus Day Holiday\u003c/span\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 6 Oct. 16 – Editing; Common Problems in Drafts\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eExchange essays and cover letters for Peer Review on Oct. 23\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eFor next class:\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\n\u003cspan style=\"font-weight: 400;\"\u003eRead Chapter 6 in \u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003eA Short Guide\u003c/span\u003e\u003c/i\u003e\n\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eRead and provide both marginal feedback and writer a reader-response letter for each student writer. Please send your comments to your group no later than Sunday Oct. 22 at midnight EST\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 7 Oct. 23 – Interpreting Feedback and Peer Review Conference of Essay 1\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eFor next class:\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eFinal Draft of Essay 1 and Cover Letter due\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cbr\u003e\n\u003cp\u003e\u003cstrong\u003eUnit 2\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eThe Short Story:  Analyzing a Text\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eA common type of academic argument is the interpretation of what a text might mean. Scholars call this kind of interpretive operation “a close reading” of the text, or “a textual analysis.”  Instructors expect students to perform this kind of analytical operation with proficiency, for the mastery of interpretative skills gives students the powerful tools they need for thinking and writing in and outside their fields.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eUnit 2 Assignments\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eSince the skill of textual analysis is so important, our second essay assignment of the semester will introduce you to the demands of interpreting a single text—in this case a short story. The essay will offer your interpretation of what the story is most essentially \u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003eabout\u003c/span\u003e\u003c/i\u003e\u003cspan style=\"font-weight: 400;\"\u003e. How can you explain and describe the \u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003eessence\u003c/span\u003e\u003c/i\u003e\u003cspan style=\"font-weight: 400;\"\u003e of the story?  In a conventional summary, you would mostly be giving the straightforward details of the story: the who, what, when, where, how—in these assignments those details will emerge but they will unfold as part of your explanation of the story. Unlike a straightforward summary, which usually would not provoke much response, your interpretive summary should be \u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003earguable\u003c/span\u003e\u003c/i\u003e\u003cspan style=\"font-weight: 400;\"\u003e—it should invite analysis. To help you with this operation, you will first work your way through three pre-draft exercises that reflect the different strategies that scholars use when they interpret a text; then you will write a draft.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eUnit 2 Class Schedule\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 8 Oct. 30 – Introduction to Literary Analysis; Incorporating Personal Experience\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eFor next class:\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\n\u003cspan style=\"font-weight: 400;\"\u003eRead Chapters 1 \u0026amp; 2 in \u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003eA Short Guide to Writing About Literature\u003c/span\u003e\u003c/i\u003e\u003cspan style=\"font-weight: 400;\"\u003e and Edgar Allan Poe, “The Cask of Amontillado”\u003c/span\u003e\n\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eWriting Exercise 2.1 due\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWriting Exercise 2.1\u003c/strong\u003e\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cspan style=\"font-weight: 400;\"\u003e \u003c/span\u003e \u003cspan style=\"font-weight: 400;\"\u003eRead Edgar Allan Poe’s “The Cask of Amontillado.”  First, read the story all the way through so that you have a sense of it as a whole. Then re-read the story and annotate the text; that is, mark passages that perplex and interest you, circle words or phrases that seem to make a pattern in the text or that strike you as intriguing; jot down in the text’s margins any questions or ideas you have about what this story might mean. Choose three passages that you think are significant. A passage may be a few lines or a short paragraph. By “significant,” I mean important, curious, or problematical in terms of the whole story. Don’t shy away from passages you don’t understand or that don’t seem to fit in. Often, it is exactly such a passage that will turn out to be the key to your view of the text.\u003c/span\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cspan style=\"font-weight: 400;\"\u003e \u003c/span\u003e \u003cspan style=\"font-weight: 400;\"\u003eQuote each passage and note the page number in parentheses. Then, after each quoted passage, briefly explain why you chose it. Your assignment should add up to approximately a page and a half of writing (double spaced), no more than two.\u003c/span\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eAgain, please see our course policy for details on how I’d like you to format your writing assignments.\u003c/span\u003e\u003c/p\u003e\n\u003cbr\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 9 Nov. 6 – The World of the Short Story\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eFor next class:\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\n\u003cspan style=\"font-weight: 400;\"\u003eRead Chapter 3 in \u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003eA Short Guide to Writing about Literature, \u003c/span\u003e\u003c/i\u003e\u003cspan style=\"font-weight: 400;\"\u003eJohn Updike “A\u0026amp;P” as well as Joyce Carol Oates “Where Are You Going, Where Have You Been?”\u003c/span\u003e\n\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eWriting Exercise 2.2 \u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cbr\u003e\n\u003cp\u003e\u003cstrong\u003eWriting Exercise 2.2\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eIn your first assignment, you investigated a text by close reading, annotating, and selecting key passages. This assignment asks you to investigate two additional stories using a different approach. As before, you begin with close reading.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003ePlease read John Updike’s “A\u0026amp;P” and Joyce Carol Oates’ “Where Are You Going, Where Have You Been.”  Then re-read each story and annotate it.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eWrite a 1 ½ page  (no longer) interpretive summary of ONE of these stories. Choose two scenes that you would point to as evidence for your claim, and one scene that poses a challenge to your claim. Briefly describe each and how it works (or does not work) to support your interpretation. What do you make of the writer’s \u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003echoices\u003c/span\u003e\u003c/i\u003e\u003cspan style=\"font-weight: 400;\"\u003e in these scenes—why choose to let the story unfold in this particular way?  Why choose to have the character make a specific comment, or take an action in a certain way, at a certain moment?  Be sure to \u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003epay close attention to the language\u003c/span\u003e\u003c/i\u003e\u003cspan style=\"font-weight: 400;\"\u003e of the scenes. Which words are especially noteworthy—which are most evocative, suggestive, persuasive, strident, surprising?  Which puzzle you?  \u003c/span\u003e\u003c/p\u003e\n\u003cbr\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 10 Nov. 13 – Motive Part II; Focusing a Literary Analysis\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eFor next class:\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\n\u003cspan style=\"font-weight: 400;\"\u003eRead Chapter 4 in \u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003eA Short Guide to Writing About Literature \u003c/span\u003e\u003c/i\u003e\u003cspan style=\"font-weight: 400;\"\u003eand Bharti Mukherjee “The Management of Grief”\u003c/span\u003e\n\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eWriting Exercise 2.3\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003eWriting Exercise 2.3\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eSo far you have investigated three stories, using different approaches to help you get beneath the surface of a text. But now it’s time to choose the story you will work with for this essay.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eYour assignment is to select one of the assigned short stories for Essay 2. Then please do the following:\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eReread the story you’ve chosen to write about, taking notes, underlining key words and phrases, marking the passages that seem important or different or strange. Summarize the story in a sentence or two and then say what issue or issues it engages. Then pose two questions about the issue or issues—two questions about (in other words) what the story \u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003emeans\u003c/span\u003e\u003c/i\u003e\u003cspan style=\"font-weight: 400;\"\u003e. Each question should:\u003c/span\u003e\u003c/p\u003e\n\u003col\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003ebe a real question, a question to which there is no single, easy answer\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003erefer to the particular passage or passages in the story that made you ask the question\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\n\u003cspan style=\"font-weight: 400;\"\u003earticulate what \u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003eyou\u003c/span\u003e\u003c/i\u003e\u003cspan style=\"font-weight: 400;\"\u003e find genuinely puzzling or mysterious about the story\u003c/span\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 11 Nov. 20 – Integrating Quotations\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eFor next week:\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\n\u003cspan style=\"font-weight: 400;\"\u003eRead Chapter 10 in \u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003eA Short Guide to Writing About Literature \u003c/span\u003e\u003c/i\u003e\u003cspan style=\"font-weight: 400;\"\u003eand James Baldwin, “Sonny’s Blues” \u003c/span\u003e\n\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eFor next class Draft of Essay 2 and Cover Letter due\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eIndividual Conferences for Essay 2 to take place during mutual agreed upon times\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003e  \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003ci\u003eEssay 2:  Analyzing a Text\u003c/i\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eThis essay should explore one of the questions you developed in Exercise 2.3 and should provide a tentative answer to it. If you are still having difficulty focusing your essay, use the approaches from Exercises 2.1 and 2.2 with the story you have selected to provoke more analysis. Your question will become more focused—and probably more complicated—as you reread and think: your initial sense of what \u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003ehappens\u003c/span\u003e\u003c/i\u003e\u003cspan style=\"font-weight: 400;\"\u003e in the story may change as a result of your work; a new issue may have emerged; your understanding of what’s most important about the text may become more complex; an alternate way of interpreting the story may become more compelling. At this point in the process, you’ll likely want to consider some new passages and reconsider some old ones.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eThink of your task here as explaining to your readers what the text you’ve chosen to write about \u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003emeans\u003c/span\u003e\u003c/i\u003e\u003cspan style=\"font-weight: 400;\"\u003e. Your readers in this case are your classmates and me. Assume we’ve read the story you’re writing about, but that we don’t \u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003eknow\u003c/span\u003e\u003c/i\u003e\u003cspan style=\"font-weight: 400;\"\u003e it as well as you do. Through analysis of particular passages from the text, show us how you arrived at your interpretation.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eBe sure to give your essay an interesting title. Your draft should have a beginning, a middle, and an end. It should be vividly written in clear, economical prose, and, like all good essays, it should attempt to open your readers’ eyes to some new way of seeing things. Your essay should be between 4 and 5 pages. Again, please consult our syllabus for format requirements.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eSome advice before you begin:\u003c/span\u003e\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003e\n\u003cspan style=\"font-weight: 400;\"\u003e \u003c/span\u003e \u003cstrong\u003eFocus. \u003c/strong\u003e\u003cspan style=\"font-weight: 400;\"\u003eIntroduce the story and then let the readers know what problem you see in it. A clear focus in the beginning tells readers what you will be thinking about in the essay. It also helps keep you on track.\u003c/span\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cspan style=\"font-weight: 400;\"\u003e \u003c/span\u003e \u003cstrong\u003eAnalyze your evidence\u003c/strong\u003e\u003cspan style=\"font-weight: 400;\"\u003e. Merely presenting evidence is usually not enough to make your idea clear. You will also need to analyze, or reflect on, your evidence—that is, to think in writing about its significance. When you analyze, you tell yourself and your readers how you see the evidence. You enact the thinking that will lead both you and your readers toward your idea (your conclusion.)  You make your thinking accessible. In effect, you are saying, “Here’s what I think, and here’s why I think it.”  Analyzing serves other purposes, too:  it will help you develop your essay, to connect pieces of evidence, and, finally, to create transitions between your paragraphs. It will help make your essay cohere.\u003c/span\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cspan style=\"font-weight: 400;\"\u003e \u003c/span\u003e \u003cstrong\u003eOrient your readers\u003c/strong\u003e\u003cspan style=\"font-weight: 400;\"\u003e. Please remember that you’re writing for an intelligent, public audience. Your readers will lose patience with you if you refer mysteriously to your text, assuming they know what you mean. You will have to explain yourself fully, working in necessary background information so that your readers can follow your thinking. And refer concretely and accurately to your text, using selected quotations.\u003c/span\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 12 Nov. 27 – Structure and Conclusions; “Elements of the Essay” revisited\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eSign up for individual Conferences for Essay 2 to take place during mutual agreed upon times\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eFor next week:\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\n\u003cspan style=\"font-weight: 400;\"\u003eRead Chapter 14 in \u003c/span\u003e\u003ci\u003e\u003cspan style=\"font-weight: 400;\"\u003eA Short Guide to Writing About Literature\u003c/span\u003e\u003c/i\u003e\n\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eSecond Draft of Essay 2 due with accompanying Cover Letter – Exchange for Peer Review\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003e  \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 13 Dec. 4 –  Structure and Conclusions\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eExchange Peer Review Cover Letters and revised Essay 2 \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eFor next week:\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli style=\"font-weight: 400;\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eRead and provide both marginal feedback and writer a reader-response letter for each student writer. Please send your comments to your group no later than Sunday Dec. 10 at midnight EST\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 14 Dec. 11 –  Peer Review\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eFriday, Dec. 15  –  Final Revision Due\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eFinal Revision of Essay 2 and Course Portfolio Due\u003c/span\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cdiv class=\"content-box pad-box-micro border border-b border-t\" style=\"background-color: whitesmoke;\"\u003e\n\u003ch2 style=\"text-align: center;\"\u003e\u003ca class=\"icon-rubric-dark\" style=\"color: black; text-decoration: none;\"\u003e Course Information\u003c/a\u003e\u003c/h2\u003e\n\u003c/div\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cp\u003e \u003ciframe style=\"width: 100%; height: 200px;\" title=\"Course Info\" src=\"https://canvas-course-info.tlt.harvard.edu/course_info/widget.html?f=title\u0026amp;f=course.registrar_code_display\u0026amp;f=term.display_name\u0026amp;f=instructors_display\u0026amp;f=location\u0026amp;f=meeting_time\u0026amp;f=exam_group\u0026amp;f=description\u0026amp;f=notes\" width=\"300\" height=\"150\" allowfullscreen=\"allowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\"\u003e\u003c/iframe\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e","notices":[]};
+</script>
+
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/navigation_header.bundle-9669f80a51.js" defer="defer"></script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/4225508/global.min.js" defer="defer"></script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/3751539/EXPGlobal.js" defer="defer"></script>
+
+</div> <!-- #application -->
+</body>
+</html>

@@ -1,0 +1,1358 @@
+
+
+<!DOCTYPE html>
+<html class="scripts-not-loaded" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Syllabus for Precalculus</title>
+  <!--[if lte IE 9]> <meta http-equiv=refresh content="0; URL=/ie-9-is-not-supported.html" /> <![endif]-->
+  <link rel="shortcut icon" type="image/x-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/favicon-e10d657a73.ico" />
+  <link rel="apple-touch-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/apple-touch-icon-585e5d997d.png" />
+  
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.css" />
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/common-de9877d2f0.css" />
+  <script>
+//<![CDATA[
+
+!function(){
+  var o,s,v;
+  if (!(window.Promise && Object.assign && Object.values && [].find && [].includes && (o={},s=Symbol(),v={},o[s]=v,o[s]===v) && (function f(){}).bind().name==='bound f')) {
+    s = 's', document.write('<'+s+'cr'+'ipt src="https://du11hjcvx0uqb.cloudfront.net/dist/ie11-polyfill-64b21f7f37.js"></'+s+'c'+'ript>');
+  }
+}();
+      
+//]]>
+</script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/lato-fontfaceobserver-11a14bc0b6.js" async="async"></script>
+  
+  <meta name="apple-itunes-app" content="app-id=480883488" />
+<link rel="manifest" href="/web-app-manifest/manifest.json" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#008EE2">
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/tinymce-29f8b0a23f.css" />
+<link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/syllabus-2f51f24f19.css" />
+  
+  <link rel="stylesheet" media="all" href="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/4225502/global.min.css" />
+  <script>
+    function _earlyClick(e){
+      var c = e.target
+      while (c && c.ownerDocument) {
+        if (c.getAttribute('href') == '#' || c.getAttribute('data-method')) {
+          e.preventDefault()
+          (_earlyClick.clicks = _earlyClick.clicks || []).push(c)
+          break
+        }
+        c = c.parentNode
+      }
+    }
+    document.addEventListener('click', _earlyClick)
+  </script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.js" defer="defer"></script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/vendor.bundle-2585fc489b.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/New_York-c3226761e3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/en_US-80a0ce259b.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/appBootstrap.bundle-43015c2be3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/common.bundle-07f53473d3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/syllabus.bundle-8eb56aaa04.js" defer="defer"></script>
+</head>
+
+<body class="with-left-side course-menu-expanded with-right-side syllabus primary-nav-expanded context-course_33017">
+
+<noscript>
+  <div role="alert" class="ic-flash-static ic-flash-error">
+    <div class="ic-flash__icon" aria-hidden="true">
+      <i class="icon-warning"></i>
+    </div>
+    <h1>You need to have JavaScript enabled in order to access this site.</h1>
+  </div>
+</noscript>
+
+
+
+
+
+<ul id="flash_message_holder"></ul>
+<div id="flash_screenreader_holder"></div>
+
+<div id="application" class="ic-app">
+  
+  <header id="header" class="ic-app-header no-print no-user">
+    <a href="#content" id="skip_navigation_link">Skip To Content</a>
+      <div role="region" class="ic-app-header__main-navigation" aria-label="Main Navigation">
+        <div class="ic-app-header__logomark-container">
+          <a href="https://canvas.harvard.edu/" class="ic-app-header__logomark">
+            <span class="screenreader-only">Dashboard</span>
+          </a>
+        </div>
+        <ul id="menu" class="ic-app-header__menu-list">
+            <li class="menu-item ic-app-header__menu-list-item">
+              <a id="global_nav_login_link" href="/login" class="ic-app-header__menu-list-link">
+                <div class="menu-item-icon-container" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--login" version="1.1" x="0" y="0" viewBox="241 -241 512 512" enable-background="new 241 -241 512 512" xml:space="preserve"><path d="M743.9 5.9l-35.7-35.7H492.9c-6.5-16.2-17.3-32-31.7-46.4 -50.4-50.4-132-50.4-182.4 0s-50.4 132.1 0 182.5 132 50.4 182.4 0c11.8-11.8 20.6-25.9 27-41.8H547L570.6 88l22.8-22.8L616.2 88 639 65.2 661.8 88l24.1-24.1 15.6-1.5 4.6-0.5L753 15 743.9 5.9 743.9 5.9zM694.4 37.1l-15.6 1.5 -4.6 0.5 -12.4 12.4 -12.9-12.9h-19.8l-12.9 12.9 -12.9-12.9h-19.8l-12.9 12.9 -12.9-12.9h-87.6l-2.9 8.8c-5.3 16-13.2 29.5-24.2 40.6 -40.3 40.3-105.6 40.3-145.9 0s-40.3-105.7 0-146 105.6-40.3 145.9 0c14.3 14.3 24.4 29.8 28.6 44.6l2.7 9.4h223.3l19 19L694.4 37.1 694.4 37.1zM322.3-16.2c-17.5 17.5-17.5 46 0 63.5 17.5 17.5 46 17.5 63.5 0 17.5-17.5 17.5-46 0-63.5C368.2-33.8 339.8-33.8 322.3-16.2L322.3-16.2zM367.6 29.1c-7.5 7.5-19.7 7.5-27.2 0 -7.5-7.5-7.5-19.7 0-27.2s19.7-7.5 27.2 0S375.2 21.6 367.6 29.1L367.6 29.1z"/></svg>
+
+                </div>
+                <div class="menu-item__text">
+                  Login
+                </div>
+              </a>
+            </li>
+          <li class="ic-app-header__menu-list-item ">
+            <a id="global_nav_dashboard_link" href="https://canvas.harvard.edu/" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--dashboard" version="1.1" x="0" y="0" viewBox="0 0 280 200" enable-background="new 0 0 280 200" xml:space="preserve"><path d="M273.09,180.75H197.47V164.47h62.62A122.16,122.16,0,1,0,17.85,142a124,124,0,0,0,2,22.51H90.18v16.29H6.89l-1.5-6.22A138.51,138.51,0,0,1,1.57,142C1.57,65.64,63.67,3.53,140,3.53S278.43,65.64,278.43,142a137.67,137.67,0,0,1-3.84,32.57ZM66.49,87.63,50.24,71.38,61.75,59.86,78,76.12Zm147,0L202,76.12l16.25-16.25,11.51,11.51ZM131.85,53.82v-23h16.29v23Zm15.63,142.3a31.71,31.71,0,0,1-28-16.81c-6.4-12.08-15.73-72.29-17.54-84.25a8.15,8.15,0,0,1,13.58-7.2c8.88,8.21,53.48,49.72,59.88,61.81a31.61,31.61,0,0,1-27.9,46.45ZM121.81,116.2c4.17,24.56,9.23,50.21,12,55.49A15.35,15.35,0,1,0,161,157.3C158.18,152,139.79,133.44,121.81,116.2Z" /></svg>
+
+              </div>
+              <div class="menu-item__text">Dashboard</div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ic-app-header__menu-list-item--active">
+            <a id="global_nav_courses_link" href="/courses" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--courses" version="1.1" x="0" y="0" viewBox="0 0 280 259" enable-background="new 0 0 280 259" xml:space="preserve"><path d="M73.31,198c-11.93,0-22.22,8-24,18.73a26.67,26.67,0,0,0-.3,3.63v.3a22,22,0,0,0,5.44,14.65,22.47,22.47,0,0,0,17.22,8H200V228.19h-134V213.08H200V198Zm21-105.74h90.64V62H94.3ZM79.19,107.34V46.92H200v60.42Zm7.55,30.21V122.45H192.49v15.11ZM71.65,16.71A22.72,22.72,0,0,0,49,39.36V190.88a41.12,41.12,0,0,1,24.32-8h157V16.71ZM33.88,39.36A37.78,37.78,0,0,1,71.65,1.6H245.36V198H215.15v45.32h22.66V258.4H71.65a37.85,37.85,0,0,1-37.76-37.76Z"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Courses
+              </div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_calendar_link" href="/calendar" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--calendar" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M197.07,213.38h16.31V197.07H197.07Zm-16.31,16.31V180.76h48.92v48.92Zm-48.92-16.31h16.31V197.07H131.85Zm-16.31,16.31V180.76h48.92v48.92ZM66.62,213.38H82.93V197.07H66.62ZM50.32,229.68V180.76H99.24v48.92Zm146.75-81.53h16.31V131.85H197.07Zm-16.31,16.31V115.54h48.92v48.92Zm-48.92-16.31h16.31V131.85H131.85Zm-16.31,16.31V115.54h48.92v48.92ZM66.62,148.15H82.93V131.85H66.62ZM50.32,164.46V115.54H99.24v48.92ZM34,262.29H246V82.93H34ZM246,66.62V42.16A8.17,8.17,0,0,0,237.84,34H213.38v8.15a8.15,8.15,0,1,1-16.31,0V34H82.93v8.15a8.15,8.15,0,0,1-16.31,0V34H42.16A8.17,8.17,0,0,0,34,42.16V66.62Zm-8.15-48.92a24.49,24.49,0,0,1,24.46,24.46V278.6H17.71V42.16A24.49,24.49,0,0,1,42.16,17.71H66.62V9.55a8.15,8.15,0,0,1,16.31,0v8.15H197.07V9.55a8.15,8.15,0,1,1,16.31,0v8.15Z"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Calendar
+              </div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_conversations_link" href="/conversations" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--inbox" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M91.72,120.75h96.56V104.65H91.72Zm0,48.28h80.47V152.94H91.72Zm0-96.56h80.47V56.37H91.72Zm160.94,34.88H228.52V10.78h-177v96.56H27.34A24.17,24.17,0,0,0,3.2,131.48V244.14a24.17,24.17,0,0,0,24.14,24.14H252.66a24.17,24.17,0,0,0,24.14-24.14V131.48A24.17,24.17,0,0,0,252.66,107.34Zm0,16.09a8.06,8.06,0,0,1,8,8v51.77l-32.19,19.31V123.44ZM67.58,203.91v-177H212.42v177ZM27.34,123.44H51.48v79.13L19.29,183.26V131.48A8.06,8.06,0,0,1,27.34,123.44ZM252.66,252.19H27.34a8.06,8.06,0,0,1-8-8V202l30,18H230.75l30-18v42.12A8.06,8.06,0,0,1,252.66,252.19Z"/></svg>
+
+                <span class="menu-item__badge" style="display: none">0</span>
+              </div>
+              <div class="menu-item__text">
+                Inbox
+              </div>
+            </a>
+          </li>
+          <li class="ic-app-header__menu-list-item">
+           <a id="global_nav_help_link" class="ic-app-header__menu-list-link" data-track-category="help system" data-track-label="help button" href="http://help.instructure.com/">
+              <div class="menu-item-icon-container" role="presentation">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg menu-item__icon svg-icon-help" version="1.1" x="0" y="0" viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve" fill="currentColor"><path d="M100,127.88A11.15,11.15,0,1,0,111.16,139,11.16,11.16,0,0,0,100,127.88Zm8.82-88.08a33.19,33.19,0,0,1,23.5,23.5,33.54,33.54,0,0,1-24,41.23,3.4,3.4,0,0,0-2.74,3.15v9.06H94.42v-9.06a14.57,14.57,0,0,1,11.13-14,22.43,22.43,0,0,0,13.66-10.27,22.73,22.73,0,0,0,2.31-17.37A21.92,21.92,0,0,0,106,50.59a22.67,22.67,0,0,0-19.68,3.88,22.18,22.18,0,0,0-8.65,17.64H66.54a33.25,33.25,0,0,1,13-26.47A33.72,33.72,0,0,1,108.82,39.8ZM100,5.2A94.8,94.8,0,1,0,194.8,100,94.91,94.91,0,0,0,100,5.2m0,178.45A83.65,83.65,0,1,1,183.65,100,83.73,83.73,0,0,1,100,183.65" transform="translate(-5.2 -5.2)"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Help
+              </div>
+</a>          </li>
+        </ul>
+      </div>
+      <div class="ic-app-header__secondary-navigation">
+        <ul class="ic-app-header__menu-list">
+          <li class="menu-item ic-app-header__menu-list-item">
+            <button
+              id="primaryNavToggle"
+              class="ic-app-header__menu-list-link ic-app-header__menu-list-link--nav-toggle"
+              aria-label="
+                Minimize global navigation"
+              title="
+                Minimize global navigation"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--navtoggle" version="1.1" x="0" y="0" width="40" height="32" viewBox="0 0 40 32" xml:space="preserve">
+  <path d="M39.5,30.28V2.48H37.18v27.8Zm-4.93-13.9L22.17,4,20.53,5.61l9.61,9.61H.5v2.31H30.14l-9.61,9.61,1.64,1.64Z"/>
+</svg>
+
+            </button>
+          </li>
+        </ul>
+      </div>
+    <div id="global_nav_tray_container"></div>
+  </header>
+
+
+  <div id="instructure_ajax_error_box">
+    <div style="text-align: right; background-color: #fff;"><a href="#" class="close_instructure_ajax_error_box_link">Close</a></div>
+    <iframe id="instructure_ajax_error_result" src="about:blank" style="border: 0;" title="Error"></iframe>
+  </div>
+
+  
+
+  <div id="wrapper" class="ic-Layout-wrapper">
+      <div class="ic-app-nav-toggle-and-crumbs no-print">
+          <button type="button" id="courseMenuToggle" class="Button Button--link ic-app-course-nav-toggle" aria-live="polite" aria-label="Hide Courses Navigation Menu" title="Hide Courses Navigation Menu">
+            <i class="icon-hamburger" aria-hidden="true"></i>
+          </button>
+          <div class="ic-app-crumbs">
+        <nav id="breadcrumbs" role="navigation" aria-label="breadcrumbs"><ul><li class="home"><a href="/"><span class="ellipsible">      <i class="icon-home"
+         title="My Dashboard">
+        <span class="screenreader-only">My Dashboard</span>
+      </i>
+</span></a></li><li><span class="ellipsible">MATH E-10 (12572)</span></li><li><span class="ellipsible">Syllabus</span></li></ul></nav>
+        </div>
+      </div>
+    <div id="main" class="ic-Layout-columns">
+        <div class="ic-Layout-watermark"></div>
+        <div id="left-side"
+          class="ic-app-course-menu list-view"
+          style="display: block"
+          >
+              <span id="section-tabs-header-subtitle" class="ellipsis">2017-2018 Fall</span>
+            <nav role="navigation" aria-label="Courses Navigation Menu"><ul id="section-tabs"><li class="section"><a href="/courses/33017/assignments/syllabus" title="Syllabus" class="syllabus active">Syllabus</a></li><li class="section"><a href="/courses/33017/external_tools/26810" title="Lecture Video" class="context_external_tool_26810">Lecture Video</a></li><li class="section"><a href="/courses/33017/external_tools/13815" title="Student Resources" class="context_external_tool_13815">Student Resources</a></li><li class="section"><a href="/courses/33017/external_tools/14120" title="Library Reserves" class="context_external_tool_14120">Library Reserves</a></li></ul></nav>
+        </div>
+      <div id="not_right_side" class="ic-app-main-content">
+        <div id="content-wrapper" class="ic-Layout-contentWrapper">
+            
+
+          <div id="content" class="ic-Layout-contentMain" role="main">
+            
+
+
+
+<div class="ic-Action-header">
+  <div class="ic-Action-header__Primary">
+    <h1 class="ic-Action-header__Heading">Course Syllabus</h1>
+  </div>
+  <div class="ic-Action-header__Secondary">
+    <a href="#" class="jump_to_today_link">Jump to Today</a>
+  </div>
+</div>
+
+<div id="course_syllabus" style="margin-bottom: 10px;" class="user_content">
+  <p><span style="font-size: 18pt;"><strong>Welcome to Math E10!</strong></span></p>
+<p><span style="font-size: 18pt;"><a class="instructure_file_link instructure_scribd_file" title="Syllabus - Fall 2017.pdf" href="/courses/33017/files/4409316/download?verifier=7Wa4ldoOdADpFyOJs4hRnEZNAYkBE2XY129NYEy9&amp;wrap=1"><span style="text-decoration: underline;"><strong>Syllabus</strong></span></a></span><strong> <span style="font-size: 14pt;"> (Its text version appears below.  If you need a pdf version of the syllabus, please send a message to the instructor <a href="mailto:darias@fas.harvard.edu">darias@fas.harvard.edu</a> <span>. )</span>                </span></strong></p>
+<p> </p>
+<p><span style="font-size: 14pt;"></span><span style="font-size: 14pt;"><strong>08/29/17       </strong>        <strong>Math E-10 </strong> <strong>Precalculus                 </strong><strong>Fall 2017</strong></span></p>
+<p><span style="font-size: 10pt;"><strong> </strong></span></p>
+<p><span style="font-size: 14pt;"><strong>Instructor: </strong> David Arias, Ed.D.                  E-mail: <a href="mailto:darias@fas.harvard.edu">darias@fas.harvard.edu</a> .</span></p>
+<p> </p>
+<p><span style="font-size: 14pt;">During the semester, linear, quadratic, exponential, logarithmic, trigonometric,</span></p>
+<p><span style="font-size: 14pt;">polynomial and rational functions will be discussed. Lectures will be videotaped and</span></p>
+<p><span style="font-size: 14pt;">posted on our website within 24 hours. Solution to homework, solution to questions from</span></p>
+<p><span style="font-size: 14pt;">recommended textbook and sample tests will also be posted on our website. You will be</span></p>
+<p><span style="font-size: 14pt;">able to access them by using your Harvard PIN. Make sure that you have your <strong>Harvard</strong></span></p>
+<p><span style="font-size: 14pt;">PIN and password by the first class meeting. You may request one at</span></p>
+<p><span style="font-size: 14pt;"><a href="http://www.pin.harvard.edu">www.pin.harvard.edu</a> </span>.</p>
+<p><span style="font-size: 14pt;"> </span></p>
+<p><span style="font-size: 14pt;">If you have technical questions about viewing the videotaped lectures, the following link</span></p>
+<p><span style="font-size: 14pt;">could help.</span></p>
+<p><span style="font-size: 14pt;"><a href="http://www.extension.harvard.edu/academics/courses/types-courses/video-course-guidelines">http://www.extension.harvard.edu/academics/courses/types-courses/video-course-guidelines</a> </span></p>
+<p><span style="font-size: 14pt;"> </span></p>
+<p><span style="font-size: 14pt;"><strong>Schedule </strong>(No school on November 22 and 23)</span></p>
+<p><span style="font-size: 14pt;"><strong>Lectures</strong>: Thursdays 5:30 − 7:30 p.m., (August 31 to December 14) at 1 Story St, Cambridge, Massachusetts, room 302.  Only registered students will be allowed to attend</span></p>
+<p><span style="font-size: 14pt;">lectures.</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;"><strong>Optional Review Sections</strong>: They will be conducted every Wednesday, 6:30-7:30 p.m.</span></p>
+<p><span style="font-size: 14pt;">from September 6 to December 13, via web conference.  Read <strong>Review Sections </strong>below for more information about web conferences.</span></p>
+<p> </p>
+<p><span style="font-size: 14pt;"><strong>Required Graduate Seminar </strong>– The graduate credit option for Math E10 is intended for</span></p>
+<p><span style="font-size: 14pt;">students participating in the Math for Teaching masters program.  Students signing up for</span></p>
+<p><span style="font-size: 14pt;">graduate credit are required to participate in an hour-long weekly graduate seminar to</span></p>
+<p><span style="font-size: 14pt;">discuss pedagogical issues relating to the precalculus class. Potential students’</span></p>
+<p><span style="font-size: 14pt;">misconceptions as well as alternative teaching approaches will be examined. The</span></p>
+<p><span style="font-size: 14pt;">seminar will be conducted using an online learning platform on a day and time to be</span></p>
+<p><span style="font-size: 14pt;">determined after consulting with everyone who is signed up for graduate credit during the</span></p>
+<p><span style="font-size: 14pt;">first week of classes.</span></p>
+<p><span style="font-size: 10pt;"><strong> </strong></span></p>
+<p><span style="font-size: 14pt;"><strong>Textbook: </strong>Functions Modeling Change: A Preparation For Calculus, <strong>5th Edition</strong>, Connally,</span></p>
+<p><span style="font-size: 14pt;">Hughes Hallett, Gleason, et al., <strong>ISBN</strong>-13: 978-1118583197  .  It is available at the Harvard Coop, BarnesAndNoble.com, Amazon.com, etc. They have used copies too. You could also rent a digital copy of the book.</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">The book is recommended and is not mandatory to buy it. We will discuss the concepts in</span></p>
+<p><span style="font-size: 14pt;">an order similar to the order in which they are presented in the recommended textbook. But, if you do not have access to the book, you may use any other one that contains the</span></p>
+<p><span style="font-size: 14pt;">concepts we will discuss in class.</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">Questions from the recommended book will not be assigned as part of homework. The</span></p>
+<p><span style="font-size: 14pt;">instructor will create the questions for homework. However, the recommended book</span></p>
+<p><span style="font-size: 14pt;">contains many good examples and questions that you could use to practice. Detailed</span></p>
+<p><span style="font-size: 14pt;">solutions to every other odd numbered question from the book will be posted on our website.  Weekly, the instructor will suggest a list of questions from the recommended book to practice before working on homework.</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">If you do not have access to the recommended book, make sure you practice enough from</span></p>
+<p><span style="font-size: 14pt;">other books until you are prepared to start working on homework. A copy of the</span></p>
+<p><span style="font-size: 14pt;">recommended book is on reserve at Grossman Library, Sever Hall.</span></p>
+<p><span style="font-size: 10pt;"><strong> </strong></span></p>
+<p><span style="font-size: 14pt;"><strong>Prerequisites: </strong>According to its course description, in our web catalog, Math E-10 is an</span></p>
+<p><span style="font-size: 14pt;"><strong>intensive course </strong>for students with <strong>superior algebra skills. </strong>Thus, although algebra</span></p>
+<p><span style="font-size: 14pt;">concepts will be used extensively in our course, time in class or review sections will not</span></p>
+<p><span style="font-size: 14pt;">be used to teach concepts from Math E-8, College Algebra. You must master the</span></p>
+<p><span style="font-size: 14pt;">following skills before taking Precalculus:</span></p>
+<ul>
+<li><span style="font-size: 14pt;">How to solve linear equations and systems of linear equations. If you need to review,</span></li>
+</ul>
+<p><span style="font-size: 14pt;">work on pages 61 to 65 from the recommended textbook.</span></p>
+<ul>
+<li><span style="font-size: 14pt;">How to solve linear inequalities in one variable. If you need to review, you may go to</span></li>
+</ul>
+<p><span style="font-size: 14pt;"><a href="http://www.classzone.com/eservices/home/pdf/teacher/LA201FAD.pdf">http://www.classzone.com/eservices/home/pdf/teacher/LA201FAD.pdf</a> </span></p>
+<ul>
+<li><span style="font-size: 14pt;">How to solve quadratic inequalities in one variable. If you need to review, you may</span></li>
+</ul>
+<p><span style="font-size: 14pt;">go to <a href="http://gabrielmathnorth.weebly.com/uploads/1/2/6/9/12696930/pre-calculus_11_-_chapter_9_website.pd">http://gabrielmathnorth.weebly.com/uploads/1/2/6/9/12696930/pre-calculus_11_-_chapter_9_website.pdf</a>, </span><span style="font-size: 14pt;">and find that topic on page 476.</span></p>
+<ul>
+<li><span style="font-size: 14pt;">How to factor quadratic algebraic expressions and how to solve quadratic equations by factoring and by using the quadratic formula. If you need to review, work on pages 131 to 135 from the recommended textbook.</span></li>
+<li><span style="font-size: 14pt;">How to solve a quadratic equation by completing the square. If you need to review, work on pages 136 to 138 from the recommended textbook.</span></li>
+<li><span style="font-size: 14pt;">How to use properties of exponents. If you need to review, work on pages 183 to 186</span></li>
+</ul>
+<p><span style="font-size: 14pt;">from the recommended textbook.</span></p>
+<ul>
+<li><span style="font-size: 14pt;">How to simplify algebraic fractions. If you need to review, work on pages 491 to 494</span></li>
+</ul>
+<p><span style="font-size: 14pt;">from the recommended textbook.</span></p>
+<p><span style="font-size: 10pt;"><strong> </strong></span></p>
+<p><span style="font-size: 14pt;"><strong>Calculators: </strong>Some of the questions from homework could require the use of a graphing</span></p>
+<p><span style="font-size: 14pt;">calculator. Owning a graphing calculator is not mandatory. You may access any of the</span></p>
+<p><span style="font-size: 14pt;">free graphing calculators available online or you may install an application on your cellular phone.</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">Although questions from tests and final exam will be designed to be answered only by</span></p>
+<p><span style="font-size: 14pt;">using a scientific calculator, graphing calculators will be allowed during tests and final</span></p>
+<p><span style="font-size: 14pt;">exams. Calculators from ipads, laptops, cellular phones or any other communication</span></p>
+<p><span style="font-size: 14pt;">device <strong>will not </strong>be allowed during tests and final exams.</span></p>
+<p><span style="font-size: 10pt;"><strong> </strong><strong> </strong></span></p>
+<p><span style="font-size: 14pt;"><strong>Homework: </strong>It will consist of a problem set assigned each week. It will be posted on our</span></p>
+<p><span style="font-size: 14pt;">website, after the corresponding class meeting, by 10pm.  It will consist of multiple-</span></p>
+<p><span style="font-size: 14pt;">choice and open response questions.  For the multiple-choice questions, you just need to submit the corresponding letter answer : A, B, C, D or E.   For the free-response questions, you have to submit a detailed problem-solving process.</span></p>
+<p> </p>
+<p><span style="font-size: 14pt;">Homework should not be considered as the only practice you should have during the</span></p>
+<p><span style="font-size: 14pt;">semester. Keep in mind that the more you practice, the better you get at it. Thus, consider</span></p>
+<p><span style="font-size: 14pt;">homework as a test you have to prepare for. The instructor will post a weekly</span></p>
+<p><span style="font-size: 14pt;">“Suggested practice” on our website. Use it to practice the concepts and skills discussed</span></p>
+<p><span style="font-size: 14pt;">in class until you are ready to start working on homework.</span></p>
+<p> </p>
+<p><span style="font-size: 14pt;">Should you need more practice before working on homework, you could work on more</span></p>
+<p><span style="font-size: 14pt;">problems from the recommended book, included at the end of each lesson. The book also</span></p>
+<p><span style="font-size: 14pt;">includes a “Check your understanding” section at the end of each chapter and a “Skills</span></p>
+<p><span style="font-size: 14pt;">refresher” at the end of chapters 1, 3, 4, 5, 7 and 11. Those sections include many</span></p>
+<p><span style="font-size: 14pt;">questions that would help you master the concepts and skills discussed in class. The</span></p>
+<p><span style="font-size: 14pt;">more you practice before working on homework, the better.</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">While working on problems from the recommended book, you could compare your</span></p>
+<p><span style="font-size: 14pt;">solutions to the solutions posted on our website. Not all solutions are posted. If the</span></p>
+<p><span style="font-size: 14pt;">solution you need is not posted, email the instructor as soon as possible. The instructor</span></p>
+<p><span style="font-size: 14pt;">will answer your questions within 24 hours, Monday to Friday.  Thus, plan accordingly</span></p>
+<p><span style="font-size: 14pt;">and avoid asking questions the day homework or test is due.</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">Homework is due at the beginning of each class meeting by 5:30 pm, according to the</span></p>
+<p><span style="font-size: 14pt;">schedule included in the Course Outline, at the end of this syllabus. Homework submitted</span></p>
+<p><span style="font-size: 14pt;">after the deadline will have no credit, no exceptions.</span></p>
+<p><span style="font-size: 10pt;"><strong> </strong></span></p>
+<p><span style="font-size: 14pt;"><strong>All students must submit their homework electronically at </strong>our course website.  No</span></p>
+<p><span style="font-size: 14pt;">other way of submitting homework will be accepted.</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">Instructions about how to access and submit homework will be posted on our website. </span></p>
+<p><span style="font-size: 14pt;">After the semester begins, log into our website, click on the "Files" link and look for the "How to access and submit homework" file in the list of files and folders on that page.</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">Only pdf files will be accepted and graded. Messages sent to canvas to modify part of</span></p>
+<p><span style="font-size: 14pt;">your homework will not be considered as part of homework. If you want to modify your</span></p>
+<p><span style="font-size: 14pt;">homework, scan your modified homework and submit it at our website. Only the latest</span></p>
+<p><span style="font-size: 14pt;">pdf file, submitted by the deadline, will be graded. If your homework consists of several</span></p>
+<p><span style="font-size: 14pt;">pages, they must be assembled into only one pdf document.</span></p>
+<p> </p>
+<p><span style="font-size: 14pt;">Before submitting your homework, review the file you intend to submit and make sure:</span></p>
+<p><span style="font-size: 14pt;">a) It is clear, instead of blurry (scan your homework instead of taking pictures.</span></p>
+<p><span style="font-size: 14pt;">b) It is assembled into only one document, instead of submitting several documents, one-</span></p>
+<p><span style="font-size: 14pt;">    page each</span></p>
+<p><span style="font-size: 14pt;">c) Its pages are properly oriented, instead of sideways or upside down.</span></p>
+<p><span style="font-size: 14pt;">Graded homework will be posted on our website, within a week.</span></p>
+<p> </p>
+<p><span style="font-size: 14pt;"><strong>The three lowest homework scores will be dropped </strong>to consider situations that students</span></p>
+<p><span style="font-size: 14pt;">could not control, such as: student was sick, student had an accident or was in an</span></p>
+<p><span style="font-size: 14pt;">emergency situation, student had to travel out of town, student could not attend review</span></p>
+<p><span style="font-size: 14pt;">section or class, student has a heavy course load, student did not scan homework</span></p>
+<p><span style="font-size: 14pt;">properly, student had an appointment, student emailed homework but file was corrupted</span></p>
+<p><span style="font-size: 14pt;">or illegible, student did not have access to a scanner, student tried to access our website close to the deadline and could not connect to it because power was out or internet was not available, etc. In general, <strong>there is not extension of homework deadline.</strong> Thus, students are advised to plan accordingly.</span></p>
+<p><span style="font-size: 10pt;"><strong> </strong></span></p>
+<p><span style="font-size: 14pt;"><strong>Homework format: </strong>The problem sets should be neatly and logically presented. At least</span></p>
+<p><span style="font-size: 14pt;">one blank line should be left between solutions. Final answer should be clearly circled or</span></p>
+<p><span style="font-size: 14pt;">underlined.</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">The instructor will solve many problems during class meetings and review sections. The</span></p>
+<p><span style="font-size: 14pt;">clarity of his solutions will be a sample of the clarity you need to show when doing your</span></p>
+<p><span style="font-size: 14pt;">homework.</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">In general, solution process must be shown, step by step. Answers read from graphs</span></p>
+<p><span style="font-size: 14pt;">(from graphing calculator or graphs drawn by hand) will have no credit. If a number is</span></p>
+<p><span style="font-size: 14pt;">found in the solution of a problem and that number is not supported by computations, points will be taken off.</span></p>
+<p> </p>
+<p><span style="font-size: 14pt;">Erase any work that should not be graded. In case two different approaches are used to</span></p>
+<p><span style="font-size: 14pt;">solve a problem or part of it, only the first approach will be graded. If statements not</span></p>
+<p><span style="font-size: 14pt;">related to the solution are included, points will be taken off if those statements are</span></p>
+<p><span style="font-size: 14pt;">incorrect.</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">If your solution process is not clear to the instructor, you will not get credit for it. Remember that writing well and clearly (in any discipline) is a way of showing respect for your own work.</span></p>
+<p><span style="font-size: 10pt;"><strong> </strong></span></p>
+<p><span style="font-size: 14pt;"><strong>Academic Integrity:</strong></span></p>
+<p><span style="font-size: 14pt;">You are responsible for understanding Harvard Extension School policies on academic</span></p>
+<p><span style="font-size: 14pt;">integrity ( <a href="http://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity">www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity</a>  ) </span><span style="font-size: 14pt;">and how to use sources responsibly. Not knowing the rules, misunderstanding</span></p>
+<p><span style="font-size: 14pt;">the rules, running out of time, submitting the wrong draft, or being overwhelmed with</span></p>
+<p><span style="font-size: 14pt;">multiple demands are not acceptable excuses. There are no excuses for failure to uphold</span></p>
+<p><span style="font-size: 14pt;">academic integrity. To support your learning about academic citation rules, please visit</span></p>
+<p><span style="font-size: 14pt;">the Harvard Extension School Tips to Avoid Plagiarism  </span><span style="font-size: 14pt;">( <a href="http://www.extension.harvard.edu/resources-policies/resources/tips-avoid-plagiarism">www.extension.harvard.edu/resources-policies/resources/tips-avoid-plagiarism</a> ), where</span></p>
+<p><span style="font-size: 14pt;">you'll find links to the Harvard Guide to Using Sources and two free online 15-minute</span></p>
+<p><span style="font-size: 14pt;">tutorials to test your knowledge of academic citation policy. The tutorials are anonymous</span></p>
+<p><span style="font-size: 14pt;">open-learning tools.</span></p>
+<p> </p>
+<p><span style="font-size: 14pt;"><strong>Tests and Final Exam: </strong>There will be three 60-minute tests and a two-hour final exam. Tests</span></p>
+<p><span style="font-size: 14pt;">will consist of five free-response questions.  The final exam will consist of 10 free- response questions.  Tests and final exam are closed-book exams.  Tests will be given on <strong>September 21</strong><strong>, </strong><strong>October 19</strong><strong>, and </strong><strong>November 16</strong><strong>.  No make-up tests will be given for </strong> <strong>any reason.  </strong></span></p>
+<p> </p>
+<p><span style="font-size: 14pt;"><strong>Tests will only be given as scheduled in this syllabus.  </strong>Thus, students are advised to plan accordingly.  </span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">If you miss one, two, or three tests, you will earn a grade of zero in each of the missing</span></p>
+<p><span style="font-size: 14pt;">tests. <strong>The lowest test grade will be dropped</strong> and your course grade will be calculated</span></p>
+<p><span style="font-size: 14pt;">according to the grading policy below.  The final exam cannot be dropped.</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">At each test day, the instructor will lecture during the first half of the class meeting.</span></p>
+<p><span style="font-size: 14pt;">Tests will be given during the second half of the class meeting.  No exceptions.</span></p>
+<p><span style="font-size: 14pt;">Thus, students are advised to plan accordingly.  Within one week, copies of graded tests</span></p>
+<p><span style="font-size: 14pt;">will be emailed to students.</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">The <strong>final exam will be given </strong><strong>o</strong><strong>n </strong><strong>December 14</strong><strong>. </strong>If you cannot take the final exam on</span></p>
+<p><span style="font-size: 14pt;"><strong>December 14</strong><strong>, </strong>you may file an appeal to the makeup Examinations Committee, at the</span></p>
+<p><span style="font-size: 14pt;">Extension School. After evaluating your case, the committee will decide whether to</span></p>
+<p><span style="font-size: 14pt;">allow you to make-up the final exam at a later date.</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">If a no-school day is officially declared by Harvard Extension School on any of our test</span></p>
+<p><span style="font-size: 14pt;">dates, the corresponding test will be given during the next class meeting.  </span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">Within one week, copies of the graded final exam will be emailed to students. If you live</span></p>
+<p><span style="font-size: 14pt;">in the United States and you take the final exam on campus, your final exam will be</span></p>
+<p><span style="font-size: 14pt;">mailed to you if you bring a self addressed and stamped manila envelope (minimum</span></p>
+<p><span style="font-size: 14pt;">postage must be equivalent to three “forever” stamps) by <strong>December 14</strong><strong>. </strong>If you bring a</span></p>
+<p><span style="font-size: 14pt;">cardboard envelope, use four “forever” stamps. If you bring a padded envelope, use five</span></p>
+<p><span style="font-size: 14pt;">“forever” stamps. If you bring a Priority Mail envelope, stamp $6 worth of postage.</span></p>
+<p> </p>
+<p><span style="font-size: 14pt;"><strong>If you live within the six-state New England </strong>area (Connecticut, Maine, Massachusetts,</span></p>
+<p><span style="font-size: 14pt;">New Hampshire, Rhode Island, and Vermont) you must come to campus to take Test 01,</span></p>
+<p><span style="font-size: 14pt;">Test 02, Test 03 and the Final Exam.</span></p>
+<p> </p>
+<p><span style="font-size: 14pt;"><strong>If your primary address throughout the term is not in New England </strong>you may come</span></p>
+<p><span style="font-size: 14pt;">to campus or you must find a qualified proctor near your home to administer Test 01,</span></p>
+<p><span style="font-size: 14pt;">Test 02, Test 03 and the Final Exam (within 24 hours after the corresponding test or final exam is given on campus) in absentia in a proctored setting in your home area according to the procedures detailed at </span><span style="font-size: 14pt;"><a href="http://www.extension.harvard.edu/resources-policies/exams-grades-transcripts/exams-online-courses">http://www.extension.harvard.edu/resources-policies/exams-grades-transcripts/exams-online-courses</a> , </span><span style="font-size: 14pt;">regarding “Proctored exams.”</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">If after reading the details on the webpage above you still have questions about the exam</span></p>
+<p><span style="font-size: 14pt;">procedure, please email distance_exams@dcemail.harvard.edu for more information.</span></p>
+<p><span style="font-size: 10pt;"><strong> </strong><strong> </strong></span></p>
+<p><span style="font-size: 14pt;"><strong>If you have to take a test or the final exam with a proctor, make sure the proctor is </strong></span></p>
+<p><span style="font-size: 14pt;"><strong>available to administer it within 24 hours after it is given on</strong><strong> </strong><strong>campus.  Tests will only</strong></span></p>
+<p><span style="font-size: 14pt;"><strong>be given as scheduled in this syllabus.  Thus, students are advised to find a proctor</strong></span></p>
+<p><span style="font-size: 14pt;"><strong>well in advance of each test or final exam.  </strong></span></p>
+<p><span style="font-size: 10pt;"><strong> </strong></span></p>
+<p><span style="font-size: 14pt;"><strong>Grading Policy: </strong>If you are an undergraduate-credit student, your course grade will be calculated </span><span style="font-size: 14pt;">according to the following scheme:</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<ul>
+<li><span style="font-size: 14pt;">Homework    15%</span></li>
+<li><span style="font-size: 14pt;">Test A           25%</span></li>
+<li><span style="font-size: 14pt;">Test B           25%</span></li>
+<li><span style="font-size: 14pt;">Final Exam   35%  </span></li>
+</ul>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;"><strong>No extra-credit </strong>work will be assigned.</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">Test A and Test B are the two test grades that would remain after dropping the lowest test  grade. Homework grade will not replace either a test grade or the final exam grade. The  final exam grade will not be replaced by any of the test grades.  </span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">If you are a graduate-credit student, your grade will be computed as follows:</span></p>
+<p><span style="font-size: 14pt;">Undergraduate-credit grade (computed as shown above) 90%</span></p>
+<p><span style="font-size: 14pt;">Grade from graduate seminars 10%</span></p>
+<p> </p>
+<p><span style="font-size: 14pt;">Final course grade will be translated into letter grades as follows:</span></p>
+<p><span style="font-size: 14pt;"><strong>A</strong>(94-100), <strong>A</strong>−<strong>(</strong>90-93), <strong>B+</strong>(87-89), <strong>B</strong>(83-86), <strong>B</strong>−(80-82), <strong>C+</strong>(77-79), <strong>C</strong>(73-76), <strong>C</strong>−(70-</span></p>
+<p><span style="font-size: 14pt;">72), <strong>D+</strong>(67-69), <strong>D</strong>(63-66), <strong>D</strong>−(60-62), <strong>E</strong>(less than 60).</span></p>
+<p><span style="font-size: 10pt;"><strong> </strong></span></p>
+<p><span style="font-size: 14pt;"><strong>Extra Help: </strong>It is important to keep up with the material presented in class. Thus, if you are</span></p>
+<p><span style="font-size: 14pt;">having difficulties, seek for extra help as soon as possible. During the semester, you will</span></p>
+<p><span style="font-size: 14pt;">have access to the following resources.</span></p>
+<p><span style="font-size: 10pt;"><strong> </strong></span></p>
+<p><span style="font-size: 14pt;"><strong>Review Sections: </strong>They will be conducted every Wednesday, 6:30-7:30 pm from</span></p>
+<p><span style="font-size: 14pt;">September 6 to December 13, via web conference. We will use the ZOOM software for</span></p>
+<p><span style="font-size: 14pt;">web conferences.  If you need to train before our first review section, you may go to</span></p>
+<p><span style="font-size: 14pt;"><a href="http://www.extension.harvard.edu/academics/courses/types-courses/web-conference-course-guidelines">http://www.extension.harvard.edu/academics/courses/types-courses/web-conference-course-guidelines</a>  </span><span style="font-size: 14pt;">and get information about how to get the free software, training sessions, computer and </span><span style="font-size: 14pt;">headset requirements, etc.  </span></p>
+<p><span style="font-size: 14pt;">Once you are ready to use zoom and your computer and headset are ready, you may attend review sections by going to<span style="color: #ff0000;"> <strong>https://zoom.us/j/6715302929</strong></span> .  </span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">Sessions will be recorded and posted on our website: log into our website by using your</span></p>
+<p><span style="font-size: 14pt;">PIN and password, click on the "Files" link at the left of the page, open folder "Review sections" and you will find the videos there.</span></p>
+<p> </p>
+<p><span style="font-size: 14pt;">Review sections will be dedicated to answer students’ questions. Students may ask any</span></p>
+<p><span style="font-size: 14pt;">question about precalculus problems they worked on <strong>except questions from homework.</strong></span></p>
+<p><span style="font-size: 14pt;">Students may also ask specific questions about concepts that need to be clarified.</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">If you cannot attend review sections, email your questions to the instructor. Your</span></p>
+<p><span style="font-size: 14pt;">questions will be answered either via email (Monday to Friday, within 24 hours) or</span></p>
+<p><span style="font-size: 14pt;">during next review section.</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;"><strong>The Math Question Center (MQC): </strong>Mondays, 5:30 pm. to 7:30 pm., and Tuesdays,</span></p>
+<p><span style="font-size: 14pt;">7:40 pm. to 9:40 pm., Sever Hall 215. Several tutors are available to help students in a</span></p>
+<p><span style="font-size: 14pt;">variety of Extension School math courses. Note that the MQC is open to many students</span></p>
+<p><span style="font-size: 14pt;">so try to arrive early.</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">If you are a distance student or a local student who cannot come to campus, you may ask</span></p>
+<p><span style="font-size: 14pt;">for extra help via online. If you want to access the MQC online, please follow</span></p>
+<p><span style="font-size: 14pt;">instructions at https://canvas.harvard.edu/courses/2878</span></p>
+<p><span style="font-size: 10pt;"><strong> </strong></span></p>
+<p><span style="font-size: 14pt;"><strong>Disability Services:</strong></span></p>
+<p><span style="font-size: 14pt;">The Extension School is committed to providing an accessible academic community. The</span></p>
+<p><span style="font-size: 14pt;">Accessibility Office offers a variety of accommodations and services to students with</span></p>
+<p><span style="font-size: 14pt;">documented disabilities.  Please visit </span><span style="font-size: 14pt;"><a href="http://www.extension.harvard.edu/accessibility-student-services">http://www.extension.harvard.edu/accessibility-student-services</a> for more information.</span></p>
+<p><span style="font-size: 10pt;"><strong> </strong></span></p>
+<p><span style="font-size: 14pt;"><strong>Other Suggestions:</strong></span></p>
+<p><span style="font-size: 14pt;">It is a good idea to read the sections from the recommended textbook before we go over</span></p>
+<p><span style="font-size: 14pt;">them during lecture. It is extremely helpful to be familiar with the concepts before they</span></p>
+<p><span style="font-size: 14pt;">are presented to you. Ideally, the lecture should be a clarification and an extension of the</span></p>
+<p><span style="font-size: 14pt;">material that you have already read about.</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">Start working on the weekly suggested practice as early as possible. The material will</span></p>
+<p><span style="font-size: 14pt;">still be fresh and you'll have sufficient time to work on it thoroughly. Solutions to</span></p>
+<p><span style="font-size: 14pt;">problems from textbook will be posted on our website.</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">Once you practice enough from the suggested practice, start working on the homework</span></p>
+<p><span style="font-size: 14pt;">and identify the areas where you need help. Prepare the questions you will ask during</span></p>
+<p><span style="font-size: 14pt;">review section or during your meeting with personnel at the Math Question Center.</span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">Scan your homework and submit it as soon as possible to avoid late homework.</span></p>
+<p><span style="font-size: 14pt;"> </span></p>
+<p><span style="font-size: 14pt;"><strong>Tentative Course Outline - Based on recommended book</strong></span></p>
+<p><span style="font-size: 14pt;"><strong> </strong></span></p>
+<p><span style="font-size: 14pt;"><strong>Class    </strong><strong>Date                        </strong><strong>Topics                                                    </strong><strong>Sections in Textbook</strong></span></p>
+<p><span style="font-size: 14pt;">1          08/31  Chapter 1: Functions, lines, and change                                  1.1 - 1.5</span></p>
+<p><span style="font-size: 14pt;"><strong>                       HW 01 is assigned</strong></span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">2           09/07  Chapter 2: Functions                                                                2.1 – 2.6</span></p>
+<p><span style="font-size: 14pt;"><strong>                        HW 02 is assigned </strong> <strong>HW 01 is due</strong></span></p>
+<p><span style="font-size: 10pt;"> </span></p>
+<p><span style="font-size: 14pt;">3           09/14 Chapter 4: Quadratic and exponential functions                        3.1 – 3.2</span></p>
+<p><span style="font-size: 14pt;"><strong>                       HW 03 is assigned </strong> <strong>HW 02 is due</strong></span></p>
+<p><span style="font-size: 14pt;"> </span></p>
+<p><span style="font-size: 14pt;">4           09/21  Chapter 4: Exponential functions                                              4.1 – 4.2  </span></p>
+<p><span style="font-size: 14pt;"><strong>                        HW 04 is assigned </strong> <strong>TEST 01 IS DUE</strong></span></p>
+<p><span style="font-size: 14pt;"> </span></p>
+<p><span style="font-size: 14pt;">5           09/28 Chapter 4: Exponential functions                                               4.3 – 4.5         </span></p>
+<p><span style="font-size: 14pt;"><strong>                       HW 05 is assigned</strong> <strong>HW 03 and HW 04 are due</strong></span></p>
+<p><span style="font-size: 14pt;"> </span></p>
+<p><span style="font-size: 14pt;">6           10/05 Chapter 5: Logarithmic functions                                                5.1 – 5.3</span></p>
+<p><span style="font-size: 14pt;"><strong>                       HW 06 is assigned</strong> <strong>HW 05 is due</strong></span></p>
+<p><span style="font-size: 14pt;"> </span></p>
+<p><span style="font-size: 14pt;">7           10/12 Chapter 6: Transformations of functions and their graphs          6.1 – 6.3</span></p>
+<p><span style="font-size: 14pt;"><strong>                       HW 07 is assigned </strong> <strong>HW 06 is due</strong></span></p>
+<p><span style="font-size: 14pt;"> </span></p>
+<p><span style="font-size: 14pt;">8           10/19 Chapter 7: Trigonometry and periodic functions                         7.1</span></p>
+<p><span style="font-size: 14pt;"><strong>                       HW 08 is assigned </strong> <strong>TEST 02 IS DUE</strong></span></p>
+<p><span style="font-size: 14pt;"> </span></p>
+<p><span style="font-size: 14pt;">9           10/26 Chapter 7: Trigonometry and periodic functions                         7.2 – 7.5 </span></p>
+<p><span style="font-size: 14pt;"><strong>                       HW 09 is assigned. </strong> <strong>HW 07 and HW 08 are due</strong></span></p>
+<p><span style="font-size: 14pt;"> </span></p>
+<p><span style="font-size: 14pt;">10         11/02 Chapter 7: Trigonometry and periodic functions                         7.6 – 7.8</span></p>
+<p><span style="font-size: 14pt;"><strong>                       HW 10 is assigned</strong> <strong>HW 09 is due</strong></span></p>
+<p><span style="font-size: 14pt;"> </span></p>
+<p><span style="font-size: 14pt;">11         11/09 Chapter 8: Triangle trigonometry                                                 8.1 – 8.2</span></p>
+<p><span style="font-size: 14pt;"><strong>                       HW 11 is assigned </strong> <strong>HW 10 is due</strong></span></p>
+<p><span style="font-size: 14pt;"> </span></p>
+<p><span style="font-size: 14pt;">12         11/16 Chapter 9: Trigonometric identities                                             9.1 – 9.3</span></p>
+<p><span style="font-size: 14pt;"><strong>                       HW 12 is assigned </strong> <strong>TEST 03 IS DUE</strong></span></p>
+<p><span style="font-size: 14pt;"> </span></p>
+<p><span style="font-size: 14pt;">13         11/30 Chapter 10: Composition of functions, inverse functions          10.1 – 10.2</span></p>
+<p><span style="font-size: 14pt;">                       Chapter 11: Polynomial functions                                              11.1 – 11.3  </span></p>
+<p><span style="font-size: 14pt;"><strong>                       HW 13 is assigned</strong> <strong>HW 11 and HW 12 are due</strong></span></p>
+<p><span style="font-size: 14pt;"> </span></p>
+<p><span style="font-size: 14pt;">14        12/07 Chapter 11: Rational functions                                                   11.4 – 11.5</span></p>
+<p><span style="font-size: 14pt;"><strong>                       No HW is assigned </strong> <strong>HW 13 is due</strong></span></p>
+<p><span style="font-size: 14pt;"> </span></p>
+<p><span style="font-size: 14pt;">15        <strong>12</strong><strong>/</strong><strong>14</strong> <strong>FINAL EXAM IS DUE</strong></span></p>
+<p><span style="font-size: 14pt;"> </span></p>
+<p><span style="font-size: 14pt;"> </span></p>
+<p> </p>
+<p> </p>
+</div>
+<div id="course_syllabus_details" style="display: none;">
+  <p>The syllabus page shows a table-oriented view of the course schedule, and the basics of
+course grading.  You can add any other comments, notes, or thoughts you have about the course
+structure, course policies or anything else.</p>
+
+<p>To add some comments, click the &quot;Edit&quot; link at the top.</p>
+</div>
+<form id="edit_course_syllabus_form" style="display: none; margin-bottom: 10px;" action="/courses/33017" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="TAovRAL1Fg2x9wCeeQwUkkoBkzb+5serN7RRh8rW22AUbmgmTo9wePjFde0oQGbEejnccMmqt+ZcgQiymJDoLw==" />
+  <div style="float: right;">
+    <a href="#" class="toggle_views_link toggle_html_editor_link">HTML Editor</a>
+    <a href="#" class="toggle_views_link toggle_rich_editor_link" style="display:none;">Rich Content Editor</a>
+  </div>
+  <label for="course_syllabus_body">Syllabus Description:</label>
+  <div class="clear"></div>
+  <textarea style="width: 100%; height: 300px;" id="course_syllabus_body" name="course[syllabus_body]">
+</textarea>
+  <div class='form-actions'>
+    <button type="button" class="btn cancel_button">Cancel</button>
+    <button type="submit" class='btn btn-primary'>Update Syllabus</button>
+  </div>
+</form>
+<h2>Course Summary:</h2>
+
+<div id="syllabusContainer">
+  <div id="syllabus_links">
+    <a id="toggle_special_dates_in_syllabus">&nbsp;</a>
+  </div>
+  <table id="syllabus" class="ic-Table--condensed">
+    <thead>
+      <tr>
+        <th scope="col" style="width: 25%;">Date</th>
+        <th scope="col" style="width: 75%;">Details</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td scope="row">
+          <span id="loading_indicator"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+          </div>
+        </div>
+        <div id="right-side-wrapper" class="ic-app-main-content__secondary">
+          <aside id="right-side" role="complementary">
+              
+<div id="sidebar_content">
+  
+<div class="mini_month">
+  <div class="mini-cal-header">
+    <button class="prev_month_link Button Button--icon-action"><i class="icon-arrow-open-left"></i><span class="screenreader-only">Prev month</span></button>
+    <button class="next_month_link Button Button--icon-action"><i class="icon-arrow-open-right"></i><span class="screenreader-only">Next month</span></button>
+    <span class="mini-cal-month-and-year">
+      <span class="month_name">September</span>
+      <span class="year_number">2017</span>
+    </span>
+  </div>
+  <div style="display: none;">
+    <span class="month_number">9</span>
+  </div>
+  <table class="mini_calendar" cellspacing="0">
+    <caption class="screenreader-only">Calendar</caption>
+    <thead>
+      <tr>
+          <th scope="col">
+            <span class="screenreader-only">
+              Sunday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Monday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Tuesday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Wednesday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Thursday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Friday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Saturday
+            </span>
+          </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_08_27" class="mini_calendar_day day other_month previous_month date_08_27_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                27
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_28" class="mini_calendar_day day other_month previous_month date_08_28_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                28
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_29" class="mini_calendar_day day other_month previous_month date_08_29_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                29
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_30" class="mini_calendar_day day other_month previous_month date_08_30_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                30
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_31" class="mini_calendar_day day other_month previous_month date_08_31_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                31
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_01" class="mini_calendar_day day current_month date_09_01_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                1
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_02" class="mini_calendar_day day current_month date_09_02_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                2
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_03" class="mini_calendar_day day current_month date_09_03_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                3
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_04" class="mini_calendar_day day current_month date_09_04_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                4
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_05" class="mini_calendar_day day current_month date_09_05_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                5
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_06" class="mini_calendar_day day current_month date_09_06_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                6
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_07" class="mini_calendar_day day current_month date_09_07_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                7
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_08" class="mini_calendar_day day current_month date_09_08_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                8
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_09" class="mini_calendar_day day current_month date_09_09_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                9
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_10" class="mini_calendar_day day current_month date_09_10_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                10
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_11" class="mini_calendar_day day current_month date_09_11_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                11
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_12" class="mini_calendar_day day current_month date_09_12_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                12
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_13" class="mini_calendar_day day current_month date_09_13_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                13
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_14" class="mini_calendar_day day current_month date_09_14_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                14
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_15" class="mini_calendar_day day current_month date_09_15_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                15
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_16" class="mini_calendar_day day current_month date_09_16_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                16
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_17" class="mini_calendar_day day current_month date_09_17_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                17
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_18" class="mini_calendar_day day current_month date_09_18_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                18
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_19" class="mini_calendar_day day current_month date_09_19_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                19
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_20" class="mini_calendar_day day current_month date_09_20_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                20
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_21" class="mini_calendar_day day current_month date_09_21_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                21
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_22" class="mini_calendar_day day current_month date_09_22_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                22
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_23" class="mini_calendar_day day current_month date_09_23_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                23
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_24" class="mini_calendar_day day current_month today date_09_24_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                24
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_25" class="mini_calendar_day day current_month date_09_25_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                25
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_26" class="mini_calendar_day day current_month date_09_26_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                26
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_27" class="mini_calendar_day day current_month date_09_27_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                27
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_28" class="mini_calendar_day day current_month date_09_28_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                28
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_29" class="mini_calendar_day day current_month date_09_29_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                29
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_30" class="mini_calendar_day day current_month date_09_30_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                30
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_10_01" class="mini_calendar_day day other_month next_month date_10_01_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                1
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_02" class="mini_calendar_day day other_month next_month date_10_02_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                2
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_03" class="mini_calendar_day day other_month next_month date_10_03_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                3
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_04" class="mini_calendar_day day other_month next_month date_10_04_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                4
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_05" class="mini_calendar_day day other_month next_month date_10_05_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                5
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_06" class="mini_calendar_day day other_month next_month date_10_06_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                6
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_07" class="mini_calendar_day day other_month next_month date_10_07_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                7
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+    
+<div role="complementary" aria-label="Assignment Weights">
+  <h2>Assignments are weighted by group:</h2>
+
+  <table class="summary">
+    <thead>
+    <tr>
+      <th scope='col'>Group</th>
+      <th scope='col'>Weight</th>
+    </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <th scope='row'>Homework</th>
+          <td>15%</td>
+        </tr>
+        <tr>
+          <th scope='row'>Tests</th>
+          <td>50%</td>
+        </tr>
+      <tr style="font-weight: bold;">
+        <th scope='row'>Total</th>
+        <td>65%</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+</div>
+
+<div id="editor_tabs" class="ui-tabs--mini" style="display: none;">
+
+  <span class="wiki-sidebar-header" role="heading" aria-level="2">Insert Content into the Page</span>
+  <ul>
+    <li><a href="#editor_tabs_2">Links</a></li>
+    <li><a href="#editor_tabs_4">Images</a></li>
+  </ul>
+  <div id="editor_tabs_2" role="application">
+    Link to other content in the course.
+      <a href="/courses/33017/external_tools/retrieve?url=%7B%7B+url+%7D%7D" id="external_tool_retrieve_url" style="display: none;">&nbsp;</a>
+      <a href="/courses/33017/external_tools/%7B%7B%20id%20%7D%7D/resource_selection?editor=1" id="context_external_tool_resource_selection_url" style="display: none;">&nbsp;</a>
+    Click any page to insert a link to that page.
+    <div id="pages_accordion" class="ui-accordion--mini" role="tabpanel">
+      <a href="https://canvas.harvard.edu/courses/33017/pages/%7B%7B%20page_url%20%7D%7D" id="wiki_sidebar_wiki_url" style="display: none;">&nbsp;</a>
+      <div>
+        <div class="header" aria-controls="pages_tab_panel" role="tab"><a href="#">Wiki Pages</a></div>
+        <div id="pages_tab_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33017/pages/lecture-video">Lecture Video</a></li>
+            </ul>
+        </div>
+      </div>
+      <div>
+        <div aria-controls="assignment_panel" role="tab" class="header" aria-controls="wiki_pages_panel"><a href="#">Assignments</a></div>
+         <div id="assignment_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this assignment"><a href="/courses/33017/assignments">Assignment List</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33017/assignments/166275">HW01</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33017/assignments/168300">HW02</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33017/assignments/169942">HW03</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33017/assignments/171476">HW04</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33017/assignments/168626">Test 01</a></li>
+            </ul>
+         </div>
+      </div>
+      <div>
+        <div aria-controls="quizzes_panel" class="header" role="tab"><a href="#">Quizzes</a></div>
+         <div id="quizzes_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this quiz"><a href="/courses/33017/quizzes">Quiz List</a></li>
+            </ul>
+         </div>
+      </div>
+      <div>
+        <div class="header" aria-controls="announcements_panel" role="tab"><a href="#">Announcements</a></div>
+         <div id="announcements_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this announcement"><a href="/courses/33017/announcements">Announcements List</a></li>
+            </ul>
+         </div>
+      </div>
+
+      <div>
+        <div role="tab" aria-controls="discussions_panel" class="header"><a href="#">Discussions</a></div>
+         <div id="discussions_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this topic"><a href="/courses/33017/discussion_topics">Discussion Index</a></li>
+            </ul>
+         </div>
+      </div>
+
+      <div>
+        <div role="tab" aria-controls="modules_panel" class="header"><a href="#">Modules</a></div>
+          <div id="modules_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this module"><a href="/courses/33017/modules">Modules List</a></li>
+            </ul>
+          </div>
+      </div>
+
+      <div>
+        <div class="header" role="tab" aria-controls="groups_panel"><a href="#">Course Navigation</a></div>
+         <div role="tabpanel" id="groups_panel">
+            <ul class="wiki_pages page_list">
+                <li title="Click to insert a link to the assignments page"><a href="/courses/33017/assignments">Assignment List</a></li>
+                <li title="Click to insert a link to the wiki"><a href="https://canvas.harvard.edu/courses/33017/pages">Wiki Home</a></li>
+                <li title="Click to insert a link to the discussions page"><a href="/courses/33017/discussion_topics">Discussions Index</a></li>
+                <li title="Click to insert a link to the syllabus"><a href="/courses/33017/assignments/syllabus">Course Syllabus</a></li>
+                <li title="Click to insert a link to the announcements page"><a href="/courses/33017/announcements">Announcement List</a></li>
+                <li title="Click to insert a link to the files page"><a href="/courses/33017/files">Files Index</a></li>
+                <li title="Click to insert a link to the collaborations page"><a href="/courses/33017/collaborations">Collaborations</a></li>
+                <li title="Click to insert a link to the grades page"><a href="/courses/33017/grades">Grades</a></li>
+                <li title="Click to insert a link to the people page"><a href="/courses/33017/users">People</a></li>
+                <li title="Click to insert a link to the modules page"><a href="/courses/33017/modules">Modules</a></li>
+            </ul>
+         </div>
+      </div>
+    </div>
+
+  </div>
+  <div aria-atomic="true" id="editor_tabs_4">
+    Click any image to embed the image in the page.
+    <div>
+      <a tabindex="0" href="#" class="find_new_image_link find">Find images on flickr creative commons</a>
+    </div>
+    <div id="wiki_sidebar_image_uploads" class="uploading_file_list uploading_image_list" style="display: none;">
+      <div class="uploading">
+        Uploading <span class="filename">file</span>...
+        <div>
+          <img alt="Loading..." src="https://du11hjcvx0uqb.cloudfront.net/dist/images/ajax-loader-bar-71e6988298.gif" />
+        </div>
+      </div>
+      <div class="remaining">
+        <span class="files_remaining">0</span> more to upload
+      </div>
+      
+<a href="#" style="text-align: center display: none;" class="img_link" title="Click to embed image">
+  <div class="img_holder">
+    <img class="img" data-url="" src="" alt="{{ display_name }}" title="Click to embed {{ display_name }}">
+  </div>
+  <div class="display_name">{{ display_name }}</div>
+</a>
+
+    </div>
+    <div class="image_list_holder ">
+      <div class="dragging_message">Drop Images Here to upload</div>
+      <div class="image_list" style="max-height: 300px; overflow: auto;" data-url="/courses/33017/images">
+      </div>
+    </div>
+  </div>
+  <div style="display: none;">
+    <a href="/services?service_type=BookmarkService" class="bookmark_services_url">&nbsp;</a>
+    <a href="/search/bookmarks?q=%7B%7B+query+%7D%7D&amp;service_type=%7B%7B+service_type+%7D%7D" class="bookmark_search_url">&nbsp;</a>
+    <span class="context_code">course_33017</span>
+    <div id="wiki_sidebar_select_folder_dialog">
+      Select a destination folder for these <span class="file_count">&nbsp;</span> files:
+      <div style="margin: 20px;">
+        <select class="folder_id">
+            <option value="1311064">course files</option>
+        </select>
+      </div>
+      <div class="button-container">
+        <button type="button" class="btn select_button">Upload Files to Folder</button>
+        <button type="button" class="btn cancel_button btn button-secondary">Cancel</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+          </aside>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    <div style="display:none;"><!-- Everything inside of this should always stay hidden -->
+    </div>
+    
+<div id="cant_record_dialog" style="display: none;">
+  <div>
+    In order to create video or audio recordings your computer needs to be 
+    webcam-enabled.  If you don&#39;t have a webcam on your computer, you can still
+    record audio-only messages by first installing the Google Video Chat
+    plugin.
+  </div>
+  <div style="text-align: center; font-size: 1.5em; margin: 10px;">
+    <a href="http://www.google.com/chat/video" target="_blank" class="btn">Install the Video Plugin</a>
+  </div>
+  <div class="links" style="text-align: right; font-size: 0.8em; display: none;">
+    <a href="#" class="cant_record_link">Don&#39;t have a webcam?</a>
+  </div>
+</div>
+  <div id='aria_alerts' class='hide-text affix' role="alert" aria-live="assertive"></div>
+  <div id='StudentTray__Container'></div>
+  <script>
+  INST = {"environment":"production","allowMediaComments":true,"kalturaSettings":{"domain":"nv.instructuremedia.com","resource_domain":"nv.instructuremedia.com","rtmp_domain":"fms-prod.instructuremedia.com","partner_id":"9","subpartner_id":"0","player_ui_conf":"0","kcw_ui_conf":"0","upload_ui_conf":"0","max_file_size_bytes":534773760,"do_analytics":false,"hide_rte_button":false,"js_uploader":true},"googleAnalyticsAccount":"UA-9138420-1","disableScribdPreviews":true,"logPageViews":true,"maxVisibleEditorButtons":3,"editorButtons":[{"name":"YouTube","id":18015,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=youtube","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/youtube_icon.png","canvas_icon_class":null,"width":560,"height":600},{"name":"Vimeo","id":18016,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=vimeo","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/vimeo_icon.png","canvas_icon_class":null,"width":560,"height":600},{"name":"DCE Matterhorn Course Recordings","id":19109,"url":"https://dce-mhvideo-lti.herokuapp.com/mhvideo_lti/lti_launch","icon_url":"https://dce-mhvideo-lti.herokuapp.com/static/images/television.png","canvas_icon_class":null,"width":800,"height":400},{"name":"Course Info","id":20525,"url":"https://canvas-course-info.tlt.harvard.edu/course_info/lti_launch","icon_url":"https://canvas-course-info.tlt.harvard.edu/static/images/course-info.png","canvas_icon_class":null,"width":800,"height":400}]};
+  ENV = {"ASSET_HOST":"https://du11hjcvx0uqb.cloudfront.net","active_brand_config":"af37e5be444f4a553c9c812a9a990322","active_brand_config_json_url":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.json","url_to_what_gets_loaded_inside_the_tinymce_editor_css":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/what_gets_loaded_inside_the_tinymce_editor-542d1c188c.css","current_user_id":null,"current_user":{},"current_user_roles":null,"current_user_disabled_inbox":null,"files_domain":"cluster28-files.instructure.com","DOMAIN_ROOT_ACCOUNT_ID":18750000000000001,"k12":false,"help_link_name":"Help","help_link_icon":"help","use_high_contrast":null,"SETTINGS":{"open_registration":false,"eportfolios_enabled":true,"collapse_global_nav":null,"show_feedback_link":true,"enable_profiles":true},"context_asset_string":"course_33017","ping_url":"https://canvas.harvard.edu/api/v1/courses/33017/ping","TIMEZONE":"America/New_York","CONTEXT_TIMEZONE":"America/New_York","LOCALE":"en","BIGEASY_LOCALE":"en_US","FULLCALENDAR_LOCALE":"en","MOMENT_LOCALE":"en","RICH_CONTENT_SERVICE_ENABLED":true,"RICH_CONTENT_APP_HOST":"rich-content-iad.inscloudgate.net","RICH_CONTENT_CDN_HOST":"dvgcns7dz7zc.cloudfront.net/rce_service/versions/","RICH_CONTENT_SIDEBAR_SOURCE":"api","RICH_CONTENT_CAN_UPLOAD_FILES":false,"CONTEXT_ACTION_SOURCE":"syllabus","NEW_USER_TUTORIALS":{"is_enabled":false},"SYLLABUS_PER_PAGE":"100","CAN_READ":false,"SYLLABUS_BODY":"\u003cp\u003e\u003cspan style=\"font-size: 18pt;\"\u003e\u003cstrong\u003eWelcome to Math E10!\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 18pt;\"\u003e\u003ca class=\"instructure_file_link instructure_scribd_file\" title=\"Syllabus - Fall 2017.pdf\" href=\"/courses/33017/files/4409316/download?verifier=7Wa4ldoOdADpFyOJs4hRnEZNAYkBE2XY129NYEy9\u0026amp;wrap=1\"\u003e\u003cspan style=\"text-decoration: underline;\"\u003e\u003cstrong\u003eSyllabus\u003c/strong\u003e\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003cstrong\u003e \u003cspan style=\"font-size: 14pt;\"\u003e (Its text version appears below.  If you need a pdf version of the syllabus, please send a message to the instructor \u003ca href=\"mailto:darias@fas.harvard.edu\"\u003edarias@fas.harvard.edu\u003c/a\u003e \u003cspan\u003e. )\u003c/span\u003e                \u003c/span\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003c/span\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003e08/29/17       \u003c/strong\u003e        \u003cstrong\u003eMath E-10 \u003c/strong\u003e \u003cstrong\u003ePrecalculus                 \u003c/strong\u003e\u003cstrong\u003eFall 2017\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eInstructor: \u003c/strong\u003e David Arias, Ed.D.                  E-mail: \u003ca href=\"mailto:darias@fas.harvard.edu\"\u003edarias@fas.harvard.edu\u003c/a\u003e .\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eDuring the semester, linear, quadratic, exponential, logarithmic, trigonometric,\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003epolynomial and rational functions will be discussed. Lectures will be videotaped and\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eposted on our website within 24 hours. Solution to homework, solution to questions from\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003erecommended textbook and sample tests will also be posted on our website. You will be\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eable to access them by using your Harvard PIN. Make sure that you have your \u003cstrong\u003eHarvard\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ePIN and password by the first class meeting. You may request one at\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003ca href=\"http://www.pin.harvard.edu\"\u003ewww.pin.harvard.edu\u003c/a\u003e \u003c/span\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eIf you have technical questions about viewing the videotaped lectures, the following link\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ecould help.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003ca href=\"http://www.extension.harvard.edu/academics/courses/types-courses/video-course-guidelines\"\u003ehttp://www.extension.harvard.edu/academics/courses/types-courses/video-course-guidelines\u003c/a\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eSchedule \u003c/strong\u003e(No school on November 22 and 23)\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eLectures\u003c/strong\u003e: Thursdays 5:30 − 7:30 p.m., (August 31 to December 14) at 1 Story St, Cambridge, Massachusetts, room 302.  Only registered students will be allowed to attend\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003electures.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eOptional Review Sections\u003c/strong\u003e: They will be conducted every Wednesday, 6:30-7:30 p.m.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003efrom September 6 to December 13, via web conference.  Read \u003cstrong\u003eReview Sections \u003c/strong\u003ebelow for more information about web conferences.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eRequired Graduate Seminar \u003c/strong\u003e– The graduate credit option for Math E10 is intended for\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003estudents participating in the Math for Teaching masters program.  Students signing up for\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003egraduate credit are required to participate in an hour-long weekly graduate seminar to\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ediscuss pedagogical issues relating to the precalculus class. Potential students’\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003emisconceptions as well as alternative teaching approaches will be examined. The\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eseminar will be conducted using an online learning platform on a day and time to be\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003edetermined after consulting with everyone who is signed up for graduate credit during the\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003efirst week of classes.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eTextbook: \u003c/strong\u003eFunctions Modeling Change: A Preparation For Calculus, \u003cstrong\u003e5th Edition\u003c/strong\u003e, Connally,\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eHughes Hallett, Gleason, et al., \u003cstrong\u003eISBN\u003c/strong\u003e-13: 978-1118583197  .  It is available at the Harvard Coop, BarnesAndNoble.com, Amazon.com, etc. They have used copies too. You could also rent a digital copy of the book.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eThe book is recommended and is not mandatory to buy it. We will discuss the concepts in\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ean order similar to the order in which they are presented in the recommended textbook. But, if you do not have access to the book, you may use any other one that contains the\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003econcepts we will discuss in class.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eQuestions from the recommended book will not be assigned as part of homework. The\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003einstructor will create the questions for homework. However, the recommended book\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003econtains many good examples and questions that you could use to practice. Detailed\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003esolutions to every other odd numbered question from the book will be posted on our website.  Weekly, the instructor will suggest a list of questions from the recommended book to practice before working on homework.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eIf you do not have access to the recommended book, make sure you practice enough from\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eother books until you are prepared to start working on homework. A copy of the\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003erecommended book is on reserve at Grossman Library, Sever Hall.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003ePrerequisites: \u003c/strong\u003eAccording to its course description, in our web catalog, Math E-10 is an\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eintensive course \u003c/strong\u003efor students with \u003cstrong\u003esuperior algebra skills. \u003c/strong\u003eThus, although algebra\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003econcepts will be used extensively in our course, time in class or review sections will not\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ebe used to teach concepts from Math E-8, College Algebra. You must master the\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003efollowing skills before taking Precalculus:\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"font-size: 14pt;\"\u003eHow to solve linear equations and systems of linear equations. If you need to review,\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ework on pages 61 to 65 from the recommended textbook.\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"font-size: 14pt;\"\u003eHow to solve linear inequalities in one variable. If you need to review, you may go to\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003ca href=\"http://www.classzone.com/eservices/home/pdf/teacher/LA201FAD.pdf\"\u003ehttp://www.classzone.com/eservices/home/pdf/teacher/LA201FAD.pdf\u003c/a\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"font-size: 14pt;\"\u003eHow to solve quadratic inequalities in one variable. If you need to review, you may\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ego to \u003ca href=\"http://gabrielmathnorth.weebly.com/uploads/1/2/6/9/12696930/pre-calculus_11_-_chapter_9_website.pd\"\u003ehttp://gabrielmathnorth.weebly.com/uploads/1/2/6/9/12696930/pre-calculus_11_-_chapter_9_website.pdf\u003c/a\u003e, \u003c/span\u003e\u003cspan style=\"font-size: 14pt;\"\u003eand find that topic on page 476.\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"font-size: 14pt;\"\u003eHow to factor quadratic algebraic expressions and how to solve quadratic equations by factoring and by using the quadratic formula. If you need to review, work on pages 131 to 135 from the recommended textbook.\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003e\u003cspan style=\"font-size: 14pt;\"\u003eHow to solve a quadratic equation by completing the square. If you need to review, work on pages 136 to 138 from the recommended textbook.\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003e\u003cspan style=\"font-size: 14pt;\"\u003eHow to use properties of exponents. If you need to review, work on pages 183 to 186\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003efrom the recommended textbook.\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"font-size: 14pt;\"\u003eHow to simplify algebraic fractions. If you need to review, work on pages 491 to 494\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003efrom the recommended textbook.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eCalculators: \u003c/strong\u003eSome of the questions from homework could require the use of a graphing\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ecalculator. Owning a graphing calculator is not mandatory. You may access any of the\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003efree graphing calculators available online or you may install an application on your cellular phone.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eAlthough questions from tests and final exam will be designed to be answered only by\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eusing a scientific calculator, graphing calculators will be allowed during tests and final\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eexams. Calculators from ipads, laptops, cellular phones or any other communication\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003edevice \u003cstrong\u003ewill not \u003c/strong\u003ebe allowed during tests and final exams.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e\u003cstrong\u003e \u003c/strong\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eHomework: \u003c/strong\u003eIt will consist of a problem set assigned each week. It will be posted on our\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ewebsite, after the corresponding class meeting, by 10pm.  It will consist of multiple-\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003echoice and open response questions.  For the multiple-choice questions, you just need to submit the corresponding letter answer : A, B, C, D or E.   For the free-response questions, you have to submit a detailed problem-solving process.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eHomework should not be considered as the only practice you should have during the\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003esemester. Keep in mind that the more you practice, the better you get at it. Thus, consider\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ehomework as a test you have to prepare for. The instructor will post a weekly\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e“Suggested practice” on our website. Use it to practice the concepts and skills discussed\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ein class until you are ready to start working on homework.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eShould you need more practice before working on homework, you could work on more\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eproblems from the recommended book, included at the end of each lesson. The book also\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eincludes a “Check your understanding” section at the end of each chapter and a “Skills\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003erefresher” at the end of chapters 1, 3, 4, 5, 7 and 11. Those sections include many\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003equestions that would help you master the concepts and skills discussed in class. The\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003emore you practice before working on homework, the better.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eWhile working on problems from the recommended book, you could compare your\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003esolutions to the solutions posted on our website. Not all solutions are posted. If the\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003esolution you need is not posted, email the instructor as soon as possible. The instructor\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ewill answer your questions within 24 hours, Monday to Friday.  Thus, plan accordingly\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eand avoid asking questions the day homework or test is due.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eHomework is due at the beginning of each class meeting by 5:30 pm, according to the\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eschedule included in the Course Outline, at the end of this syllabus. Homework submitted\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eafter the deadline will have no credit, no exceptions.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eAll students must submit their homework electronically at \u003c/strong\u003eour course website.  No\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eother way of submitting homework will be accepted.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eInstructions about how to access and submit homework will be posted on our website. \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eAfter the semester begins, log into our website, click on the \"Files\" link and look for the \"How to access and submit homework\" file in the list of files and folders on that page.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eOnly pdf files will be accepted and graded. Messages sent to canvas to modify part of\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eyour homework will not be considered as part of homework. If you want to modify your\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ehomework, scan your modified homework and submit it at our website. Only the latest\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003epdf file, submitted by the deadline, will be graded. If your homework consists of several\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003epages, they must be assembled into only one pdf document.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eBefore submitting your homework, review the file you intend to submit and make sure:\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ea) It is clear, instead of blurry (scan your homework instead of taking pictures.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eb) It is assembled into only one document, instead of submitting several documents, one-\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e    page each\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ec) Its pages are properly oriented, instead of sideways or upside down.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eGraded homework will be posted on our website, within a week.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eThe three lowest homework scores will be dropped \u003c/strong\u003eto consider situations that students\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ecould not control, such as: student was sick, student had an accident or was in an\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eemergency situation, student had to travel out of town, student could not attend review\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003esection or class, student has a heavy course load, student did not scan homework\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eproperly, student had an appointment, student emailed homework but file was corrupted\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eor illegible, student did not have access to a scanner, student tried to access our website close to the deadline and could not connect to it because power was out or internet was not available, etc. In general, \u003cstrong\u003ethere is not extension of homework deadline.\u003c/strong\u003e Thus, students are advised to plan accordingly.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eHomework format: \u003c/strong\u003eThe problem sets should be neatly and logically presented. At least\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eone blank line should be left between solutions. Final answer should be clearly circled or\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eunderlined.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eThe instructor will solve many problems during class meetings and review sections. The\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eclarity of his solutions will be a sample of the clarity you need to show when doing your\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ehomework.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eIn general, solution process must be shown, step by step. Answers read from graphs\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e(from graphing calculator or graphs drawn by hand) will have no credit. If a number is\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003efound in the solution of a problem and that number is not supported by computations, points will be taken off.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eErase any work that should not be graded. In case two different approaches are used to\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003esolve a problem or part of it, only the first approach will be graded. If statements not\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003erelated to the solution are included, points will be taken off if those statements are\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eincorrect.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eIf your solution process is not clear to the instructor, you will not get credit for it. Remember that writing well and clearly (in any discipline) is a way of showing respect for your own work.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eAcademic Integrity:\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eYou are responsible for understanding Harvard Extension School policies on academic\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eintegrity ( \u003ca href=\"http://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity\"\u003ewww.extension.harvard.edu/resources-policies/student-conduct/academic-integrity\u003c/a\u003e  ) \u003c/span\u003e\u003cspan style=\"font-size: 14pt;\"\u003eand how to use sources responsibly. Not knowing the rules, misunderstanding\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ethe rules, running out of time, submitting the wrong draft, or being overwhelmed with\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003emultiple demands are not acceptable excuses. There are no excuses for failure to uphold\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eacademic integrity. To support your learning about academic citation rules, please visit\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ethe Harvard Extension School Tips to Avoid Plagiarism  \u003c/span\u003e\u003cspan style=\"font-size: 14pt;\"\u003e( \u003ca href=\"http://www.extension.harvard.edu/resources-policies/resources/tips-avoid-plagiarism\"\u003ewww.extension.harvard.edu/resources-policies/resources/tips-avoid-plagiarism\u003c/a\u003e ), where\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eyou'll find links to the Harvard Guide to Using Sources and two free online 15-minute\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003etutorials to test your knowledge of academic citation policy. The tutorials are anonymous\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eopen-learning tools.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eTests and Final Exam: \u003c/strong\u003eThere will be three 60-minute tests and a two-hour final exam. Tests\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ewill consist of five free-response questions.  The final exam will consist of 10 free- response questions.  Tests and final exam are closed-book exams.  Tests will be given on \u003cstrong\u003eSeptember 21\u003c/strong\u003e\u003cstrong\u003e, \u003c/strong\u003e\u003cstrong\u003eOctober 19\u003c/strong\u003e\u003cstrong\u003e, and \u003c/strong\u003e\u003cstrong\u003eNovember 16\u003c/strong\u003e\u003cstrong\u003e.  No make-up tests will be given for \u003c/strong\u003e \u003cstrong\u003eany reason.  \u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eTests will only be given as scheduled in this syllabus.  \u003c/strong\u003eThus, students are advised to plan accordingly.  \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eIf you miss one, two, or three tests, you will earn a grade of zero in each of the missing\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003etests. \u003cstrong\u003eThe lowest test grade will be dropped\u003c/strong\u003e and your course grade will be calculated\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eaccording to the grading policy below.  The final exam cannot be dropped.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eAt each test day, the instructor will lecture during the first half of the class meeting.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eTests will be given during the second half of the class meeting.  No exceptions.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eThus, students are advised to plan accordingly.  Within one week, copies of graded tests\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ewill be emailed to students.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eThe \u003cstrong\u003efinal exam will be given \u003c/strong\u003e\u003cstrong\u003eo\u003c/strong\u003e\u003cstrong\u003en \u003c/strong\u003e\u003cstrong\u003eDecember 14\u003c/strong\u003e\u003cstrong\u003e. \u003c/strong\u003eIf you cannot take the final exam on\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eDecember 14\u003c/strong\u003e\u003cstrong\u003e, \u003c/strong\u003eyou may file an appeal to the makeup Examinations Committee, at the\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eExtension School. After evaluating your case, the committee will decide whether to\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eallow you to make-up the final exam at a later date.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eIf a no-school day is officially declared by Harvard Extension School on any of our test\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003edates, the corresponding test will be given during the next class meeting.  \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eWithin one week, copies of the graded final exam will be emailed to students. If you live\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ein the United States and you take the final exam on campus, your final exam will be\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003emailed to you if you bring a self addressed and stamped manila envelope (minimum\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003epostage must be equivalent to three “forever” stamps) by \u003cstrong\u003eDecember 14\u003c/strong\u003e\u003cstrong\u003e. \u003c/strong\u003eIf you bring a\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ecardboard envelope, use four “forever” stamps. If you bring a padded envelope, use five\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e“forever” stamps. If you bring a Priority Mail envelope, stamp $6 worth of postage.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eIf you live within the six-state New England \u003c/strong\u003earea (Connecticut, Maine, Massachusetts,\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eNew Hampshire, Rhode Island, and Vermont) you must come to campus to take Test 01,\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eTest 02, Test 03 and the Final Exam.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eIf your primary address throughout the term is not in New England \u003c/strong\u003eyou may come\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eto campus or you must find a qualified proctor near your home to administer Test 01,\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eTest 02, Test 03 and the Final Exam (within 24 hours after the corresponding test or final exam is given on campus) in absentia in a proctored setting in your home area according to the procedures detailed at \u003c/span\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003ca href=\"http://www.extension.harvard.edu/resources-policies/exams-grades-transcripts/exams-online-courses\"\u003ehttp://www.extension.harvard.edu/resources-policies/exams-grades-transcripts/exams-online-courses\u003c/a\u003e , \u003c/span\u003e\u003cspan style=\"font-size: 14pt;\"\u003eregarding “Proctored exams.”\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eIf after reading the details on the webpage above you still have questions about the exam\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eprocedure, please email distance_exams@dcemail.harvard.edu for more information.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e\u003cstrong\u003e \u003c/strong\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eIf you have to take a test or the final exam with a proctor, make sure the proctor is \u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eavailable to administer it within 24 hours after it is given on\u003c/strong\u003e\u003cstrong\u003e \u003c/strong\u003e\u003cstrong\u003ecampus.  Tests will only\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003ebe given as scheduled in this syllabus.  Thus, students are advised to find a proctor\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003ewell in advance of each test or final exam.  \u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eGrading Policy: \u003c/strong\u003eIf you are an undergraduate-credit student, your course grade will be calculated \u003c/span\u003e\u003cspan style=\"font-size: 14pt;\"\u003eaccording to the following scheme:\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"font-size: 14pt;\"\u003eHomework    15%\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003e\u003cspan style=\"font-size: 14pt;\"\u003eTest A           25%\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003e\u003cspan style=\"font-size: 14pt;\"\u003eTest B           25%\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003e\u003cspan style=\"font-size: 14pt;\"\u003eFinal Exam   35%  \u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eNo extra-credit \u003c/strong\u003ework will be assigned.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eTest A and Test B are the two test grades that would remain after dropping the lowest test  grade. Homework grade will not replace either a test grade or the final exam grade. The  final exam grade will not be replaced by any of the test grades.  \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eIf you are a graduate-credit student, your grade will be computed as follows:\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eUndergraduate-credit grade (computed as shown above) 90%\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eGrade from graduate seminars 10%\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eFinal course grade will be translated into letter grades as follows:\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eA\u003c/strong\u003e(94-100), \u003cstrong\u003eA\u003c/strong\u003e−\u003cstrong\u003e(\u003c/strong\u003e90-93), \u003cstrong\u003eB+\u003c/strong\u003e(87-89), \u003cstrong\u003eB\u003c/strong\u003e(83-86), \u003cstrong\u003eB\u003c/strong\u003e−(80-82), \u003cstrong\u003eC+\u003c/strong\u003e(77-79), \u003cstrong\u003eC\u003c/strong\u003e(73-76), \u003cstrong\u003eC\u003c/strong\u003e−(70-\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e72), \u003cstrong\u003eD+\u003c/strong\u003e(67-69), \u003cstrong\u003eD\u003c/strong\u003e(63-66), \u003cstrong\u003eD\u003c/strong\u003e−(60-62), \u003cstrong\u003eE\u003c/strong\u003e(less than 60).\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eExtra Help: \u003c/strong\u003eIt is important to keep up with the material presented in class. Thus, if you are\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ehaving difficulties, seek for extra help as soon as possible. During the semester, you will\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ehave access to the following resources.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eReview Sections: \u003c/strong\u003eThey will be conducted every Wednesday, 6:30-7:30 pm from\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eSeptember 6 to December 13, via web conference. We will use the ZOOM software for\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eweb conferences.  If you need to train before our first review section, you may go to\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003ca href=\"http://www.extension.harvard.edu/academics/courses/types-courses/web-conference-course-guidelines\"\u003ehttp://www.extension.harvard.edu/academics/courses/types-courses/web-conference-course-guidelines\u003c/a\u003e  \u003c/span\u003e\u003cspan style=\"font-size: 14pt;\"\u003eand get information about how to get the free software, training sessions, computer and \u003c/span\u003e\u003cspan style=\"font-size: 14pt;\"\u003eheadset requirements, etc.  \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eOnce you are ready to use zoom and your computer and headset are ready, you may attend review sections by going to\u003cspan style=\"color: #ff0000;\"\u003e \u003cstrong\u003ehttps://zoom.us/j/6715302929\u003c/strong\u003e\u003c/span\u003e .  \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eSessions will be recorded and posted on our website: log into our website by using your\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ePIN and password, click on the \"Files\" link at the left of the page, open folder \"Review sections\" and you will find the videos there.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eReview sections will be dedicated to answer students’ questions. Students may ask any\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003equestion about precalculus problems they worked on \u003cstrong\u003eexcept questions from homework.\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eStudents may also ask specific questions about concepts that need to be clarified.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eIf you cannot attend review sections, email your questions to the instructor. Your\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003equestions will be answered either via email (Monday to Friday, within 24 hours) or\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eduring next review section.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eThe Math Question Center (MQC): \u003c/strong\u003eMondays, 5:30 pm. to 7:30 pm., and Tuesdays,\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e7:40 pm. to 9:40 pm., Sever Hall 215. Several tutors are available to help students in a\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003evariety of Extension School math courses. Note that the MQC is open to many students\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eso try to arrive early.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eIf you are a distance student or a local student who cannot come to campus, you may ask\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003efor extra help via online. If you want to access the MQC online, please follow\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003einstructions at https://canvas.harvard.edu/courses/2878\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eDisability Services:\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eThe Extension School is committed to providing an accessible academic community. The\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eAccessibility Office offers a variety of accommodations and services to students with\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003edocumented disabilities.  Please visit \u003c/span\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003ca href=\"http://www.extension.harvard.edu/accessibility-student-services\"\u003ehttp://www.extension.harvard.edu/accessibility-student-services\u003c/a\u003e for more information.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eOther Suggestions:\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eIt is a good idea to read the sections from the recommended textbook before we go over\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ethem during lecture. It is extremely helpful to be familiar with the concepts before they\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eare presented to you. Ideally, the lecture should be a clarification and an extension of the\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ematerial that you have already read about.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eStart working on the weekly suggested practice as early as possible. The material will\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003estill be fresh and you'll have sufficient time to work on it thoroughly. Solutions to\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eproblems from textbook will be posted on our website.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eOnce you practice enough from the suggested practice, start working on the homework\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eand identify the areas where you need help. Prepare the questions you will ask during\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003ereview section or during your meeting with personnel at the Math Question Center.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eScan your homework and submit it as soon as possible to avoid late homework.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eTentative Course Outline - Based on recommended book\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003eClass    \u003c/strong\u003e\u003cstrong\u003eDate                        \u003c/strong\u003e\u003cstrong\u003eTopics                                                    \u003c/strong\u003e\u003cstrong\u003eSections in Textbook\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e1          08/31  Chapter 1: Functions, lines, and change                                  1.1 - 1.5\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003e                       HW 01 is assigned\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e2           09/07  Chapter 2: Functions                                                                2.1 – 2.6\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003e                        HW 02 is assigned \u003c/strong\u003e \u003cstrong\u003eHW 01 is due\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e3           09/14 Chapter 4: Quadratic and exponential functions                        3.1 – 3.2\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003e                       HW 03 is assigned \u003c/strong\u003e \u003cstrong\u003eHW 02 is due\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e4           09/21  Chapter 4: Exponential functions                                              4.1 – 4.2  \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003e                        HW 04 is assigned \u003c/strong\u003e \u003cstrong\u003eTEST 01 IS DUE\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e5           09/28 Chapter 4: Exponential functions                                               4.3 – 4.5         \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003e                       HW 05 is assigned\u003c/strong\u003e \u003cstrong\u003eHW 03 and HW 04 are due\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e6           10/05 Chapter 5: Logarithmic functions                                                5.1 – 5.3\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003e                       HW 06 is assigned\u003c/strong\u003e \u003cstrong\u003eHW 05 is due\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e7           10/12 Chapter 6: Transformations of functions and their graphs          6.1 – 6.3\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003e                       HW 07 is assigned \u003c/strong\u003e \u003cstrong\u003eHW 06 is due\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e8           10/19 Chapter 7: Trigonometry and periodic functions                         7.1\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003e                       HW 08 is assigned \u003c/strong\u003e \u003cstrong\u003eTEST 02 IS DUE\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e9           10/26 Chapter 7: Trigonometry and periodic functions                         7.2 – 7.5 \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003e                       HW 09 is assigned. \u003c/strong\u003e \u003cstrong\u003eHW 07 and HW 08 are due\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e10         11/02 Chapter 7: Trigonometry and periodic functions                         7.6 – 7.8\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003e                       HW 10 is assigned\u003c/strong\u003e \u003cstrong\u003eHW 09 is due\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e11         11/09 Chapter 8: Triangle trigonometry                                                 8.1 – 8.2\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003e                       HW 11 is assigned \u003c/strong\u003e \u003cstrong\u003eHW 10 is due\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e12         11/16 Chapter 9: Trigonometric identities                                             9.1 – 9.3\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003e                       HW 12 is assigned \u003c/strong\u003e \u003cstrong\u003eTEST 03 IS DUE\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e13         11/30 Chapter 10: Composition of functions, inverse functions          10.1 – 10.2\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e                       Chapter 11: Polynomial functions                                              11.1 – 11.3  \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003e                       HW 13 is assigned\u003c/strong\u003e \u003cstrong\u003eHW 11 and HW 12 are due\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e14        12/07 Chapter 11: Rational functions                                                   11.4 – 11.5\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cstrong\u003e                       No HW is assigned \u003c/strong\u003e \u003cstrong\u003eHW 13 is due\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e15        \u003cstrong\u003e12\u003c/strong\u003e\u003cstrong\u003e/\u003c/strong\u003e\u003cstrong\u003e14\u003c/strong\u003e \u003cstrong\u003eFINAL EXAM IS DUE\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e","notices":[]};
+</script>
+
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/navigation_header.bundle-9669f80a51.js" defer="defer"></script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/4225508/global.min.js" defer="defer"></script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/3751539/EXPGlobal.js" defer="defer"></script>
+
+</div> <!-- #application -->
+</body>
+</html>

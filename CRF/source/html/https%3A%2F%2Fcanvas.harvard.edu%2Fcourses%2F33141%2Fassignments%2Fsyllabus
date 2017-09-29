@@ -1,0 +1,1160 @@
+
+
+<!DOCTYPE html>
+<html class="scripts-not-loaded" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Syllabus for Information Systems Management</title>
+  <!--[if lte IE 9]> <meta http-equiv=refresh content="0; URL=/ie-9-is-not-supported.html" /> <![endif]-->
+  <link rel="shortcut icon" type="image/x-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/favicon-e10d657a73.ico" />
+  <link rel="apple-touch-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/apple-touch-icon-585e5d997d.png" />
+  
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.css" />
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/common-de9877d2f0.css" />
+  <script>
+//<![CDATA[
+
+!function(){
+  var o,s,v;
+  if (!(window.Promise && Object.assign && Object.values && [].find && [].includes && (o={},s=Symbol(),v={},o[s]=v,o[s]===v) && (function f(){}).bind().name==='bound f')) {
+    s = 's', document.write('<'+s+'cr'+'ipt src="https://du11hjcvx0uqb.cloudfront.net/dist/ie11-polyfill-64b21f7f37.js"></'+s+'c'+'ript>');
+  }
+}();
+      
+//]]>
+</script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/lato-fontfaceobserver-11a14bc0b6.js" async="async"></script>
+  
+  <meta name="apple-itunes-app" content="app-id=480883488" />
+<link rel="manifest" href="/web-app-manifest/manifest.json" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#008EE2">
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/tinymce-29f8b0a23f.css" />
+<link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/syllabus-2f51f24f19.css" />
+  
+  <link rel="stylesheet" media="all" href="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/4225502/global.min.css" />
+  <script>
+    function _earlyClick(e){
+      var c = e.target
+      while (c && c.ownerDocument) {
+        if (c.getAttribute('href') == '#' || c.getAttribute('data-method')) {
+          e.preventDefault()
+          (_earlyClick.clicks = _earlyClick.clicks || []).push(c)
+          break
+        }
+        c = c.parentNode
+      }
+    }
+    document.addEventListener('click', _earlyClick)
+  </script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.js" defer="defer"></script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/vendor.bundle-2585fc489b.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/New_York-c3226761e3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/en_US-80a0ce259b.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/appBootstrap.bundle-43015c2be3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/common.bundle-07f53473d3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/syllabus.bundle-8eb56aaa04.js" defer="defer"></script>
+</head>
+
+<body class="with-left-side course-menu-expanded with-right-side syllabus primary-nav-expanded context-course_33141">
+
+<noscript>
+  <div role="alert" class="ic-flash-static ic-flash-error">
+    <div class="ic-flash__icon" aria-hidden="true">
+      <i class="icon-warning"></i>
+    </div>
+    <h1>You need to have JavaScript enabled in order to access this site.</h1>
+  </div>
+</noscript>
+
+
+
+
+
+<ul id="flash_message_holder"></ul>
+<div id="flash_screenreader_holder"></div>
+
+<div id="application" class="ic-app">
+  
+  <header id="header" class="ic-app-header no-print no-user">
+    <a href="#content" id="skip_navigation_link">Skip To Content</a>
+      <div role="region" class="ic-app-header__main-navigation" aria-label="Main Navigation">
+        <div class="ic-app-header__logomark-container">
+          <a href="https://canvas.harvard.edu/" class="ic-app-header__logomark">
+            <span class="screenreader-only">Dashboard</span>
+          </a>
+        </div>
+        <ul id="menu" class="ic-app-header__menu-list">
+            <li class="menu-item ic-app-header__menu-list-item">
+              <a id="global_nav_login_link" href="/login" class="ic-app-header__menu-list-link">
+                <div class="menu-item-icon-container" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--login" version="1.1" x="0" y="0" viewBox="241 -241 512 512" enable-background="new 241 -241 512 512" xml:space="preserve"><path d="M743.9 5.9l-35.7-35.7H492.9c-6.5-16.2-17.3-32-31.7-46.4 -50.4-50.4-132-50.4-182.4 0s-50.4 132.1 0 182.5 132 50.4 182.4 0c11.8-11.8 20.6-25.9 27-41.8H547L570.6 88l22.8-22.8L616.2 88 639 65.2 661.8 88l24.1-24.1 15.6-1.5 4.6-0.5L753 15 743.9 5.9 743.9 5.9zM694.4 37.1l-15.6 1.5 -4.6 0.5 -12.4 12.4 -12.9-12.9h-19.8l-12.9 12.9 -12.9-12.9h-19.8l-12.9 12.9 -12.9-12.9h-87.6l-2.9 8.8c-5.3 16-13.2 29.5-24.2 40.6 -40.3 40.3-105.6 40.3-145.9 0s-40.3-105.7 0-146 105.6-40.3 145.9 0c14.3 14.3 24.4 29.8 28.6 44.6l2.7 9.4h223.3l19 19L694.4 37.1 694.4 37.1zM322.3-16.2c-17.5 17.5-17.5 46 0 63.5 17.5 17.5 46 17.5 63.5 0 17.5-17.5 17.5-46 0-63.5C368.2-33.8 339.8-33.8 322.3-16.2L322.3-16.2zM367.6 29.1c-7.5 7.5-19.7 7.5-27.2 0 -7.5-7.5-7.5-19.7 0-27.2s19.7-7.5 27.2 0S375.2 21.6 367.6 29.1L367.6 29.1z"/></svg>
+
+                </div>
+                <div class="menu-item__text">
+                  Login
+                </div>
+              </a>
+            </li>
+          <li class="ic-app-header__menu-list-item ">
+            <a id="global_nav_dashboard_link" href="https://canvas.harvard.edu/" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--dashboard" version="1.1" x="0" y="0" viewBox="0 0 280 200" enable-background="new 0 0 280 200" xml:space="preserve"><path d="M273.09,180.75H197.47V164.47h62.62A122.16,122.16,0,1,0,17.85,142a124,124,0,0,0,2,22.51H90.18v16.29H6.89l-1.5-6.22A138.51,138.51,0,0,1,1.57,142C1.57,65.64,63.67,3.53,140,3.53S278.43,65.64,278.43,142a137.67,137.67,0,0,1-3.84,32.57ZM66.49,87.63,50.24,71.38,61.75,59.86,78,76.12Zm147,0L202,76.12l16.25-16.25,11.51,11.51ZM131.85,53.82v-23h16.29v23Zm15.63,142.3a31.71,31.71,0,0,1-28-16.81c-6.4-12.08-15.73-72.29-17.54-84.25a8.15,8.15,0,0,1,13.58-7.2c8.88,8.21,53.48,49.72,59.88,61.81a31.61,31.61,0,0,1-27.9,46.45ZM121.81,116.2c4.17,24.56,9.23,50.21,12,55.49A15.35,15.35,0,1,0,161,157.3C158.18,152,139.79,133.44,121.81,116.2Z" /></svg>
+
+              </div>
+              <div class="menu-item__text">Dashboard</div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ic-app-header__menu-list-item--active">
+            <a id="global_nav_courses_link" href="/courses" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--courses" version="1.1" x="0" y="0" viewBox="0 0 280 259" enable-background="new 0 0 280 259" xml:space="preserve"><path d="M73.31,198c-11.93,0-22.22,8-24,18.73a26.67,26.67,0,0,0-.3,3.63v.3a22,22,0,0,0,5.44,14.65,22.47,22.47,0,0,0,17.22,8H200V228.19h-134V213.08H200V198Zm21-105.74h90.64V62H94.3ZM79.19,107.34V46.92H200v60.42Zm7.55,30.21V122.45H192.49v15.11ZM71.65,16.71A22.72,22.72,0,0,0,49,39.36V190.88a41.12,41.12,0,0,1,24.32-8h157V16.71ZM33.88,39.36A37.78,37.78,0,0,1,71.65,1.6H245.36V198H215.15v45.32h22.66V258.4H71.65a37.85,37.85,0,0,1-37.76-37.76Z"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Courses
+              </div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_calendar_link" href="/calendar" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--calendar" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M197.07,213.38h16.31V197.07H197.07Zm-16.31,16.31V180.76h48.92v48.92Zm-48.92-16.31h16.31V197.07H131.85Zm-16.31,16.31V180.76h48.92v48.92ZM66.62,213.38H82.93V197.07H66.62ZM50.32,229.68V180.76H99.24v48.92Zm146.75-81.53h16.31V131.85H197.07Zm-16.31,16.31V115.54h48.92v48.92Zm-48.92-16.31h16.31V131.85H131.85Zm-16.31,16.31V115.54h48.92v48.92ZM66.62,148.15H82.93V131.85H66.62ZM50.32,164.46V115.54H99.24v48.92ZM34,262.29H246V82.93H34ZM246,66.62V42.16A8.17,8.17,0,0,0,237.84,34H213.38v8.15a8.15,8.15,0,1,1-16.31,0V34H82.93v8.15a8.15,8.15,0,0,1-16.31,0V34H42.16A8.17,8.17,0,0,0,34,42.16V66.62Zm-8.15-48.92a24.49,24.49,0,0,1,24.46,24.46V278.6H17.71V42.16A24.49,24.49,0,0,1,42.16,17.71H66.62V9.55a8.15,8.15,0,0,1,16.31,0v8.15H197.07V9.55a8.15,8.15,0,1,1,16.31,0v8.15Z"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Calendar
+              </div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_conversations_link" href="/conversations" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--inbox" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M91.72,120.75h96.56V104.65H91.72Zm0,48.28h80.47V152.94H91.72Zm0-96.56h80.47V56.37H91.72Zm160.94,34.88H228.52V10.78h-177v96.56H27.34A24.17,24.17,0,0,0,3.2,131.48V244.14a24.17,24.17,0,0,0,24.14,24.14H252.66a24.17,24.17,0,0,0,24.14-24.14V131.48A24.17,24.17,0,0,0,252.66,107.34Zm0,16.09a8.06,8.06,0,0,1,8,8v51.77l-32.19,19.31V123.44ZM67.58,203.91v-177H212.42v177ZM27.34,123.44H51.48v79.13L19.29,183.26V131.48A8.06,8.06,0,0,1,27.34,123.44ZM252.66,252.19H27.34a8.06,8.06,0,0,1-8-8V202l30,18H230.75l30-18v42.12A8.06,8.06,0,0,1,252.66,252.19Z"/></svg>
+
+                <span class="menu-item__badge" style="display: none">0</span>
+              </div>
+              <div class="menu-item__text">
+                Inbox
+              </div>
+            </a>
+          </li>
+          <li class="ic-app-header__menu-list-item">
+           <a id="global_nav_help_link" class="ic-app-header__menu-list-link" data-track-category="help system" data-track-label="help button" href="http://help.instructure.com/">
+              <div class="menu-item-icon-container" role="presentation">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg menu-item__icon svg-icon-help" version="1.1" x="0" y="0" viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve" fill="currentColor"><path d="M100,127.88A11.15,11.15,0,1,0,111.16,139,11.16,11.16,0,0,0,100,127.88Zm8.82-88.08a33.19,33.19,0,0,1,23.5,23.5,33.54,33.54,0,0,1-24,41.23,3.4,3.4,0,0,0-2.74,3.15v9.06H94.42v-9.06a14.57,14.57,0,0,1,11.13-14,22.43,22.43,0,0,0,13.66-10.27,22.73,22.73,0,0,0,2.31-17.37A21.92,21.92,0,0,0,106,50.59a22.67,22.67,0,0,0-19.68,3.88,22.18,22.18,0,0,0-8.65,17.64H66.54a33.25,33.25,0,0,1,13-26.47A33.72,33.72,0,0,1,108.82,39.8ZM100,5.2A94.8,94.8,0,1,0,194.8,100,94.91,94.91,0,0,0,100,5.2m0,178.45A83.65,83.65,0,1,1,183.65,100,83.73,83.73,0,0,1,100,183.65" transform="translate(-5.2 -5.2)"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Help
+              </div>
+</a>          </li>
+        </ul>
+      </div>
+      <div class="ic-app-header__secondary-navigation">
+        <ul class="ic-app-header__menu-list">
+          <li class="menu-item ic-app-header__menu-list-item">
+            <button
+              id="primaryNavToggle"
+              class="ic-app-header__menu-list-link ic-app-header__menu-list-link--nav-toggle"
+              aria-label="
+                Minimize global navigation"
+              title="
+                Minimize global navigation"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--navtoggle" version="1.1" x="0" y="0" width="40" height="32" viewBox="0 0 40 32" xml:space="preserve">
+  <path d="M39.5,30.28V2.48H37.18v27.8Zm-4.93-13.9L22.17,4,20.53,5.61l9.61,9.61H.5v2.31H30.14l-9.61,9.61,1.64,1.64Z"/>
+</svg>
+
+            </button>
+          </li>
+        </ul>
+      </div>
+    <div id="global_nav_tray_container"></div>
+  </header>
+
+
+  <div id="instructure_ajax_error_box">
+    <div style="text-align: right; background-color: #fff;"><a href="#" class="close_instructure_ajax_error_box_link">Close</a></div>
+    <iframe id="instructure_ajax_error_result" src="about:blank" style="border: 0;" title="Error"></iframe>
+  </div>
+
+  
+
+  <div id="wrapper" class="ic-Layout-wrapper">
+      <div class="ic-app-nav-toggle-and-crumbs no-print">
+          <button type="button" id="courseMenuToggle" class="Button Button--link ic-app-course-nav-toggle" aria-live="polite" aria-label="Hide Courses Navigation Menu" title="Hide Courses Navigation Menu">
+            <i class="icon-hamburger" aria-hidden="true"></i>
+          </button>
+          <div class="ic-app-crumbs">
+        <nav id="breadcrumbs" role="navigation" aria-label="breadcrumbs"><ul><li class="home"><a href="/"><span class="ellipsible">      <i class="icon-home"
+         title="My Dashboard">
+        <span class="screenreader-only">My Dashboard</span>
+      </i>
+</span></a></li><li><span class="ellipsible">ISMT E-100 (12528)</span></li><li><span class="ellipsible">Syllabus</span></li></ul></nav>
+        </div>
+      </div>
+    <div id="main" class="ic-Layout-columns">
+        <div class="ic-Layout-watermark"></div>
+        <div id="left-side"
+          class="ic-app-course-menu list-view"
+          style="display: block"
+          >
+              <span id="section-tabs-header-subtitle" class="ellipsis">2017-2018 Fall</span>
+            <nav role="navigation" aria-label="Courses Navigation Menu"><ul id="section-tabs"><li class="section"><a href="/courses/33141/assignments/syllabus" title="Syllabus" class="syllabus active">Syllabus</a></li><li class="section"><a href="/courses/33141/external_tools/25748" title="Web Conference Sessions" class="context_external_tool_25748">Web Conference Sessions</a></li></ul></nav>
+        </div>
+      <div id="not_right_side" class="ic-app-main-content">
+        <div id="content-wrapper" class="ic-Layout-contentWrapper">
+            
+
+          <div id="content" class="ic-Layout-contentMain" role="main">
+            
+
+
+
+<div class="ic-Action-header">
+  <div class="ic-Action-header__Primary">
+    <h1 class="ic-Action-header__Heading">Course Syllabus</h1>
+  </div>
+  <div class="ic-Action-header__Secondary">
+    <a href="#" class="jump_to_today_link">Jump to Today</a>
+  </div>
+</div>
+
+<div id="course_syllabus" style="margin-bottom: 10px;" class="user_content">
+  <div id="course_syllabus" class="user_content" style="margin-bottom: 10px;">
+<p><span style="font-size: 14pt;">COURSE OVERVIEW AND INFORMATION</span></p>
+<table>
+<tbody>
+<tr>
+<td colspan="2">This course provides a broad overview of the issues managers face in the selection, use, and management of information technology (IT). Increasingly, IT is being used as a tool to implement business strategies and gain competitive advantage, not merely to support business operations. Using a case study approach, topics include information technology and strategy, information technology and organization, and information technology assets management. <br><br> The course takes a management rather than a technical approach to the material presented. As such, it should be of use to students of general management interested in information technology and to students of information technology interested in management.<br><br>
+</td>
+</tr>
+<tr>
+<td>Course Name:</td>
+<td>Information Systems Management</td>
+</tr>
+<tr>
+<td>Harvard Extension School:</td>
+<td>ISMT E-100 (12528)</td>
+</tr>
+<tr>
+<td>Term:</td>
+<td>Fall 2017</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Faculty:</td>
+<td>Jeffrey E. Francis, MS, PMP</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Location:</td>
+<td>Online (live) web conference</td>
+</tr>
+<tr>
+<td>Time:</td>
+<td>Monday 7:40pm - 9:40pm</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Prerequisites:</td>
+<td>Knowledge of the use of information systems in business settings.</td>
+</tr>
+<tr>
+<td>Note:</td>
+<td>Noncredit, graduate credit $2,700.</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>Course url:</td>
+<td><a href="http://www.extension.harvard.edu/academics/courses/information-systems-management/12528" target="_blank">http://www.extension.harvard.edu/academics/courses/information-systems-management/12528</a></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>The Extension School is committed to providing an accessible academic community. The Disability Services Office offers a variety of accommodations and services to students with documented disabilities. Please visit <a href="http://www.extension.harvard.edu/resources-policies/resources/disability-services-accessibility" target="_blank">www.extension.harvard.edu/resources-policies/resources/disability-services-accessibility</a> for more information.</p>
+<p> </p>
+<p><span style="font-size: 14pt;">SYLLABUS</span></p>
+<p><span style="font-size: 14pt;"><span style="font-size: 8pt; font-family: verdana,geneva;"><span style="font-size: 10pt;">Click on the file name or icons on the right to view or download the 2017 course syllabus.</span><br></span></span></p>
+<p> <a id="" class=" instructure_scribd_file instructure_file_link" title="ISMT E-100 Information Systems Management -- Syllabus.pdf" href="/courses/33141/files/4196185/download?verifier=9GLhZZb5Ctlcz8Gq29d5LzWAeWFx95fbqOAAvVcW&amp;wrap=1" data-api-endpoint="https://canvas.harvard.edu/api/v1$IMS-CC-FILEBASE$/JEF%20files/ISMT%20E-100%20Information%20Systems%20Management%20--%20Syllabus.pdf" data-api-returntype="File">ISMT E-100 Information Systems Management -- Syllabus.pdf</a></p>
+<p> </p>
+<p><span style="font-size: 14pt;">COURSEPACK</span></p>
+<p>The <span style="color: #ff0000;"><strong>required</strong> </span>coursepack for the Fall 2017 term is available from Harvard Business School Publishing. To access your coursepack, you will have to register and log in at: <a href="http://cb.hbsp.harvard.edu/cbmp/access/65624676">http://cb.hbsp.harvard.edu/cbmp/access/65624676</a>.<span></span></p>
+<p>The coursepack contains the cases we will use as outlined in the syllabus. The cost per case is $4.25 for ISMT E-100 students.</p>
+<p><span style="font-size: 10pt;"></span><br><span style="font-size: 14pt;"> TEXTBOOK OUT OF PRINT</span></p>
+<div class="content">
+<div class="wrap">
+<div class="hentry isites-announcement">
+<h4 class="entry-title"><span style="font-size: 12pt;">Sixth Edition Out Of Print</span></h4>
+<div class="entry-summary">
+<p style="text-align: left;"><span style="color: #ff0000;"><strong>PLEASE NOTE THAT THE TEXTBOOK IS OPTIONAL</strong></span></p>
+<p><span style="font-size: 10pt; font-family: verdana,geneva;">The content in this course is based on the 6th edition of Corporate Information Strategy and Management: Text and Cases, McGraw-Hill, 2003. The 6th edition is out of print, but still commonly available on the internet.</span></p>
+<p><span style="font-size: 10pt; font-family: verdana,geneva;">The most recent edition of this text is the 8th edition. It includes many of the concepts discussed in this course, but from a slightly different perspective.</span></p>
+<p><span style="font-size: 10pt; font-family: verdana,geneva;">The cases in the 8th edition are NOT used in this course. The cases we will use are from the required coursepack.</span></p>
+<p><span style="font-size: 10pt;"></span><span style="font-size: 10pt; font-family: verdana,geneva;">Here is the citation: Austin, Robert D., Lynda M. Applegate, and Deborah Soule. Corporate Information Strategy and Management: Text and Cases. 8th ed. McGraw-Hill, 2008.</span></p>
+<p> </p>
+<p><span style="font-size: 14pt;">CLASS MATERIALS SUPERSEDE THIS SYLLABUS</span></p>
+</div>
+</div>
+</div>
+</div>
+<p><span style="color: red; font-size: 10pt;"><strong>The syllabus on this site is for general orientation only. The week-to-week slides in the Powerpoint presentations used in class supersede this syllabus</strong></span></p>
+<hr>
+</div>
+</div>
+<div id="course_syllabus_details" style="display: none;">
+  <p>The syllabus page shows a table-oriented view of the course schedule, and the basics of
+course grading.  You can add any other comments, notes, or thoughts you have about the course
+structure, course policies or anything else.</p>
+
+<p>To add some comments, click the &quot;Edit&quot; link at the top.</p>
+</div>
+<form id="edit_course_syllabus_form" style="display: none; margin-bottom: 10px;" action="/courses/33141" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="+T1AWhjlPLNIH5JSmqK73fcX7jzD94STYCS9juPAEGzWcAc9SaBZ3i4o1x30zeGokyOsC6yG4fxZVo/7tYIgKw==" />
+  <div style="float: right;">
+    <a href="#" class="toggle_views_link toggle_html_editor_link">HTML Editor</a>
+    <a href="#" class="toggle_views_link toggle_rich_editor_link" style="display:none;">Rich Content Editor</a>
+  </div>
+  <label for="course_syllabus_body">Syllabus Description:</label>
+  <div class="clear"></div>
+  <textarea style="width: 100%; height: 300px;" id="course_syllabus_body" name="course[syllabus_body]">
+</textarea>
+  <div class='form-actions'>
+    <button type="button" class="btn cancel_button">Cancel</button>
+    <button type="submit" class='btn btn-primary'>Update Syllabus</button>
+  </div>
+</form>
+<h2>Course Summary:</h2>
+
+<div id="syllabusContainer">
+  <div id="syllabus_links">
+    <a id="toggle_special_dates_in_syllabus">&nbsp;</a>
+  </div>
+  <table id="syllabus" class="ic-Table--condensed">
+    <thead>
+      <tr>
+        <th scope="col" style="width: 25%;">Date</th>
+        <th scope="col" style="width: 75%;">Details</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td scope="row">
+          <span id="loading_indicator"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+          </div>
+        </div>
+        <div id="right-side-wrapper" class="ic-app-main-content__secondary">
+          <aside id="right-side" role="complementary">
+              
+<div id="sidebar_content">
+  
+<div class="mini_month">
+  <div class="mini-cal-header">
+    <button class="prev_month_link Button Button--icon-action"><i class="icon-arrow-open-left"></i><span class="screenreader-only">Prev month</span></button>
+    <button class="next_month_link Button Button--icon-action"><i class="icon-arrow-open-right"></i><span class="screenreader-only">Next month</span></button>
+    <span class="mini-cal-month-and-year">
+      <span class="month_name">September</span>
+      <span class="year_number">2017</span>
+    </span>
+  </div>
+  <div style="display: none;">
+    <span class="month_number">9</span>
+  </div>
+  <table class="mini_calendar" cellspacing="0">
+    <caption class="screenreader-only">Calendar</caption>
+    <thead>
+      <tr>
+          <th scope="col">
+            <span class="screenreader-only">
+              Sunday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Monday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Tuesday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Wednesday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Thursday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Friday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Saturday
+            </span>
+          </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_08_27" class="mini_calendar_day day other_month previous_month date_08_27_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                27
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_28" class="mini_calendar_day day other_month previous_month date_08_28_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                28
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_29" class="mini_calendar_day day other_month previous_month date_08_29_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                29
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_30" class="mini_calendar_day day other_month previous_month date_08_30_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                30
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_31" class="mini_calendar_day day other_month previous_month date_08_31_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                31
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_01" class="mini_calendar_day day current_month date_09_01_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                1
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_02" class="mini_calendar_day day current_month date_09_02_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                2
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_03" class="mini_calendar_day day current_month date_09_03_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                3
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_04" class="mini_calendar_day day current_month date_09_04_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                4
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_05" class="mini_calendar_day day current_month date_09_05_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                5
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_06" class="mini_calendar_day day current_month date_09_06_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                6
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_07" class="mini_calendar_day day current_month date_09_07_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                7
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_08" class="mini_calendar_day day current_month date_09_08_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                8
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_09" class="mini_calendar_day day current_month date_09_09_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                9
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_10" class="mini_calendar_day day current_month date_09_10_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                10
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_11" class="mini_calendar_day day current_month date_09_11_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                11
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_12" class="mini_calendar_day day current_month date_09_12_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                12
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_13" class="mini_calendar_day day current_month date_09_13_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                13
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_14" class="mini_calendar_day day current_month date_09_14_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                14
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_15" class="mini_calendar_day day current_month date_09_15_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                15
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_16" class="mini_calendar_day day current_month date_09_16_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                16
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_17" class="mini_calendar_day day current_month date_09_17_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                17
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_18" class="mini_calendar_day day current_month date_09_18_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                18
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_19" class="mini_calendar_day day current_month date_09_19_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                19
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_20" class="mini_calendar_day day current_month date_09_20_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                20
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_21" class="mini_calendar_day day current_month date_09_21_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                21
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_22" class="mini_calendar_day day current_month date_09_22_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                22
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_23" class="mini_calendar_day day current_month date_09_23_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                23
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_24" class="mini_calendar_day day current_month today date_09_24_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                24
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_25" class="mini_calendar_day day current_month date_09_25_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                25
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_26" class="mini_calendar_day day current_month date_09_26_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                26
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_27" class="mini_calendar_day day current_month date_09_27_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                27
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_28" class="mini_calendar_day day current_month date_09_28_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                28
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_29" class="mini_calendar_day day current_month date_09_29_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                29
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_30" class="mini_calendar_day day current_month date_09_30_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                30
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_10_01" class="mini_calendar_day day other_month next_month date_10_01_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                1
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_02" class="mini_calendar_day day other_month next_month date_10_02_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                2
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_03" class="mini_calendar_day day other_month next_month date_10_03_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                3
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_04" class="mini_calendar_day day other_month next_month date_10_04_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                4
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_05" class="mini_calendar_day day other_month next_month date_10_05_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                5
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_06" class="mini_calendar_day day other_month next_month date_10_06_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                6
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_07" class="mini_calendar_day day other_month next_month date_10_07_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                7
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+    
+<div role="complementary" aria-label="Assignment Weights">
+  <h2>Course assignments are not weighted.</h2>
+</div>
+
+</div>
+
+<div id="editor_tabs" class="ui-tabs--mini" style="display: none;">
+
+  <span class="wiki-sidebar-header" role="heading" aria-level="2">Insert Content into the Page</span>
+  <ul>
+    <li><a href="#editor_tabs_2">Links</a></li>
+    <li><a href="#editor_tabs_4">Images</a></li>
+  </ul>
+  <div id="editor_tabs_2" role="application">
+    Link to other content in the course.
+      <a href="/courses/33141/external_tools/retrieve?url=%7B%7B+url+%7D%7D" id="external_tool_retrieve_url" style="display: none;">&nbsp;</a>
+      <a href="/courses/33141/external_tools/%7B%7B%20id%20%7D%7D/resource_selection?editor=1" id="context_external_tool_resource_selection_url" style="display: none;">&nbsp;</a>
+    Click any page to insert a link to that page.
+    <div id="pages_accordion" class="ui-accordion--mini" role="tabpanel">
+      <a href="https://canvas.harvard.edu/courses/33141/pages/%7B%7B%20page_url%20%7D%7D" id="wiki_sidebar_wiki_url" style="display: none;">&nbsp;</a>
+      <div>
+        <div class="header" aria-controls="pages_tab_panel" role="tab"><a href="#">Wiki Pages</a></div>
+        <div id="pages_tab_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33141/pages/web-conference-sessions">Web Conference Sessions</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33141/pages/week-10-managing-information-technology-outsourcing">Week 10 - Managing Information Technology Outsourcing</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33141/pages/week-11-project-management">Week 11 - Project Management</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33141/pages/week-12-information-technology-planning">Week 12 - Information Technology Planning</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33141/pages/week-13-information-politics">Week 13 - Information Politics</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33141/pages/week-14-course-wrap-up-and-review">Week 14 - Course Wrap-Up and Review</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33141/pages/week-15-final-exam">Week 15 - Final Exam</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33141/pages/week-1-introduction-to-the-course">Week 1 - Introduction To The Course</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33141/pages/week-2-information-systems-and-management">Week 2 - Information, Systems and Management</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33141/pages/week-3-information-technology-and-strategy">Week 3 - Information Technology and Strategy</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33141/pages/week-4-the-network-economy-trends-and-opportunities">Week 4 - The Network Economy - Trends and Opportunities</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33141/pages/week-5-managing-change">Week 5 - Managing Change</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33141/pages/week-6-information-technology-and-organization">Week 6 - Information Technology and Organization</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33141/pages/week-7-information-technology-architecture">Week 7 - Information Technology Architecture</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33141/pages/week-8-organizing-and-leading-the-information-technology-function">Week 8 - Organizing and Leading the Information Technology Function</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33141/pages/week-9-information-technology-operations">Week 9 - Information Technology Operations</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33141/pages/weekly-presentations-and-readings">Weekly Presentations and Readings</a></li>
+            </ul>
+        </div>
+      </div>
+      <div>
+        <div aria-controls="assignment_panel" role="tab" class="header" aria-controls="wiki_pages_panel"><a href="#">Assignments</a></div>
+         <div id="assignment_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments">Assignment List</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152445">Complete the Who Are You? Poll</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152446">Group 1-1: Taco Bell, Inc. (1983-1994)</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152447">Group 1-2: BAE Automated Systems (A): Denver International Airport Baggage Handling System</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152448">Group 2-1: Jamcracker</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152449">Group 2-2: Postgirot Bank and Provment AB</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152450">Group 3-1: Harley-Davidson: Enterprise Software Selection</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152451">Group 3-2: Xerox: Outsourcing Global Information Technology Resources</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152434"> ISMT E-100 - Information Systems Management	- Fall 2017 Final Exam - December 18, 2017</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152452">Nasdaq Japan: E-Merging Markets</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152453">Practice Quiz</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152454">Print out a name card as discussed in class in week 1</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152455">Submarino.com: The Challenges of B2C Commerce in Latin America</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152456">Tale of Two Airlines in the Network Age</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152435">Week 10 Self-Evaluation</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152440">Week 11 Self-Evaluation</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152437">Week 12 Self-Evaluation</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152432">Week 13 Self-Evaluation</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152431">Week 14 Self-Evaluation</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152443">Week 2 Self-Evaluation</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152441">Week 3 Self-Evaluation</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152436">Week 4 Self-Evaluation</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152439">Week 5 Self-Evaluation</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152442">Week 6 Self-Evaluation</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152433">Week 7 Self-Evaluation</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152438">Week 8 Self-Evaluation</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33141/assignments/152444">Week 9 Self-Evaluation</a></li>
+            </ul>
+         </div>
+      </div>
+      <div>
+        <div aria-controls="quizzes_panel" class="header" role="tab"><a href="#">Quizzes</a></div>
+         <div id="quizzes_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this quiz"><a href="/courses/33141/quizzes">Quiz List</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33141/quizzes/68884">Week 14 Self-Evaluation</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33141/quizzes/68885">Week 13 Self-Evaluation</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33141/quizzes/68886">Week 7 Self-Evaluation</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33141/quizzes/68887"> ISMT E-100 - Information Systems Management	- Fall 2017 Final Exam - December 18, 2017</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33141/quizzes/68888">Week 10 Self-Evaluation</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33141/quizzes/68889">Week 4 Self-Evaluation</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33141/quizzes/68890">Week 12 Self-Evaluation</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33141/quizzes/68891">Week 8 Self-Evaluation</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33141/quizzes/68892">Week 5 Self-Evaluation</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33141/quizzes/68893">Week 11 Self-Evaluation</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33141/quizzes/68894">Week 3 Self-Evaluation</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33141/quizzes/68895">Practice Quiz</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33141/quizzes/68896">Week 6 Self-Evaluation</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33141/quizzes/68897">Week 2 Self-Evaluation</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33141/quizzes/68898">Week 9 Self-Evaluation</a></li>
+            </ul>
+         </div>
+      </div>
+      <div>
+        <div class="header" aria-controls="announcements_panel" role="tab"><a href="#">Announcements</a></div>
+         <div id="announcements_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this announcement"><a href="/courses/33141/announcements">Announcements List</a></li>
+            </ul>
+         </div>
+      </div>
+
+      <div>
+        <div role="tab" aria-controls="discussions_panel" class="header"><a href="#">Discussions</a></div>
+         <div id="discussions_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this topic"><a href="/courses/33141/discussion_topics">Discussion Index</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33141/discussion_topics/240912">Business Case Write up Rubrics</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33141/discussion_topics/235551">Coursepack error</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33141/discussion_topics/240044">Missing Self Evaluation Link</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33141/discussion_topics/235544">Who Are You? Poll issues</a></li>
+            </ul>
+         </div>
+      </div>
+
+      <div>
+        <div role="tab" aria-controls="modules_panel" class="header"><a href="#">Modules</a></div>
+          <div id="modules_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this module"><a href="/courses/33141/modules">Modules List</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33141/modules/70384">Week 9 - Information Technology Operations</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33141/modules/70386">Week 11 - Project Management</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33141/modules/70376">Week 1 - Introduction To The Course</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33141/modules/70378">Week 3 - Information Technology and Strategy</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33141/modules/70374">ISMT E-100 External Links</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33141/modules/70390">Week 15 - Final Exam</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33141/modules/70389">Week 14 - Course Wrap-Up and Review</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33141/modules/70377">Week 2 - Information, Systems and Management</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33141/modules/70375">Who Are You?</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33141/modules/70385">Week 10 - Managing Information Technology Outsourcing</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33141/modules/70388">Week 13 - Information Politics</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33141/modules/70387">Week 12 - Information Technology Planning</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33141/modules/70383">Week 8 - Organizing and Leading the Information Technology Function</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33141/modules/70382">Week 7 - Information Technology Architecture</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33141/modules/70381">Week 6 - Information Technology and Organization</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33141/modules/70380">Week 5 - Managing Change</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33141/modules/70379">Week 4 - The Network Economy - Trends and Opportunities</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33141/modules/70373">ISMT E-100 Home Page</a></li>
+            </ul>
+          </div>
+      </div>
+
+      <div>
+        <div class="header" role="tab" aria-controls="groups_panel"><a href="#">Course Navigation</a></div>
+         <div role="tabpanel" id="groups_panel">
+            <ul class="wiki_pages page_list">
+                <li title="Click to insert a link to the assignments page"><a href="/courses/33141/assignments">Assignment List</a></li>
+                <li title="Click to insert a link to the wiki"><a href="https://canvas.harvard.edu/courses/33141/pages">Wiki Home</a></li>
+                <li title="Click to insert a link to the discussions page"><a href="/courses/33141/discussion_topics">Discussions Index</a></li>
+                <li title="Click to insert a link to the syllabus"><a href="/courses/33141/assignments/syllabus">Course Syllabus</a></li>
+                <li title="Click to insert a link to the announcements page"><a href="/courses/33141/announcements">Announcement List</a></li>
+                <li title="Click to insert a link to the files page"><a href="/courses/33141/files">Files Index</a></li>
+                <li title="Click to insert a link to the collaborations page"><a href="/courses/33141/collaborations">Collaborations</a></li>
+                <li title="Click to insert a link to the grades page"><a href="/courses/33141/grades">Grades</a></li>
+                <li title="Click to insert a link to the people page"><a href="/courses/33141/users">People</a></li>
+                <li title="Click to insert a link to the modules page"><a href="/courses/33141/modules">Modules</a></li>
+            </ul>
+         </div>
+      </div>
+    </div>
+
+  </div>
+  <div aria-atomic="true" id="editor_tabs_4">
+    Click any image to embed the image in the page.
+    <div>
+      <a tabindex="0" href="#" class="find_new_image_link find">Find images on flickr creative commons</a>
+    </div>
+    <div id="wiki_sidebar_image_uploads" class="uploading_file_list uploading_image_list" style="display: none;">
+      <div class="uploading">
+        Uploading <span class="filename">file</span>...
+        <div>
+          <img alt="Loading..." src="https://du11hjcvx0uqb.cloudfront.net/dist/images/ajax-loader-bar-71e6988298.gif" />
+        </div>
+      </div>
+      <div class="remaining">
+        <span class="files_remaining">0</span> more to upload
+      </div>
+      
+<a href="#" style="text-align: center display: none;" class="img_link" title="Click to embed image">
+  <div class="img_holder">
+    <img class="img" data-url="" src="" alt="{{ display_name }}" title="Click to embed {{ display_name }}">
+  </div>
+  <div class="display_name">{{ display_name }}</div>
+</a>
+
+    </div>
+    <div class="image_list_holder ">
+      <div class="dragging_message">Drop Images Here to upload</div>
+      <div class="image_list" style="max-height: 300px; overflow: auto;" data-url="/courses/33141/images">
+      </div>
+    </div>
+  </div>
+  <div style="display: none;">
+    <a href="/services?service_type=BookmarkService" class="bookmark_services_url">&nbsp;</a>
+    <a href="/search/bookmarks?q=%7B%7B+query+%7D%7D&amp;service_type=%7B%7B+service_type+%7D%7D" class="bookmark_search_url">&nbsp;</a>
+    <span class="context_code">course_33141</span>
+    <div id="wiki_sidebar_select_folder_dialog">
+      Select a destination folder for these <span class="file_count">&nbsp;</span> files:
+      <div style="margin: 20px;">
+        <select class="folder_id">
+        </select>
+      </div>
+      <div class="button-container">
+        <button type="button" class="btn select_button">Upload Files to Folder</button>
+        <button type="button" class="btn cancel_button btn button-secondary">Cancel</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+          </aside>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    <div style="display:none;"><!-- Everything inside of this should always stay hidden -->
+    </div>
+    
+<div id="cant_record_dialog" style="display: none;">
+  <div>
+    In order to create video or audio recordings your computer needs to be 
+    webcam-enabled.  If you don&#39;t have a webcam on your computer, you can still
+    record audio-only messages by first installing the Google Video Chat
+    plugin.
+  </div>
+  <div style="text-align: center; font-size: 1.5em; margin: 10px;">
+    <a href="http://www.google.com/chat/video" target="_blank" class="btn">Install the Video Plugin</a>
+  </div>
+  <div class="links" style="text-align: right; font-size: 0.8em; display: none;">
+    <a href="#" class="cant_record_link">Don&#39;t have a webcam?</a>
+  </div>
+</div>
+  <div id='aria_alerts' class='hide-text affix' role="alert" aria-live="assertive"></div>
+  <div id='StudentTray__Container'></div>
+  <script>
+  INST = {"environment":"production","allowMediaComments":true,"kalturaSettings":{"domain":"nv.instructuremedia.com","resource_domain":"nv.instructuremedia.com","rtmp_domain":"fms-prod.instructuremedia.com","partner_id":"9","subpartner_id":"0","player_ui_conf":"0","kcw_ui_conf":"0","upload_ui_conf":"0","max_file_size_bytes":534773760,"do_analytics":false,"hide_rte_button":false,"js_uploader":true},"googleAnalyticsAccount":"UA-9138420-1","disableScribdPreviews":true,"logPageViews":true,"maxVisibleEditorButtons":3,"editorButtons":[{"name":"YouTube","id":18015,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=youtube","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/youtube_icon.png","canvas_icon_class":null,"width":560,"height":600},{"name":"Vimeo","id":18016,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=vimeo","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/vimeo_icon.png","canvas_icon_class":null,"width":560,"height":600},{"name":"DCE Matterhorn Course Recordings","id":19109,"url":"https://dce-mhvideo-lti.herokuapp.com/mhvideo_lti/lti_launch","icon_url":"https://dce-mhvideo-lti.herokuapp.com/static/images/television.png","canvas_icon_class":null,"width":800,"height":400},{"name":"Course Info","id":20525,"url":"https://canvas-course-info.tlt.harvard.edu/course_info/lti_launch","icon_url":"https://canvas-course-info.tlt.harvard.edu/static/images/course-info.png","canvas_icon_class":null,"width":800,"height":400}]};
+  ENV = {"ASSET_HOST":"https://du11hjcvx0uqb.cloudfront.net","active_brand_config":"af37e5be444f4a553c9c812a9a990322","active_brand_config_json_url":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.json","url_to_what_gets_loaded_inside_the_tinymce_editor_css":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/what_gets_loaded_inside_the_tinymce_editor-542d1c188c.css","current_user_id":null,"current_user":{},"current_user_roles":null,"current_user_disabled_inbox":null,"files_domain":"cluster28-files.instructure.com","DOMAIN_ROOT_ACCOUNT_ID":18750000000000001,"k12":false,"help_link_name":"Help","help_link_icon":"help","use_high_contrast":null,"SETTINGS":{"open_registration":false,"eportfolios_enabled":true,"collapse_global_nav":null,"show_feedback_link":true,"enable_profiles":true},"context_asset_string":"course_33141","ping_url":"https://canvas.harvard.edu/api/v1/courses/33141/ping","TIMEZONE":"America/New_York","CONTEXT_TIMEZONE":"America/New_York","LOCALE":"en","BIGEASY_LOCALE":"en_US","FULLCALENDAR_LOCALE":"en","MOMENT_LOCALE":"en","RICH_CONTENT_SERVICE_ENABLED":true,"RICH_CONTENT_APP_HOST":"rich-content-iad.inscloudgate.net","RICH_CONTENT_CDN_HOST":"dvgcns7dz7zc.cloudfront.net/rce_service/versions/","RICH_CONTENT_SIDEBAR_SOURCE":"api","RICH_CONTENT_CAN_UPLOAD_FILES":false,"CONTEXT_ACTION_SOURCE":"syllabus","NEW_USER_TUTORIALS":{"is_enabled":false},"SYLLABUS_PER_PAGE":"100","CAN_READ":false,"SYLLABUS_BODY":"\u003cdiv id=\"course_syllabus\" class=\"user_content\" style=\"margin-bottom: 10px;\"\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eCOURSE OVERVIEW AND INFORMATION\u003c/span\u003e\u003c/p\u003e\n\u003ctable\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd colspan=\"2\"\u003eThis course provides a broad overview of the issues managers face in the selection, use, and management of information technology (IT). Increasingly, IT is being used as a tool to implement business strategies and gain competitive advantage, not merely to support business operations. Using a case study approach, topics include information technology and strategy, information technology and organization, and information technology assets management. \u003cbr\u003e\u003cbr\u003e The course takes a management rather than a technical approach to the material presented. As such, it should be of use to students of general management interested in information technology and to students of information technology interested in management.\u003cbr\u003e\u003cbr\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eCourse Name:\u003c/td\u003e\n\u003ctd\u003eInformation Systems Management\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eHarvard Extension School:\u003c/td\u003e\n\u003ctd\u003eISMT E-100 (12528)\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eTerm:\u003c/td\u003e\n\u003ctd\u003eFall 2017\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd colspan=\"2\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eFaculty:\u003c/td\u003e\n\u003ctd\u003eJeffrey E. Francis, MS, PMP\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd colspan=\"2\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eLocation:\u003c/td\u003e\n\u003ctd\u003eOnline (live) web conference\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eTime:\u003c/td\u003e\n\u003ctd\u003eMonday 7:40pm - 9:40pm\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd colspan=\"2\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd colspan=\"2\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003ePrerequisites:\u003c/td\u003e\n\u003ctd\u003eKnowledge of the use of information systems in business settings.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eNote:\u003c/td\u003e\n\u003ctd\u003eNoncredit, graduate credit $2,700.\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd colspan=\"2\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003eCourse url:\u003c/td\u003e\n\u003ctd\u003e\u003ca href=\"http://www.extension.harvard.edu/academics/courses/information-systems-management/12528\" target=\"_blank\"\u003ehttp://www.extension.harvard.edu/academics/courses/information-systems-management/12528\u003c/a\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eThe Extension School is committed to providing an accessible academic community. The Disability Services Office offers a variety of accommodations and services to students with documented disabilities. Please visit \u003ca href=\"http://www.extension.harvard.edu/resources-policies/resources/disability-services-accessibility\" target=\"_blank\"\u003ewww.extension.harvard.edu/resources-policies/resources/disability-services-accessibility\u003c/a\u003e for more information.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eSYLLABUS\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003e\u003cspan style=\"font-size: 8pt; font-family: verdana,geneva;\"\u003e\u003cspan style=\"font-size: 10pt;\"\u003eClick on the file name or icons on the right to view or download the 2017 course syllabus.\u003c/span\u003e\u003cbr\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e \u003ca id=\"\" class=\" instructure_scribd_file instructure_file_link\" title=\"ISMT E-100 Information Systems Management -- Syllabus.pdf\" href=\"/courses/33141/files/4196185/download?verifier=9GLhZZb5Ctlcz8Gq29d5LzWAeWFx95fbqOAAvVcW\u0026amp;wrap=1\" data-api-endpoint=\"https://canvas.harvard.edu/api/v1$IMS-CC-FILEBASE$/JEF%20files/ISMT%20E-100%20Information%20Systems%20Management%20--%20Syllabus.pdf\" data-api-returntype=\"File\"\u003eISMT E-100 Information Systems Management -- Syllabus.pdf\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eCOURSEPACK\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003eThe \u003cspan style=\"color: #ff0000;\"\u003e\u003cstrong\u003erequired\u003c/strong\u003e \u003c/span\u003ecoursepack for the Fall 2017 term is available from Harvard Business School Publishing. To access your coursepack, you will have to register and log in at: \u003ca href=\"http://cb.hbsp.harvard.edu/cbmp/access/65624676\"\u003ehttp://cb.hbsp.harvard.edu/cbmp/access/65624676\u003c/a\u003e.\u003cspan\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003eThe coursepack contains the cases we will use as outlined in the syllabus. The cost per case is $4.25 for ISMT E-100 students.\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e\u003c/span\u003e\u003cbr\u003e\u003cspan style=\"font-size: 14pt;\"\u003e TEXTBOOK OUT OF PRINT\u003c/span\u003e\u003c/p\u003e\n\u003cdiv class=\"content\"\u003e\n\u003cdiv class=\"wrap\"\u003e\n\u003cdiv class=\"hentry isites-announcement\"\u003e\n\u003ch4 class=\"entry-title\"\u003e\u003cspan style=\"font-size: 12pt;\"\u003eSixth Edition Out Of Print\u003c/span\u003e\u003c/h4\u003e\n\u003cdiv class=\"entry-summary\"\u003e\n\u003cp style=\"text-align: left;\"\u003e\u003cspan style=\"color: #ff0000;\"\u003e\u003cstrong\u003ePLEASE NOTE THAT THE TEXTBOOK IS OPTIONAL\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt; font-family: verdana,geneva;\"\u003eThe content in this course is based on the 6th edition of Corporate Information Strategy and Management: Text and Cases, McGraw-Hill, 2003. The 6th edition is out of print, but still commonly available on the internet.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt; font-family: verdana,geneva;\"\u003eThe most recent edition of this text is the 8th edition. It includes many of the concepts discussed in this course, but from a slightly different perspective.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt; font-family: verdana,geneva;\"\u003eThe cases in the 8th edition are NOT used in this course. The cases we will use are from the required coursepack.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 10pt;\"\u003e\u003c/span\u003e\u003cspan style=\"font-size: 10pt; font-family: verdana,geneva;\"\u003eHere is the citation: Austin, Robert D., Lynda M. Applegate, and Deborah Soule. Corporate Information Strategy and Management: Text and Cases. 8th ed. McGraw-Hill, 2008.\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-size: 14pt;\"\u003eCLASS MATERIALS SUPERSEDE THIS SYLLABUS\u003c/span\u003e\u003c/p\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e\n\u003cp\u003e\u003cspan style=\"color: red; font-size: 10pt;\"\u003e\u003cstrong\u003eThe syllabus on this site is for general orientation only. The week-to-week slides in the Powerpoint presentations used in class supersede this syllabus\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003chr\u003e\n\u003c/div\u003e","notices":[]};
+</script>
+
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/navigation_header.bundle-9669f80a51.js" defer="defer"></script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/4225508/global.min.js" defer="defer"></script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/3751539/EXPGlobal.js" defer="defer"></script>
+
+</div> <!-- #application -->
+</body>
+</html>

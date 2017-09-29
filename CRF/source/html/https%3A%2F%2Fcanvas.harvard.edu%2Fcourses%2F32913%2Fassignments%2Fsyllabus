@@ -1,0 +1,1246 @@
+
+
+<!DOCTYPE html>
+<html class="scripts-not-loaded" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Syllabus for The Empire Strikes Back: Science Fiction, Religion, and Society</title>
+  <!--[if lte IE 9]> <meta http-equiv=refresh content="0; URL=/ie-9-is-not-supported.html" /> <![endif]-->
+  <link rel="shortcut icon" type="image/x-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/favicon-e10d657a73.ico" />
+  <link rel="apple-touch-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/apple-touch-icon-585e5d997d.png" />
+  
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.css" />
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/common-de9877d2f0.css" />
+  <script>
+//<![CDATA[
+
+!function(){
+  var o,s,v;
+  if (!(window.Promise && Object.assign && Object.values && [].find && [].includes && (o={},s=Symbol(),v={},o[s]=v,o[s]===v) && (function f(){}).bind().name==='bound f')) {
+    s = 's', document.write('<'+s+'cr'+'ipt src="https://du11hjcvx0uqb.cloudfront.net/dist/ie11-polyfill-64b21f7f37.js"></'+s+'c'+'ript>');
+  }
+}();
+      
+//]]>
+</script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/lato-fontfaceobserver-11a14bc0b6.js" async="async"></script>
+  
+  <meta name="apple-itunes-app" content="app-id=480883488" />
+<link rel="manifest" href="/web-app-manifest/manifest.json" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#008EE2">
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/tinymce-29f8b0a23f.css" />
+<link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/syllabus-2f51f24f19.css" />
+  
+  <link rel="stylesheet" media="all" href="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/4225502/global.min.css" />
+  <script>
+    function _earlyClick(e){
+      var c = e.target
+      while (c && c.ownerDocument) {
+        if (c.getAttribute('href') == '#' || c.getAttribute('data-method')) {
+          e.preventDefault()
+          (_earlyClick.clicks = _earlyClick.clicks || []).push(c)
+          break
+        }
+        c = c.parentNode
+      }
+    }
+    document.addEventListener('click', _earlyClick)
+  </script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.js" defer="defer"></script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/vendor.bundle-2585fc489b.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/New_York-c3226761e3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/en_US-80a0ce259b.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/appBootstrap.bundle-43015c2be3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/common.bundle-07f53473d3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/syllabus.bundle-8eb56aaa04.js" defer="defer"></script>
+</head>
+
+<body class="with-left-side course-menu-expanded with-right-side syllabus primary-nav-expanded context-course_32913">
+
+<noscript>
+  <div role="alert" class="ic-flash-static ic-flash-error">
+    <div class="ic-flash__icon" aria-hidden="true">
+      <i class="icon-warning"></i>
+    </div>
+    <h1>You need to have JavaScript enabled in order to access this site.</h1>
+  </div>
+</noscript>
+
+
+
+
+
+<ul id="flash_message_holder"></ul>
+<div id="flash_screenreader_holder"></div>
+
+<div id="application" class="ic-app">
+  
+  <header id="header" class="ic-app-header no-print no-user">
+    <a href="#content" id="skip_navigation_link">Skip To Content</a>
+      <div role="region" class="ic-app-header__main-navigation" aria-label="Main Navigation">
+        <div class="ic-app-header__logomark-container">
+          <a href="https://canvas.harvard.edu/" class="ic-app-header__logomark">
+            <span class="screenreader-only">Dashboard</span>
+          </a>
+        </div>
+        <ul id="menu" class="ic-app-header__menu-list">
+            <li class="menu-item ic-app-header__menu-list-item">
+              <a id="global_nav_login_link" href="/login" class="ic-app-header__menu-list-link">
+                <div class="menu-item-icon-container" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--login" version="1.1" x="0" y="0" viewBox="241 -241 512 512" enable-background="new 241 -241 512 512" xml:space="preserve"><path d="M743.9 5.9l-35.7-35.7H492.9c-6.5-16.2-17.3-32-31.7-46.4 -50.4-50.4-132-50.4-182.4 0s-50.4 132.1 0 182.5 132 50.4 182.4 0c11.8-11.8 20.6-25.9 27-41.8H547L570.6 88l22.8-22.8L616.2 88 639 65.2 661.8 88l24.1-24.1 15.6-1.5 4.6-0.5L753 15 743.9 5.9 743.9 5.9zM694.4 37.1l-15.6 1.5 -4.6 0.5 -12.4 12.4 -12.9-12.9h-19.8l-12.9 12.9 -12.9-12.9h-19.8l-12.9 12.9 -12.9-12.9h-87.6l-2.9 8.8c-5.3 16-13.2 29.5-24.2 40.6 -40.3 40.3-105.6 40.3-145.9 0s-40.3-105.7 0-146 105.6-40.3 145.9 0c14.3 14.3 24.4 29.8 28.6 44.6l2.7 9.4h223.3l19 19L694.4 37.1 694.4 37.1zM322.3-16.2c-17.5 17.5-17.5 46 0 63.5 17.5 17.5 46 17.5 63.5 0 17.5-17.5 17.5-46 0-63.5C368.2-33.8 339.8-33.8 322.3-16.2L322.3-16.2zM367.6 29.1c-7.5 7.5-19.7 7.5-27.2 0 -7.5-7.5-7.5-19.7 0-27.2s19.7-7.5 27.2 0S375.2 21.6 367.6 29.1L367.6 29.1z"/></svg>
+
+                </div>
+                <div class="menu-item__text">
+                  Login
+                </div>
+              </a>
+            </li>
+          <li class="ic-app-header__menu-list-item ">
+            <a id="global_nav_dashboard_link" href="https://canvas.harvard.edu/" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--dashboard" version="1.1" x="0" y="0" viewBox="0 0 280 200" enable-background="new 0 0 280 200" xml:space="preserve"><path d="M273.09,180.75H197.47V164.47h62.62A122.16,122.16,0,1,0,17.85,142a124,124,0,0,0,2,22.51H90.18v16.29H6.89l-1.5-6.22A138.51,138.51,0,0,1,1.57,142C1.57,65.64,63.67,3.53,140,3.53S278.43,65.64,278.43,142a137.67,137.67,0,0,1-3.84,32.57ZM66.49,87.63,50.24,71.38,61.75,59.86,78,76.12Zm147,0L202,76.12l16.25-16.25,11.51,11.51ZM131.85,53.82v-23h16.29v23Zm15.63,142.3a31.71,31.71,0,0,1-28-16.81c-6.4-12.08-15.73-72.29-17.54-84.25a8.15,8.15,0,0,1,13.58-7.2c8.88,8.21,53.48,49.72,59.88,61.81a31.61,31.61,0,0,1-27.9,46.45ZM121.81,116.2c4.17,24.56,9.23,50.21,12,55.49A15.35,15.35,0,1,0,161,157.3C158.18,152,139.79,133.44,121.81,116.2Z" /></svg>
+
+              </div>
+              <div class="menu-item__text">Dashboard</div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ic-app-header__menu-list-item--active">
+            <a id="global_nav_courses_link" href="/courses" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--courses" version="1.1" x="0" y="0" viewBox="0 0 280 259" enable-background="new 0 0 280 259" xml:space="preserve"><path d="M73.31,198c-11.93,0-22.22,8-24,18.73a26.67,26.67,0,0,0-.3,3.63v.3a22,22,0,0,0,5.44,14.65,22.47,22.47,0,0,0,17.22,8H200V228.19h-134V213.08H200V198Zm21-105.74h90.64V62H94.3ZM79.19,107.34V46.92H200v60.42Zm7.55,30.21V122.45H192.49v15.11ZM71.65,16.71A22.72,22.72,0,0,0,49,39.36V190.88a41.12,41.12,0,0,1,24.32-8h157V16.71ZM33.88,39.36A37.78,37.78,0,0,1,71.65,1.6H245.36V198H215.15v45.32h22.66V258.4H71.65a37.85,37.85,0,0,1-37.76-37.76Z"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Courses
+              </div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_calendar_link" href="/calendar" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--calendar" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M197.07,213.38h16.31V197.07H197.07Zm-16.31,16.31V180.76h48.92v48.92Zm-48.92-16.31h16.31V197.07H131.85Zm-16.31,16.31V180.76h48.92v48.92ZM66.62,213.38H82.93V197.07H66.62ZM50.32,229.68V180.76H99.24v48.92Zm146.75-81.53h16.31V131.85H197.07Zm-16.31,16.31V115.54h48.92v48.92Zm-48.92-16.31h16.31V131.85H131.85Zm-16.31,16.31V115.54h48.92v48.92ZM66.62,148.15H82.93V131.85H66.62ZM50.32,164.46V115.54H99.24v48.92ZM34,262.29H246V82.93H34ZM246,66.62V42.16A8.17,8.17,0,0,0,237.84,34H213.38v8.15a8.15,8.15,0,1,1-16.31,0V34H82.93v8.15a8.15,8.15,0,0,1-16.31,0V34H42.16A8.17,8.17,0,0,0,34,42.16V66.62Zm-8.15-48.92a24.49,24.49,0,0,1,24.46,24.46V278.6H17.71V42.16A24.49,24.49,0,0,1,42.16,17.71H66.62V9.55a8.15,8.15,0,0,1,16.31,0v8.15H197.07V9.55a8.15,8.15,0,1,1,16.31,0v8.15Z"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Calendar
+              </div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_conversations_link" href="/conversations" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--inbox" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M91.72,120.75h96.56V104.65H91.72Zm0,48.28h80.47V152.94H91.72Zm0-96.56h80.47V56.37H91.72Zm160.94,34.88H228.52V10.78h-177v96.56H27.34A24.17,24.17,0,0,0,3.2,131.48V244.14a24.17,24.17,0,0,0,24.14,24.14H252.66a24.17,24.17,0,0,0,24.14-24.14V131.48A24.17,24.17,0,0,0,252.66,107.34Zm0,16.09a8.06,8.06,0,0,1,8,8v51.77l-32.19,19.31V123.44ZM67.58,203.91v-177H212.42v177ZM27.34,123.44H51.48v79.13L19.29,183.26V131.48A8.06,8.06,0,0,1,27.34,123.44ZM252.66,252.19H27.34a8.06,8.06,0,0,1-8-8V202l30,18H230.75l30-18v42.12A8.06,8.06,0,0,1,252.66,252.19Z"/></svg>
+
+                <span class="menu-item__badge" style="display: none">0</span>
+              </div>
+              <div class="menu-item__text">
+                Inbox
+              </div>
+            </a>
+          </li>
+          <li class="ic-app-header__menu-list-item">
+           <a id="global_nav_help_link" class="ic-app-header__menu-list-link" data-track-category="help system" data-track-label="help button" href="http://help.instructure.com/">
+              <div class="menu-item-icon-container" role="presentation">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg menu-item__icon svg-icon-help" version="1.1" x="0" y="0" viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve" fill="currentColor"><path d="M100,127.88A11.15,11.15,0,1,0,111.16,139,11.16,11.16,0,0,0,100,127.88Zm8.82-88.08a33.19,33.19,0,0,1,23.5,23.5,33.54,33.54,0,0,1-24,41.23,3.4,3.4,0,0,0-2.74,3.15v9.06H94.42v-9.06a14.57,14.57,0,0,1,11.13-14,22.43,22.43,0,0,0,13.66-10.27,22.73,22.73,0,0,0,2.31-17.37A21.92,21.92,0,0,0,106,50.59a22.67,22.67,0,0,0-19.68,3.88,22.18,22.18,0,0,0-8.65,17.64H66.54a33.25,33.25,0,0,1,13-26.47A33.72,33.72,0,0,1,108.82,39.8ZM100,5.2A94.8,94.8,0,1,0,194.8,100,94.91,94.91,0,0,0,100,5.2m0,178.45A83.65,83.65,0,1,1,183.65,100,83.73,83.73,0,0,1,100,183.65" transform="translate(-5.2 -5.2)"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Help
+              </div>
+</a>          </li>
+        </ul>
+      </div>
+      <div class="ic-app-header__secondary-navigation">
+        <ul class="ic-app-header__menu-list">
+          <li class="menu-item ic-app-header__menu-list-item">
+            <button
+              id="primaryNavToggle"
+              class="ic-app-header__menu-list-link ic-app-header__menu-list-link--nav-toggle"
+              aria-label="
+                Minimize global navigation"
+              title="
+                Minimize global navigation"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--navtoggle" version="1.1" x="0" y="0" width="40" height="32" viewBox="0 0 40 32" xml:space="preserve">
+  <path d="M39.5,30.28V2.48H37.18v27.8Zm-4.93-13.9L22.17,4,20.53,5.61l9.61,9.61H.5v2.31H30.14l-9.61,9.61,1.64,1.64Z"/>
+</svg>
+
+            </button>
+          </li>
+        </ul>
+      </div>
+    <div id="global_nav_tray_container"></div>
+  </header>
+
+
+  <div id="instructure_ajax_error_box">
+    <div style="text-align: right; background-color: #fff;"><a href="#" class="close_instructure_ajax_error_box_link">Close</a></div>
+    <iframe id="instructure_ajax_error_result" src="about:blank" style="border: 0;" title="Error"></iframe>
+  </div>
+
+  
+
+  <div id="wrapper" class="ic-Layout-wrapper">
+      <div class="ic-app-nav-toggle-and-crumbs no-print">
+          <button type="button" id="courseMenuToggle" class="Button Button--link ic-app-course-nav-toggle" aria-live="polite" aria-label="Hide Courses Navigation Menu" title="Hide Courses Navigation Menu">
+            <i class="icon-hamburger" aria-hidden="true"></i>
+          </button>
+          <div class="ic-app-crumbs">
+        <nav id="breadcrumbs" role="navigation" aria-label="breadcrumbs"><ul><li class="home"><a href="/"><span class="ellipsible">      <i class="icon-home"
+         title="My Dashboard">
+        <span class="screenreader-only">My Dashboard</span>
+      </i>
+</span></a></li><li><a href="/courses/32913"><span class="ellipsible">HSCI E-128 (14820)</span></a></li><li><span class="ellipsible">Syllabus</span></li></ul></nav>
+        </div>
+      </div>
+    <div id="main" class="ic-Layout-columns">
+        <div class="ic-Layout-watermark"></div>
+        <div id="left-side"
+          class="ic-app-course-menu list-view"
+          style="display: block"
+          >
+              <span id="section-tabs-header-subtitle" class="ellipsis">2017-2018 Fall</span>
+            <nav role="navigation" aria-label="Courses Navigation Menu"><ul id="section-tabs"><li class="section"><a href="/courses/32913" title="Home" class="home">Home</a></li><li class="section"><a href="/courses/32913/assignments/syllabus" title="Syllabus" class="syllabus active">Syllabus</a></li><li class="section"><a href="/courses/32913/assignments" title="Assignments" class="assignments" aria-label="Course Assignments">Assignments</a></li><li class="section"><a href="/courses/32913/external_tools/13815" title="Student Resources" class="context_external_tool_13815">Student Resources</a></li><li class="section"><a href="/courses/32913/external_tools/14120" title="Library Reserves" class="context_external_tool_14120">Library Reserves</a></li><li class="section"><a href="/courses/32913/collaborations" title="Collaborations" class="collaborations">Collaborations</a></li><li class="section"><a href="/courses/32913/conferences" title="Conferences" class="conferences">Conferences</a></li></ul></nav>
+        </div>
+      <div id="not_right_side" class="ic-app-main-content">
+        <div id="content-wrapper" class="ic-Layout-contentWrapper">
+            
+
+          <div id="content" class="ic-Layout-contentMain" role="main">
+            
+
+
+
+<div class="ic-Action-header">
+  <div class="ic-Action-header__Primary">
+    <h1 class="ic-Action-header__Heading">Course Syllabus</h1>
+  </div>
+  <div class="ic-Action-header__Secondary">
+    <a href="#" class="jump_to_today_link">Jump to Today</a>
+  </div>
+</div>
+
+<div id="course_syllabus" style="margin-bottom: 10px;" class="user_content">
+  <p style="text-align: left;"><a href="/courses/32913/files/4457914/download?verifier=64Taca1yWQIusd4F1yuHoUSPEpMLSGKMN2EjyR2G"><strong>Download the syllabus &gt;</strong></a></p>
+<p style="text-align: left;">Books to buy or download:</p>
+<ul>
+<li>
+<strong>Johannes Kepler,<span> </span><i>Somnium</i><span> </span>(Madison: University of Wisconsin Press, 2003).</strong>
+<ul>
+<li>
+<a href="/courses/32913/files/4263776/download?verifier=8X6iwO49gzm5XAjnGYiAgkNoizWSoL1bq2BNGSnX">PDF</a>.</li>
+</ul>
+</li>
+<li>
+<strong>Jules Verne,<span> </span><i>From the Earth to the Moon</i><span> </span>(Mineola: Bantam, 2009 [1874]): selections.</strong>
+<ul>
+<li>Available online: <a class="external" href="http://www.gutenberg.org/cache/epub/83/pg83-images.html" target="_blank"><span>http://www.gutenberg.org/cache/epub/83/pg83-images.html<span class="screenreader-only"> (Links to an external site.)</span></span><span class="ui-icon ui-icon-extlink ui-icon-inline" title="Links to an external site."><span class="screenreader-only">Links to an external site.</span></span></a>
+</li>
+</ul>
+</li>
+<li>
+<strong>Charlotte Perkins Gilman,<span> </span><i>Herland</i><span> </span>(New York: Dover, 2010 [1915]).</strong>
+<ul>
+<li>Available online:<span> </span><a class="external" href="http://www.gutenberg.org/files/32/32-h/32-h.htm" target="_blank"><span>http://www.gutenberg.org/files/32/32-h/32-h.htm<span class="screenreader-only"> (Links to an external site.)</span></span><span class="ui-icon ui-icon-extlink ui-icon-inline" title="Links to an external site."><span class="screenreader-only">Links to an external site.</span></span></a> </li>
+</ul>
+</li>
+<li>
+<strong>Rokeya Sakhawat Hossein,<span> </span><i>Sultana’s Dream</i><span> </span>(New York: The Feminist Press at CUNY, 1988).</strong>
+<ul>
+<li>Available online:<span> </span><a class="external" href="http://digital.library.upenn.edu/women/sultana/dream/dream.html" target="_blank"><span>http://digital.library.upenn.edu/women/sultana/dream/dream.html<span class="screenreader-only"> (Links to an external site.)</span></span><span class="ui-icon ui-icon-extlink ui-icon-inline" title="Links to an external site."><span class="screenreader-only">Links to an external site.</span></span></a>
+</li>
+</ul>
+</li>
+<li><strong>Isaac Asimov,<span> </span><i>Foundation</i><span> </span>(New York: Bantam, 2004 [1951]).</strong></li>
+<li><strong>Bulgakov, Mikhail.<span> </span><i>The Fatal Eggs.</i><span> </span>London: Hesperus, 2003 [1925].</strong></li>
+<li><strong>Walter M. Miller,<span> </span><i>Canticle for Leibowitz</i><span> </span>(New York: Harper Collins, 2006 [1959]).</strong></li>
+<li><strong>Frank Herbert, <em>Dune</em> (New York: Penguin, 1990 [1965]).</strong></li>
+<li><strong>Ursula K. Le Guin,<span> </span><i>Left Hand of Darkness (</i>New York: Penguin, 2000 [1969]).</strong></li>
+<li><strong>Octavia Butler,<span> </span><i>Dawn</i><span> </span>(New York: Warner, 1987).</strong></li>
+<li><strong>Nnedi Okorafor,<span> </span><i>Who Fears Death</i><span> </span>(DAW Books, 2010).</strong></li>
+<li><strong>Liu Cixin,<span> </span><i>The Three Body-Problem,</i><span> </span>Trans. Ken Liu (New York: Tor, 2014).</strong></li>
+</ul>
+</div>
+<div id="course_syllabus_details" style="display: none;">
+  <p>The syllabus page shows a table-oriented view of the course schedule, and the basics of
+course grading.  You can add any other comments, notes, or thoughts you have about the course
+structure, course policies or anything else.</p>
+
+<p>To add some comments, click the &quot;Edit&quot; link at the top.</p>
+</div>
+<form id="edit_course_syllabus_form" style="display: none; margin-bottom: 10px;" action="/courses/32913" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="9mhOqVfZg2lRUVh+68O0sNQZgCP8ZxuWVczmx6dLwSagESTkOK3pLzJjKEbYgv+FrVfwcJoTd/knqrWV1SO5EA==" />
+  <div style="float: right;">
+    <a href="#" class="toggle_views_link toggle_html_editor_link">HTML Editor</a>
+    <a href="#" class="toggle_views_link toggle_rich_editor_link" style="display:none;">Rich Content Editor</a>
+  </div>
+  <label for="course_syllabus_body">Syllabus Description:</label>
+  <div class="clear"></div>
+  <textarea style="width: 100%; height: 300px;" id="course_syllabus_body" name="course[syllabus_body]">
+</textarea>
+  <div class='form-actions'>
+    <button type="button" class="btn cancel_button">Cancel</button>
+    <button type="submit" class='btn btn-primary'>Update Syllabus</button>
+  </div>
+</form>
+<h2>Course Summary:</h2>
+
+<div id="syllabusContainer">
+  <div id="syllabus_links">
+    <a id="toggle_special_dates_in_syllabus">&nbsp;</a>
+  </div>
+  <table id="syllabus" class="ic-Table--condensed">
+    <thead>
+      <tr>
+        <th scope="col" style="width: 25%;">Date</th>
+        <th scope="col" style="width: 75%;">Details</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td scope="row">
+          <span id="loading_indicator"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+          </div>
+        </div>
+        <div id="right-side-wrapper" class="ic-app-main-content__secondary">
+          <aside id="right-side" role="complementary">
+              
+<div id="sidebar_content">
+  
+<div class="mini_month">
+  <div class="mini-cal-header">
+    <button class="prev_month_link Button Button--icon-action"><i class="icon-arrow-open-left"></i><span class="screenreader-only">Prev month</span></button>
+    <button class="next_month_link Button Button--icon-action"><i class="icon-arrow-open-right"></i><span class="screenreader-only">Next month</span></button>
+    <span class="mini-cal-month-and-year">
+      <span class="month_name">September</span>
+      <span class="year_number">2017</span>
+    </span>
+  </div>
+  <div style="display: none;">
+    <span class="month_number">9</span>
+  </div>
+  <table class="mini_calendar" cellspacing="0">
+    <caption class="screenreader-only">Calendar</caption>
+    <thead>
+      <tr>
+          <th scope="col">
+            <span class="screenreader-only">
+              Sunday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Monday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Tuesday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Wednesday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Thursday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Friday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Saturday
+            </span>
+          </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_08_27" class="mini_calendar_day day other_month previous_month date_08_27_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                27
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_28" class="mini_calendar_day day other_month previous_month date_08_28_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                28
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_29" class="mini_calendar_day day other_month previous_month date_08_29_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                29
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_30" class="mini_calendar_day day other_month previous_month date_08_30_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                30
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_31" class="mini_calendar_day day other_month previous_month date_08_31_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                31
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_01" class="mini_calendar_day day current_month date_09_01_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                1
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_02" class="mini_calendar_day day current_month date_09_02_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                2
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_03" class="mini_calendar_day day current_month date_09_03_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                3
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_04" class="mini_calendar_day day current_month date_09_04_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                4
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_05" class="mini_calendar_day day current_month date_09_05_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                5
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_06" class="mini_calendar_day day current_month date_09_06_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                6
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_07" class="mini_calendar_day day current_month date_09_07_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                7
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_08" class="mini_calendar_day day current_month date_09_08_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                8
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_09" class="mini_calendar_day day current_month date_09_09_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                9
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_10" class="mini_calendar_day day current_month date_09_10_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                10
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_11" class="mini_calendar_day day current_month date_09_11_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                11
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_12" class="mini_calendar_day day current_month date_09_12_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                12
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_13" class="mini_calendar_day day current_month date_09_13_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                13
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_14" class="mini_calendar_day day current_month date_09_14_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                14
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_15" class="mini_calendar_day day current_month date_09_15_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                15
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_16" class="mini_calendar_day day current_month date_09_16_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                16
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_17" class="mini_calendar_day day current_month date_09_17_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                17
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_18" class="mini_calendar_day day current_month date_09_18_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                18
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_19" class="mini_calendar_day day current_month date_09_19_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                19
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_20" class="mini_calendar_day day current_month date_09_20_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                20
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_21" class="mini_calendar_day day current_month date_09_21_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                21
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_22" class="mini_calendar_day day current_month date_09_22_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                22
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_23" class="mini_calendar_day day current_month date_09_23_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                23
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_24" class="mini_calendar_day day current_month today date_09_24_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                24
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_25" class="mini_calendar_day day current_month date_09_25_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                25
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_26" class="mini_calendar_day day current_month date_09_26_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                26
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_27" class="mini_calendar_day day current_month date_09_27_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                27
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_28" class="mini_calendar_day day current_month date_09_28_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                28
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_29" class="mini_calendar_day day current_month date_09_29_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                29
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_30" class="mini_calendar_day day current_month date_09_30_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                30
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_10_01" class="mini_calendar_day day other_month next_month date_10_01_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                1
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_02" class="mini_calendar_day day other_month next_month date_10_02_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                2
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_03" class="mini_calendar_day day other_month next_month date_10_03_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                3
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_04" class="mini_calendar_day day other_month next_month date_10_04_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                4
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_05" class="mini_calendar_day day other_month next_month date_10_05_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                5
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_06" class="mini_calendar_day day other_month next_month date_10_06_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                6
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_07" class="mini_calendar_day day other_month next_month date_10_07_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                7
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+    
+<div role="complementary" aria-label="Assignment Weights">
+  <h2>Course assignments are not weighted.</h2>
+</div>
+
+</div>
+
+<div id="editor_tabs" class="ui-tabs--mini" style="display: none;">
+
+  <span class="wiki-sidebar-header" role="heading" aria-level="2">Insert Content into the Page</span>
+  <ul>
+    <li><a href="#editor_tabs_2">Links</a></li>
+    <li><a href="#editor_tabs_4">Images</a></li>
+  </ul>
+  <div id="editor_tabs_2" role="application">
+    Link to other content in the course.
+      <a href="/courses/32913/external_tools/retrieve?url=%7B%7B+url+%7D%7D" id="external_tool_retrieve_url" style="display: none;">&nbsp;</a>
+      <a href="/courses/32913/external_tools/%7B%7B%20id%20%7D%7D/resource_selection?editor=1" id="context_external_tool_resource_selection_url" style="display: none;">&nbsp;</a>
+    Click any page to insert a link to that page.
+    <div id="pages_accordion" class="ui-accordion--mini" role="tabpanel">
+      <a href="https://canvas.harvard.edu/courses/32913/pages/%7B%7B%20page_url%20%7D%7D" id="wiki_sidebar_wiki_url" style="display: none;">&nbsp;</a>
+      <div>
+        <div class="header" aria-controls="pages_tab_panel" role="tab"><a href="#">Wiki Pages</a></div>
+        <div id="pages_tab_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/32913/pages/announcements-and-inbox-messaging">Announcements and Inbox Messaging</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/32913/pages/calendar">Calendar</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/32913/pages/creating-assignments">Creating Assignments</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/32913/pages/creating-course-announcements">Creating Course Announcements</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/32913/pages/creating-discussions">Creating Discussions</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/32913/pages/general-navigation">General Navigation</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/32913/pages/getting-started">Getting Started</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/32913/pages/hsci-e-128">HSCI E-128</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/32913/pages/notifications">Notifications</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/32913/pages/teaching-staff">Teaching Staff</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/32913/pages/technical-requirements">Technical Requirements</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/32913/pages/the-empire-strikes-back-science-fiction-religion-and-society">The Empire Strikes Back: Science Fiction, Religion and Society</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/32913/pages/uploading-a-syllabus">Uploading a syllabus</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/32913/pages/viewing-and-submitting-an-assignment">Viewing and Submitting an Assignment</a></li>
+            </ul>
+        </div>
+      </div>
+      <div>
+        <div aria-controls="assignment_panel" role="tab" class="header" aria-controls="wiki_pages_panel"><a href="#">Assignments</a></div>
+         <div id="assignment_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments">Assignment List</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155748">And Other Women, Also on the Edge of Time</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155749">Attendance and Participation</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155750">Behind the Iron Curtain: Science Fiction and Soviet Statecraft</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155751">BOOKS TO BUY or download</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155752">Bread and Circuses: Science and the Making of Empire</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155753">Brother From Another Planet</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155754">Charting the Enterprise: Science and Science Fiction</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155755">Empires and Dark Ages</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155756">Encounters &amp; New Religions</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155757">Final Project Guidelines</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155758">Final Project Submission</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155759">First Reflection Paper: Cognitive Response</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155760">Gender Under Pressure</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155761">In the Land of Unbelievers: Colonialism and Religion</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155762">Inverts and those who love them</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155763">I, Robot: Performing Gender and the Human</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155764">Midterm Exam Submission</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155765">Midterm Guideline</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155766">Natives and Cannibals</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155767">No Class: Columbus Day</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155768">No class: Labor Day</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155769">Proposal for Final Project</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155770">Revising Empires</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155771">Science Fiction from the Global South {BOTH}</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155772">Scorched Earth</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155773">Second Reflection Paper: Comparative Writing</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155774">Strange and Strange-Making</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155775">Tentacle Sex</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155776">Thanksgiving Recess</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155777">The City on the Edge of Forever: Travels, Marvels, and Encounters</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155778">The Enterprise: Trade in a Postcolonial World</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155779">The New Body</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155780">The Ship’s Manifest(o): Introduction to the course</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155781">Tomorrow is Yesterday</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155782">Whom Gods Destroy</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32913/assignments/155783">Woman on the Edge of Time: Feminist Utopias</a></li>
+            </ul>
+         </div>
+      </div>
+      <div>
+        <div aria-controls="quizzes_panel" class="header" role="tab"><a href="#">Quizzes</a></div>
+         <div id="quizzes_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this quiz"><a href="/courses/32913/quizzes">Quiz List</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/32913/quizzes/69878">Mid-Semester Feedback for Sections</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/32913/quizzes/69879">Mid-Semester Feedback for Courses</a></li>
+            </ul>
+         </div>
+      </div>
+      <div>
+        <div class="header" aria-controls="announcements_panel" role="tab"><a href="#">Announcements</a></div>
+         <div id="announcements_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this announcement"><a href="/courses/32913/announcements">Announcements List</a></li>
+            </ul>
+         </div>
+      </div>
+
+      <div>
+        <div role="tab" aria-controls="discussions_panel" class="header"><a href="#">Discussions</a></div>
+         <div id="discussions_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics">Discussion Index</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/241263">Verne and Bull: Shooting for the Stars</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/238233">Somnium, James I, and Otherworlds in the 1600s</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227925">Chinese Cultural Revolution in Three-Body Problem</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227924">Does the techno-sublime include magic?</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227923">Alien Assumptions</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227922">The Linear Argument in The Three Body Problem</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227921">genre and Who Fears Death</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227920">Body control</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227919">What constitutes a cyborg and/or loss of humanity?</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227918">Is Who Fears Death a SF story?</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227917">Religious Fetishism/Commodity Fetishism</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227916">Hierarchy in Dawn</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227915">&#39;Cognitive&#39; Estrangement in Dawn</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227914">Is honesty the best policy?</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227913">Jodorowsky&#39;s Dune and Game of Thrones</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227912">The Year was 1987</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227911">Why are we looking to animals for sexual morality?</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227910">Religion to Justify Community</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227909">Self-stigmatization</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227908">Names and Naming in Dawn</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227907">Genetic Mixtures in Dawn and Who Fears Death</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227906">Oankali Gene &quot;Trading&quot;</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227905">The gendered nature of magic</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227904">Science Fiction in Dialogue with Geertz</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227903">Liberatory for Whom?</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227902">Octavia Butler&#39;s Dawn --- what does &quot;trading&quot; mean to the Oankali?</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227901">The Natives &amp; Syphilis</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227900">Genly v. Lilith</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227899">Dawn Reactions</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227898">Combination of Species, Separation of Sexes, and a Biblical Mother in Dawn</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227897">Gender </a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227896">Nuclear Warfare</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227895">Aliens</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227894">Gender and War</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227893">Today&#39;s Gender Reception Vs. Yesterday&#39;s</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227892">Janelle Monáe</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227891">Fantastic, Supernatural Religions.</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227890">Ideas of Gender </a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227889">Construction of Race</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227888">Alien Sex</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227887">Parenting, Gender, and Biochemistry</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227886">Afrofuturism - Growing Movement of Artists in the Bay </a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227885">Extrapolative vs. Thought Experiment</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227884">Material Subjects of History </a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227883">Lilith as the first woman</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227882">The insidious nature of assumption</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227881">The Alien As Other</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227880">Narrative of Slavery in Dawn</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227879">Nature of Empire</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227878">Alien Relations</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227877">Human Nature contra Aliens in sci-fi</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227876">Gender and Power in &#39;Dawn&#39;</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227875">Ai&#39;s race matters</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227874">Ai &amp; Race</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227873">The Left Hand of Darrkness: Unlearning Gender Dichotomy</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227872">What is masculine in Herland and Left Hand of Darkness?</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227871">Gender Deciphering</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227870">Sexual Deviance and Social Rules</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227869">The Importance of Pronouns</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227868">On Le Guin</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227867">Style as a tool in &quot;The Left Hand of Darkness&quot;</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227866">Fremen dream</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227865">Anthropological Others</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227864">Warless Society</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227863">Mindspeak</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227862">Work camps in Left Hand of Darkness</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227861">Imperialism in Left Hand of Darkness</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227860">The Energy Wars</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227859">The &quot;Hacker&quot; and Languages of Possession  </a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227858">&quot;The Left Hand of Darkness&quot; in light of &quot;Do-It-Yourself Cosmology&quot;</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227857">First Impressions</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227856">Gender in Left Hand of Darkness</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227855">Community of Law and a Community of Religion: Dune</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227854">Religion and Politics Falling Off Cliffs</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227853">The Cost of Our Environment</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227852">Repost: Reflection Response on the Sexuality of &quot;Aye, and Gomorrah&quot;</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227851">A Medieval Attitude Towards Women?</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227850">Genesis- the Answer to Our Reading&#39;s Problems</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227849">Why Empire?</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227848">Gender/Sexuality in Dune</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227847">Intelligence: Human vs. Artificial</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227846">The epic of Dune?</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227845">Breeding Program &amp; Myth</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227844">Women&#39;s spaces</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227843">Political Systems in Space Colonization</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227842">Empire Strikes Back Connection</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227841">In Dune, what is a human?</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227840">Oprah and Religion</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227839">Dune and the New Yorker</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227838">Shrooms and Chaos theory in Dune</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227837">Religion as tool for oppression?</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227836">Magic and Destiny</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227835">Preservation of Knowledge</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227834">Paul &amp; Luke Skywalker</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227833">Cold War Themes in Canticle</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227832">The Genre&#39;s Fixation with Technological Regression/Dark Ages</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227831">The Abbey as Technology</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227830">Science and Religion </a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227829">Science and Religion in Foundation and Canticle</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227828">Balance between science, humanity, and religion</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227827">Cyclic History and Destiny </a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227826">Inevitable Self-Destruction</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227825">Culture-Bearers and Soul-Bearers</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227824">What is the Canticle?</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227823">Cumulative Epistemic Progress in Canticle</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227822">Secularity v. Religiosity </a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227821">Canticle&#39;s Catholic Sensibilities</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227820">Canticle: The Middle Ages and religion</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227819">Delaney and Trans* Microagressions</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227818">Your daily dose of Mumfordian technocynicism or, Why Soviet &quot;science fiction&quot; doesn&#39;t exist...</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227817">Aye, and Gomorrah</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227816">The Future of Sexual Acceptance</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227815">Freud&#39;s Aye and Gomorrah</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227814">Microcosm of Sexual Questioning</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227813">Sterility Doesn&#39;t Help</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227812">Gender Issues</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227811">Aye, and Gomorrah as a maverick</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227810">Fetishization, Identity Formation, and Social Relations </a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227809">Spacers and Gender</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227808">Identity in Aye and Gomorrah</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227807">A Spacer&#39;s Plight</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227806">What is truly of value?</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227805">History and Religion in Canticle</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227804">Commodification of Sexuality</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227803">Delany and the Pariahs</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227802">Mysteriously sexual Spacers and Unsullied: Normative assumptions galore</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227801">Delaney&#39;s Angels</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227800">Corpses in Free Fall</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227799">Inadvertent Offense</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227798">Desire and Exchange</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227797">Delany &amp; the Bible </a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227796">Delany and what it means to be lonely</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227795">&quot;Aye, and Gomorrah&quot; and &quot;Liking What You See: A Documentary&quot;</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227794">Sexualizing Androgyny in Aye, and Gomorrah</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227793">Exoticism, Eroticism, and Acceptance </a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227792">Aye, and Gomorrah </a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227791">Not So Fictional</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227790">Spacers as Progress-Bringers</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227789">Masco &amp; Miller</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227788">The Theology of Thought</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227787">Anthropomorphizing Machines</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227786">Children, Machines, and Learning (or lack thereof)</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227785">Trurl and the Underground Man</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227784">the first steps towards AI</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227783">Rise of the machines</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227782">Computers and the Brain</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227781">State and Satire in The Fatal Eggs</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227780">A Tale of Caution</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227779">Religion v. Science in The Fatal Egg&#39;s </a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32913/discussion_topics/227778">The role of the press in The Fatal Eggs</a></li>
+            </ul>
+         </div>
+      </div>
+
+      <div>
+        <div role="tab" aria-controls="modules_panel" class="header"><a href="#">Modules</a></div>
+          <div id="modules_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this module"><a href="/courses/32913/modules">Modules List</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/32913/modules/72534">Week 16</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/32913/modules/72533">Week 15</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/32913/modules/72532">Week 14</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/32913/modules/72531">Week 13</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/32913/modules/72530">Week 12</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/32913/modules/72529">Week 11</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/32913/modules/72528">Week 10</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/32913/modules/72527">Week 9</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/32913/modules/72526">Week 8</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/32913/modules/72525">Week 7</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/32913/modules/72524">Week 6</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/32913/modules/72523">Week 5</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/32913/modules/72522">Week 4</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/32913/modules/72521">Week 3</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/32913/modules/72520">Week 2</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/32913/modules/72519">Week 1</a></li>
+            </ul>
+          </div>
+      </div>
+
+      <div>
+        <div class="header" role="tab" aria-controls="groups_panel"><a href="#">Course Navigation</a></div>
+         <div role="tabpanel" id="groups_panel">
+            <ul class="wiki_pages page_list">
+                <li title="Click to insert a link to the assignments page"><a href="/courses/32913/assignments">Assignment List</a></li>
+                <li title="Click to insert a link to the wiki"><a href="https://canvas.harvard.edu/courses/32913/pages">Wiki Home</a></li>
+                <li title="Click to insert a link to the discussions page"><a href="/courses/32913/discussion_topics">Discussions Index</a></li>
+                <li title="Click to insert a link to the syllabus"><a href="/courses/32913/assignments/syllabus">Course Syllabus</a></li>
+                <li title="Click to insert a link to the announcements page"><a href="/courses/32913/announcements">Announcement List</a></li>
+                <li title="Click to insert a link to the files page"><a href="/courses/32913/files">Files Index</a></li>
+                <li title="Click to insert a link to the collaborations page"><a href="/courses/32913/collaborations">Collaborations</a></li>
+                <li title="Click to insert a link to the grades page"><a href="/courses/32913/grades">Grades</a></li>
+                <li title="Click to insert a link to the people page"><a href="/courses/32913/users">People</a></li>
+                <li title="Click to insert a link to the modules page"><a href="/courses/32913/modules">Modules</a></li>
+            </ul>
+         </div>
+      </div>
+    </div>
+
+  </div>
+  <div aria-atomic="true" id="editor_tabs_4">
+    Click any image to embed the image in the page.
+    <div>
+      <a tabindex="0" href="#" class="find_new_image_link find">Find images on flickr creative commons</a>
+    </div>
+    <div id="wiki_sidebar_image_uploads" class="uploading_file_list uploading_image_list" style="display: none;">
+      <div class="uploading">
+        Uploading <span class="filename">file</span>...
+        <div>
+          <img alt="Loading..." src="https://du11hjcvx0uqb.cloudfront.net/dist/images/ajax-loader-bar-71e6988298.gif" />
+        </div>
+      </div>
+      <div class="remaining">
+        <span class="files_remaining">0</span> more to upload
+      </div>
+      
+<a href="#" style="text-align: center display: none;" class="img_link" title="Click to embed image">
+  <div class="img_holder">
+    <img class="img" data-url="" src="" alt="{{ display_name }}" title="Click to embed {{ display_name }}">
+  </div>
+  <div class="display_name">{{ display_name }}</div>
+</a>
+
+    </div>
+    <div class="image_list_holder ">
+      <div class="dragging_message">Drop Images Here to upload</div>
+      <div class="image_list" style="max-height: 300px; overflow: auto;" data-url="/courses/32913/images">
+      </div>
+    </div>
+  </div>
+  <div style="display: none;">
+    <a href="/services?service_type=BookmarkService" class="bookmark_services_url">&nbsp;</a>
+    <a href="/search/bookmarks?q=%7B%7B+query+%7D%7D&amp;service_type=%7B%7B+service_type+%7D%7D" class="bookmark_search_url">&nbsp;</a>
+    <span class="context_code">course_32913</span>
+    <div id="wiki_sidebar_select_folder_dialog">
+      Select a destination folder for these <span class="file_count">&nbsp;</span> files:
+      <div style="margin: 20px;">
+        <select class="folder_id">
+        </select>
+      </div>
+      <div class="button-container">
+        <button type="button" class="btn select_button">Upload Files to Folder</button>
+        <button type="button" class="btn cancel_button btn button-secondary">Cancel</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+          </aside>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    <div style="display:none;"><!-- Everything inside of this should always stay hidden -->
+    </div>
+    
+<div id="cant_record_dialog" style="display: none;">
+  <div>
+    In order to create video or audio recordings your computer needs to be 
+    webcam-enabled.  If you don&#39;t have a webcam on your computer, you can still
+    record audio-only messages by first installing the Google Video Chat
+    plugin.
+  </div>
+  <div style="text-align: center; font-size: 1.5em; margin: 10px;">
+    <a href="http://www.google.com/chat/video" target="_blank" class="btn">Install the Video Plugin</a>
+  </div>
+  <div class="links" style="text-align: right; font-size: 0.8em; display: none;">
+    <a href="#" class="cant_record_link">Don&#39;t have a webcam?</a>
+  </div>
+</div>
+  <div id='aria_alerts' class='hide-text affix' role="alert" aria-live="assertive"></div>
+  <div id='StudentTray__Container'></div>
+  <script>
+  INST = {"environment":"production","allowMediaComments":true,"kalturaSettings":{"domain":"nv.instructuremedia.com","resource_domain":"nv.instructuremedia.com","rtmp_domain":"fms-prod.instructuremedia.com","partner_id":"9","subpartner_id":"0","player_ui_conf":"0","kcw_ui_conf":"0","upload_ui_conf":"0","max_file_size_bytes":534773760,"do_analytics":false,"hide_rte_button":false,"js_uploader":true},"googleAnalyticsAccount":"UA-9138420-1","disableScribdPreviews":true,"logPageViews":true,"maxVisibleEditorButtons":3,"editorButtons":[{"name":"YouTube","id":18015,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=youtube","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/youtube_icon.png","canvas_icon_class":null,"width":560,"height":600},{"name":"Vimeo","id":18016,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=vimeo","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/vimeo_icon.png","canvas_icon_class":null,"width":560,"height":600},{"name":"DCE Matterhorn Course Recordings","id":19109,"url":"https://dce-mhvideo-lti.herokuapp.com/mhvideo_lti/lti_launch","icon_url":"https://dce-mhvideo-lti.herokuapp.com/static/images/television.png","canvas_icon_class":null,"width":800,"height":400},{"name":"Course Info","id":20525,"url":"https://canvas-course-info.tlt.harvard.edu/course_info/lti_launch","icon_url":"https://canvas-course-info.tlt.harvard.edu/static/images/course-info.png","canvas_icon_class":null,"width":800,"height":400},{"name":"Vimeo","id":25556,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=vimeo","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/vimeo_icon.png","canvas_icon_class":null,"width":560,"height":600},{"name":"YouTube","id":25557,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=youtube","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/youtube_icon.png","canvas_icon_class":null,"width":560,"height":600}]};
+  ENV = {"ASSET_HOST":"https://du11hjcvx0uqb.cloudfront.net","active_brand_config":"af37e5be444f4a553c9c812a9a990322","active_brand_config_json_url":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.json","url_to_what_gets_loaded_inside_the_tinymce_editor_css":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/what_gets_loaded_inside_the_tinymce_editor-542d1c188c.css","current_user_id":null,"current_user":{},"current_user_roles":null,"current_user_disabled_inbox":null,"files_domain":"cluster28-files.instructure.com","DOMAIN_ROOT_ACCOUNT_ID":18750000000000001,"k12":false,"help_link_name":"Help","help_link_icon":"help","use_high_contrast":null,"SETTINGS":{"open_registration":false,"eportfolios_enabled":true,"collapse_global_nav":null,"show_feedback_link":true,"enable_profiles":true},"context_asset_string":"course_32913","ping_url":"https://canvas.harvard.edu/api/v1/courses/32913/ping","TIMEZONE":"America/New_York","CONTEXT_TIMEZONE":"America/New_York","LOCALE":"en","BIGEASY_LOCALE":"en_US","FULLCALENDAR_LOCALE":"en","MOMENT_LOCALE":"en","RICH_CONTENT_SERVICE_ENABLED":true,"RICH_CONTENT_APP_HOST":"rich-content-iad.inscloudgate.net","RICH_CONTENT_CDN_HOST":"dvgcns7dz7zc.cloudfront.net/rce_service/versions/","RICH_CONTENT_SIDEBAR_SOURCE":"api","RICH_CONTENT_CAN_UPLOAD_FILES":false,"CONTEXT_ACTION_SOURCE":"syllabus","NEW_USER_TUTORIALS":{"is_enabled":false},"SYLLABUS_PER_PAGE":"100","CAN_READ":true,"SYLLABUS_BODY":"\u003cp style=\"text-align: left;\"\u003e\u003ca href=\"/courses/32913/files/4457914/download?verifier=64Taca1yWQIusd4F1yuHoUSPEpMLSGKMN2EjyR2G\"\u003e\u003cstrong\u003eDownload the syllabus \u0026gt;\u003c/strong\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp style=\"text-align: left;\"\u003eBooks to buy or download:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cstrong\u003eJohannes Kepler,\u003cspan\u003e \u003c/span\u003e\u003ci\u003eSomnium\u003c/i\u003e\u003cspan\u003e \u003c/span\u003e(Madison: University of Wisconsin Press, 2003).\u003c/strong\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003ca href=\"/courses/32913/files/4263776/download?verifier=8X6iwO49gzm5XAjnGYiAgkNoizWSoL1bq2BNGSnX\"\u003ePDF\u003c/a\u003e.\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eJules Verne,\u003cspan\u003e \u003c/span\u003e\u003ci\u003eFrom the Earth to the Moon\u003c/i\u003e\u003cspan\u003e \u003c/span\u003e(Mineola: Bantam, 2009 [1874]): selections.\u003c/strong\u003e\n\u003cul\u003e\n\u003cli\u003eAvailable online: \u003ca class=\"external\" href=\"http://www.gutenberg.org/cache/epub/83/pg83-images.html\" target=\"_blank\"\u003e\u003cspan\u003ehttp://www.gutenberg.org/cache/epub/83/pg83-images.html\u003cspan class=\"screenreader-only\"\u003e (Links to an external site.)\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"ui-icon ui-icon-extlink ui-icon-inline\" title=\"Links to an external site.\"\u003e\u003cspan class=\"screenreader-only\"\u003eLinks to an external site.\u003c/span\u003e\u003c/span\u003e\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eCharlotte Perkins Gilman,\u003cspan\u003e \u003c/span\u003e\u003ci\u003eHerland\u003c/i\u003e\u003cspan\u003e \u003c/span\u003e(New York: Dover, 2010 [1915]).\u003c/strong\u003e\n\u003cul\u003e\n\u003cli\u003eAvailable online:\u003cspan\u003e \u003c/span\u003e\u003ca class=\"external\" href=\"http://www.gutenberg.org/files/32/32-h/32-h.htm\" target=\"_blank\"\u003e\u003cspan\u003ehttp://www.gutenberg.org/files/32/32-h/32-h.htm\u003cspan class=\"screenreader-only\"\u003e (Links to an external site.)\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"ui-icon ui-icon-extlink ui-icon-inline\" title=\"Links to an external site.\"\u003e\u003cspan class=\"screenreader-only\"\u003eLinks to an external site.\u003c/span\u003e\u003c/span\u003e\u003c/a\u003e \u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eRokeya Sakhawat Hossein,\u003cspan\u003e \u003c/span\u003e\u003ci\u003eSultana’s Dream\u003c/i\u003e\u003cspan\u003e \u003c/span\u003e(New York: The Feminist Press at CUNY, 1988).\u003c/strong\u003e\n\u003cul\u003e\n\u003cli\u003eAvailable online:\u003cspan\u003e \u003c/span\u003e\u003ca class=\"external\" href=\"http://digital.library.upenn.edu/women/sultana/dream/dream.html\" target=\"_blank\"\u003e\u003cspan\u003ehttp://digital.library.upenn.edu/women/sultana/dream/dream.html\u003cspan class=\"screenreader-only\"\u003e (Links to an external site.)\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"ui-icon ui-icon-extlink ui-icon-inline\" title=\"Links to an external site.\"\u003e\u003cspan class=\"screenreader-only\"\u003eLinks to an external site.\u003c/span\u003e\u003c/span\u003e\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eIsaac Asimov,\u003cspan\u003e \u003c/span\u003e\u003ci\u003eFoundation\u003c/i\u003e\u003cspan\u003e \u003c/span\u003e(New York: Bantam, 2004 [1951]).\u003c/strong\u003e\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eBulgakov, Mikhail.\u003cspan\u003e \u003c/span\u003e\u003ci\u003eThe Fatal Eggs.\u003c/i\u003e\u003cspan\u003e \u003c/span\u003eLondon: Hesperus, 2003 [1925].\u003c/strong\u003e\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eWalter M. Miller,\u003cspan\u003e \u003c/span\u003e\u003ci\u003eCanticle for Leibowitz\u003c/i\u003e\u003cspan\u003e \u003c/span\u003e(New York: Harper Collins, 2006 [1959]).\u003c/strong\u003e\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eFrank Herbert, \u003cem\u003eDune\u003c/em\u003e (New York: Penguin, 1990 [1965]).\u003c/strong\u003e\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eUrsula K. Le Guin,\u003cspan\u003e \u003c/span\u003e\u003ci\u003eLeft Hand of Darkness (\u003c/i\u003eNew York: Penguin, 2000 [1969]).\u003c/strong\u003e\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eOctavia Butler,\u003cspan\u003e \u003c/span\u003e\u003ci\u003eDawn\u003c/i\u003e\u003cspan\u003e \u003c/span\u003e(New York: Warner, 1987).\u003c/strong\u003e\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eNnedi Okorafor,\u003cspan\u003e \u003c/span\u003e\u003ci\u003eWho Fears Death\u003c/i\u003e\u003cspan\u003e \u003c/span\u003e(DAW Books, 2010).\u003c/strong\u003e\u003c/li\u003e\n\u003cli\u003e\u003cstrong\u003eLiu Cixin,\u003cspan\u003e \u003c/span\u003e\u003ci\u003eThe Three Body-Problem,\u003c/i\u003e\u003cspan\u003e \u003c/span\u003eTrans. Ken Liu (New York: Tor, 2014).\u003c/strong\u003e\u003c/li\u003e\n\u003c/ul\u003e","notices":[]};
+</script>
+
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/navigation_header.bundle-9669f80a51.js" defer="defer"></script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/4225508/global.min.js" defer="defer"></script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/3751539/EXPGlobal.js" defer="defer"></script>
+
+</div> <!-- #application -->
+</body>
+</html>

@@ -1,0 +1,1183 @@
+
+
+<!DOCTYPE html>
+<html class="scripts-not-loaded" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Syllabus for Academic Writing and Critical Reading</title>
+  <!--[if lte IE 9]> <meta http-equiv=refresh content="0; URL=/ie-9-is-not-supported.html" /> <![endif]-->
+  <link rel="shortcut icon" type="image/x-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/favicon-e10d657a73.ico" />
+  <link rel="apple-touch-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/apple-touch-icon-585e5d997d.png" />
+  
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.css" />
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/common-de9877d2f0.css" />
+  <script>
+//<![CDATA[
+
+!function(){
+  var o,s,v;
+  if (!(window.Promise && Object.assign && Object.values && [].find && [].includes && (o={},s=Symbol(),v={},o[s]=v,o[s]===v) && (function f(){}).bind().name==='bound f')) {
+    s = 's', document.write('<'+s+'cr'+'ipt src="https://du11hjcvx0uqb.cloudfront.net/dist/ie11-polyfill-64b21f7f37.js"></'+s+'c'+'ript>');
+  }
+}();
+      
+//]]>
+</script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/lato-fontfaceobserver-11a14bc0b6.js" async="async"></script>
+  
+  <meta name="apple-itunes-app" content="app-id=480883488" />
+<link rel="manifest" href="/web-app-manifest/manifest.json" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#008EE2">
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/tinymce-29f8b0a23f.css" />
+<link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/syllabus-2f51f24f19.css" />
+  
+  <link rel="stylesheet" media="all" href="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/4225502/global.min.css" />
+  <script>
+    function _earlyClick(e){
+      var c = e.target
+      while (c && c.ownerDocument) {
+        if (c.getAttribute('href') == '#' || c.getAttribute('data-method')) {
+          e.preventDefault()
+          (_earlyClick.clicks = _earlyClick.clicks || []).push(c)
+          break
+        }
+        c = c.parentNode
+      }
+    }
+    document.addEventListener('click', _earlyClick)
+  </script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.js" defer="defer"></script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/vendor.bundle-2585fc489b.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/New_York-c3226761e3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/en_US-80a0ce259b.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/appBootstrap.bundle-43015c2be3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/common.bundle-07f53473d3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/syllabus.bundle-8eb56aaa04.js" defer="defer"></script>
+</head>
+
+<body class="with-left-side course-menu-expanded with-right-side syllabus primary-nav-expanded context-course_32960">
+
+<noscript>
+  <div role="alert" class="ic-flash-static ic-flash-error">
+    <div class="ic-flash__icon" aria-hidden="true">
+      <i class="icon-warning"></i>
+    </div>
+    <h1>You need to have JavaScript enabled in order to access this site.</h1>
+  </div>
+</noscript>
+
+
+
+
+
+<ul id="flash_message_holder"></ul>
+<div id="flash_screenreader_holder"></div>
+
+<div id="application" class="ic-app">
+  
+  <header id="header" class="ic-app-header no-print no-user">
+    <a href="#content" id="skip_navigation_link">Skip To Content</a>
+      <div role="region" class="ic-app-header__main-navigation" aria-label="Main Navigation">
+        <div class="ic-app-header__logomark-container">
+          <a href="https://canvas.harvard.edu/" class="ic-app-header__logomark">
+            <span class="screenreader-only">Dashboard</span>
+          </a>
+        </div>
+        <ul id="menu" class="ic-app-header__menu-list">
+            <li class="menu-item ic-app-header__menu-list-item">
+              <a id="global_nav_login_link" href="/login" class="ic-app-header__menu-list-link">
+                <div class="menu-item-icon-container" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--login" version="1.1" x="0" y="0" viewBox="241 -241 512 512" enable-background="new 241 -241 512 512" xml:space="preserve"><path d="M743.9 5.9l-35.7-35.7H492.9c-6.5-16.2-17.3-32-31.7-46.4 -50.4-50.4-132-50.4-182.4 0s-50.4 132.1 0 182.5 132 50.4 182.4 0c11.8-11.8 20.6-25.9 27-41.8H547L570.6 88l22.8-22.8L616.2 88 639 65.2 661.8 88l24.1-24.1 15.6-1.5 4.6-0.5L753 15 743.9 5.9 743.9 5.9zM694.4 37.1l-15.6 1.5 -4.6 0.5 -12.4 12.4 -12.9-12.9h-19.8l-12.9 12.9 -12.9-12.9h-19.8l-12.9 12.9 -12.9-12.9h-87.6l-2.9 8.8c-5.3 16-13.2 29.5-24.2 40.6 -40.3 40.3-105.6 40.3-145.9 0s-40.3-105.7 0-146 105.6-40.3 145.9 0c14.3 14.3 24.4 29.8 28.6 44.6l2.7 9.4h223.3l19 19L694.4 37.1 694.4 37.1zM322.3-16.2c-17.5 17.5-17.5 46 0 63.5 17.5 17.5 46 17.5 63.5 0 17.5-17.5 17.5-46 0-63.5C368.2-33.8 339.8-33.8 322.3-16.2L322.3-16.2zM367.6 29.1c-7.5 7.5-19.7 7.5-27.2 0 -7.5-7.5-7.5-19.7 0-27.2s19.7-7.5 27.2 0S375.2 21.6 367.6 29.1L367.6 29.1z"/></svg>
+
+                </div>
+                <div class="menu-item__text">
+                  Login
+                </div>
+              </a>
+            </li>
+          <li class="ic-app-header__menu-list-item ">
+            <a id="global_nav_dashboard_link" href="https://canvas.harvard.edu/" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--dashboard" version="1.1" x="0" y="0" viewBox="0 0 280 200" enable-background="new 0 0 280 200" xml:space="preserve"><path d="M273.09,180.75H197.47V164.47h62.62A122.16,122.16,0,1,0,17.85,142a124,124,0,0,0,2,22.51H90.18v16.29H6.89l-1.5-6.22A138.51,138.51,0,0,1,1.57,142C1.57,65.64,63.67,3.53,140,3.53S278.43,65.64,278.43,142a137.67,137.67,0,0,1-3.84,32.57ZM66.49,87.63,50.24,71.38,61.75,59.86,78,76.12Zm147,0L202,76.12l16.25-16.25,11.51,11.51ZM131.85,53.82v-23h16.29v23Zm15.63,142.3a31.71,31.71,0,0,1-28-16.81c-6.4-12.08-15.73-72.29-17.54-84.25a8.15,8.15,0,0,1,13.58-7.2c8.88,8.21,53.48,49.72,59.88,61.81a31.61,31.61,0,0,1-27.9,46.45ZM121.81,116.2c4.17,24.56,9.23,50.21,12,55.49A15.35,15.35,0,1,0,161,157.3C158.18,152,139.79,133.44,121.81,116.2Z" /></svg>
+
+              </div>
+              <div class="menu-item__text">Dashboard</div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ic-app-header__menu-list-item--active">
+            <a id="global_nav_courses_link" href="/courses" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--courses" version="1.1" x="0" y="0" viewBox="0 0 280 259" enable-background="new 0 0 280 259" xml:space="preserve"><path d="M73.31,198c-11.93,0-22.22,8-24,18.73a26.67,26.67,0,0,0-.3,3.63v.3a22,22,0,0,0,5.44,14.65,22.47,22.47,0,0,0,17.22,8H200V228.19h-134V213.08H200V198Zm21-105.74h90.64V62H94.3ZM79.19,107.34V46.92H200v60.42Zm7.55,30.21V122.45H192.49v15.11ZM71.65,16.71A22.72,22.72,0,0,0,49,39.36V190.88a41.12,41.12,0,0,1,24.32-8h157V16.71ZM33.88,39.36A37.78,37.78,0,0,1,71.65,1.6H245.36V198H215.15v45.32h22.66V258.4H71.65a37.85,37.85,0,0,1-37.76-37.76Z"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Courses
+              </div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_calendar_link" href="/calendar" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--calendar" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M197.07,213.38h16.31V197.07H197.07Zm-16.31,16.31V180.76h48.92v48.92Zm-48.92-16.31h16.31V197.07H131.85Zm-16.31,16.31V180.76h48.92v48.92ZM66.62,213.38H82.93V197.07H66.62ZM50.32,229.68V180.76H99.24v48.92Zm146.75-81.53h16.31V131.85H197.07Zm-16.31,16.31V115.54h48.92v48.92Zm-48.92-16.31h16.31V131.85H131.85Zm-16.31,16.31V115.54h48.92v48.92ZM66.62,148.15H82.93V131.85H66.62ZM50.32,164.46V115.54H99.24v48.92ZM34,262.29H246V82.93H34ZM246,66.62V42.16A8.17,8.17,0,0,0,237.84,34H213.38v8.15a8.15,8.15,0,1,1-16.31,0V34H82.93v8.15a8.15,8.15,0,0,1-16.31,0V34H42.16A8.17,8.17,0,0,0,34,42.16V66.62Zm-8.15-48.92a24.49,24.49,0,0,1,24.46,24.46V278.6H17.71V42.16A24.49,24.49,0,0,1,42.16,17.71H66.62V9.55a8.15,8.15,0,0,1,16.31,0v8.15H197.07V9.55a8.15,8.15,0,1,1,16.31,0v8.15Z"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Calendar
+              </div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_conversations_link" href="/conversations" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--inbox" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M91.72,120.75h96.56V104.65H91.72Zm0,48.28h80.47V152.94H91.72Zm0-96.56h80.47V56.37H91.72Zm160.94,34.88H228.52V10.78h-177v96.56H27.34A24.17,24.17,0,0,0,3.2,131.48V244.14a24.17,24.17,0,0,0,24.14,24.14H252.66a24.17,24.17,0,0,0,24.14-24.14V131.48A24.17,24.17,0,0,0,252.66,107.34Zm0,16.09a8.06,8.06,0,0,1,8,8v51.77l-32.19,19.31V123.44ZM67.58,203.91v-177H212.42v177ZM27.34,123.44H51.48v79.13L19.29,183.26V131.48A8.06,8.06,0,0,1,27.34,123.44ZM252.66,252.19H27.34a8.06,8.06,0,0,1-8-8V202l30,18H230.75l30-18v42.12A8.06,8.06,0,0,1,252.66,252.19Z"/></svg>
+
+                <span class="menu-item__badge" style="display: none">0</span>
+              </div>
+              <div class="menu-item__text">
+                Inbox
+              </div>
+            </a>
+          </li>
+          <li class="ic-app-header__menu-list-item">
+           <a id="global_nav_help_link" class="ic-app-header__menu-list-link" data-track-category="help system" data-track-label="help button" href="http://help.instructure.com/">
+              <div class="menu-item-icon-container" role="presentation">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg menu-item__icon svg-icon-help" version="1.1" x="0" y="0" viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve" fill="currentColor"><path d="M100,127.88A11.15,11.15,0,1,0,111.16,139,11.16,11.16,0,0,0,100,127.88Zm8.82-88.08a33.19,33.19,0,0,1,23.5,23.5,33.54,33.54,0,0,1-24,41.23,3.4,3.4,0,0,0-2.74,3.15v9.06H94.42v-9.06a14.57,14.57,0,0,1,11.13-14,22.43,22.43,0,0,0,13.66-10.27,22.73,22.73,0,0,0,2.31-17.37A21.92,21.92,0,0,0,106,50.59a22.67,22.67,0,0,0-19.68,3.88,22.18,22.18,0,0,0-8.65,17.64H66.54a33.25,33.25,0,0,1,13-26.47A33.72,33.72,0,0,1,108.82,39.8ZM100,5.2A94.8,94.8,0,1,0,194.8,100,94.91,94.91,0,0,0,100,5.2m0,178.45A83.65,83.65,0,1,1,183.65,100,83.73,83.73,0,0,1,100,183.65" transform="translate(-5.2 -5.2)"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Help
+              </div>
+</a>          </li>
+        </ul>
+      </div>
+      <div class="ic-app-header__secondary-navigation">
+        <ul class="ic-app-header__menu-list">
+          <li class="menu-item ic-app-header__menu-list-item">
+            <button
+              id="primaryNavToggle"
+              class="ic-app-header__menu-list-link ic-app-header__menu-list-link--nav-toggle"
+              aria-label="
+                Minimize global navigation"
+              title="
+                Minimize global navigation"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--navtoggle" version="1.1" x="0" y="0" width="40" height="32" viewBox="0 0 40 32" xml:space="preserve">
+  <path d="M39.5,30.28V2.48H37.18v27.8Zm-4.93-13.9L22.17,4,20.53,5.61l9.61,9.61H.5v2.31H30.14l-9.61,9.61,1.64,1.64Z"/>
+</svg>
+
+            </button>
+          </li>
+        </ul>
+      </div>
+    <div id="global_nav_tray_container"></div>
+  </header>
+
+
+  <div id="instructure_ajax_error_box">
+    <div style="text-align: right; background-color: #fff;"><a href="#" class="close_instructure_ajax_error_box_link">Close</a></div>
+    <iframe id="instructure_ajax_error_result" src="about:blank" style="border: 0;" title="Error"></iframe>
+  </div>
+
+  
+
+  <div id="wrapper" class="ic-Layout-wrapper">
+      <div class="ic-app-nav-toggle-and-crumbs no-print">
+          <button type="button" id="courseMenuToggle" class="Button Button--link ic-app-course-nav-toggle" aria-live="polite" aria-label="Hide Courses Navigation Menu" title="Hide Courses Navigation Menu">
+            <i class="icon-hamburger" aria-hidden="true"></i>
+          </button>
+          <div class="ic-app-crumbs">
+        <nav id="breadcrumbs" role="navigation" aria-label="breadcrumbs"><ul><li class="home"><a href="/"><span class="ellipsible">      <i class="icon-home"
+         title="My Dashboard">
+        <span class="screenreader-only">My Dashboard</span>
+      </i>
+</span></a></li><li><span class="ellipsible">EXPO E-25 Section 7 (15396)</span></li><li><span class="ellipsible">Syllabus</span></li></ul></nav>
+        </div>
+      </div>
+    <div id="main" class="ic-Layout-columns">
+        <div class="ic-Layout-watermark"></div>
+        <div id="left-side"
+          class="ic-app-course-menu list-view"
+          style="display: block"
+          >
+              <span id="section-tabs-header-subtitle" class="ellipsis">2017-2018 Fall</span>
+            <nav role="navigation" aria-label="Courses Navigation Menu"><ul id="section-tabs"><li class="section"><a href="/courses/32960/assignments/syllabus" title="Syllabus" class="syllabus active">Syllabus</a></li><li class="section"><a href="/courses/32960/external_tools/25990" title="Web Conference Sessions" class="context_external_tool_25990">Web Conference Sessions</a></li><li class="section"><a href="/courses/32960/external_tools/13815" title="Student Resources" class="context_external_tool_13815">Student Resources</a></li></ul></nav>
+        </div>
+      <div id="not_right_side" class="ic-app-main-content">
+        <div id="content-wrapper" class="ic-Layout-contentWrapper">
+            
+
+          <div id="content" class="ic-Layout-contentMain" role="main">
+            
+
+
+
+<div class="ic-Action-header">
+  <div class="ic-Action-header__Primary">
+    <h1 class="ic-Action-header__Heading">Course Syllabus</h1>
+  </div>
+  <div class="ic-Action-header__Secondary">
+    <a href="#" class="jump_to_today_link">Jump to Today</a>
+  </div>
+</div>
+
+<div id="course_syllabus" style="margin-bottom: 10px;" class="user_content">
+  <p> </p>
+<table class="ic-Table" style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<p> </p>
+<p><strong>Fall 2017 – SYLLABUS - FINAL</strong></p>
+<p><strong>Julia Hayden Galindo, Ed.D.</strong></p>
+<p>Email: <a href="mailto:juliagalindo@fas.harvard.edu">juliagalindo@fas.harvard.edu</a></p>
+<p><strong>Harvard Extension School</strong></p>
+<p><strong>Division of Continuing Education</strong></p>
+<p><strong><em>Academic Writing and Critical Reading, Expo E – 25, Section 7</em></strong></p>
+<p><strong>Th 7:20-9:20 PM</strong></p>
+<p><strong>Course website: </strong>https://canvas.harvard.edu/courses/32960</p>
+<p><strong> </strong></p>
+<p><em> </em></p>
+<p><strong><u>COURSE OVERVIEW: The Writing and the Reading</u></strong></p>
+<p><strong><u> </u></strong></p>
+<p>Who gets ahead in America? Why do some succeed while others fail? Given knowledge of someone’s background or personal characteristics, can we predict if she will become successful?  How do we account for the influence of various complex factors, including personality, family, and community?  In this course, we will examine questions of success, failure, achievement, and identity viewed through the lens of current theories in psychology. We will begin by examining individual-level, person-centered theories of success with readings on grit, the growth mindset, and multipotentiality. Next, we will read Malcolm Gladwell’s <em>Outliers: The Story of Success</em> alongside a longitudinal, ethnographic study of 12 American children and a seminal treatise on the role of race in the American classroom. As part of our broader inquiry into the environmental factors that impact success, we will explore how race, class, and familial wealth and resources affect children’s lived experiences of childhood and, later, their chances of successfully getting into college.  In the final unit of the course, students will answer the question, “What does it take to be successful?” Students will select their own pop-science book on a self-help topic like willpower, motivation, happiness, or creativity, research the relevant academic literature, and create a written proposal with an accompanying short presentation to disseminate their findings.  Throughout the course, we will use psychological theory to motivate questions and answers about human behavior in a society where the demand for success can be tantalizingly high and the fear of failure devastatingly relentless.</p>
+<p> </p>
+<p>In this course, you will learn the elements of a scholarly argument that form the basis of an analytic essay while writing in the discipline of psychology. You will write three essays, each of which will focus on a different set of writing skills.</p>
+<p> </p>
+<p>Some of our writing goals will change unit by unit, as you take on the distinct challenges of several important versions of the academic essay. Other goals will remain our focus throughout the whole of the course: developing your sense of what you do well and challenging yourself to grow as a writer; expanding your repertoire and practice of revision techniques; and increasing the complexity and originality of your analysis as well as the effectiveness and elegance of your prose. One of the most exciting things to learn in a writing course is that the learning process never stops; one doesn't “arrive” at being a good writer, but rather continually becomes one.</p>
+<p> </p>
+<p><em>Writing isn’t about talent. It’s about devotion, it’s about practice. </em></p>
+<p><em>– Naomi Shihab Nye</em></p>
+<p> </p>
+<p><strong><u>Course Goals</u></strong></p>
+<ul>
+<li>Develop your ability to write analytically, which involves crafting a thesis, using evidence to build an argument, learning to use sources as evidence, critically examine sources and integrating those critical ideas to make a logical and coherent argument</li>
+<li>Develop a sense of your own writing process</li>
+<li>Develop your ability to critique your own and others’ writing</li>
+<li>Practice your academic discussion skills</li>
+</ul>
+<p> </p>
+<p>With these goals in mind, we begin with these important premises:</p>
+<p> </p>
+<ul>
+<li>
+<strong>Writing is a process</strong>. You will take notes on your reading; write and revise response papers; write drafts of your essays; and fully revise those essays. This continued process of drafting and revision is the primary work of this class, and is the main way your writing grows stronger. It’s worth noting that while inspiration is the moment we all hope for in our writing, it comes most readily when that inspiration is earned – in other words, when you have dedicated <em>sustained effort to that process </em>of reading, thinking, questioning, drafting, and revising. This course will also ask you to be <em>reflective</em> about that process and about what you want to accomplish in each assignment: in your cover letters about each essay and in your Writer’s Letter at the beginning of the term.</li>
+</ul>
+<p> </p>
+<ul>
+<li>
+<strong>Writing is thinking</strong>. That evolving writing process also allows you to develop your thinking with greater depth and meaning. Writing is one of the best ways to <em>figure out</em> your ideas. You should expect to write frequent short assignments (exercises and response papers) to help you develop the ideas you will use in your essays.</li>
+</ul>
+<p> </p>
+<ul>
+<li>
+<strong>Writing is a conversation</strong>. When you write, you are often in conversation with the sources you are writing about. You are likewise in conversation with your audience. You will express your ideas in your response papers, drafts and revisions, and your audience (your classmates and me) will respond to those ideas, telling you what their strengths are and where they can grow stronger. In addition to the feedback you get from your classmates, you will receive written feedback from me throughout the semester.</li>
+</ul>
+<p> </p>
+<p> </p>
+<p><strong><u>Course Organization and Due Dates</u></strong></p>
+<p> </p>
+<p> </p>
+<p><strong><u>Unit 1: “</u></strong><strong><u>What makes people successful? Individual-level, person-centered explanations of success</u></strong>.” We begin with an exploration of several prominent person-centered theories of success: Mindset, grit, and multipotentiality. We will read excerpts from psychologist Angela Duckworth’s 2016 book, <em>Grit: The Power of Passion and Perseverance,</em> and watch a video lecture by Carol Dweck, founder of mindset theory. To complicate these views, we’ll read a chapter critiquing our culture’s fascination with self-discipline by educational expert Alfie Kohn and watch a TEDx Talk by Emilie Wapnick (blogger, founder, and creative director of the <em>Puttylike </em>online community) on the benefits of refusing to pigeonhole yourself to just one identity or career. To write the unit 1 essay, you will first practice asking your own analytical question of the material. (A great analytical question is one that is both interesting to you and arguable; that is, it doesn’t have an obvious answer!) Your thesis, the central claim that you argue in your essay, will provide the answer to this question. In class and through homework assignments, we will discuss the goals of an argumentative essay, how to craft questions that matter, and how to use readings and other scholarly materials to enter an academic conversation while at the same time saying something new. Other goals of unit 1 will be to incorporate counterarguments into your writing and work on basic paragraph structure.</p>
+<p> </p>
+<p><strong><u>Unit 2: “What makes people successful?” Environmental-level, context-driven explanations of success.</u></strong><strong>”</strong> In Unit 2, we complicate the picture by adding environmental-level factors to our study of what makes people successful. We’ll rely on developmental psychologist Urie Bronfenbrenner’s <em>Ecological Systems Theory</em> to give us a framework for understanding how person-level and contextual variables interact. To begin, we’ll read parts of Annette Lareau’s <em>Unequal Childhoods</em>, a groundbreaking, longitudinal study of how parenting practices differ across class lines. To analyze Lareau’s case studies, we’ll bring in sections from popular science writer Malcolm Gladwell’s <em>Outliers: The Story of Success, </em>a seminal essay by Lisa Delpit on the role of race and culture in the American classroom, and we’ll return in more depth to Carol Dweck’s work on mindset. A special focus of unit 2 will be on crafting compelling essay introductions and conclusions. We’ll also work on developing complex arguments that deepen over the course of the essay and we’ll take a more in-depth look at paragraph structure.</p>
+<p> </p>
+<p><strong><u>Unit 3: “</u></strong><strong><u>Want to Succeed? Here’s How</u></strong><strong>.” </strong>The course culminates with an individualized, in-depth study of what it takes to be a successful. In the third and final unit of the course, you will have more choice than ever before, as you select a construct from psychology (like willpower, happiness, or motivation), choose a related book (see list below), and decide how to best disseminate what you’ve learned. After reading your selected book, you’ll learn how to search the academic literature to find the original studies cited in it or related research. For the final paper in the course, you will write a proposal that incorporates this literature, offers ‘best practice’ recommendations for how one should live a successful life, and make a brief presentation to disseminate your findings. A focus of unit 3 will be on writing for different audiences—i.e., writing for a popular audience versus an academic one. An additional goal of unit 3 is to learn how to manage a multi-source research paper and proposal.</p>
+<p> </p>
+<p><em> </em></p>
+<p><em>Students may choose a book on this list <u>or</u> secure the approval of the instructor to use another title</em></p>
+<p> </p>
+<p>Achor, S. (2010). The happiness advantage: the seven principles of positive psychology that fuel cuess and performance at work.</p>
+<p>Baumeister, R.F. &amp; Tierney, J. (2011). Willpower: Rediscovering the greatest human strength.</p>
+<p> </p>
+<p>Duhigg, C. (2012). The power of habit: Why we do what we do in life and business.</p>
+<p> </p>
+<p>Ericsson, A. &amp; Pool, R. (2016). Peak: Secrets from the new science of expertise.</p>
+<p> </p>
+<p>Harris, D. (2014). 10% Happier: How I tamed the voice in my head, reduced stress without losing my edge, and found self-help that actually works—a true story.</p>
+<p> </p>
+<p>Lewis, S. (2014). The rise: Creativity, the gift of failure, and the search for mastery.</p>
+<p> </p>
+<p>Rubin, G. (2009). The happiness project: Or, why I spent a year trying to sing in the morning, clean my closets, fight right, read Aristotle, and generally have more fun.</p>
+<p>______. (2015). Better than before: What I learned about making and breaking habits—to sleep more, quit sugar, procrastinate less, and generally build a happier life.</p>
+<p>______. (2017). The four tendencies: The indispensable personality profiles that reveal how to make your life better (and other people’s lives better too).</p>
+<p> </p>
+<p><strong><u> </u></strong></p>
+<p><strong><u>Important Due Dates </u></strong></p>
+<p>You will submit two versions of each essay—a draft and a final. In between these two versions, you will receive written comments from me on your draft.</p>
+<p> </p>
+<p>Essay drafts and finals are due on Mondays by 10 pm. You submit your essays by uploading a file (it must be in Microsoft Word, file extension .doc or .docx) to the appropriate dropbox on our Canvas course site. Barring any extenuating circumstances, I will return my comments on your draft on the Monday after you’ve submitted it (or sooner). Exact dates are listed below.</p>
+<p> </p>
+<p>Essay 1 Draft Due: Monday, September 25, 10:00 pm</p>
+<p>Essay 1 Final Due: Monday, October 9, 10:00 pm</p>
+<p> </p>
+<p>Essay 2 Draft Due: Monday, October 23, 10:00 pm</p>
+<p>Essay 2 Final Due: Monday, November 6, 10:00 pm</p>
+<p> </p>
+<p>Essay 3 Draft Due: Monday, December 4, 10:00 pm</p>
+<p>Essay 3 Final Due: Monday, December 18, 10:00 pm</p>
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+<p>Only the final version of the essay will be graded (that is, you will receive my feedback on your drafts, but they are ungraded). Throughout the semester, I will ask you to turn in occasional writing exercises and response papers—these are ungraded.</p>
+<p><strong><u>Required Texts and Materials</u></strong></p>
+<p> </p>
+<p>In some classes, the texts we turn to will be your own writing: your response papers, drafts and revised essays will be part of what we read and discuss. <strong>All writing you do for this class is public</strong> – in other words, it may be chosen as one of the examples for us to consider. If there is ever a particular piece you <em>don’t</em> want others to see, please let me know when you submit it.</p>
+<p> </p>
+<p><strong><u>Texts to Purchase</u></strong></p>
+<p> </p>
+<p>Graff, G. &amp; Birkenstein, C. (2014). <em>They say I say: Moves that matter in academic </em></p>
+<p><em>            Writing</em>, 3<sup>rd</sup> ed. New York and London: W. W. Norton and company.</p>
+<p> </p>
+<p>Gladwell, M. (2008). <em>Outliers: The story of success</em>. New York, Boston and London: Back Bay</p>
+<p>Books.</p>
+<p> </p>
+<p>Lareau, A. (2011). <em>Unequal childhoods: Class, race, and family life, 2<sup>nd</sup> edition</em>. Berkeley, Los</p>
+<p>Angeles, and London: University of California Press.</p>
+<p> </p>
+<p> </p>
+<p><strong><u>Additional Readings</u></strong></p>
+<p><em>These readings will be available on the Canvas course site or are accessible online</em></p>
+<p><strong><u> </u></strong></p>
+<p><strong>Unit 1</strong></p>
+<p>Grit, Angela Duckworth (excerpt)</p>
+<p>Why Self-Discipline is Overrated, Alfie Kohn</p>
+<p>Being Perfect, Carol Dweck, <a href="https://www.youtube.com/watch?v=XgUF5WalyDk&amp;t=836s">https://www.youtube.com/watch?v=XgUF5WalyDk&amp;t=836s</a></p>
+<p>Why Some of Us Don’t Have One True Calling, Emilie Wapnick: <a href="https://www.ted.com/talks/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling">https://www.ted.com/talks/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling</a></p>
+<p> </p>
+<p> </p>
+<p><strong>Unit 2</strong></p>
+<p>The Silenced Dialogue: Power and Pedagogy in Educating Other People’s Children, Lisa Delpit</p>
+<p>The Truth About Ability and Accomplishment, Carol Dweck</p>
+<p> </p>
+<p><strong><u> </u></strong></p>
+<p><strong>Unit 3</strong></p>
+<p>“I Can, Therefore I Must: Fragility in the Upper-Middle Class,” Suniya Luthar,</p>
+<p>            <em>Development and Psychopathology</em></p>
+<p>“The Problem with Rich Kids,” Suniya Luthar, <em>Psychology Today</em></p>
+<p>           </p>
+<p> </p>
+<p>Additional readings on the art and practice of academic writing will be posted on Canvas</p>
+<p><strong><u> </u></strong></p>
+<p> </p>
+<p> </p>
+<p><strong><u><br> </u></strong></p>
+<p> </p>
+<p><strong><u>Grades </u></strong></p>
+<p>The majority of your grade comes from your three essays, according to the following breakdown: Essay #1 = 25%; Essay #2 = 30%; Essay #3 = 35%. The standard for each essay also becomes more demanding as we progress (since you are building on certain fundamental skills and techniques with each essay). The remaining 10% of your grade represents a serious measure of your completion of response papers, your constructive participation in class discussions and workshops, and the care with which you respond to fellow students' work. I will grade only the revisions (that is, the last version) of your essays, not the drafts or response papers. However, punctual and thorough completion of your ungraded work will factor into your final course grade. Please be advised that grades on revised essays are final. I will not read or grade a further revision of a revised essay.</p>
+<p> </p>
+<p> </p>
+<p><strong><u>Completion of Work and Participation</u></strong></p>
+<p>Because Writing Program courses proceed by sequential writing activities, your consistent participation in our web seminars is essential. Failure to log in to our seminar, without a medical excuse, more than twice makes you eligible to be officially excluded and failed. On your second unexcused “absence,” you will receive an email letter from me warning you of your situation.</p>
+<p> </p>
+<p>Here is the official Extension School Policy that I will enforce:</p>
+<p>A student who is consistently not prepared for class, fails to attend class or participate online, and whose gross neglect of work is disruptive to the progress of instruction may, after written warning by the instructor, be excluded from the course. If it is before the withdrawal deadline the student may voluntarily withdraw from the course for a WD or WN grade as an alternative to exclusion, but may no longer attend or participate. A student who is excluded from a course is prohibited from continuing with it in any way, including attending classes, participating online, taking exams, and submitting work. The student is assigned the permanent notation EXD (excluded from course), which is equivalent to a failing grade and earns no credit for the course. A student who is excluded from a course is not eligible for a tuition refund for that course.</p>
+<p> </p>
+<p><strong>Plagiarism: </strong></p>
+<p>You are responsible for understanding Harvard Extension School policies on academic integrity (<a href="http://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity">www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity</a>) and how to use sources responsibly. Not knowing the rules, misunderstanding the rules, running out of time, submitting the wrong draft, or being overwhelmed with multiple demands are not acceptable excuses. There are no excuses for failure to uphold academic integrity. To support your learning about academic citation rules, please visit the Harvard Extension School Tips to Avoid Plagiarism (<a href="http://www.extension.harvard.edu/resources-policies/resources/tips-avoid-plagiarism">www.extension.harvard.edu/resources-policies/resources/tips-avoid-plagiarism</a>), where you'll find links to the Harvard Guide to Using Sources and two free online 15-minute tutorials to test your knowledge of academic citation policy. The tutorials are anonymous open-learning tools.</p>
+<p> </p>
+<p>If you have questions about what constitutes plagiarism, speak with me.</p>
+<p><strong> </strong></p>
+<p><strong><u>Resources</u></strong></p>
+<p><strong>Extension School Writing Center</strong> (Grossman Library, Sever Hall)—you may schedule a meeting with a tutor at the Extension School Writing Center up to a week in advance (sign up online). For those living outside of the Cambridge area, you can also set up an “email tutorial.” For updated hours for the writing center, as well as detailed instructions for preparing for a tutorial, see the center’s website:</p>
+<p><a href="http://www.extension.harvard.edu/resources/writing.jsp">http://www.extension.harvard.edu/resources/writing.jsp</a><strong> . </strong>For more information, call (617) 495-4163</p>
+<p><strong> </strong></p>
+<p><strong>“Office Hours” </strong>(One Bow Street, Office 240) –I am happy to have a virtual conference with you to discuss course readings and assignments. To set up an appointment, please contact me by email. If you have questions or concerns at any point during the term, I encourage you to meet with me.</p>
+<p> </p>
+<p><strong><em>Harvard Guide to Using Sources</em></strong>—<a href="http://usingsources.fas.harvard.edu/icb/icb.do">http://usingsources.fas.harvard.edu/icb/icb.do</a><strong> . </strong>We will be using this guide throughout the semester as we discuss finding, using, and properly citing sources. The sooner you become familiar with it, the better.</p>
+<p><strong> </strong></p>
+<p>The Extension School is committed to providing an accessible academic community. <strong>The Disability Services Office</strong> offers a variety of accommodations and services to students with documented disabilities. Please visit <a href="http://www.extension.harvard.edu/resources-policies/resources/disability-services-accessibility">www.extension.harvard.edu/resources-policies/resources/disability-services-accessibility</a> for more information.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="course_syllabus_details" style="display: none;">
+  <p>The syllabus page shows a table-oriented view of the course schedule, and the basics of
+course grading.  You can add any other comments, notes, or thoughts you have about the course
+structure, course policies or anything else.</p>
+
+<p>To add some comments, click the &quot;Edit&quot; link at the top.</p>
+</div>
+<form id="edit_course_syllabus_form" style="display: none; margin-bottom: 10px;" action="/courses/32960" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="Bk5xswFxEkWVIaahHeEa5ltYcxPZLqRLt9xjec7lKNhwLSbFNjR+IvcQieVI1m6vCC05cpcalwDPrVUomNZGjA==" />
+  <div style="float: right;">
+    <a href="#" class="toggle_views_link toggle_html_editor_link">HTML Editor</a>
+    <a href="#" class="toggle_views_link toggle_rich_editor_link" style="display:none;">Rich Content Editor</a>
+  </div>
+  <label for="course_syllabus_body">Syllabus Description:</label>
+  <div class="clear"></div>
+  <textarea style="width: 100%; height: 300px;" id="course_syllabus_body" name="course[syllabus_body]">
+</textarea>
+  <div class='form-actions'>
+    <button type="button" class="btn cancel_button">Cancel</button>
+    <button type="submit" class='btn btn-primary'>Update Syllabus</button>
+  </div>
+</form>
+<h2>Course Summary:</h2>
+
+<div id="syllabusContainer">
+  <div id="syllabus_links">
+    <a id="toggle_special_dates_in_syllabus">&nbsp;</a>
+  </div>
+  <table id="syllabus" class="ic-Table--condensed">
+    <thead>
+      <tr>
+        <th scope="col" style="width: 25%;">Date</th>
+        <th scope="col" style="width: 75%;">Details</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td scope="row">
+          <span id="loading_indicator"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+          </div>
+        </div>
+        <div id="right-side-wrapper" class="ic-app-main-content__secondary">
+          <aside id="right-side" role="complementary">
+              
+<div id="sidebar_content">
+  
+<div class="mini_month">
+  <div class="mini-cal-header">
+    <button class="prev_month_link Button Button--icon-action"><i class="icon-arrow-open-left"></i><span class="screenreader-only">Prev month</span></button>
+    <button class="next_month_link Button Button--icon-action"><i class="icon-arrow-open-right"></i><span class="screenreader-only">Next month</span></button>
+    <span class="mini-cal-month-and-year">
+      <span class="month_name">September</span>
+      <span class="year_number">2017</span>
+    </span>
+  </div>
+  <div style="display: none;">
+    <span class="month_number">9</span>
+  </div>
+  <table class="mini_calendar" cellspacing="0">
+    <caption class="screenreader-only">Calendar</caption>
+    <thead>
+      <tr>
+          <th scope="col">
+            <span class="screenreader-only">
+              Sunday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Monday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Tuesday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Wednesday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Thursday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Friday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Saturday
+            </span>
+          </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_08_27" class="mini_calendar_day day other_month previous_month date_08_27_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                27
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_28" class="mini_calendar_day day other_month previous_month date_08_28_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                28
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_29" class="mini_calendar_day day other_month previous_month date_08_29_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                29
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_30" class="mini_calendar_day day other_month previous_month date_08_30_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                30
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_31" class="mini_calendar_day day other_month previous_month date_08_31_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                31
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_01" class="mini_calendar_day day current_month date_09_01_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                1
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_02" class="mini_calendar_day day current_month date_09_02_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                2
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_03" class="mini_calendar_day day current_month date_09_03_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                3
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_04" class="mini_calendar_day day current_month date_09_04_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                4
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_05" class="mini_calendar_day day current_month date_09_05_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                5
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_06" class="mini_calendar_day day current_month date_09_06_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                6
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_07" class="mini_calendar_day day current_month date_09_07_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                7
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_08" class="mini_calendar_day day current_month date_09_08_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                8
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_09" class="mini_calendar_day day current_month date_09_09_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                9
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_10" class="mini_calendar_day day current_month date_09_10_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                10
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_11" class="mini_calendar_day day current_month date_09_11_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                11
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_12" class="mini_calendar_day day current_month date_09_12_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                12
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_13" class="mini_calendar_day day current_month date_09_13_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                13
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_14" class="mini_calendar_day day current_month date_09_14_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                14
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_15" class="mini_calendar_day day current_month date_09_15_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                15
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_16" class="mini_calendar_day day current_month date_09_16_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                16
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_17" class="mini_calendar_day day current_month date_09_17_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                17
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_18" class="mini_calendar_day day current_month date_09_18_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                18
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_19" class="mini_calendar_day day current_month date_09_19_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                19
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_20" class="mini_calendar_day day current_month date_09_20_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                20
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_21" class="mini_calendar_day day current_month date_09_21_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                21
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_22" class="mini_calendar_day day current_month date_09_22_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                22
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_23" class="mini_calendar_day day current_month date_09_23_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                23
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_24" class="mini_calendar_day day current_month today date_09_24_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                24
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_25" class="mini_calendar_day day current_month date_09_25_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                25
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_26" class="mini_calendar_day day current_month date_09_26_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                26
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_27" class="mini_calendar_day day current_month date_09_27_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                27
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_28" class="mini_calendar_day day current_month date_09_28_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                28
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_29" class="mini_calendar_day day current_month date_09_29_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                29
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_30" class="mini_calendar_day day current_month date_09_30_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                30
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_10_01" class="mini_calendar_day day other_month next_month date_10_01_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                1
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_02" class="mini_calendar_day day other_month next_month date_10_02_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                2
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_03" class="mini_calendar_day day other_month next_month date_10_03_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                3
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_04" class="mini_calendar_day day other_month next_month date_10_04_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                4
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_05" class="mini_calendar_day day other_month next_month date_10_05_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                5
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_06" class="mini_calendar_day day other_month next_month date_10_06_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                6
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_07" class="mini_calendar_day day other_month next_month date_10_07_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                7
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+    
+<div role="complementary" aria-label="Assignment Weights">
+  <h2>Course assignments are not weighted.</h2>
+</div>
+
+</div>
+
+<div id="editor_tabs" class="ui-tabs--mini" style="display: none;">
+
+  <span class="wiki-sidebar-header" role="heading" aria-level="2">Insert Content into the Page</span>
+  <ul>
+    <li><a href="#editor_tabs_2">Links</a></li>
+    <li><a href="#editor_tabs_4">Images</a></li>
+  </ul>
+  <div id="editor_tabs_2" role="application">
+    Link to other content in the course.
+      <a href="/courses/32960/external_tools/retrieve?url=%7B%7B+url+%7D%7D" id="external_tool_retrieve_url" style="display: none;">&nbsp;</a>
+      <a href="/courses/32960/external_tools/%7B%7B%20id%20%7D%7D/resource_selection?editor=1" id="context_external_tool_resource_selection_url" style="display: none;">&nbsp;</a>
+    Click any page to insert a link to that page.
+    <div id="pages_accordion" class="ui-accordion--mini" role="tabpanel">
+      <a href="https://canvas.harvard.edu/courses/32960/pages/%7B%7B%20page_url%20%7D%7D" id="wiki_sidebar_wiki_url" style="display: none;">&nbsp;</a>
+      <div>
+        <div class="header" aria-controls="pages_tab_panel" role="tab"><a href="#">Wiki Pages</a></div>
+        <div id="pages_tab_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/32960/pages/web-conference-sessions">Web Conference Sessions</a></li>
+            </ul>
+        </div>
+      </div>
+      <div>
+        <div aria-controls="assignment_panel" role="tab" class="header" aria-controls="wiki_pages_panel"><a href="#">Assignments</a></div>
+         <div id="assignment_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this assignment"><a href="/courses/32960/assignments">Assignment List</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32960/assignments/163644">Annotated Bibliography</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32960/assignments/163640">Essay 1 Draft</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32960/assignments/163641">Essay 1 Final</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32960/assignments/163642">Essay 2 Draft</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32960/assignments/163643">Essay 2 Final</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32960/assignments/163645">Essay 3 Draft</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32960/assignments/163646">Essay 3 Final</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32960/assignments/163637">In-Class Writing Sample</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32960/assignments/171117">Reader Letter 1</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32960/assignments/171118">Reader Letter 2</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32960/assignments/163639">Response Paper on Duckworth</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32960/assignments/163638">Writer&#39;s Letter and Class Discussion Goals</a></li>
+            </ul>
+         </div>
+      </div>
+      <div>
+        <div aria-controls="quizzes_panel" class="header" role="tab"><a href="#">Quizzes</a></div>
+         <div id="quizzes_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this quiz"><a href="/courses/32960/quizzes">Quiz List</a></li>
+            </ul>
+         </div>
+      </div>
+      <div>
+        <div class="header" aria-controls="announcements_panel" role="tab"><a href="#">Announcements</a></div>
+         <div id="announcements_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this announcement"><a href="/courses/32960/announcements">Announcements List</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/32960/announcements/242706">Preparing for Class this Week</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/32960/announcements/241490">Comments Posted and Prepping for next week</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/32960/announcements/238450">Taking Notes on the Readings</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/32960/announcements/237287">Updated Reading Circles for Groups 2 and 3; &quot;People&quot; page now visible</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/32960/announcements/235716">Reading Assignments and Other HW Posted</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/32960/announcements/235708">Video of Class 1 Now Available</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/32960/announcements/235049">Reading Circles</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/32960/announcements/235046">Homework </a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/32960/announcements/232954">Welcome!  And some preliminary information</a></li>
+            </ul>
+         </div>
+      </div>
+
+      <div>
+        <div role="tab" aria-controls="discussions_panel" class="header"><a href="#">Discussions</a></div>
+         <div id="discussions_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this topic"><a href="/courses/32960/discussion_topics">Discussion Index</a></li>
+            </ul>
+         </div>
+      </div>
+
+      <div>
+        <div role="tab" aria-controls="modules_panel" class="header"><a href="#">Modules</a></div>
+          <div id="modules_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this module"><a href="/courses/32960/modules">Modules List</a></li>
+            </ul>
+          </div>
+      </div>
+
+      <div>
+        <div class="header" role="tab" aria-controls="groups_panel"><a href="#">Course Navigation</a></div>
+         <div role="tabpanel" id="groups_panel">
+            <ul class="wiki_pages page_list">
+                <li title="Click to insert a link to the assignments page"><a href="/courses/32960/assignments">Assignment List</a></li>
+                <li title="Click to insert a link to the wiki"><a href="https://canvas.harvard.edu/courses/32960/pages">Wiki Home</a></li>
+                <li title="Click to insert a link to the discussions page"><a href="/courses/32960/discussion_topics">Discussions Index</a></li>
+                <li title="Click to insert a link to the syllabus"><a href="/courses/32960/assignments/syllabus">Course Syllabus</a></li>
+                <li title="Click to insert a link to the announcements page"><a href="/courses/32960/announcements">Announcement List</a></li>
+                <li title="Click to insert a link to the files page"><a href="/courses/32960/files">Files Index</a></li>
+                <li title="Click to insert a link to the collaborations page"><a href="/courses/32960/collaborations">Collaborations</a></li>
+                <li title="Click to insert a link to the grades page"><a href="/courses/32960/grades">Grades</a></li>
+                <li title="Click to insert a link to the people page"><a href="/courses/32960/users">People</a></li>
+                <li title="Click to insert a link to the modules page"><a href="/courses/32960/modules">Modules</a></li>
+            </ul>
+         </div>
+      </div>
+    </div>
+
+  </div>
+  <div aria-atomic="true" id="editor_tabs_4">
+    Click any image to embed the image in the page.
+    <div>
+      <a tabindex="0" href="#" class="find_new_image_link find">Find images on flickr creative commons</a>
+    </div>
+    <div id="wiki_sidebar_image_uploads" class="uploading_file_list uploading_image_list" style="display: none;">
+      <div class="uploading">
+        Uploading <span class="filename">file</span>...
+        <div>
+          <img alt="Loading..." src="https://du11hjcvx0uqb.cloudfront.net/dist/images/ajax-loader-bar-71e6988298.gif" />
+        </div>
+      </div>
+      <div class="remaining">
+        <span class="files_remaining">0</span> more to upload
+      </div>
+      
+<a href="#" style="text-align: center display: none;" class="img_link" title="Click to embed image">
+  <div class="img_holder">
+    <img class="img" data-url="" src="" alt="{{ display_name }}" title="Click to embed {{ display_name }}">
+  </div>
+  <div class="display_name">{{ display_name }}</div>
+</a>
+
+    </div>
+    <div class="image_list_holder ">
+      <div class="dragging_message">Drop Images Here to upload</div>
+      <div class="image_list" style="max-height: 300px; overflow: auto;" data-url="/courses/32960/images">
+      </div>
+    </div>
+  </div>
+  <div style="display: none;">
+    <a href="/services?service_type=BookmarkService" class="bookmark_services_url">&nbsp;</a>
+    <a href="/search/bookmarks?q=%7B%7B+query+%7D%7D&amp;service_type=%7B%7B+service_type+%7D%7D" class="bookmark_search_url">&nbsp;</a>
+    <span class="context_code">course_32960</span>
+    <div id="wiki_sidebar_select_folder_dialog">
+      Select a destination folder for these <span class="file_count">&nbsp;</span> files:
+      <div style="margin: 20px;">
+        <select class="folder_id">
+            <option value="1310944">course files</option>
+        </select>
+      </div>
+      <div class="button-container">
+        <button type="button" class="btn select_button">Upload Files to Folder</button>
+        <button type="button" class="btn cancel_button btn button-secondary">Cancel</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+          </aside>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    <div style="display:none;"><!-- Everything inside of this should always stay hidden -->
+    </div>
+    
+<div id="cant_record_dialog" style="display: none;">
+  <div>
+    In order to create video or audio recordings your computer needs to be 
+    webcam-enabled.  If you don&#39;t have a webcam on your computer, you can still
+    record audio-only messages by first installing the Google Video Chat
+    plugin.
+  </div>
+  <div style="text-align: center; font-size: 1.5em; margin: 10px;">
+    <a href="http://www.google.com/chat/video" target="_blank" class="btn">Install the Video Plugin</a>
+  </div>
+  <div class="links" style="text-align: right; font-size: 0.8em; display: none;">
+    <a href="#" class="cant_record_link">Don&#39;t have a webcam?</a>
+  </div>
+</div>
+  <div id='aria_alerts' class='hide-text affix' role="alert" aria-live="assertive"></div>
+  <div id='StudentTray__Container'></div>
+  <script>
+  INST = {"environment":"production","allowMediaComments":true,"kalturaSettings":{"domain":"nv.instructuremedia.com","resource_domain":"nv.instructuremedia.com","rtmp_domain":"fms-prod.instructuremedia.com","partner_id":"9","subpartner_id":"0","player_ui_conf":"0","kcw_ui_conf":"0","upload_ui_conf":"0","max_file_size_bytes":534773760,"do_analytics":false,"hide_rte_button":false,"js_uploader":true},"googleAnalyticsAccount":"UA-9138420-1","disableScribdPreviews":true,"logPageViews":true,"maxVisibleEditorButtons":3,"editorButtons":[{"name":"YouTube","id":18015,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=youtube","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/youtube_icon.png","canvas_icon_class":null,"width":560,"height":600},{"name":"Vimeo","id":18016,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=vimeo","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/vimeo_icon.png","canvas_icon_class":null,"width":560,"height":600},{"name":"DCE Matterhorn Course Recordings","id":19109,"url":"https://dce-mhvideo-lti.herokuapp.com/mhvideo_lti/lti_launch","icon_url":"https://dce-mhvideo-lti.herokuapp.com/static/images/television.png","canvas_icon_class":null,"width":800,"height":400},{"name":"Course Info","id":20525,"url":"https://canvas-course-info.tlt.harvard.edu/course_info/lti_launch","icon_url":"https://canvas-course-info.tlt.harvard.edu/static/images/course-info.png","canvas_icon_class":null,"width":800,"height":400}]};
+  ENV = {"ASSET_HOST":"https://du11hjcvx0uqb.cloudfront.net","active_brand_config":"af37e5be444f4a553c9c812a9a990322","active_brand_config_json_url":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.json","url_to_what_gets_loaded_inside_the_tinymce_editor_css":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/what_gets_loaded_inside_the_tinymce_editor-542d1c188c.css","current_user_id":null,"current_user":{},"current_user_roles":null,"current_user_disabled_inbox":null,"files_domain":"cluster28-files.instructure.com","DOMAIN_ROOT_ACCOUNT_ID":18750000000000001,"k12":false,"help_link_name":"Help","help_link_icon":"help","use_high_contrast":null,"SETTINGS":{"open_registration":false,"eportfolios_enabled":true,"collapse_global_nav":null,"show_feedback_link":true,"enable_profiles":true},"context_asset_string":"course_32960","ping_url":"https://canvas.harvard.edu/api/v1/courses/32960/ping","TIMEZONE":"America/New_York","CONTEXT_TIMEZONE":"America/New_York","LOCALE":"en","BIGEASY_LOCALE":"en_US","FULLCALENDAR_LOCALE":"en","MOMENT_LOCALE":"en","RICH_CONTENT_SERVICE_ENABLED":true,"RICH_CONTENT_APP_HOST":"rich-content-iad.inscloudgate.net","RICH_CONTENT_CDN_HOST":"dvgcns7dz7zc.cloudfront.net/rce_service/versions/","RICH_CONTENT_SIDEBAR_SOURCE":"api","RICH_CONTENT_CAN_UPLOAD_FILES":false,"CONTEXT_ACTION_SOURCE":"syllabus","NEW_USER_TUTORIALS":{"is_enabled":false},"SYLLABUS_PER_PAGE":"100","CAN_READ":false,"SYLLABUS_BODY":"\u003cp\u003e \u003c/p\u003e\n\u003ctable class=\"ic-Table\" style=\"width: 100%;\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eFall 2017 – SYLLABUS - FINAL\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eJulia Hayden Galindo, Ed.D.\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eEmail: \u003ca href=\"mailto:juliagalindo@fas.harvard.edu\"\u003ejuliagalindo@fas.harvard.edu\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eHarvard Extension School\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eDivision of Continuing Education\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cem\u003eAcademic Writing and Critical Reading, Expo E – 25, Section 7\u003c/em\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eTh 7:20-9:20 PM\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eCourse website: \u003c/strong\u003ehttps://canvas.harvard.edu/courses/32960\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e \u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eCOURSE OVERVIEW: The Writing and the Reading\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003e \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eWho gets ahead in America? Why do some succeed while others fail? Given knowledge of someone’s background or personal characteristics, can we predict if she will become successful?  How do we account for the influence of various complex factors, including personality, family, and community?  In this course, we will examine questions of success, failure, achievement, and identity viewed through the lens of current theories in psychology. We will begin by examining individual-level, person-centered theories of success with readings on grit, the growth mindset, and multipotentiality. Next, we will read Malcolm Gladwell’s \u003cem\u003eOutliers: The Story of Success\u003c/em\u003e alongside a longitudinal, ethnographic study of 12 American children and a seminal treatise on the role of race in the American classroom. As part of our broader inquiry into the environmental factors that impact success, we will explore how race, class, and familial wealth and resources affect children’s lived experiences of childhood and, later, their chances of successfully getting into college.  In the final unit of the course, students will answer the question, “What does it take to be successful?” Students will select their own pop-science book on a self-help topic like willpower, motivation, happiness, or creativity, research the relevant academic literature, and create a written proposal with an accompanying short presentation to disseminate their findings.  Throughout the course, we will use psychological theory to motivate questions and answers about human behavior in a society where the demand for success can be tantalizingly high and the fear of failure devastatingly relentless.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eIn this course, you will learn the elements of a scholarly argument that form the basis of an analytic essay while writing in the discipline of psychology. You will write three essays, each of which will focus on a different set of writing skills.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eSome of our writing goals will change unit by unit, as you take on the distinct challenges of several important versions of the academic essay. Other goals will remain our focus throughout the whole of the course: developing your sense of what you do well and challenging yourself to grow as a writer; expanding your repertoire and practice of revision techniques; and increasing the complexity and originality of your analysis as well as the effectiveness and elegance of your prose. One of the most exciting things to learn in a writing course is that the learning process never stops; one doesn't “arrive” at being a good writer, but rather continually becomes one.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cem\u003eWriting isn’t about talent. It’s about devotion, it’s about practice. \u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e– Naomi Shihab Nye\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eCourse Goals\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eDevelop your ability to write analytically, which involves crafting a thesis, using evidence to build an argument, learning to use sources as evidence, critically examine sources and integrating those critical ideas to make a logical and coherent argument\u003c/li\u003e\n\u003cli\u003eDevelop a sense of your own writing process\u003c/li\u003e\n\u003cli\u003eDevelop your ability to critique your own and others’ writing\u003c/li\u003e\n\u003cli\u003ePractice your academic discussion skills\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eWith these goals in mind, we begin with these important premises:\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cstrong\u003eWriting is a process\u003c/strong\u003e. You will take notes on your reading; write and revise response papers; write drafts of your essays; and fully revise those essays. This continued process of drafting and revision is the primary work of this class, and is the main way your writing grows stronger. It’s worth noting that while inspiration is the moment we all hope for in our writing, it comes most readily when that inspiration is earned – in other words, when you have dedicated \u003cem\u003esustained effort to that process \u003c/em\u003eof reading, thinking, questioning, drafting, and revising. This course will also ask you to be \u003cem\u003ereflective\u003c/em\u003e about that process and about what you want to accomplish in each assignment: in your cover letters about each essay and in your Writer’s Letter at the beginning of the term.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cstrong\u003eWriting is thinking\u003c/strong\u003e. That evolving writing process also allows you to develop your thinking with greater depth and meaning. Writing is one of the best ways to \u003cem\u003efigure out\u003c/em\u003e your ideas. You should expect to write frequent short assignments (exercises and response papers) to help you develop the ideas you will use in your essays.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cstrong\u003eWriting is a conversation\u003c/strong\u003e. When you write, you are often in conversation with the sources you are writing about. You are likewise in conversation with your audience. You will express your ideas in your response papers, drafts and revisions, and your audience (your classmates and me) will respond to those ideas, telling you what their strengths are and where they can grow stronger. In addition to the feedback you get from your classmates, you will receive written feedback from me throughout the semester.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eCourse Organization and Due Dates\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eUnit 1: “\u003c/u\u003e\u003c/strong\u003e\u003cstrong\u003e\u003cu\u003eWhat makes people successful? Individual-level, person-centered explanations of success\u003c/u\u003e\u003c/strong\u003e.” We begin with an exploration of several prominent person-centered theories of success: Mindset, grit, and multipotentiality. We will read excerpts from psychologist Angela Duckworth’s 2016 book, \u003cem\u003eGrit: The Power of Passion and Perseverance,\u003c/em\u003e and watch a video lecture by Carol Dweck, founder of mindset theory. To complicate these views, we’ll read a chapter critiquing our culture’s fascination with self-discipline by educational expert Alfie Kohn and watch a TEDx Talk by Emilie Wapnick (blogger, founder, and creative director of the \u003cem\u003ePuttylike \u003c/em\u003eonline community) on the benefits of refusing to pigeonhole yourself to just one identity or career. To write the unit 1 essay, you will first practice asking your own analytical question of the material. (A great analytical question is one that is both interesting to you and arguable; that is, it doesn’t have an obvious answer!) Your thesis, the central claim that you argue in your essay, will provide the answer to this question. In class and through homework assignments, we will discuss the goals of an argumentative essay, how to craft questions that matter, and how to use readings and other scholarly materials to enter an academic conversation while at the same time saying something new. Other goals of unit 1 will be to incorporate counterarguments into your writing and work on basic paragraph structure.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eUnit 2: “What makes people successful?” Environmental-level, context-driven explanations of success.\u003c/u\u003e\u003c/strong\u003e\u003cstrong\u003e”\u003c/strong\u003e In Unit 2, we complicate the picture by adding environmental-level factors to our study of what makes people successful. We’ll rely on developmental psychologist Urie Bronfenbrenner’s \u003cem\u003eEcological Systems Theory\u003c/em\u003e to give us a framework for understanding how person-level and contextual variables interact. To begin, we’ll read parts of Annette Lareau’s \u003cem\u003eUnequal Childhoods\u003c/em\u003e, a groundbreaking, longitudinal study of how parenting practices differ across class lines. To analyze Lareau’s case studies, we’ll bring in sections from popular science writer Malcolm Gladwell’s \u003cem\u003eOutliers: The Story of Success, \u003c/em\u003ea seminal essay by Lisa Delpit on the role of race and culture in the American classroom, and we’ll return in more depth to Carol Dweck’s work on mindset. A special focus of unit 2 will be on crafting compelling essay introductions and conclusions. We’ll also work on developing complex arguments that deepen over the course of the essay and we’ll take a more in-depth look at paragraph structure.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eUnit 3: “\u003c/u\u003e\u003c/strong\u003e\u003cstrong\u003e\u003cu\u003eWant to Succeed? Here’s How\u003c/u\u003e\u003c/strong\u003e\u003cstrong\u003e.” \u003c/strong\u003eThe course culminates with an individualized, in-depth study of what it takes to be a successful. In the third and final unit of the course, you will have more choice than ever before, as you select a construct from psychology (like willpower, happiness, or motivation), choose a related book (see list below), and decide how to best disseminate what you’ve learned. After reading your selected book, you’ll learn how to search the academic literature to find the original studies cited in it or related research. For the final paper in the course, you will write a proposal that incorporates this literature, offers ‘best practice’ recommendations for how one should live a successful life, and make a brief presentation to disseminate your findings. A focus of unit 3 will be on writing for different audiences—i.e., writing for a popular audience versus an academic one. An additional goal of unit 3 is to learn how to manage a multi-source research paper and proposal.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cem\u003e \u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eStudents may choose a book on this list \u003cu\u003eor\u003c/u\u003e secure the approval of the instructor to use another title\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eAchor, S. (2010). The happiness advantage: the seven principles of positive psychology that fuel cuess and performance at work.\u003c/p\u003e\n\u003cp\u003eBaumeister, R.F. \u0026amp; Tierney, J. (2011). Willpower: Rediscovering the greatest human strength.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eDuhigg, C. (2012). The power of habit: Why we do what we do in life and business.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eEricsson, A. \u0026amp; Pool, R. (2016). Peak: Secrets from the new science of expertise.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eHarris, D. (2014). 10% Happier: How I tamed the voice in my head, reduced stress without losing my edge, and found self-help that actually works—a true story.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eLewis, S. (2014). The rise: Creativity, the gift of failure, and the search for mastery.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eRubin, G. (2009). The happiness project: Or, why I spent a year trying to sing in the morning, clean my closets, fight right, read Aristotle, and generally have more fun.\u003c/p\u003e\n\u003cp\u003e______. (2015). Better than before: What I learned about making and breaking habits—to sleep more, quit sugar, procrastinate less, and generally build a happier life.\u003c/p\u003e\n\u003cp\u003e______. (2017). The four tendencies: The indispensable personality profiles that reveal how to make your life better (and other people’s lives better too).\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003e \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eImportant Due Dates \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eYou will submit two versions of each essay—a draft and a final. In between these two versions, you will receive written comments from me on your draft.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eEssay drafts and finals are due on Mondays by 10 pm. You submit your essays by uploading a file (it must be in Microsoft Word, file extension .doc or .docx) to the appropriate dropbox on our Canvas course site. Barring any extenuating circumstances, I will return my comments on your draft on the Monday after you’ve submitted it (or sooner). Exact dates are listed below.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eEssay 1 Draft Due: Monday, September 25, 10:00 pm\u003c/p\u003e\n\u003cp\u003eEssay 1 Final Due: Monday, October 9, 10:00 pm\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eEssay 2 Draft Due: Monday, October 23, 10:00 pm\u003c/p\u003e\n\u003cp\u003eEssay 2 Final Due: Monday, November 6, 10:00 pm\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eEssay 3 Draft Due: Monday, December 4, 10:00 pm\u003c/p\u003e\n\u003cp\u003eEssay 3 Final Due: Monday, December 18, 10:00 pm\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eOnly the final version of the essay will be graded (that is, you will receive my feedback on your drafts, but they are ungraded). Throughout the semester, I will ask you to turn in occasional writing exercises and response papers—these are ungraded.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eRequired Texts and Materials\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eIn some classes, the texts we turn to will be your own writing: your response papers, drafts and revised essays will be part of what we read and discuss. \u003cstrong\u003eAll writing you do for this class is public\u003c/strong\u003e – in other words, it may be chosen as one of the examples for us to consider. If there is ever a particular piece you \u003cem\u003edon’t\u003c/em\u003e want others to see, please let me know when you submit it.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eTexts to Purchase\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eGraff, G. \u0026amp; Birkenstein, C. (2014). \u003cem\u003eThey say I say: Moves that matter in academic \u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e            Writing\u003c/em\u003e, 3\u003csup\u003erd\u003c/sup\u003e ed. New York and London: W. W. Norton and company.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eGladwell, M. (2008). \u003cem\u003eOutliers: The story of success\u003c/em\u003e. New York, Boston and London: Back Bay\u003c/p\u003e\n\u003cp\u003eBooks.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eLareau, A. (2011). \u003cem\u003eUnequal childhoods: Class, race, and family life, 2\u003csup\u003end\u003c/sup\u003e edition\u003c/em\u003e. Berkeley, Los\u003c/p\u003e\n\u003cp\u003eAngeles, and London: University of California Press.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eAdditional Readings\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003eThese readings will be available on the Canvas course site or are accessible online\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003e \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eUnit 1\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eGrit, Angela Duckworth (excerpt)\u003c/p\u003e\n\u003cp\u003eWhy Self-Discipline is Overrated, Alfie Kohn\u003c/p\u003e\n\u003cp\u003eBeing Perfect, Carol Dweck, \u003ca href=\"https://www.youtube.com/watch?v=XgUF5WalyDk\u0026amp;t=836s\"\u003ehttps://www.youtube.com/watch?v=XgUF5WalyDk\u0026amp;t=836s\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eWhy Some of Us Don’t Have One True Calling, Emilie Wapnick: \u003ca href=\"https://www.ted.com/talks/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling\"\u003ehttps://www.ted.com/talks/emilie_wapnick_why_some_of_us_don_t_have_one_true_calling\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eUnit 2\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eThe Silenced Dialogue: Power and Pedagogy in Educating Other People’s Children, Lisa Delpit\u003c/p\u003e\n\u003cp\u003eThe Truth About Ability and Accomplishment, Carol Dweck\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003e \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eUnit 3\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e“I Can, Therefore I Must: Fragility in the Upper-Middle Class,” Suniya Luthar,\u003c/p\u003e\n\u003cp\u003e            \u003cem\u003eDevelopment and Psychopathology\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e“The Problem with Rich Kids,” Suniya Luthar, \u003cem\u003ePsychology Today\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e           \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eAdditional readings on the art and practice of academic writing will be posted on Canvas\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003e \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003e\u003cbr\u003e \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eGrades \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eThe majority of your grade comes from your three essays, according to the following breakdown: Essay #1 = 25%; Essay #2 = 30%; Essay #3 = 35%. The standard for each essay also becomes more demanding as we progress (since you are building on certain fundamental skills and techniques with each essay). The remaining 10% of your grade represents a serious measure of your completion of response papers, your constructive participation in class discussions and workshops, and the care with which you respond to fellow students' work. I will grade only the revisions (that is, the last version) of your essays, not the drafts or response papers. However, punctual and thorough completion of your ungraded work will factor into your final course grade. Please be advised that grades on revised essays are final. I will not read or grade a further revision of a revised essay.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eCompletion of Work and Participation\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eBecause Writing Program courses proceed by sequential writing activities, your consistent participation in our web seminars is essential. Failure to log in to our seminar, without a medical excuse, more than twice makes you eligible to be officially excluded and failed. On your second unexcused “absence,” you will receive an email letter from me warning you of your situation.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eHere is the official Extension School Policy that I will enforce:\u003c/p\u003e\n\u003cp\u003eA student who is consistently not prepared for class, fails to attend class or participate online, and whose gross neglect of work is disruptive to the progress of instruction may, after written warning by the instructor, be excluded from the course. If it is before the withdrawal deadline the student may voluntarily withdraw from the course for a WD or WN grade as an alternative to exclusion, but may no longer attend or participate. A student who is excluded from a course is prohibited from continuing with it in any way, including attending classes, participating online, taking exams, and submitting work. The student is assigned the permanent notation EXD (excluded from course), which is equivalent to a failing grade and earns no credit for the course. A student who is excluded from a course is not eligible for a tuition refund for that course.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003ePlagiarism: \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eYou are responsible for understanding Harvard Extension School policies on academic integrity (\u003ca href=\"http://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity\"\u003ewww.extension.harvard.edu/resources-policies/student-conduct/academic-integrity\u003c/a\u003e) and how to use sources responsibly. Not knowing the rules, misunderstanding the rules, running out of time, submitting the wrong draft, or being overwhelmed with multiple demands are not acceptable excuses. There are no excuses for failure to uphold academic integrity. To support your learning about academic citation rules, please visit the Harvard Extension School Tips to Avoid Plagiarism (\u003ca href=\"http://www.extension.harvard.edu/resources-policies/resources/tips-avoid-plagiarism\"\u003ewww.extension.harvard.edu/resources-policies/resources/tips-avoid-plagiarism\u003c/a\u003e), where you'll find links to the Harvard Guide to Using Sources and two free online 15-minute tutorials to test your knowledge of academic citation policy. The tutorials are anonymous open-learning tools.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eIf you have questions about what constitutes plagiarism, speak with me.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eResources\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eExtension School Writing Center\u003c/strong\u003e (Grossman Library, Sever Hall)—you may schedule a meeting with a tutor at the Extension School Writing Center up to a week in advance (sign up online). For those living outside of the Cambridge area, you can also set up an “email tutorial.” For updated hours for the writing center, as well as detailed instructions for preparing for a tutorial, see the center’s website:\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"http://www.extension.harvard.edu/resources/writing.jsp\"\u003ehttp://www.extension.harvard.edu/resources/writing.jsp\u003c/a\u003e\u003cstrong\u003e . \u003c/strong\u003eFor more information, call (617) 495-4163\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e“Office Hours” \u003c/strong\u003e(One Bow Street, Office 240) –I am happy to have a virtual conference with you to discuss course readings and assignments. To set up an appointment, please contact me by email. If you have questions or concerns at any point during the term, I encourage you to meet with me.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cem\u003eHarvard Guide to Using Sources\u003c/em\u003e\u003c/strong\u003e—\u003ca href=\"http://usingsources.fas.harvard.edu/icb/icb.do\"\u003ehttp://usingsources.fas.harvard.edu/icb/icb.do\u003c/a\u003e\u003cstrong\u003e . \u003c/strong\u003eWe will be using this guide throughout the semester as we discuss finding, using, and properly citing sources. The sooner you become familiar with it, the better.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eThe Extension School is committed to providing an accessible academic community. \u003cstrong\u003eThe Disability Services Office\u003c/strong\u003e offers a variety of accommodations and services to students with documented disabilities. Please visit \u003ca href=\"http://www.extension.harvard.edu/resources-policies/resources/disability-services-accessibility\"\u003ewww.extension.harvard.edu/resources-policies/resources/disability-services-accessibility\u003c/a\u003e for more information.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e","notices":[]};
+</script>
+
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/navigation_header.bundle-9669f80a51.js" defer="defer"></script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/4225508/global.min.js" defer="defer"></script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/3751539/EXPGlobal.js" defer="defer"></script>
+
+</div> <!-- #application -->
+</body>
+</html>

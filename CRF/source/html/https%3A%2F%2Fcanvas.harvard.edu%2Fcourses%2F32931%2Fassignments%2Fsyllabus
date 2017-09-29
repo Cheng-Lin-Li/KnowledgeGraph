@@ -1,0 +1,1226 @@
+
+
+<!DOCTYPE html>
+<html class="scripts-not-loaded" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Syllabus for The Future of Historic House Museums</title>
+  <!--[if lte IE 9]> <meta http-equiv=refresh content="0; URL=/ie-9-is-not-supported.html" /> <![endif]-->
+  <link rel="shortcut icon" type="image/x-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/favicon-e10d657a73.ico" />
+  <link rel="apple-touch-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/apple-touch-icon-585e5d997d.png" />
+  
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.css" />
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/common-de9877d2f0.css" />
+  <script>
+//<![CDATA[
+
+!function(){
+  var o,s,v;
+  if (!(window.Promise && Object.assign && Object.values && [].find && [].includes && (o={},s=Symbol(),v={},o[s]=v,o[s]===v) && (function f(){}).bind().name==='bound f')) {
+    s = 's', document.write('<'+s+'cr'+'ipt src="https://du11hjcvx0uqb.cloudfront.net/dist/ie11-polyfill-64b21f7f37.js"></'+s+'c'+'ript>');
+  }
+}();
+      
+//]]>
+</script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/lato-fontfaceobserver-11a14bc0b6.js" async="async"></script>
+  
+  <meta name="apple-itunes-app" content="app-id=480883488" />
+<link rel="manifest" href="/web-app-manifest/manifest.json" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#008EE2">
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/tinymce-29f8b0a23f.css" />
+<link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/syllabus-2f51f24f19.css" />
+  
+  <link rel="stylesheet" media="all" href="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/4225502/global.min.css" />
+  <script>
+    function _earlyClick(e){
+      var c = e.target
+      while (c && c.ownerDocument) {
+        if (c.getAttribute('href') == '#' || c.getAttribute('data-method')) {
+          e.preventDefault()
+          (_earlyClick.clicks = _earlyClick.clicks || []).push(c)
+          break
+        }
+        c = c.parentNode
+      }
+    }
+    document.addEventListener('click', _earlyClick)
+  </script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.js" defer="defer"></script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/vendor.bundle-2585fc489b.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/New_York-c3226761e3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/en_US-80a0ce259b.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/appBootstrap.bundle-43015c2be3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/common.bundle-07f53473d3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/syllabus.bundle-8eb56aaa04.js" defer="defer"></script>
+</head>
+
+<body class="with-left-side course-menu-expanded with-right-side syllabus primary-nav-expanded context-course_32931">
+
+<noscript>
+  <div role="alert" class="ic-flash-static ic-flash-error">
+    <div class="ic-flash__icon" aria-hidden="true">
+      <i class="icon-warning"></i>
+    </div>
+    <h1>You need to have JavaScript enabled in order to access this site.</h1>
+  </div>
+</noscript>
+
+
+
+
+
+<ul id="flash_message_holder"></ul>
+<div id="flash_screenreader_holder"></div>
+
+<div id="application" class="ic-app">
+  
+  <header id="header" class="ic-app-header no-print no-user">
+    <a href="#content" id="skip_navigation_link">Skip To Content</a>
+      <div role="region" class="ic-app-header__main-navigation" aria-label="Main Navigation">
+        <div class="ic-app-header__logomark-container">
+          <a href="https://canvas.harvard.edu/" class="ic-app-header__logomark">
+            <span class="screenreader-only">Dashboard</span>
+          </a>
+        </div>
+        <ul id="menu" class="ic-app-header__menu-list">
+            <li class="menu-item ic-app-header__menu-list-item">
+              <a id="global_nav_login_link" href="/login" class="ic-app-header__menu-list-link">
+                <div class="menu-item-icon-container" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--login" version="1.1" x="0" y="0" viewBox="241 -241 512 512" enable-background="new 241 -241 512 512" xml:space="preserve"><path d="M743.9 5.9l-35.7-35.7H492.9c-6.5-16.2-17.3-32-31.7-46.4 -50.4-50.4-132-50.4-182.4 0s-50.4 132.1 0 182.5 132 50.4 182.4 0c11.8-11.8 20.6-25.9 27-41.8H547L570.6 88l22.8-22.8L616.2 88 639 65.2 661.8 88l24.1-24.1 15.6-1.5 4.6-0.5L753 15 743.9 5.9 743.9 5.9zM694.4 37.1l-15.6 1.5 -4.6 0.5 -12.4 12.4 -12.9-12.9h-19.8l-12.9 12.9 -12.9-12.9h-19.8l-12.9 12.9 -12.9-12.9h-87.6l-2.9 8.8c-5.3 16-13.2 29.5-24.2 40.6 -40.3 40.3-105.6 40.3-145.9 0s-40.3-105.7 0-146 105.6-40.3 145.9 0c14.3 14.3 24.4 29.8 28.6 44.6l2.7 9.4h223.3l19 19L694.4 37.1 694.4 37.1zM322.3-16.2c-17.5 17.5-17.5 46 0 63.5 17.5 17.5 46 17.5 63.5 0 17.5-17.5 17.5-46 0-63.5C368.2-33.8 339.8-33.8 322.3-16.2L322.3-16.2zM367.6 29.1c-7.5 7.5-19.7 7.5-27.2 0 -7.5-7.5-7.5-19.7 0-27.2s19.7-7.5 27.2 0S375.2 21.6 367.6 29.1L367.6 29.1z"/></svg>
+
+                </div>
+                <div class="menu-item__text">
+                  Login
+                </div>
+              </a>
+            </li>
+          <li class="ic-app-header__menu-list-item ">
+            <a id="global_nav_dashboard_link" href="https://canvas.harvard.edu/" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--dashboard" version="1.1" x="0" y="0" viewBox="0 0 280 200" enable-background="new 0 0 280 200" xml:space="preserve"><path d="M273.09,180.75H197.47V164.47h62.62A122.16,122.16,0,1,0,17.85,142a124,124,0,0,0,2,22.51H90.18v16.29H6.89l-1.5-6.22A138.51,138.51,0,0,1,1.57,142C1.57,65.64,63.67,3.53,140,3.53S278.43,65.64,278.43,142a137.67,137.67,0,0,1-3.84,32.57ZM66.49,87.63,50.24,71.38,61.75,59.86,78,76.12Zm147,0L202,76.12l16.25-16.25,11.51,11.51ZM131.85,53.82v-23h16.29v23Zm15.63,142.3a31.71,31.71,0,0,1-28-16.81c-6.4-12.08-15.73-72.29-17.54-84.25a8.15,8.15,0,0,1,13.58-7.2c8.88,8.21,53.48,49.72,59.88,61.81a31.61,31.61,0,0,1-27.9,46.45ZM121.81,116.2c4.17,24.56,9.23,50.21,12,55.49A15.35,15.35,0,1,0,161,157.3C158.18,152,139.79,133.44,121.81,116.2Z" /></svg>
+
+              </div>
+              <div class="menu-item__text">Dashboard</div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ic-app-header__menu-list-item--active">
+            <a id="global_nav_courses_link" href="/courses" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--courses" version="1.1" x="0" y="0" viewBox="0 0 280 259" enable-background="new 0 0 280 259" xml:space="preserve"><path d="M73.31,198c-11.93,0-22.22,8-24,18.73a26.67,26.67,0,0,0-.3,3.63v.3a22,22,0,0,0,5.44,14.65,22.47,22.47,0,0,0,17.22,8H200V228.19h-134V213.08H200V198Zm21-105.74h90.64V62H94.3ZM79.19,107.34V46.92H200v60.42Zm7.55,30.21V122.45H192.49v15.11ZM71.65,16.71A22.72,22.72,0,0,0,49,39.36V190.88a41.12,41.12,0,0,1,24.32-8h157V16.71ZM33.88,39.36A37.78,37.78,0,0,1,71.65,1.6H245.36V198H215.15v45.32h22.66V258.4H71.65a37.85,37.85,0,0,1-37.76-37.76Z"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Courses
+              </div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_calendar_link" href="/calendar" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--calendar" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M197.07,213.38h16.31V197.07H197.07Zm-16.31,16.31V180.76h48.92v48.92Zm-48.92-16.31h16.31V197.07H131.85Zm-16.31,16.31V180.76h48.92v48.92ZM66.62,213.38H82.93V197.07H66.62ZM50.32,229.68V180.76H99.24v48.92Zm146.75-81.53h16.31V131.85H197.07Zm-16.31,16.31V115.54h48.92v48.92Zm-48.92-16.31h16.31V131.85H131.85Zm-16.31,16.31V115.54h48.92v48.92ZM66.62,148.15H82.93V131.85H66.62ZM50.32,164.46V115.54H99.24v48.92ZM34,262.29H246V82.93H34ZM246,66.62V42.16A8.17,8.17,0,0,0,237.84,34H213.38v8.15a8.15,8.15,0,1,1-16.31,0V34H82.93v8.15a8.15,8.15,0,0,1-16.31,0V34H42.16A8.17,8.17,0,0,0,34,42.16V66.62Zm-8.15-48.92a24.49,24.49,0,0,1,24.46,24.46V278.6H17.71V42.16A24.49,24.49,0,0,1,42.16,17.71H66.62V9.55a8.15,8.15,0,0,1,16.31,0v8.15H197.07V9.55a8.15,8.15,0,1,1,16.31,0v8.15Z"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Calendar
+              </div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_conversations_link" href="/conversations" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--inbox" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M91.72,120.75h96.56V104.65H91.72Zm0,48.28h80.47V152.94H91.72Zm0-96.56h80.47V56.37H91.72Zm160.94,34.88H228.52V10.78h-177v96.56H27.34A24.17,24.17,0,0,0,3.2,131.48V244.14a24.17,24.17,0,0,0,24.14,24.14H252.66a24.17,24.17,0,0,0,24.14-24.14V131.48A24.17,24.17,0,0,0,252.66,107.34Zm0,16.09a8.06,8.06,0,0,1,8,8v51.77l-32.19,19.31V123.44ZM67.58,203.91v-177H212.42v177ZM27.34,123.44H51.48v79.13L19.29,183.26V131.48A8.06,8.06,0,0,1,27.34,123.44ZM252.66,252.19H27.34a8.06,8.06,0,0,1-8-8V202l30,18H230.75l30-18v42.12A8.06,8.06,0,0,1,252.66,252.19Z"/></svg>
+
+                <span class="menu-item__badge" style="display: none">0</span>
+              </div>
+              <div class="menu-item__text">
+                Inbox
+              </div>
+            </a>
+          </li>
+          <li class="ic-app-header__menu-list-item">
+           <a id="global_nav_help_link" class="ic-app-header__menu-list-link" data-track-category="help system" data-track-label="help button" href="http://help.instructure.com/">
+              <div class="menu-item-icon-container" role="presentation">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg menu-item__icon svg-icon-help" version="1.1" x="0" y="0" viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve" fill="currentColor"><path d="M100,127.88A11.15,11.15,0,1,0,111.16,139,11.16,11.16,0,0,0,100,127.88Zm8.82-88.08a33.19,33.19,0,0,1,23.5,23.5,33.54,33.54,0,0,1-24,41.23,3.4,3.4,0,0,0-2.74,3.15v9.06H94.42v-9.06a14.57,14.57,0,0,1,11.13-14,22.43,22.43,0,0,0,13.66-10.27,22.73,22.73,0,0,0,2.31-17.37A21.92,21.92,0,0,0,106,50.59a22.67,22.67,0,0,0-19.68,3.88,22.18,22.18,0,0,0-8.65,17.64H66.54a33.25,33.25,0,0,1,13-26.47A33.72,33.72,0,0,1,108.82,39.8ZM100,5.2A94.8,94.8,0,1,0,194.8,100,94.91,94.91,0,0,0,100,5.2m0,178.45A83.65,83.65,0,1,1,183.65,100,83.73,83.73,0,0,1,100,183.65" transform="translate(-5.2 -5.2)"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Help
+              </div>
+</a>          </li>
+        </ul>
+      </div>
+      <div class="ic-app-header__secondary-navigation">
+        <ul class="ic-app-header__menu-list">
+          <li class="menu-item ic-app-header__menu-list-item">
+            <button
+              id="primaryNavToggle"
+              class="ic-app-header__menu-list-link ic-app-header__menu-list-link--nav-toggle"
+              aria-label="
+                Minimize global navigation"
+              title="
+                Minimize global navigation"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--navtoggle" version="1.1" x="0" y="0" width="40" height="32" viewBox="0 0 40 32" xml:space="preserve">
+  <path d="M39.5,30.28V2.48H37.18v27.8Zm-4.93-13.9L22.17,4,20.53,5.61l9.61,9.61H.5v2.31H30.14l-9.61,9.61,1.64,1.64Z"/>
+</svg>
+
+            </button>
+          </li>
+        </ul>
+      </div>
+    <div id="global_nav_tray_container"></div>
+  </header>
+
+
+  <div id="instructure_ajax_error_box">
+    <div style="text-align: right; background-color: #fff;"><a href="#" class="close_instructure_ajax_error_box_link">Close</a></div>
+    <iframe id="instructure_ajax_error_result" src="about:blank" style="border: 0;" title="Error"></iframe>
+  </div>
+
+  
+
+  <div id="wrapper" class="ic-Layout-wrapper">
+      <div class="ic-app-nav-toggle-and-crumbs no-print">
+          <button type="button" id="courseMenuToggle" class="Button Button--link ic-app-course-nav-toggle" aria-live="polite" aria-label="Hide Courses Navigation Menu" title="Hide Courses Navigation Menu">
+            <i class="icon-hamburger" aria-hidden="true"></i>
+          </button>
+          <div class="ic-app-crumbs">
+        <nav id="breadcrumbs" role="navigation" aria-label="breadcrumbs"><ul><li class="home"><a href="/"><span class="ellipsible">      <i class="icon-home"
+         title="My Dashboard">
+        <span class="screenreader-only">My Dashboard</span>
+      </i>
+</span></a></li><li><span class="ellipsible">MUSE E-135 (14780)</span></li><li><span class="ellipsible">Syllabus</span></li></ul></nav>
+        </div>
+      </div>
+    <div id="main" class="ic-Layout-columns">
+        <div class="ic-Layout-watermark"></div>
+        <div id="left-side"
+          class="ic-app-course-menu list-view"
+          style="display: block"
+          >
+              <span id="section-tabs-header-subtitle" class="ellipsis">2017-2018 Fall</span>
+            <nav role="navigation" aria-label="Courses Navigation Menu"><ul id="section-tabs"><li class="section"><a href="/courses/32931/assignments/syllabus" title="Syllabus" class="syllabus active">Syllabus</a></li><li class="section"><a href="/courses/32931/external_tools/25973" title="Web Conference Sessions" class="context_external_tool_25973">Web Conference Sessions</a></li><li class="section"><a href="/courses/32931/external_tools/13815" title="Student Resources" class="context_external_tool_13815">Student Resources</a></li></ul></nav>
+        </div>
+      <div id="not_right_side" class="ic-app-main-content">
+        <div id="content-wrapper" class="ic-Layout-contentWrapper">
+            
+
+          <div id="content" class="ic-Layout-contentMain" role="main">
+            
+
+
+
+<div class="ic-Action-header">
+  <div class="ic-Action-header__Primary">
+    <h1 class="ic-Action-header__Heading">Course Syllabus</h1>
+  </div>
+  <div class="ic-Action-header__Secondary">
+    <a href="#" class="jump_to_today_link">Jump to Today</a>
+  </div>
+</div>
+
+<div id="course_syllabus" style="margin-bottom: 10px;" class="user_content">
+  <p><img style="width: 100%;" src="/courses/32931/files/4155440/preview?verifier=DIFEJicKq0ImsWhqiOhWwcXkFV73Vct0S6DM9kuT" alt="Marquee image: Harvard Extension School shield on decorative paper" data-api-endpoint="https://canvas.harvard.edu/api/v1$IMS-CC-FILEBASE$/Template%20images/PaperShieldBanner.png?canvas_download=1&amp;canvas_qs_verifier=KBdi7qbAsL1oyUp6f839HnhJ3DhpxlrUFFSzkluL" data-api-returntype="File"></p>
+<table class="ic-Table" style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="content-box pad-box-micro border border-b border-t" style="background-color: whitesmoke;">
+<h2 style="text-align: center;"><a class="icon-syllabus" style="color: black; text-decoration: none;"> Syllabus</a></h2>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>MUSE E-135 </strong></p>
+<p><strong>The Future of Historic House Museums</strong></p>
+<p><strong>Harvard Extension School, Fall 2017</strong></p>
+<p><strong>Thursday, 5:30-7:30pm</strong></p>
+<p><strong>Abby Battis, ALM Museum Studies, </strong><strong>Harvard University Extension School</strong></p>
+<p><strong><a href="mailto:battisabby@aol.com">battisabby@aol.com</a><a href="mailto:battisabby@aol.com"></a></strong></p>
+<p><strong>Syllabus: <a class="instructure_file_link instructure_scribd_file" title="MUSE E-135 Historic House Museums 2017.pdf" href="/courses/32931/files/4207835/download?verifier=xKqcXjVx89R2uTFKgl0H2FJWkaIrR9ePUUcCDPmX&amp;wrap=1">MUSE E-135 Historic House Museums 2017.pdf</a></strong></p>
+<p><strong> </strong></p>
+<p><strong>SYLLABUS</strong></p>
+<p><strong>Course Overview: </strong></p>
+<p>The changing attitudes in historic interpretation along with challenges facing historic house museums today such as shifting demographics, funding, maintenance, and technology have contributed to declining attendance and waning interest in historic house museums around the world. This course examines the traditional methods for historic house museum sustainability and will explore feasible and reinvented methods for reinterpreting the historic house museum in order to maintain their relevance in changing society. Students will learn about the history of the historic house museum and the current challenges that face historic house museums. Students will explore strategies and methods for transforming historic house museums into dynamic and relevant institutions that can be sustained in a meaningful way.</p>
+<p> The course will meet fifteen times. Grades will be based on class participation as well as written work.</p>
+<p><strong> </strong></p>
+<p><strong>Course Objectives:</strong></p>
+<p>The course will address the following learning objectives:</p>
+<ol>
+<li>Students will identify the strengths and weaknesses in the interpretation of a historic house</li>
+<li>Students will learn about historic house preservation, restoration, interpretation, governance and finance</li>
+<li>Students will investigate new approaches of interpretation that address community interests and needs</li>
+<li>Students will discover ways to repurpose and reprogram historic house museums</li>
+<li>Students will explore strategies for engaging with new audiences, sustaining current visitors, and creating a renewed identity for the historic house museum that relates to the social, political and cultural life of the community</li>
+<li>Students will look at ways to preserve historic house museums both legally and ethically in order to remain sustainable</li>
+</ol>
+<p><strong>Students with Disabilities:</strong></p>
+<p>The Extension School is committed to providing an accessible academic community. The Disability Services Office offers a variety of accommodations and services to students with documented disabilities. For more information please visit:</p>
+<p><a href="http://www.extension.harvard.edu/resources-policies/resources/disability-services-accessibility">www.extension.harvard.edu/resources-policies/resources/disability-services-accessibility</a></p>
+<p><strong>Academic Integrity:</strong>You are responsible for understanding Harvard Extension School policies on academic integrity(<a href="http://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity">www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity</a>) and how to use sources responsibly. Not knowing the rules, misunderstanding the rules, running out of time, submitting "the wrong draft", or being overwhelmed with multiple demands are not acceptable excuses. There are no excuses for failure to uphold academic integrity. To support your learning about academic citation rules, please visit the Harvard Extension School Tips to AvoidPlagiarism (www.extension.harvard.edu/resources-policies/resources/tips-avoid-plagiarism),where you'll find links to the Harvard Guide to Using Sources and two, free, online 15-minute tutorials to test your knowledge of academic citation policy. The tutorials are anonymous open-learning tools.  </p>
+<p><strong>Required Reading:</strong>There are two textbooks assigned for the course which can be purchased online or at the Harvard Coop Bookstore: </p>
+<table>
+<tbody>
+<tr>
+<td>
+<p>Title: Anarchist's Guide to Historic House Museums</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Author: Franklin D Vagnone, Deborah E Ryan, Gretchen Sorin (Foreword by)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Publisher: Left Coast Press</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ISBN: 9781629581712</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Publication Date: 10/31/2015</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<table>
+<tbody>
+<tr>
+<td>
+<p>Title: New Solutions for House Museums: Ensuring the Long-Term Preservation of America's Historic Houses | Edition: 1</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Author: Donna Ann Harris, Thomas A. Mason (Editor)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Publisher: AltaMira Press</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ISBN: 9780759110878</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Publication Date: 04/16/2007</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>There will also be supplemental required readings from chosen articles and books that will be available to you on the course website as part of the weekly reading assignments. </p>
+<p><strong>Course Assignments and Grading:</strong>·        </p>
+<p>Class Participation: 25% of grade</p>
+<p>Students are expected to be prepared to discuss the readings and to participate in all class discussions. Class participation for this class is defined as: weekly attendance, actively participating in classroom discussions with your camera and headset on and ready to respond, and actively participating in engaging and relevant class discussions on the discussion board.         </p>
+<p>Assignment #1: Historic House Museum Visit &amp; Review (15%) <strong><em>Due September 21</em></strong></p>
+<p>Assignment #2: Interpretation Plan (15%) <strong><em>Due October 19</em></strong></p>
+<p>Assignment #3: Historic House Museum Interview (15%) <strong><em>Due November 16</em></strong></p>
+<p>Final Paper: The Future of Historic House Museums (30%) <strong><em>Due December 14</em></strong> </p>
+<p> </p>
+<p><strong>Course Outline:</strong></p>
+<p><strong>August 31: Introduction, Orientation and Expectations</strong></p>
+<p><strong>            </strong>Why am I here? Why are you here? What do you want to learn?</p>
+<p>            Review the syllabus and course requirements</p>
+<p>            Discuss what is (and what is not) a Historic House Museum</p>
+<p>            <em>Presentation of Assignment #1</em></p>
+<p> </p>
+<p><strong>September 7: The Rise and Fall of the Historic House Museum Movement</strong></p>
+<p><strong>            </strong>The Historic House Museum Movement and the Historic House Museum Crisis</p>
+<p>            Explore the challenges of sustainability in historic house museums today</p>
+<p>            Discuss what is next for historic house museums</p>
+<p> </p>
+<p><strong>September 14: Audience—Who Visits and What Do They Want?</strong></p>
+<p><strong>            </strong>Discussion about identifying the visitors of historic house museums</p>
+<p>            Examine the interaction with tourism and community</p>
+<p>            Identify the benefits/drawbacks of specific audiences</p>
+<p>            Define “The Visitor Experience”</p>
+<p> </p>
+<p><strong>September 21: Interpretation--What about history? </strong></p>
+<p><strong>            <em>Assignment #1 DUE</em></strong></p>
+<p><strong>            </strong>Discussion about engaging visitors through effective communication</p>
+<p>            Identify the need for history within the historic house museum</p>
+<p>            Apply “The Visitor Experience”</p>
+<p>            Explore the challenges and opportunities when interpreting historic house museums</p>
+<p> </p>
+<p><strong>September 28: Reinterpreting the Historic House Museum</strong></p>
+<p><strong>            <u>Reinterpretation BIG Thinking:</u></strong> What new stories can be told tell?</p>
+<p>            How can historic house museums connect with a greater audience?</p>
+<p>            Discover new uses for historic house museums</p>
+<p><em>            Presentation of Assignment #2</em></p>
+<p> </p>
+<p><strong>October 5: Historic House Museum Collections—Stories and Care </strong></p>
+<p><strong>            </strong>Discussion about the historic house and objects and maintaining the collection</p>
+<p>            Is it all about the “stuff”?<strong>       </strong></p>
+<p> </p>
+<p><strong>October 12: Historic Preservation</strong></p>
+<p><strong>            </strong>Discussion about historic preservation, the historic register, and care of historic properties</p>
+<p> </p>
+<p><strong>October 19: Touring and Educational Programming</strong></p>
+<p><strong>            Assignment #2 DUE</strong></p>
+<p><strong>            </strong>Discussion on types of tours and educational programming available in the historic house museum</p>
+<p>            Explore new options for touring and educational programs within the historic house museum</p>
+<p> </p>
+<p><strong>October 26: Managing the Historic House Museum</strong></p>
+<p><strong>            </strong>Discussion about strategic planning, fundraising, staffing, and volunteers</p>
+<p><em>            Presentation of Assignment #3</em></p>
+<p> </p>
+<p><strong>November 2: Governance and the Historic House Museum</strong></p>
+<p><strong>            </strong>Discussion about mission, vision, and board building</p>
+<p> </p>
+<p><strong>November 9: Guest speaker: TBD</strong></p>
+<p><strong>            </strong>Discussion with invited speaker about managing and overseeing a historic house museum</p>
+<p> </p>
+<p><strong>November 16: Marketing the Historic House Museum</strong></p>
+<p><strong>            Assignment #3 DUE</strong></p>
+<p><strong>            </strong>Discussion will include the use of social media, marketing and branding and creating innovative marketing collateral</p>
+<p><strong>            </strong><em>Presentation of Final Paper</em></p>
+<p> </p>
+<p><strong>November 23: Thanksgiving Break</strong></p>
+<p> </p>
+<p><strong>November 30: Applying the “Anarchist” ideology and Discussion of Various Case Studies</strong></p>
+<p> </p>
+<p><strong>December 7: Putting it all together: What Does the Future Hold for Historic House Museums?</strong></p>
+<p><strong>            </strong>Discussion about how all of these topics work together and support each other in order to maintain and sustain a historic house museum</p>
+<p>            Discussion on the possibilities for a sustainable future for historic house museums.</p>
+<p>            What’s next for historic house museums?</p>
+<p> </p>
+<p><strong>December 14: Final Paper DUE</strong></p>
+<p><strong>      </strong> </p>
+<p> </p>
+<p><strong>            </strong></p>
+<p> </p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<div class="content-box pad-box-micro border border-b border-t" style="background-color: whitesmoke;">
+<h2 style="text-align: center;"><a class="icon-rubric-dark" style="color: black; text-decoration: none;"> Course Information</a></h2>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<p> <iframe style="width: 100%; height: 200px;" title="Course Info" src="https://canvas-course-info.tlt.harvard.edu/course_info/widget.html?f=title&amp;f=course.registrar_code_display&amp;f=term.display_name&amp;f=instructors_display&amp;f=location&amp;f=meeting_time&amp;f=exam_group&amp;f=description&amp;f=notes" width="300" height="150" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen"></iframe> </p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 30%; float: right;" cellspacing="10" cellpadding="9">
+<tbody>
+<tr>
+<td style="border-color: gray; background-color: whitesmoke;">
+<h2 style="text-align: center;"><span style="color: #000000;"><a class="icon-user" style="color: #000000;" href="/courses/7955" target="_blank"><span style="font-size: 10pt;">Student Support Tips</span></a></span></h2>
+</td>
+</tr>
+<tr>
+<td style="border-color: gray; background-color: whitesmoke;">
+<h2 style="text-align: center;"><span style="color: #000000;"><a class="icon-educators" style="color: #000000;" href="/courses/4514" target="_blank"><span style="font-size: 10pt;">Instructor Support Tips</span></a> </span></h2>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="clear: both;"> </p>
+</div>
+<div id="course_syllabus_details" style="display: none;">
+  <p>The syllabus page shows a table-oriented view of the course schedule, and the basics of
+course grading.  You can add any other comments, notes, or thoughts you have about the course
+structure, course policies or anything else.</p>
+
+<p>To add some comments, click the &quot;Edit&quot; link at the top.</p>
+</div>
+<form id="edit_course_syllabus_form" style="display: none; margin-bottom: 10px;" action="/courses/32931" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="2/hXjvbP4IJb7vbSSAfgcuTuhiaZs6fXCDRYGt9xqwS/lC3nkaCy1ArBr7Etaqg/1YvoaPiG5rA5XAlKrwGfcg==" />
+  <div style="float: right;">
+    <a href="#" class="toggle_views_link toggle_html_editor_link">HTML Editor</a>
+    <a href="#" class="toggle_views_link toggle_rich_editor_link" style="display:none;">Rich Content Editor</a>
+  </div>
+  <label for="course_syllabus_body">Syllabus Description:</label>
+  <div class="clear"></div>
+  <textarea style="width: 100%; height: 300px;" id="course_syllabus_body" name="course[syllabus_body]">
+</textarea>
+  <div class='form-actions'>
+    <button type="button" class="btn cancel_button">Cancel</button>
+    <button type="submit" class='btn btn-primary'>Update Syllabus</button>
+  </div>
+</form>
+<h2>Course Summary:</h2>
+
+<div id="syllabusContainer">
+  <div id="syllabus_links">
+    <a id="toggle_special_dates_in_syllabus">&nbsp;</a>
+  </div>
+  <table id="syllabus" class="ic-Table--condensed">
+    <thead>
+      <tr>
+        <th scope="col" style="width: 25%;">Date</th>
+        <th scope="col" style="width: 75%;">Details</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td scope="row">
+          <span id="loading_indicator"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+          </div>
+        </div>
+        <div id="right-side-wrapper" class="ic-app-main-content__secondary">
+          <aside id="right-side" role="complementary">
+              
+<div id="sidebar_content">
+  
+<div class="mini_month">
+  <div class="mini-cal-header">
+    <button class="prev_month_link Button Button--icon-action"><i class="icon-arrow-open-left"></i><span class="screenreader-only">Prev month</span></button>
+    <button class="next_month_link Button Button--icon-action"><i class="icon-arrow-open-right"></i><span class="screenreader-only">Next month</span></button>
+    <span class="mini-cal-month-and-year">
+      <span class="month_name">September</span>
+      <span class="year_number">2017</span>
+    </span>
+  </div>
+  <div style="display: none;">
+    <span class="month_number">9</span>
+  </div>
+  <table class="mini_calendar" cellspacing="0">
+    <caption class="screenreader-only">Calendar</caption>
+    <thead>
+      <tr>
+          <th scope="col">
+            <span class="screenreader-only">
+              Sunday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Monday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Tuesday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Wednesday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Thursday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Friday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Saturday
+            </span>
+          </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_08_27" class="mini_calendar_day day other_month previous_month date_08_27_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                27
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_28" class="mini_calendar_day day other_month previous_month date_08_28_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                28
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_29" class="mini_calendar_day day other_month previous_month date_08_29_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                29
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_30" class="mini_calendar_day day other_month previous_month date_08_30_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                30
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_31" class="mini_calendar_day day other_month previous_month date_08_31_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                31
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_01" class="mini_calendar_day day current_month date_09_01_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                1
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_02" class="mini_calendar_day day current_month date_09_02_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                2
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_03" class="mini_calendar_day day current_month date_09_03_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                3
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_04" class="mini_calendar_day day current_month date_09_04_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                4
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_05" class="mini_calendar_day day current_month date_09_05_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                5
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_06" class="mini_calendar_day day current_month date_09_06_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                6
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_07" class="mini_calendar_day day current_month date_09_07_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                7
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_08" class="mini_calendar_day day current_month date_09_08_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                8
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_09" class="mini_calendar_day day current_month date_09_09_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                9
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_10" class="mini_calendar_day day current_month date_09_10_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                10
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_11" class="mini_calendar_day day current_month date_09_11_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                11
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_12" class="mini_calendar_day day current_month date_09_12_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                12
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_13" class="mini_calendar_day day current_month date_09_13_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                13
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_14" class="mini_calendar_day day current_month date_09_14_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                14
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_15" class="mini_calendar_day day current_month date_09_15_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                15
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_16" class="mini_calendar_day day current_month date_09_16_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                16
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_17" class="mini_calendar_day day current_month date_09_17_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                17
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_18" class="mini_calendar_day day current_month date_09_18_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                18
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_19" class="mini_calendar_day day current_month date_09_19_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                19
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_20" class="mini_calendar_day day current_month date_09_20_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                20
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_21" class="mini_calendar_day day current_month date_09_21_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                21
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_22" class="mini_calendar_day day current_month date_09_22_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                22
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_23" class="mini_calendar_day day current_month date_09_23_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                23
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_24" class="mini_calendar_day day current_month today date_09_24_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                24
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_25" class="mini_calendar_day day current_month date_09_25_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                25
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_26" class="mini_calendar_day day current_month date_09_26_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                26
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_27" class="mini_calendar_day day current_month date_09_27_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                27
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_28" class="mini_calendar_day day current_month date_09_28_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                28
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_29" class="mini_calendar_day day current_month date_09_29_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                29
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_30" class="mini_calendar_day day current_month date_09_30_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                30
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_10_01" class="mini_calendar_day day other_month next_month date_10_01_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                1
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_02" class="mini_calendar_day day other_month next_month date_10_02_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                2
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_03" class="mini_calendar_day day other_month next_month date_10_03_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                3
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_04" class="mini_calendar_day day other_month next_month date_10_04_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                4
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_05" class="mini_calendar_day day other_month next_month date_10_05_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                5
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_06" class="mini_calendar_day day other_month next_month date_10_06_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                6
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_07" class="mini_calendar_day day other_month next_month date_10_07_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                7
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+    
+<div role="complementary" aria-label="Assignment Weights">
+  <h2>Course assignments are not weighted.</h2>
+</div>
+
+</div>
+
+<div id="editor_tabs" class="ui-tabs--mini" style="display: none;">
+
+  <span class="wiki-sidebar-header" role="heading" aria-level="2">Insert Content into the Page</span>
+  <ul>
+    <li><a href="#editor_tabs_2">Links</a></li>
+    <li><a href="#editor_tabs_4">Images</a></li>
+  </ul>
+  <div id="editor_tabs_2" role="application">
+    Link to other content in the course.
+      <a href="/courses/32931/external_tools/retrieve?url=%7B%7B+url+%7D%7D" id="external_tool_retrieve_url" style="display: none;">&nbsp;</a>
+      <a href="/courses/32931/external_tools/%7B%7B%20id%20%7D%7D/resource_selection?editor=1" id="context_external_tool_resource_selection_url" style="display: none;">&nbsp;</a>
+    Click any page to insert a link to that page.
+    <div id="pages_accordion" class="ui-accordion--mini" role="tabpanel">
+      <a href="https://canvas.harvard.edu/courses/32931/pages/%7B%7B%20page_url%20%7D%7D" id="wiki_sidebar_wiki_url" style="display: none;">&nbsp;</a>
+      <div>
+        <div class="header" aria-controls="pages_tab_panel" role="tab"><a href="#">Wiki Pages</a></div>
+        <div id="pages_tab_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/32931/pages/web-conference-sessions">Web Conference Sessions</a></li>
+            </ul>
+        </div>
+      </div>
+      <div>
+        <div aria-controls="assignment_panel" role="tab" class="header" aria-controls="wiki_pages_panel"><a href="#">Assignments</a></div>
+         <div id="assignment_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this assignment"><a href="/courses/32931/assignments">Assignment List</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32931/assignments/170054">Article: Dwelling in Possibility</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32931/assignments/152810">Assignment #1 Historic House Museum Visit &amp; Review</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32931/assignments/168785">Assignment #2 Historic House Interpretation Plan</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32931/assignments/168279">CLASS GRADING RUBRIC</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32931/assignments/166269">Readings Assigned on 8/31/2017</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32931/assignments/168780">Readings Assigned on 9/14/17</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32931/assignments/168782">Readings Assigned on 9/28/17</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32931/assignments/166272">Readings Assigned on 9/7/2017</a></li>
+            </ul>
+         </div>
+      </div>
+      <div>
+        <div aria-controls="quizzes_panel" class="header" role="tab"><a href="#">Quizzes</a></div>
+         <div id="quizzes_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this quiz"><a href="/courses/32931/quizzes">Quiz List</a></li>
+            </ul>
+         </div>
+      </div>
+      <div>
+        <div class="header" aria-controls="announcements_panel" role="tab"><a href="#">Announcements</a></div>
+         <div id="announcements_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this announcement"><a href="/courses/32931/announcements">Announcements List</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/32931/announcements/241740">Assignment #1: Social Media Links and Websites</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/32931/announcements/238755">Accessing a reading for the week</a></li>
+            </ul>
+         </div>
+      </div>
+
+      <div>
+        <div role="tab" aria-controls="discussions_panel" class="header"><a href="#">Discussions</a></div>
+         <div id="discussions_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this topic"><a href="/courses/32931/discussion_topics">Discussion Index</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32931/discussion_topics/240974">Required Discussion: The Visitor Experiencce</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32931/discussion_topics/240970">Required Discussion: Museum Visitor</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32931/discussion_topics/244122">What Can Happen To That Preservation Easement (or Similar Preservation Set-Ups)</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32931/discussion_topics/243221">CT Landmarks Hopes To Create State&#39;s First Site Dedicated To LGBTQ History</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32931/discussion_topics/244206">Free Museums This Weekend</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32931/discussion_topics/238765">Discussion on weekly readings 9/14</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32931/discussion_topics/242111">Context and Recommendations</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32931/discussion_topics/236800">Discussion on weekly readings 9/7</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32931/discussion_topics/237636">Bringing the Rosa Parks House Back to Detroit - Why?</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32931/discussion_topics/237642">Does this count as a HHM or a performance space?</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32931/discussion_topics/236807">What house did you choose?</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32931/discussion_topics/231376">What are your class expectations?</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32931/discussion_topics/228757">Class Introductions</a></li>
+            </ul>
+         </div>
+      </div>
+
+      <div>
+        <div role="tab" aria-controls="modules_panel" class="header"><a href="#">Modules</a></div>
+          <div id="modules_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this module"><a href="/courses/32931/modules">Modules List</a></li>
+            </ul>
+          </div>
+      </div>
+
+      <div>
+        <div class="header" role="tab" aria-controls="groups_panel"><a href="#">Course Navigation</a></div>
+         <div role="tabpanel" id="groups_panel">
+            <ul class="wiki_pages page_list">
+                <li title="Click to insert a link to the assignments page"><a href="/courses/32931/assignments">Assignment List</a></li>
+                <li title="Click to insert a link to the wiki"><a href="https://canvas.harvard.edu/courses/32931/pages">Wiki Home</a></li>
+                <li title="Click to insert a link to the discussions page"><a href="/courses/32931/discussion_topics">Discussions Index</a></li>
+                <li title="Click to insert a link to the syllabus"><a href="/courses/32931/assignments/syllabus">Course Syllabus</a></li>
+                <li title="Click to insert a link to the announcements page"><a href="/courses/32931/announcements">Announcement List</a></li>
+                <li title="Click to insert a link to the files page"><a href="/courses/32931/files">Files Index</a></li>
+                <li title="Click to insert a link to the collaborations page"><a href="/courses/32931/collaborations">Collaborations</a></li>
+                <li title="Click to insert a link to the grades page"><a href="/courses/32931/grades">Grades</a></li>
+                <li title="Click to insert a link to the people page"><a href="/courses/32931/users">People</a></li>
+                <li title="Click to insert a link to the modules page"><a href="/courses/32931/modules">Modules</a></li>
+            </ul>
+         </div>
+      </div>
+    </div>
+
+  </div>
+  <div aria-atomic="true" id="editor_tabs_4">
+    Click any image to embed the image in the page.
+    <div>
+      <a tabindex="0" href="#" class="find_new_image_link find">Find images on flickr creative commons</a>
+    </div>
+    <div id="wiki_sidebar_image_uploads" class="uploading_file_list uploading_image_list" style="display: none;">
+      <div class="uploading">
+        Uploading <span class="filename">file</span>...
+        <div>
+          <img alt="Loading..." src="https://du11hjcvx0uqb.cloudfront.net/dist/images/ajax-loader-bar-71e6988298.gif" />
+        </div>
+      </div>
+      <div class="remaining">
+        <span class="files_remaining">0</span> more to upload
+      </div>
+      
+<a href="#" style="text-align: center display: none;" class="img_link" title="Click to embed image">
+  <div class="img_holder">
+    <img class="img" data-url="" src="" alt="{{ display_name }}" title="Click to embed {{ display_name }}">
+  </div>
+  <div class="display_name">{{ display_name }}</div>
+</a>
+
+    </div>
+    <div class="image_list_holder ">
+      <div class="dragging_message">Drop Images Here to upload</div>
+      <div class="image_list" style="max-height: 300px; overflow: auto;" data-url="/courses/32931/images">
+      </div>
+    </div>
+  </div>
+  <div style="display: none;">
+    <a href="/services?service_type=BookmarkService" class="bookmark_services_url">&nbsp;</a>
+    <a href="/search/bookmarks?q=%7B%7B+query+%7D%7D&amp;service_type=%7B%7B+service_type+%7D%7D" class="bookmark_search_url">&nbsp;</a>
+    <span class="context_code">course_32931</span>
+    <div id="wiki_sidebar_select_folder_dialog">
+      Select a destination folder for these <span class="file_count">&nbsp;</span> files:
+      <div style="margin: 20px;">
+        <select class="folder_id">
+        </select>
+      </div>
+      <div class="button-container">
+        <button type="button" class="btn select_button">Upload Files to Folder</button>
+        <button type="button" class="btn cancel_button btn button-secondary">Cancel</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+          </aside>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    <div style="display:none;"><!-- Everything inside of this should always stay hidden -->
+    </div>
+    
+<div id="cant_record_dialog" style="display: none;">
+  <div>
+    In order to create video or audio recordings your computer needs to be 
+    webcam-enabled.  If you don&#39;t have a webcam on your computer, you can still
+    record audio-only messages by first installing the Google Video Chat
+    plugin.
+  </div>
+  <div style="text-align: center; font-size: 1.5em; margin: 10px;">
+    <a href="http://www.google.com/chat/video" target="_blank" class="btn">Install the Video Plugin</a>
+  </div>
+  <div class="links" style="text-align: right; font-size: 0.8em; display: none;">
+    <a href="#" class="cant_record_link">Don&#39;t have a webcam?</a>
+  </div>
+</div>
+  <div id='aria_alerts' class='hide-text affix' role="alert" aria-live="assertive"></div>
+  <div id='StudentTray__Container'></div>
+  <script>
+  INST = {"environment":"production","allowMediaComments":true,"kalturaSettings":{"domain":"nv.instructuremedia.com","resource_domain":"nv.instructuremedia.com","rtmp_domain":"fms-prod.instructuremedia.com","partner_id":"9","subpartner_id":"0","player_ui_conf":"0","kcw_ui_conf":"0","upload_ui_conf":"0","max_file_size_bytes":534773760,"do_analytics":false,"hide_rte_button":false,"js_uploader":true},"googleAnalyticsAccount":"UA-9138420-1","disableScribdPreviews":true,"logPageViews":true,"maxVisibleEditorButtons":3,"editorButtons":[{"name":"YouTube","id":18015,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=youtube","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/youtube_icon.png","canvas_icon_class":null,"width":560,"height":600},{"name":"Vimeo","id":18016,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=vimeo","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/vimeo_icon.png","canvas_icon_class":null,"width":560,"height":600},{"name":"DCE Matterhorn Course Recordings","id":19109,"url":"https://dce-mhvideo-lti.herokuapp.com/mhvideo_lti/lti_launch","icon_url":"https://dce-mhvideo-lti.herokuapp.com/static/images/television.png","canvas_icon_class":null,"width":800,"height":400},{"name":"Course Info","id":20525,"url":"https://canvas-course-info.tlt.harvard.edu/course_info/lti_launch","icon_url":"https://canvas-course-info.tlt.harvard.edu/static/images/course-info.png","canvas_icon_class":null,"width":800,"height":400}]};
+  ENV = {"ASSET_HOST":"https://du11hjcvx0uqb.cloudfront.net","active_brand_config":"af37e5be444f4a553c9c812a9a990322","active_brand_config_json_url":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.json","url_to_what_gets_loaded_inside_the_tinymce_editor_css":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/what_gets_loaded_inside_the_tinymce_editor-542d1c188c.css","current_user_id":null,"current_user":{},"current_user_roles":null,"current_user_disabled_inbox":null,"files_domain":"cluster28-files.instructure.com","DOMAIN_ROOT_ACCOUNT_ID":18750000000000001,"k12":false,"help_link_name":"Help","help_link_icon":"help","use_high_contrast":null,"SETTINGS":{"open_registration":false,"eportfolios_enabled":true,"collapse_global_nav":null,"show_feedback_link":true,"enable_profiles":true},"context_asset_string":"course_32931","ping_url":"https://canvas.harvard.edu/api/v1/courses/32931/ping","TIMEZONE":"America/New_York","CONTEXT_TIMEZONE":"America/New_York","LOCALE":"en","BIGEASY_LOCALE":"en_US","FULLCALENDAR_LOCALE":"en","MOMENT_LOCALE":"en","RICH_CONTENT_SERVICE_ENABLED":true,"RICH_CONTENT_APP_HOST":"rich-content-iad.inscloudgate.net","RICH_CONTENT_CDN_HOST":"dvgcns7dz7zc.cloudfront.net/rce_service/versions/","RICH_CONTENT_SIDEBAR_SOURCE":"api","RICH_CONTENT_CAN_UPLOAD_FILES":false,"CONTEXT_ACTION_SOURCE":"syllabus","NEW_USER_TUTORIALS":{"is_enabled":false},"SYLLABUS_PER_PAGE":"100","CAN_READ":false,"SYLLABUS_BODY":"\u003cp\u003e\u003cimg style=\"width: 100%;\" src=\"/courses/32931/files/4155440/preview?verifier=DIFEJicKq0ImsWhqiOhWwcXkFV73Vct0S6DM9kuT\" alt=\"Marquee image: Harvard Extension School shield on decorative paper\" data-api-endpoint=\"https://canvas.harvard.edu/api/v1$IMS-CC-FILEBASE$/Template%20images/PaperShieldBanner.png?canvas_download=1\u0026amp;canvas_qs_verifier=KBdi7qbAsL1oyUp6f839HnhJ3DhpxlrUFFSzkluL\" data-api-returntype=\"File\"\u003e\u003c/p\u003e\n\u003ctable class=\"ic-Table\" style=\"width: 100%;\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cdiv class=\"content-box pad-box-micro border border-b border-t\" style=\"background-color: whitesmoke;\"\u003e\n\u003ch2 style=\"text-align: center;\"\u003e\u003ca class=\"icon-syllabus\" style=\"color: black; text-decoration: none;\"\u003e Syllabus\u003c/a\u003e\u003c/h2\u003e\n\u003c/div\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cp\u003e\u003cstrong\u003eMUSE E-135 \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eThe Future of Historic House Museums\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eHarvard Extension School, Fall 2017\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eThursday, 5:30-7:30pm\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAbby Battis, ALM Museum Studies, \u003c/strong\u003e\u003cstrong\u003eHarvard University Extension School\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003ca href=\"mailto:battisabby@aol.com\"\u003ebattisabby@aol.com\u003c/a\u003e\u003ca href=\"mailto:battisabby@aol.com\"\u003e\u003c/a\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSyllabus: \u003ca class=\"instructure_file_link instructure_scribd_file\" title=\"MUSE E-135 Historic House Museums 2017.pdf\" href=\"/courses/32931/files/4207835/download?verifier=xKqcXjVx89R2uTFKgl0H2FJWkaIrR9ePUUcCDPmX\u0026amp;wrap=1\"\u003eMUSE E-135 Historic House Museums 2017.pdf\u003c/a\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSYLLABUS\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eCourse Overview: \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eThe changing attitudes in historic interpretation along with challenges facing historic house museums today such as shifting demographics, funding, maintenance, and technology have contributed to declining attendance and waning interest in historic house museums around the world. This course examines the traditional methods for historic house museum sustainability and will explore feasible and reinvented methods for reinterpreting the historic house museum in order to maintain their relevance in changing society. Students will learn about the history of the historic house museum and the current challenges that face historic house museums. Students will explore strategies and methods for transforming historic house museums into dynamic and relevant institutions that can be sustained in a meaningful way.\u003c/p\u003e\n\u003cp\u003e The course will meet fifteen times. Grades will be based on class participation as well as written work.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eCourse Objectives:\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eThe course will address the following learning objectives:\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003eStudents will identify the strengths and weaknesses in the interpretation of a historic house\u003c/li\u003e\n\u003cli\u003eStudents will learn about historic house preservation, restoration, interpretation, governance and finance\u003c/li\u003e\n\u003cli\u003eStudents will investigate new approaches of interpretation that address community interests and needs\u003c/li\u003e\n\u003cli\u003eStudents will discover ways to repurpose and reprogram historic house museums\u003c/li\u003e\n\u003cli\u003eStudents will explore strategies for engaging with new audiences, sustaining current visitors, and creating a renewed identity for the historic house museum that relates to the social, political and cultural life of the community\u003c/li\u003e\n\u003cli\u003eStudents will look at ways to preserve historic house museums both legally and ethically in order to remain sustainable\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cstrong\u003eStudents with Disabilities:\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eThe Extension School is committed to providing an accessible academic community. The Disability Services Office offers a variety of accommodations and services to students with documented disabilities. For more information please visit:\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"http://www.extension.harvard.edu/resources-policies/resources/disability-services-accessibility\"\u003ewww.extension.harvard.edu/resources-policies/resources/disability-services-accessibility\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAcademic Integrity:\u003c/strong\u003eYou are responsible for understanding Harvard Extension School policies on academic integrity(\u003ca href=\"http://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity\"\u003ewww.extension.harvard.edu/resources-policies/student-conduct/academic-integrity\u003c/a\u003e) and how to use sources responsibly. Not knowing the rules, misunderstanding the rules, running out of time, submitting \"the wrong draft\", or being overwhelmed with multiple demands are not acceptable excuses. There are no excuses for failure to uphold academic integrity. To support your learning about academic citation rules, please visit the Harvard Extension School Tips to AvoidPlagiarism (www.extension.harvard.edu/resources-policies/resources/tips-avoid-plagiarism),where you'll find links to the Harvard Guide to Using Sources and two, free, online 15-minute tutorials to test your knowledge of academic citation policy. The tutorials are anonymous open-learning tools.  \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eRequired Reading:\u003c/strong\u003eThere are two textbooks assigned for the course which can be purchased online or at the Harvard Coop Bookstore: \u003c/p\u003e\n\u003ctable\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cp\u003eTitle: Anarchist's Guide to Historic House Museums\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cp\u003eAuthor: Franklin D Vagnone, Deborah E Ryan, Gretchen Sorin (Foreword by)\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cp\u003ePublisher: Left Coast Press\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cp\u003eISBN: 9781629581712\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cp\u003ePublication Date: 10/31/2015\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003ctable\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cp\u003eTitle: New Solutions for House Museums: Ensuring the Long-Term Preservation of America's Historic Houses | Edition: 1\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cp\u003eAuthor: Donna Ann Harris, Thomas A. Mason (Editor)\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cp\u003ePublisher: AltaMira Press\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cp\u003eISBN: 9780759110878\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cp\u003ePublication Date: 04/16/2007\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eThere will also be supplemental required readings from chosen articles and books that will be available to you on the course website as part of the weekly reading assignments. \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eCourse Assignments and Grading:\u003c/strong\u003e·        \u003c/p\u003e\n\u003cp\u003eClass Participation: 25% of grade\u003c/p\u003e\n\u003cp\u003eStudents are expected to be prepared to discuss the readings and to participate in all class discussions. Class participation for this class is defined as: weekly attendance, actively participating in classroom discussions with your camera and headset on and ready to respond, and actively participating in engaging and relevant class discussions on the discussion board.         \u003c/p\u003e\n\u003cp\u003eAssignment #1: Historic House Museum Visit \u0026amp; Review (15%) \u003cstrong\u003e\u003cem\u003eDue September 21\u003c/em\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eAssignment #2: Interpretation Plan (15%) \u003cstrong\u003e\u003cem\u003eDue October 19\u003c/em\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eAssignment #3: Historic House Museum Interview (15%) \u003cstrong\u003e\u003cem\u003eDue November 16\u003c/em\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eFinal Paper: The Future of Historic House Museums (30%) \u003cstrong\u003e\u003cem\u003eDue December 14\u003c/em\u003e\u003c/strong\u003e \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eCourse Outline:\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAugust 31: Introduction, Orientation and Expectations\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e            \u003c/strong\u003eWhy am I here? Why are you here? What do you want to learn?\u003c/p\u003e\n\u003cp\u003e            Review the syllabus and course requirements\u003c/p\u003e\n\u003cp\u003e            Discuss what is (and what is not) a Historic House Museum\u003c/p\u003e\n\u003cp\u003e            \u003cem\u003ePresentation of Assignment #1\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSeptember 7: The Rise and Fall of the Historic House Museum Movement\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e            \u003c/strong\u003eThe Historic House Museum Movement and the Historic House Museum Crisis\u003c/p\u003e\n\u003cp\u003e            Explore the challenges of sustainability in historic house museums today\u003c/p\u003e\n\u003cp\u003e            Discuss what is next for historic house museums\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSeptember 14: Audience—Who Visits and What Do They Want?\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e            \u003c/strong\u003eDiscussion about identifying the visitors of historic house museums\u003c/p\u003e\n\u003cp\u003e            Examine the interaction with tourism and community\u003c/p\u003e\n\u003cp\u003e            Identify the benefits/drawbacks of specific audiences\u003c/p\u003e\n\u003cp\u003e            Define “The Visitor Experience”\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSeptember 21: Interpretation--What about history? \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e            \u003cem\u003eAssignment #1 DUE\u003c/em\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e            \u003c/strong\u003eDiscussion about engaging visitors through effective communication\u003c/p\u003e\n\u003cp\u003e            Identify the need for history within the historic house museum\u003c/p\u003e\n\u003cp\u003e            Apply “The Visitor Experience”\u003c/p\u003e\n\u003cp\u003e            Explore the challenges and opportunities when interpreting historic house museums\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSeptember 28: Reinterpreting the Historic House Museum\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e            \u003cu\u003eReinterpretation BIG Thinking:\u003c/u\u003e\u003c/strong\u003e What new stories can be told tell?\u003c/p\u003e\n\u003cp\u003e            How can historic house museums connect with a greater audience?\u003c/p\u003e\n\u003cp\u003e            Discover new uses for historic house museums\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e            Presentation of Assignment #2\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eOctober 5: Historic House Museum Collections—Stories and Care \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e            \u003c/strong\u003eDiscussion about the historic house and objects and maintaining the collection\u003c/p\u003e\n\u003cp\u003e            Is it all about the “stuff”?\u003cstrong\u003e       \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eOctober 12: Historic Preservation\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e            \u003c/strong\u003eDiscussion about historic preservation, the historic register, and care of historic properties\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eOctober 19: Touring and Educational Programming\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e            Assignment #2 DUE\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e            \u003c/strong\u003eDiscussion on types of tours and educational programming available in the historic house museum\u003c/p\u003e\n\u003cp\u003e            Explore new options for touring and educational programs within the historic house museum\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eOctober 26: Managing the Historic House Museum\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e            \u003c/strong\u003eDiscussion about strategic planning, fundraising, staffing, and volunteers\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e            Presentation of Assignment #3\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eNovember 2: Governance and the Historic House Museum\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e            \u003c/strong\u003eDiscussion about mission, vision, and board building\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eNovember 9: Guest speaker: TBD\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e            \u003c/strong\u003eDiscussion with invited speaker about managing and overseeing a historic house museum\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eNovember 16: Marketing the Historic House Museum\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e            Assignment #3 DUE\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e            \u003c/strong\u003eDiscussion will include the use of social media, marketing and branding and creating innovative marketing collateral\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e            \u003c/strong\u003e\u003cem\u003ePresentation of Final Paper\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eNovember 23: Thanksgiving Break\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eNovember 30: Applying the “Anarchist” ideology and Discussion of Various Case Studies\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eDecember 7: Putting it all together: What Does the Future Hold for Historic House Museums?\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e            \u003c/strong\u003eDiscussion about how all of these topics work together and support each other in order to maintain and sustain a historic house museum\u003c/p\u003e\n\u003cp\u003e            Discussion on the possibilities for a sustainable future for historic house museums.\u003c/p\u003e\n\u003cp\u003e            What’s next for historic house museums?\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eDecember 14: Final Paper DUE\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e      \u003c/strong\u003e \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e            \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cdiv class=\"content-box pad-box-micro border border-b border-t\" style=\"background-color: whitesmoke;\"\u003e\n\u003ch2 style=\"text-align: center;\"\u003e\u003ca class=\"icon-rubric-dark\" style=\"color: black; text-decoration: none;\"\u003e Course Information\u003c/a\u003e\u003c/h2\u003e\n\u003c/div\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cp\u003e \u003ciframe style=\"width: 100%; height: 200px;\" title=\"Course Info\" src=\"https://canvas-course-info.tlt.harvard.edu/course_info/widget.html?f=title\u0026amp;f=course.registrar_code_display\u0026amp;f=term.display_name\u0026amp;f=instructors_display\u0026amp;f=location\u0026amp;f=meeting_time\u0026amp;f=exam_group\u0026amp;f=description\u0026amp;f=notes\" width=\"300\" height=\"150\" allowfullscreen=\"allowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\"\u003e\u003c/iframe\u003e \u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003ctable style=\"width: 30%; float: right;\" cellspacing=\"10\" cellpadding=\"9\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"border-color: gray; background-color: whitesmoke;\"\u003e\n\u003ch2 style=\"text-align: center;\"\u003e\u003cspan style=\"color: #000000;\"\u003e\u003ca class=\"icon-user\" style=\"color: #000000;\" href=\"/courses/7955\" target=\"_blank\"\u003e\u003cspan style=\"font-size: 10pt;\"\u003eStudent Support Tips\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/h2\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"border-color: gray; background-color: whitesmoke;\"\u003e\n\u003ch2 style=\"text-align: center;\"\u003e\u003cspan style=\"color: #000000;\"\u003e\u003ca class=\"icon-educators\" style=\"color: #000000;\" href=\"/courses/4514\" target=\"_blank\"\u003e\u003cspan style=\"font-size: 10pt;\"\u003eInstructor Support Tips\u003c/span\u003e\u003c/a\u003e \u003c/span\u003e\u003c/h2\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp style=\"clear: both;\"\u003e \u003c/p\u003e","notices":[]};
+</script>
+
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/navigation_header.bundle-9669f80a51.js" defer="defer"></script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/4225508/global.min.js" defer="defer"></script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/3751539/EXPGlobal.js" defer="defer"></script>
+
+</div> <!-- #application -->
+</body>
+</html>

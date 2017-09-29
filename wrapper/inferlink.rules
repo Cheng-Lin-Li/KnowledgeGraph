@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "tld": "businessinsider.com"
+  }, 
+  "rules": [
+    {
+      "begin_regex": "\"vert\\-name\\s+ellipsis\"\\>\\<a\\s+href=\"http://www\\.businessinsider\\..*?\"\\>", 
+      "end_regex": "\\</a\\>\\</h2\\>\\s+\\</div\\>\\s+\\<!\\-\\-\\s+links\\s+\\-\\-\\>", 
+      "id": "0e4f4254-7e02-44ef-ac10-a6fee89e4348", 
+      "include_end_regex": true, 
+      "name": "845", 
+      "removehtml": false, 
+      "rule_type": "ItemRule", 
+      "strip_end_regex": "\\</a\\>\\</h2\\>\\s+\\</div\\>\\s+\\<!\\-\\-\\s+links\\s+\\-\\-\\>"
+    }, 
+    {
+      "begin_regex": "\\>\\s+\\</div\\>\\s+\\</div\\>\\s+\\</div\\>\\s+\\<div\\s+class=\"content\\s+post.*?\"\\>\\s+\\<div\\s+class=\"sl\\-layout.*?\\-post\"\\>\\s+\\<.*?h1\\>", 
+      "end_regex": "\\</h1\\>\\s+\\<div\\s+id=\"content\"\\s+class=\"content\"\\>\\s+\\<div\\s+class", 
+      "id": "af701a31-8f37-4b4b-8aae-eff7f5a24fc4", 
+      "include_end_regex": true, 
+      "name": "965", 
+      "removehtml": false, 
+      "rule_type": "ItemRule", 
+      "strip_end_regex": "\\</h1\\>\\s+\\<div\\s+id=\"content\"\\s+class=\"content\"\\>\\s+\\<div\\s+class"
+    }, 
+    {
+      "begin_regex": "\\<span\\s+class=\"svg\\s+sprites\\s+date\\-icon\"\\>\\</span\\>\\s+\\<span\\s+data\\-.*?bi\\-format=\"date\"\\s+rel=\".*?\"\\>", 
+      "end_regex": "\\</span\\>\\s+\\</li\\>\\s+\\<li\\s+class=\"pageviews\"\\>\\s+\\<span\\s+class=", 
+      "id": "e79691c0-cfd3-40fa-85ed-e06eaaaa1637", 
+      "include_end_regex": true, 
+      "name": "976", 
+      "removehtml": false, 
+      "rule_type": "ItemRule", 
+      "strip_end_regex": "\\</span\\>\\s+\\</li\\>\\s+\\<li\\s+class=\"pageviews\"\\>\\s+\\<span\\s+class="
+    }, 
+    {
+      "begin_regex": "\\</span\\>\\s+\\</li\\>\\s+\\<li\\s+class=\"pageviews\"\\>\\s+\\<span\\s+class=.*?views\"\\>\\</span\\>\\s+\\<span\\s+class.*?\"\\s+title=\"Engagement.*?\"\\>", 
+      "end_regex": "\\</span\\>\\s+\\</li\\>\\s+\\</ul\\>\\s+\\</div\\>\\s+\\</div\\>", 
+      "id": "bd346755-ac83-4546-a17c-6a1327410fe7", 
+      "include_end_regex": true, 
+      "name": "982", 
+      "removehtml": false, 
+      "rule_type": "ItemRule", 
+      "strip_end_regex": "\\</span\\>\\s+\\</li\\>\\s+\\</ul\\>\\s+\\</div\\>\\s+\\</div\\>"
+    }, 
+    {
+      "begin_regex": "div\\>\\s+\\</div\\>\\s+\\<!\\-\\-\\s+Perfect\\s+Market\\s+content\\s+ad\\-\\-\\>\\s+\\<!\\-.*?\"\\>\\s*\\<img\\s+src=\"http:/.*?/", 
+      "end_regex": "\\>\\s+\\<!\\-\\-\\s+Post\\s+category\\s+tags\\s+\\-\\-\\>\\s+\\<div\\s+class=\"category\\-wrapper\"", 
+      "id": "b82032f8-8221-475a-9528-0cf5eec7fa11", 
+      "include_end_regex": true, 
+      "name": "1034", 
+      "removehtml": false, 
+      "rule_type": "ItemRule", 
+      "strip_end_regex": "\\>\\s+\\<!\\-\\-\\s+Post\\s+category\\s+tags\\s+\\-\\-\\>\\s+\\<div\\s+class=\"category\\-wrapper\""
+    }
+  ]
+}

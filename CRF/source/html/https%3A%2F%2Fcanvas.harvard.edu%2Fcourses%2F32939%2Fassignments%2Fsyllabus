@@ -1,0 +1,1301 @@
+
+
+<!DOCTYPE html>
+<html class="scripts-not-loaded" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Syllabus for Writing in the Sciences</title>
+  <!--[if lte IE 9]> <meta http-equiv=refresh content="0; URL=/ie-9-is-not-supported.html" /> <![endif]-->
+  <link rel="shortcut icon" type="image/x-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/favicon-e10d657a73.ico" />
+  <link rel="apple-touch-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/apple-touch-icon-585e5d997d.png" />
+  
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.css" />
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/common-de9877d2f0.css" />
+  <script>
+//<![CDATA[
+
+!function(){
+  var o,s,v;
+  if (!(window.Promise && Object.assign && Object.values && [].find && [].includes && (o={},s=Symbol(),v={},o[s]=v,o[s]===v) && (function f(){}).bind().name==='bound f')) {
+    s = 's', document.write('<'+s+'cr'+'ipt src="https://du11hjcvx0uqb.cloudfront.net/dist/ie11-polyfill-64b21f7f37.js"></'+s+'c'+'ript>');
+  }
+}();
+      
+//]]>
+</script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/lato-fontfaceobserver-11a14bc0b6.js" async="async"></script>
+  
+  <meta name="apple-itunes-app" content="app-id=480883488" />
+<link rel="manifest" href="/web-app-manifest/manifest.json" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#008EE2">
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/tinymce-29f8b0a23f.css" />
+<link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/syllabus-2f51f24f19.css" />
+  
+  <link rel="stylesheet" media="all" href="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/4225502/global.min.css" />
+  <script>
+    function _earlyClick(e){
+      var c = e.target
+      while (c && c.ownerDocument) {
+        if (c.getAttribute('href') == '#' || c.getAttribute('data-method')) {
+          e.preventDefault()
+          (_earlyClick.clicks = _earlyClick.clicks || []).push(c)
+          break
+        }
+        c = c.parentNode
+      }
+    }
+    document.addEventListener('click', _earlyClick)
+  </script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.js" defer="defer"></script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/vendor.bundle-2585fc489b.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/New_York-c3226761e3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/en_US-80a0ce259b.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/appBootstrap.bundle-43015c2be3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/common.bundle-07f53473d3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/syllabus.bundle-8eb56aaa04.js" defer="defer"></script>
+</head>
+
+<body class="with-left-side course-menu-expanded with-right-side syllabus primary-nav-expanded context-course_32939">
+
+<noscript>
+  <div role="alert" class="ic-flash-static ic-flash-error">
+    <div class="ic-flash__icon" aria-hidden="true">
+      <i class="icon-warning"></i>
+    </div>
+    <h1>You need to have JavaScript enabled in order to access this site.</h1>
+  </div>
+</noscript>
+
+
+
+
+
+<ul id="flash_message_holder"></ul>
+<div id="flash_screenreader_holder"></div>
+
+<div id="application" class="ic-app">
+  
+  <header id="header" class="ic-app-header no-print no-user">
+    <a href="#content" id="skip_navigation_link">Skip To Content</a>
+      <div role="region" class="ic-app-header__main-navigation" aria-label="Main Navigation">
+        <div class="ic-app-header__logomark-container">
+          <a href="https://canvas.harvard.edu/" class="ic-app-header__logomark">
+            <span class="screenreader-only">Dashboard</span>
+          </a>
+        </div>
+        <ul id="menu" class="ic-app-header__menu-list">
+            <li class="menu-item ic-app-header__menu-list-item">
+              <a id="global_nav_login_link" href="/login" class="ic-app-header__menu-list-link">
+                <div class="menu-item-icon-container" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--login" version="1.1" x="0" y="0" viewBox="241 -241 512 512" enable-background="new 241 -241 512 512" xml:space="preserve"><path d="M743.9 5.9l-35.7-35.7H492.9c-6.5-16.2-17.3-32-31.7-46.4 -50.4-50.4-132-50.4-182.4 0s-50.4 132.1 0 182.5 132 50.4 182.4 0c11.8-11.8 20.6-25.9 27-41.8H547L570.6 88l22.8-22.8L616.2 88 639 65.2 661.8 88l24.1-24.1 15.6-1.5 4.6-0.5L753 15 743.9 5.9 743.9 5.9zM694.4 37.1l-15.6 1.5 -4.6 0.5 -12.4 12.4 -12.9-12.9h-19.8l-12.9 12.9 -12.9-12.9h-19.8l-12.9 12.9 -12.9-12.9h-87.6l-2.9 8.8c-5.3 16-13.2 29.5-24.2 40.6 -40.3 40.3-105.6 40.3-145.9 0s-40.3-105.7 0-146 105.6-40.3 145.9 0c14.3 14.3 24.4 29.8 28.6 44.6l2.7 9.4h223.3l19 19L694.4 37.1 694.4 37.1zM322.3-16.2c-17.5 17.5-17.5 46 0 63.5 17.5 17.5 46 17.5 63.5 0 17.5-17.5 17.5-46 0-63.5C368.2-33.8 339.8-33.8 322.3-16.2L322.3-16.2zM367.6 29.1c-7.5 7.5-19.7 7.5-27.2 0 -7.5-7.5-7.5-19.7 0-27.2s19.7-7.5 27.2 0S375.2 21.6 367.6 29.1L367.6 29.1z"/></svg>
+
+                </div>
+                <div class="menu-item__text">
+                  Login
+                </div>
+              </a>
+            </li>
+          <li class="ic-app-header__menu-list-item ">
+            <a id="global_nav_dashboard_link" href="https://canvas.harvard.edu/" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--dashboard" version="1.1" x="0" y="0" viewBox="0 0 280 200" enable-background="new 0 0 280 200" xml:space="preserve"><path d="M273.09,180.75H197.47V164.47h62.62A122.16,122.16,0,1,0,17.85,142a124,124,0,0,0,2,22.51H90.18v16.29H6.89l-1.5-6.22A138.51,138.51,0,0,1,1.57,142C1.57,65.64,63.67,3.53,140,3.53S278.43,65.64,278.43,142a137.67,137.67,0,0,1-3.84,32.57ZM66.49,87.63,50.24,71.38,61.75,59.86,78,76.12Zm147,0L202,76.12l16.25-16.25,11.51,11.51ZM131.85,53.82v-23h16.29v23Zm15.63,142.3a31.71,31.71,0,0,1-28-16.81c-6.4-12.08-15.73-72.29-17.54-84.25a8.15,8.15,0,0,1,13.58-7.2c8.88,8.21,53.48,49.72,59.88,61.81a31.61,31.61,0,0,1-27.9,46.45ZM121.81,116.2c4.17,24.56,9.23,50.21,12,55.49A15.35,15.35,0,1,0,161,157.3C158.18,152,139.79,133.44,121.81,116.2Z" /></svg>
+
+              </div>
+              <div class="menu-item__text">Dashboard</div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ic-app-header__menu-list-item--active">
+            <a id="global_nav_courses_link" href="/courses" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--courses" version="1.1" x="0" y="0" viewBox="0 0 280 259" enable-background="new 0 0 280 259" xml:space="preserve"><path d="M73.31,198c-11.93,0-22.22,8-24,18.73a26.67,26.67,0,0,0-.3,3.63v.3a22,22,0,0,0,5.44,14.65,22.47,22.47,0,0,0,17.22,8H200V228.19h-134V213.08H200V198Zm21-105.74h90.64V62H94.3ZM79.19,107.34V46.92H200v60.42Zm7.55,30.21V122.45H192.49v15.11ZM71.65,16.71A22.72,22.72,0,0,0,49,39.36V190.88a41.12,41.12,0,0,1,24.32-8h157V16.71ZM33.88,39.36A37.78,37.78,0,0,1,71.65,1.6H245.36V198H215.15v45.32h22.66V258.4H71.65a37.85,37.85,0,0,1-37.76-37.76Z"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Courses
+              </div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_calendar_link" href="/calendar" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--calendar" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M197.07,213.38h16.31V197.07H197.07Zm-16.31,16.31V180.76h48.92v48.92Zm-48.92-16.31h16.31V197.07H131.85Zm-16.31,16.31V180.76h48.92v48.92ZM66.62,213.38H82.93V197.07H66.62ZM50.32,229.68V180.76H99.24v48.92Zm146.75-81.53h16.31V131.85H197.07Zm-16.31,16.31V115.54h48.92v48.92Zm-48.92-16.31h16.31V131.85H131.85Zm-16.31,16.31V115.54h48.92v48.92ZM66.62,148.15H82.93V131.85H66.62ZM50.32,164.46V115.54H99.24v48.92ZM34,262.29H246V82.93H34ZM246,66.62V42.16A8.17,8.17,0,0,0,237.84,34H213.38v8.15a8.15,8.15,0,1,1-16.31,0V34H82.93v8.15a8.15,8.15,0,0,1-16.31,0V34H42.16A8.17,8.17,0,0,0,34,42.16V66.62Zm-8.15-48.92a24.49,24.49,0,0,1,24.46,24.46V278.6H17.71V42.16A24.49,24.49,0,0,1,42.16,17.71H66.62V9.55a8.15,8.15,0,0,1,16.31,0v8.15H197.07V9.55a8.15,8.15,0,1,1,16.31,0v8.15Z"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Calendar
+              </div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_conversations_link" href="/conversations" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--inbox" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M91.72,120.75h96.56V104.65H91.72Zm0,48.28h80.47V152.94H91.72Zm0-96.56h80.47V56.37H91.72Zm160.94,34.88H228.52V10.78h-177v96.56H27.34A24.17,24.17,0,0,0,3.2,131.48V244.14a24.17,24.17,0,0,0,24.14,24.14H252.66a24.17,24.17,0,0,0,24.14-24.14V131.48A24.17,24.17,0,0,0,252.66,107.34Zm0,16.09a8.06,8.06,0,0,1,8,8v51.77l-32.19,19.31V123.44ZM67.58,203.91v-177H212.42v177ZM27.34,123.44H51.48v79.13L19.29,183.26V131.48A8.06,8.06,0,0,1,27.34,123.44ZM252.66,252.19H27.34a8.06,8.06,0,0,1-8-8V202l30,18H230.75l30-18v42.12A8.06,8.06,0,0,1,252.66,252.19Z"/></svg>
+
+                <span class="menu-item__badge" style="display: none">0</span>
+              </div>
+              <div class="menu-item__text">
+                Inbox
+              </div>
+            </a>
+          </li>
+          <li class="ic-app-header__menu-list-item">
+           <a id="global_nav_help_link" class="ic-app-header__menu-list-link" data-track-category="help system" data-track-label="help button" href="http://help.instructure.com/">
+              <div class="menu-item-icon-container" role="presentation">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg menu-item__icon svg-icon-help" version="1.1" x="0" y="0" viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve" fill="currentColor"><path d="M100,127.88A11.15,11.15,0,1,0,111.16,139,11.16,11.16,0,0,0,100,127.88Zm8.82-88.08a33.19,33.19,0,0,1,23.5,23.5,33.54,33.54,0,0,1-24,41.23,3.4,3.4,0,0,0-2.74,3.15v9.06H94.42v-9.06a14.57,14.57,0,0,1,11.13-14,22.43,22.43,0,0,0,13.66-10.27,22.73,22.73,0,0,0,2.31-17.37A21.92,21.92,0,0,0,106,50.59a22.67,22.67,0,0,0-19.68,3.88,22.18,22.18,0,0,0-8.65,17.64H66.54a33.25,33.25,0,0,1,13-26.47A33.72,33.72,0,0,1,108.82,39.8ZM100,5.2A94.8,94.8,0,1,0,194.8,100,94.91,94.91,0,0,0,100,5.2m0,178.45A83.65,83.65,0,1,1,183.65,100,83.73,83.73,0,0,1,100,183.65" transform="translate(-5.2 -5.2)"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Help
+              </div>
+</a>          </li>
+        </ul>
+      </div>
+      <div class="ic-app-header__secondary-navigation">
+        <ul class="ic-app-header__menu-list">
+          <li class="menu-item ic-app-header__menu-list-item">
+            <button
+              id="primaryNavToggle"
+              class="ic-app-header__menu-list-link ic-app-header__menu-list-link--nav-toggle"
+              aria-label="
+                Minimize global navigation"
+              title="
+                Minimize global navigation"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--navtoggle" version="1.1" x="0" y="0" width="40" height="32" viewBox="0 0 40 32" xml:space="preserve">
+  <path d="M39.5,30.28V2.48H37.18v27.8Zm-4.93-13.9L22.17,4,20.53,5.61l9.61,9.61H.5v2.31H30.14l-9.61,9.61,1.64,1.64Z"/>
+</svg>
+
+            </button>
+          </li>
+        </ul>
+      </div>
+    <div id="global_nav_tray_container"></div>
+  </header>
+
+
+  <div id="instructure_ajax_error_box">
+    <div style="text-align: right; background-color: #fff;"><a href="#" class="close_instructure_ajax_error_box_link">Close</a></div>
+    <iframe id="instructure_ajax_error_result" src="about:blank" style="border: 0;" title="Error"></iframe>
+  </div>
+
+  
+
+  <div id="wrapper" class="ic-Layout-wrapper">
+      <div class="ic-app-nav-toggle-and-crumbs no-print">
+          <button type="button" id="courseMenuToggle" class="Button Button--link ic-app-course-nav-toggle" aria-live="polite" aria-label="Hide Courses Navigation Menu" title="Hide Courses Navigation Menu">
+            <i class="icon-hamburger" aria-hidden="true"></i>
+          </button>
+          <div class="ic-app-crumbs">
+        <nav id="breadcrumbs" role="navigation" aria-label="breadcrumbs"><ul><li class="home"><a href="/"><span class="ellipsible">      <i class="icon-home"
+         title="My Dashboard">
+        <span class="screenreader-only">My Dashboard</span>
+      </i>
+</span></a></li><li><span class="ellipsible">EXPO E-42c Section 3 (15518)</span></li><li><span class="ellipsible">Syllabus</span></li></ul></nav>
+        </div>
+      </div>
+    <div id="main" class="ic-Layout-columns">
+        <div class="ic-Layout-watermark"></div>
+        <div id="left-side"
+          class="ic-app-course-menu list-view"
+          style="display: block"
+          >
+              <span id="section-tabs-header-subtitle" class="ellipsis">2017-2018 Fall</span>
+            <nav role="navigation" aria-label="Courses Navigation Menu"><ul id="section-tabs"><li class="section"><a href="/courses/32939/assignments/syllabus" title="Syllabus" class="syllabus active">Syllabus</a></li><li class="section"><a href="/courses/32939/external_tools/26000" title="Web Conference Sessions" class="context_external_tool_26000">Web Conference Sessions</a></li><li class="section"><a href="/courses/32939/external_tools/13815" title="Student Resources" class="context_external_tool_13815">Student Resources</a></li></ul></nav>
+        </div>
+      <div id="not_right_side" class="ic-app-main-content">
+        <div id="content-wrapper" class="ic-Layout-contentWrapper">
+            
+
+          <div id="content" class="ic-Layout-contentMain" role="main">
+            
+
+
+
+<div class="ic-Action-header">
+  <div class="ic-Action-header__Primary">
+    <h1 class="ic-Action-header__Heading">Course Syllabus</h1>
+  </div>
+  <div class="ic-Action-header__Secondary">
+    <a href="#" class="jump_to_today_link">Jump to Today</a>
+  </div>
+</div>
+
+<div id="course_syllabus" style="margin-bottom: 10px;" class="user_content">
+  <p><img style="width: 100%;" src="/courses/32939/files/4155507/preview?verifier=kXOSkCoTNtCKLPMYkyyvsld8DJ7Tqbl0DU29DXDP" alt="Marquee image: Harvard Extension School shield on decorative paper" data-api-endpoint="https://canvas.harvard.edu/api/v1$IMS-CC-FILEBASE$/Template%20images/PaperShieldBanner.png?canvas_download=1&amp;canvas_qs_verifier=KBdi7qbAsL1oyUp6f839HnhJ3DhpxlrUFFSzkluL" data-api-returntype="File"></p>
+<table class="ic-Table" style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="content-box pad-box-micro border border-b border-t" style="background-color: whitesmoke;">
+<h2 style="text-align: center;"><a class="icon-syllabus" style="color: black; text-decoration: none;"> Syllabus</a></h2>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<p> EXPO E-42c/W Section 3: Writing in the Sciences</p>
+<p>Fall Semester 2017</p>
+<p>Thursdays 8-10 PM (31 Aug -14 Dec 2017)</p>
+<p>Instructor: Cynthia F.C. Hill  </p>
+<p>chill02@tufts.edu</p>
+<p><em><br> </em> <strong><em><br> </em></strong></p>
+<p><strong><em>Note: this syllabus may be subject to small changes</em></strong></p>
+<p> </p>
+<h4>Course Description:</h4>
+<p>Advancements in genetic engineering and the farm­to­table movement have pushed consumers to think about where our food comes from, food production practices, and the implications of our choices as stakeholders in this complex equation. In this expository writing seminar, we will explore three interconnected themes: food production, sustainability, and nutrition. Students will read peer­reviewed research literature as well as other relevant source material to gain disciplinary literacy on ecological and biotechnological approaches to food production. Students will develop skills in both written and verbal communication for different audiences via in­class and take­home assignments. Students will use skills gained through these assignments to complete three main papers that are described briefly here: 1) analysis of a lay article with claims rooted in scientific research, 2) research and analysis of a claim that originates from advertisement or the media 3) review of current scientific literature, identification and proposal of an area of development pertaining to one of the three core themes of the course.</p>
+<p><strong><u>Guidelines for writing-intensive courses (mandatory description adapted from the Extension School catalog):</u></strong></p>
+<p>Writing-intensive courses at Harvard Extension offer students the opportunity to develop their writing skills in the context of a particular academic discipline, and they all feature common elements.  Students will:</p>
+<ul>
+<li>develop core writing skills, as defined by the instructor, in the discipline of the course;</li>
+<li>complete multiple writing assignments of varying lengths, at least 2 of which must be revised;</li>
+<li>produce a minimum of 10-12 pages of writing, exclusive of the required drafts, over the course of the term;</li>
+<li>meet at least once in individual conference (in person, by phone, or electronically) with the instructor to discuss writing in progress;</li>
+<li>receive detailed feedback on their drafts and revisions, on both content and expression.</li>
+</ul>
+<p> </p>
+<p><strong><u>Texts:</u></strong></p>
+<ul>
+<li>Readings will be available via the course website. These are purposely brief (5-10 pages long), to encourage you to engage with the content on a deeper level. Sometimes, supplemental readings will be provided, in case you wish to gain more contextual understanding of our topic.</li>
+</ul>
+<h4> </h4>
+<p><strong><u><br> </u></strong></p>
+<h4>Course Design, requirements, and expectations:</h4>
+<p><strong>Prerequisites:</strong></p>
+<ul>
+<li>As this is an intensive writing class, it is important that you have the basic skills to complete the core requirements thereof. Thus, on the first day of class, I will ask for an in-class writing sample to make sure you are prepared to write at the level required in this course.  If I have any concerns about your ability to succeed in this class, I will communicate with you confidentially via e-mail.</li>
+<li>This seminar is designed for students to interact with one another as we work together to gain understanding of the material and of the writing process. <em>Please be prepared to commit your attention to each session and to share your writing and your ideas with your classmates so that our time together is as productive as possible</em>.</li>
+</ul>
+<p><strong><u> </u></strong></p>
+<p><strong>Contacting me:  </strong></p>
+<p>I will respond to email messages within 24 hours, Monday through Friday. </p>
+<p><strong> </strong></p>
+<p><strong>Attendance:  </strong></p>
+<p>It is the policy of the Harvard Extension School Writing Program that students who miss more than two class meetings risk being failed. Because Writing Program courses depend on sequential writing activities, group workshopping, and lively class discussion, your consistent attendance is essential.  <strong>Consistent lateness by more than twenty minutes will begin to count as absences after the second time</strong>.  If you must miss a class, your assigned work is still due on time.  Please get in touch with a classmate to learn what was covered. </p>
+<p><strong> </strong></p>
+<p><strong>Assignments and Homework</strong>:</p>
+<ul>
+<li>You will complete two short (4-6) page analytical essays and a longer-format paper (8-10 pages) that pertains to one of the three central themes of this course, which includes a brief review of the literature and proposes a new direction of development for the field. You will also deliver a brief presentation on your paper to the class.  Shorter writing assignments that feed into your three formal papers will be incorporated into the course.</li>
+<li>You will read peer-reviewed scientific literature and learn how to interpret and use that information for communication elsewhere.</li>
+<li>We may have pop quizzes on grammar, syntax, and other basic writing issues and/or in-class writing sample tests throughout the semester.</li>
+</ul>
+<p> </p>
+<p><strong>Completion of work:</strong> </p>
+<p>Because the writing course is a planned sequence of assignments that build upon each other, and because writing workshops affect the schedule of the entire class, you must complete all the assigned exercises and stories to pass the course.  You must also write them on schedule – not in the last few days of the term after you have fallen behind.  Allow for computer problems and other mechanical failures; I recommend you print out and save hardcopies of all your work.</p>
+<p><strong> </strong></p>
+<p><strong>Accessibility services:</strong> </p>
+<p>The Extension School is committed to providing an accessible academic community. The Accessibility Services Office offers a variety of accommodations and services to students with documented disabilities. Please visit www.extension.harvard.edu/accessibility-student-services for more information.</p>
+<p><strong><br> </strong></p>
+<p><strong>Academic Honesty:</strong> </p>
+<p>Following is Harvard College’s policy on academic honesty as stated in the Handbook for Students:</p>
+<ul>
+<li><em>All homework assignments, projects, lab reports, papers, and examinations submitted to a course are expected to be the student’s own work. Students should take great care to distinguish their own ideas and knowledge from information derived from sources.  The term “sources” includes not only published primary and secondary material, but also information and opinions gained directly from other people.</em></li>
+<li><em>The responsibility for learning the proper forms of citation lies with the individual student. Quotations must be placed properly within quotation marks and must be cited fully.  In addition, all paraphrased material must be acknowledged completely.  Whenever ideas or facts are derived from a student’s reading and research or from a student’s own writing, the sources must be indicated.</em></li>
+</ul>
+<p> </p>
+<p><strong>Plagiarism:</strong></p>
+<p>Plagiarism is the theft of someone else’s ideas and work.  Whether a student copies verbatim or simply rephrases the ideas of another without properly acknowledging the source, the theft is the same.  A computer program written as part of the student’s academic work is, like a paper, expected to be the student’s original work and subject to the same standards of representation.  In the preparation of work submitted to meet course requirements, whether a draft or final version of a paper, project, assignment, computer program, or take-home examination, students must take great care to distinguish their own ideas and language from information derived from sources. </p>
+<p>Sources include published primary and secondary materials, the Internet, and information and opinions gained directly from other people.  Whenever ideas or facts are derived from a student’s reading or research, the sources must be properly cited.</p>
+<p><strong>THERE IS A PLAGIARISM GUIDE INCLUDED AT THE END OF THIS SYLLABUS</strong>. You are responsible for familiarizing yourself with this guide and may be quizzed on it during the course of the semester.</p>
+<p> </p>
+<p><em>You are responsible for understanding Harvard Extension School policies on academic integrity (</em><a href="http://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity"><em>www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity</em></a><em>) and how to use sources responsibly. </em>Not knowing the rules, misunderstanding the rules, running out of time, submitting the wrong draft, or being overwhelmed with multiple demands are not acceptable excuses. <em>There are no excuses for failure to uphold academic integrity. To support your learning about academic citation rules, please visit the Harvard Extension School Tips to Avoid Plagiarism (</em><a href="http://www.extension.harvard.edu/resources-policies/resources/tips-avoid-plagiarism"><em>www.extension.harvard.edu/resources-policies/resources/tips-avoid-plagiarism</em></a><em>), where you'll find links to the Harvard Guide to Using Sources and two free online 15-minute tutorials to test your knowledge of academic citation policy. The tutorials are anonymous open-learning tools.</em></p>
+<p> </p>
+<p><strong>Format for Writing Assignments:  </strong></p>
+<p>All work must be typed and <strong>thoroughly proofread</strong>.  For the most part, please use one-inch margins, 12 pt. font in Times, or Times New Roman.  In addition please note that formatting guidelines may change based on the various documents we construct.</p>
+<p><em>Please submit all documents as PDFs unless otherwise instructed</em>.</p>
+<p> </p>
+<p><strong><br> </strong></p>
+<p><strong>Grading: </strong></p>
+<p>Students who turn in all the work that is asked of them, who demonstrate a solid introductory understanding of craft, and who produce compelling work, may earn top grades. </p>
+<p>Students who do not pass in all the work required of them may not receive a passing grade.  Work that indicates a lack of effort or interest – shoddy work, containing excessive and careless errors – will affect your grade, as will the lack of participation in class, or the failure to keep up with your weekly reading and writing assignments. </p>
+<p><em>Grading breakdown is as follows:</em></p>
+<p><span style="text-decoration: underline;">Writing assignments:</span></p>
+<p>Analysis papers 1 and 2 (15% each)                                                  30%</p>
+<p>Final writing assignment, paper 3                                                       30%</p>
+<p>Oral Presentation                                                                                15%    </p>
+<p><span style="text-decoration: underline;">Course participation</span></p>
+<p>Leading and participating in weekly discussions                                 5%</p>
+<p>In-class exercises, reading notes, e-mail communication, drafts/outlines/activities for major writing assignments, etc.                                                                     20%</p>
+<p><strong> </strong></p>
+<p>Grades reflect the quality and quantity of a student's work submitted throughout the term according to the grading standards listed below. Undergraduate- and graduate-credit students may earn the following grades:</p>
+<ul>
+<li>
+<strong>A </strong>and<strong> A-</strong> grades represent work whose superior quality indicates a full mastery of the subject and, in the case of <strong>A,</strong> work of <strong><em>extraordinary distinction</em></strong>. There is no grade of A+.</li>
+<li>
+<strong>B+, B, </strong>and<strong> B-</strong> grades represent work of good to very good quality throughout the term; however, it does not merit special distinction.</li>
+<li>
+<strong>C+, C, </strong>and<strong> C-</strong> grades designate an average command of the course material.</li>
+<li>
+<strong>D+, D, </strong>and<strong> D-</strong> grades indicate work that shows a deficiency in knowledge of the material.</li>
+<li>
+<strong>E </strong>is a failing grade representing work that deserves no credit. <strong>E</strong> may also be assigned to students who do not submit required work in courses from which they have not officially withdrawn by the deadline.</li>
+</ul>
+<p> </p>
+<p><strong>Class Participation:</strong></p>
+<p>To foster an intellectual community in class, the course is structured as a seminar.  Throughout the term, we will be discussing the work of both professional and student writers, and it is crucial that you come to class prepared to offer insightful comments on assigned readings, as well as helpful feedback on your peers’ work.  Such a vital, ongoing intellectual conversation – about your writing and that of other scholars – comprises the heart of this course.  <em>To be effective as a seminar participant, you will need to complete reading and writing tasks with great care, and be able to demonstrate that you have done so.</em> Thoughtful attention and response to others’ comments is a part of being a member of this community. </p>
+<p><em>To commit fully to this community, I ask students to refrain from engaging with unrelated activities whilst in the virtual classroom space.</em></p>
+<p> </p>
+<p><strong>Individual Conferences:</strong> </p>
+<p>Each of you will meet with me individually at least once during the term to discuss your progress.  The purpose of our individual conference is to address in detail some of the ways you can accomplish successful revisions of your drafts as you work them into more polished, focused, and compelling work.</p>
+<p>Being absent for a conference without proper notice counts as a missed class. </p>
+<p><strong><u><br> </u></strong></p>
+<p><strong><u>*Tentative* Course Schedule:</u></strong></p>
+<p><strong><u>PART ONE</u></strong></p>
+<p><strong><u>Session 1: Thursday, 31 August</u></strong></p>
+<p><strong>In class</strong>:  Introductions and expectations.</p>
+<p>About writing: Purpose, Audience, Discourse Communities, Rhetorical Strategies and the process.  </p>
+<p><em>In-class writing assessment assignment</em>.  </p>
+<p><strong>Assignment for next class</strong>: read session 2 materials and be prepared to discuss your interpretations (not summaries!) of these in depth. Please take notes in a shareable format (e.g. save as a pdf, take a screenshot, take a photo) <span style="color: #339966;">so that you can share them in class</span>.</p>
+<p><strong><u> </u></strong></p>
+<p><strong><u>Session 2: Thursday, 7 September <br></u></strong></p>
+<p><strong>In-class</strong>: Discussion of reading assigned for class.   </p>
+<p>Discussion: What is an analysis? Identifying lenses for analysis - what directed your attention when you read the assignment? What work does the author do to invite discussion or thought about that lens?</p>
+<p><strong>Assignment for next class</strong>: draft your own analysis for Paper #1,<em> due next session</em><em>.</em></p>
+<p><strong><u> </u></strong></p>
+<p><strong><u>Session 3: Thursday, 14 September </u></strong></p>
+<p><strong>In-class:</strong> In-class workshops of Paper #1;</p>
+<p>Discussion: What makes peer-review effective?  How can we make it do some of the heavy lifting?</p>
+<p>About writing: Outline tool for Word.</p>
+<p><strong>Assignment for next class: </strong>Email consultation for paper 1 with me. Continue to draft your paper so that you can benefit from the workshop in the next session.</p>
+<br>
+<p><strong><u>Session 4: Thursday, 21 September </u></strong></p>
+<p><strong>In-class: </strong>“Last chance” workshops for Paper #1.</p>
+<p>Discussion: How do we navigate paper #1? What makes the process meaningful?</p>
+<p>About writing: Clarity, Brevity, and Overall Structure; Paragraph Structure;</p>
+<p><strong>Assignment for next class: </strong> <em>Final draft of analysis paper #1 due Monday 25 September. </em>Read session 5 materials and take notes on your assumptions, what is missing contextually, what questions are raised. Be prepared to share your notes.</p>
+<p> </p>
+<p><strong><u>Session 5: Thursday, 28 September </u></strong></p>
+<p><strong>In class</strong>: Introduce and assign paper# 2; concept maps.</p>
+<p>Discussion: Stakeholders and camps – for whom do you write and how do you decide?</p>
+<p><strong>Assignment for next class:</strong> Assignment for paper #2 due next session, be ready to share this in class. Sign up for individual conference</p>
+<p><strong> </strong></p>
+<p><strong><u>Session 6: Thursday, 5 October</u></strong></p>
+<p><strong>In-class: </strong>Discuss final project and sequence of events.  In-class workshop on Paper #2.</p>
+<p>Discussion: perspectives and lenses, revisited</p>
+<p><strong>Assignment for next class</strong>: Assignment for analysis essay #2 due next session; Session 7 reading.</p>
+<p> </p>
+<p><strong><u>Session 7: Thursday, 12 October </u></strong><em>(*depending on progress of assignments in sessions 5 and 6, contents of this session may be bumped to following week, including essay deadline*)</em></p>
+<p><strong>In-class:</strong> “Last chance” workshops for paper #2.</p>
+<p>About writing: final project pieces – chaos and order</p>
+<p><strong>Assignment for next class: </strong><em>Final draft of Analysis Paper #2 due Monday 16 October </em></p>
+<p><em> </em></p>
+<p><strong><u>PART TWO</u></strong></p>
+<p><strong><u>Session 8: Thursday, 19 October </u></strong></p>
+<p><strong>In class: </strong>Paper #3 workshop; Discuss possible branches for development, literature as source material (but not gospel).</p>
+<p><strong>Assignment for next class:</strong> TBD</p>
+<p> </p>
+<p><strong><u>Session 9: Thursday, 26 October </u></strong></p>
+<p><strong>In class: </strong>discuss annotated bibliography – grouping literature thematically, etc.</p>
+<p><strong>Assignment for next class: </strong>TBD</p>
+<p><strong><u> </u></strong></p>
+<p><strong><u>Session 10: Thursday, 2 November</u></strong></p>
+<p><strong>In class: </strong>continue discussion of annotated bibliography.  Questions that arise from annotated bibliography – which to pursue, what has been done.  If applicable: discussion of funding agencies and strategy for proposals.</p>
+<p><strong>Assignment for next class: </strong>TBD</p>
+<p><strong><u> </u></strong></p>
+<p><strong><u>Session 11: Thursday, 9 November </u></strong></p>
+<p><strong>In class: </strong>Presenting the findings to an audience round 1; exploring what has been done, future directions, what gets funded (and what does not). Putting together the pieces to construct an argument.</p>
+<p><strong>Assignment for next class: </strong>Identify the larger themes and subthemes of your topic.  Fill in as much as possible and <em>include your own questions about process or content</em> as they arise!</p>
+<p> </p>
+<p><strong><u>Session 12: Thursday, 16 November </u></strong></p>
+<p><strong>In class:</strong> Workshop paper #3 draft.</p>
+<p><strong>Assignment for next class: </strong>Work on presentation – 7 minutes to present your topic, questions raised for future directions and possible outcomes – do rehearse and get a sense for what information is crucial, what is less so, etc.</p>
+<p> </p>
+<p><strong><u>Session 13: Thursday, 30 November </u></strong></p>
+<p><strong>In class:</strong> Presenting findings round 2; feedback groups: what needs to be articulated, highlighting what’s important.</p>
+<p><strong>Assignment for next class: </strong>Write up your argument in brief; work on full version of paper #3.</p>
+<p><strong><u> </u></strong></p>
+<p><strong><u>Session 14: Thursday, 7 December </u></strong></p>
+<p><strong>In class:</strong> Arguments in brief and full version of paper #3, compared.</p>
+<p><strong>Assignment for next class: </strong>TBD</p>
+<p><strong><u> </u></strong></p>
+<p><strong><u>Session 15: Thursday, 14 December </u></strong></p>
+<p><strong>In class: </strong>Decisions for funding.</p>
+<p><strong><u>ALL FINAL WORK DUE THURSDAY, 14 DECEMBER</u></strong></p>
+<p><strong><u><br> </u></strong></p>
+<p><strong><u>Plagiarism Guide</u></strong>: </p>
+<p><em>Plagiarism is the act of passing off someone else's work as your own.</em>  Sometimes plagiarism is simple dishonesty.  People who buy, borrow, or steal a paper to turn in as their own work know they are plagiarizing.  Those who copy word-for-word - or who change a word here and there while copying - without enclosing the copied passage in quotation marks and identifying the author should know that they are plagiarizing.</p>
+<p>           </p>
+<p><em>But plagiarizing can be more complicated in act and intent.</em>  Paraphrasing, which is stating someone else's ideas, can be a useful way to support your own ideas, but it can lead to unintentional plagiarism.  Jotting down notes and ideas from sources and thoughtlessly using them without proper attributions to the authors or titles of those sources may result in a paper that is only a mosaic of your words and those of others that appear, nonetheless, to be yours.</p>
+<p>           </p>
+<p>Another innocent way to plagiarize is to allow your fellow students and friends - those outside your peer-review group - to give you too much rhetorical help or do too much editing and proofreading of your work.  If you think you have received substantial help in any way from people whose names will not appear as authors of the paper, acknowledge that help in a short sentence at the end of the paper or in your list of works cited.  If you are not sure how much help is too much, talk with me, so that we can decide what kind of outside-of-class help (and how much) is proper, and how to give credit where credit is due.</p>
+<p>           </p>
+<p>As they are drafting their work, conscientious writers keep careful track of when they use ideas and words from sources.  They diligently try to distinguish between their own ideas, those of others, and common knowledge.  They try to identify which part of their work comes from an identifiable source and then document their use of that source in accordance with established academic or professional conventions, such as a parenthetical citation and a works cited list.  If you are in doubt about what needs documentation, talk with your instructor.</p>
+<p>           </p>
+<p>When thinking about plagiarism, it is hard to avoid talking about ideas as if they were objects like tables and chairs.  Of course they are not.  You should not feel that you are under pressure to invent new ideas - which is probably impossible.  So-called original writing consists of thinking through ideas and expressing them in your own way.  <em>The result may not be entirely new, but if honestly done, it may well be interesting and worthwhile reading</em>.  Print or electronic sources, as well as other people, may add good ideas to your own thoughts.  When they do so in identifiable and specific ways, give them the credit they deserve. The following examples should clarify the difference between dishonest and proper uses of sources:</p>
+<p> </p>
+<p><strong>Original Source:</strong></p>
+<p>It is not generally recognized that at the same time when women are making their way into every corner of our work world, only one percent of the professional engineers in the nation are female.  A generation ago this statistic would have raised no eyebrows, but today it is hard to believe.  The engineering schools, reacting to social and governmental pressures, have opened wide their gates and are recruiting women with zeal.  The major corporations, reacting to even more intense pressures, are offering attractive employment opportunities to practically all women engineering graduates.</p>
+<p>            From Samuel C. Florman, "Engineering and the Female Mind" Copyright by <em>Harper's Magazine</em></p>
+<p> </p>
+<p><strong>Word-for-Word Plagiarizing:</strong></p>
+<p>In the following example, the writer devises part of the first sentence in  hopes that the reader won't notice that the rest of the paragraph is simply copied from the source.  The plagiarized words are italicized:</p>
+<p>Because women seem to be taking jobs of all kinds, <em>few people realize that only 1 percent of the professional engineers in the nation are female.  A generation ago this statistic</em> <em>would have raised no eyebrows, but today it is hard to believe.  The engineering schools, reacting to social and governmental pressures, have opened wide their gates and are recruiting women with zeal.  The major corporations, reacting to even more intense pressures, are offering attractive employment opportunities to practically all women engineering graduates</em>.</p>
+<p> </p>
+<p>Quotation marks around all the copied text, followed by a parenthetical citation, would avoid plagiarism.  But even if that were done, a reader might well wonder why so much was quoted from Florman.  Beyond that, a reader will wonder why the writer chose to quote instead of paraphrase this passage, which as a whole is not very quotable.  Furthermore, a paper consisting largely of quoted passages would be relatively worthless.</p>
+<p> </p>
+<p><strong>Plagiarizing by Paraphrasing</strong>:</p>
+<p>In this case the writer follows the progression of ideas in the source very closely - too closely - by substituting his or her own words and sentences for those of the original.</p>
+<p><strong> </strong></p>
+<p><strong><br> </strong></p>
+<p><strong>Original</strong></p>
+<p>It is not generally recognized that at the same time when women are making their way into every corner of our work world, only one percent of the professional engineers in the nation are female. </p>
+<p> </p>
+<p>A generation ago this statistic would have raised no eyebrows, but today it is hard to believe. </p>
+<p> </p>
+<p>The engineering schools, reacting to social and governmental pressures, have opened wide their gates and are recruiting women with zeal.  The major corporations, reacting to even more intense pressures, are offering attractive employment opportunities to practically all women engineering graduates.</p>
+<p><strong> </strong></p>
+<p><strong>Paraphrase</strong></p>
+<p>Few people realize, now that women are finding jobs in all fields, that a tiny percentage of the country's engineers are women.</p>
+<p> </p>
+<p> </p>
+<p>Years ago this would have surprised no one but now it seems incredible.</p>
+<p> </p>
+<p>Under great pressure, engineering schools are searching out women, and big companies are offering good jobs to practically all women who graduate with engineering degrees.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p>The writer appears to be generating his or her own ideas.  In fact, they are Florman's ideas presented in the writer's words without acknowledgment.  The writer could avoid plagiarism here by introducing the paraphrase with an attribution to Florman and following them with a parenthetical citation.  Such an introduction is underlined here:</p>
+<p>                        <u>Samuel Florman points out that</u> few people realize... (page number).</p>
+<p> </p>
+<p>Properly used, paraphrase is a valuable technique.  You should use it to simplify or summarize so that the ideas or information, properly attributed in the introduction and documented in a parenthetical citation may be woven into the pattern of your own ideas.  You should not use paraphrase simply to avoid quotation; you should use it to express another's ideas in your own words when those ideas are not worth quoting verbatim.</p>
+<p><strong> </strong></p>
+<p><strong>Mosaic Plagiarism</strong>:</p>
+<p>With this more sophisticated kind of plagiarism, the writer lifts phrases and terms from the source and embeds them into his of her own prose.  Words and phrases that the writer lifts verbatim or with slight changes are italicized:</p>
+<p>The pressure is on to get more women into engineering.  <em>The engineering schools and major corporations have opened wide their gates and are recruiting women</em> zealously.  <em>Practically all women engineering graduates</em> can find attractive jobs.  Nevertheless, at the moment, <em>only 1 percent of the professional engineers in the country are female.</em></p>
+<p> </p>
+<p>Even though mosaic plagiarism may be caused by sloppy note taking, <em>it always looks thoroughly dishonest</em> and will be judged as such.  Above, just adding an introduction and a parenthetical citation will not eliminate the plagiarism since quotation marks are not used where required.  Adding them would raise the question why the writer thinks those short phrases and basic statements are worth quoting.  The best solution is to paraphrase: recast the plagiarized parts in your own words, introduce the passage properly, and add a parenthetical citation.</p>
+<p><strong> </strong></p>
+<p><strong>Summary</strong></p>
+<p>Using quotation marks around original wording avoids the charge of plagiarism, but when overdone, makes for a patchwork paper.  When most of what you want to say comes from a source, either quote directly or paraphrase.  In both cases, introduce your borrowed words or ideas by attributing them to the author and follow them with a parenthetical citation.</p>
+<p>           </p>
+<p>The secret to using sources productively is to make them work to support and amplify your ideas.  If you find, as you work at paraphrasing, quoting, and citing, that you are only pasting sources together with a few of your own words and ideas - that too much of your paper comes from your sources and not enough from your own mind - then go back to the drawing board.  Try redrafting the paper without looking at your sources, using your own ideas.  Only after completing a draft should you add the specific words and ideas from your sources to support what you want to say.  <em>If you have any doubts, talk with me ASAP.</em></p>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td>
+<div class="content-box pad-box-micro border border-b border-t" style="background-color: whitesmoke;">
+<h2 style="text-align: center;"><a class="icon-rubric-dark" style="color: black; text-decoration: none;"> Course Information</a></h2>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<p> <iframe style="width: 100%; height: 200px;" title="Course Info" src="https://canvas-course-info.tlt.harvard.edu/course_info/widget.html?f=title&amp;f=course.registrar_code_display&amp;f=term.display_name&amp;f=instructors_display&amp;f=location&amp;f=meeting_time&amp;f=exam_group&amp;f=description&amp;f=notes" width="300" height="150" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen"></iframe> </p>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+</td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table>
+<table style="width: 30%; float: right;" cellspacing="10" cellpadding="9">
+<tbody>
+<tr>
+<td style="border-color: gray; background-color: whitesmoke;">
+<h2 style="text-align: center;"><span style="color: #000000;"><a class="icon-user" style="color: #000000;" href="/courses/7955" target="_blank"><span style="font-size: 10pt;">Student Support Tips</span></a></span></h2>
+</td>
+</tr>
+<tr>
+<td style="border-color: gray; background-color: whitesmoke;">
+<h2 style="text-align: center;"><span style="color: #000000;"><a class="icon-educators" style="color: #000000;" href="/courses/4514" target="_blank"><span style="font-size: 10pt;">Instructor Support Tips</span></a> </span></h2>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="clear: both;"> </p>
+</div>
+<div id="course_syllabus_details" style="display: none;">
+  <p>The syllabus page shows a table-oriented view of the course schedule, and the basics of
+course grading.  You can add any other comments, notes, or thoughts you have about the course
+structure, course policies or anything else.</p>
+
+<p>To add some comments, click the &quot;Edit&quot; link at the top.</p>
+</div>
+<form id="edit_course_syllabus_form" style="display: none; margin-bottom: 10px;" action="/courses/32939" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="GvP+gOUPklsCNAjnq+iEtQYIOcH02VcXmkNKclMnHthMwqvurVn9KltXZbPZ3uaHP0NbjYKIPierMGUWF0xSrA==" />
+  <div style="float: right;">
+    <a href="#" class="toggle_views_link toggle_html_editor_link">HTML Editor</a>
+    <a href="#" class="toggle_views_link toggle_rich_editor_link" style="display:none;">Rich Content Editor</a>
+  </div>
+  <label for="course_syllabus_body">Syllabus Description:</label>
+  <div class="clear"></div>
+  <textarea style="width: 100%; height: 300px;" id="course_syllabus_body" name="course[syllabus_body]">
+</textarea>
+  <div class='form-actions'>
+    <button type="button" class="btn cancel_button">Cancel</button>
+    <button type="submit" class='btn btn-primary'>Update Syllabus</button>
+  </div>
+</form>
+<h2>Course Summary:</h2>
+
+<div id="syllabusContainer">
+  <div id="syllabus_links">
+    <a id="toggle_special_dates_in_syllabus">&nbsp;</a>
+  </div>
+  <table id="syllabus" class="ic-Table--condensed">
+    <thead>
+      <tr>
+        <th scope="col" style="width: 25%;">Date</th>
+        <th scope="col" style="width: 75%;">Details</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td scope="row">
+          <span id="loading_indicator"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+          </div>
+        </div>
+        <div id="right-side-wrapper" class="ic-app-main-content__secondary">
+          <aside id="right-side" role="complementary">
+              
+<div id="sidebar_content">
+  
+<div class="mini_month">
+  <div class="mini-cal-header">
+    <button class="prev_month_link Button Button--icon-action"><i class="icon-arrow-open-left"></i><span class="screenreader-only">Prev month</span></button>
+    <button class="next_month_link Button Button--icon-action"><i class="icon-arrow-open-right"></i><span class="screenreader-only">Next month</span></button>
+    <span class="mini-cal-month-and-year">
+      <span class="month_name">September</span>
+      <span class="year_number">2017</span>
+    </span>
+  </div>
+  <div style="display: none;">
+    <span class="month_number">9</span>
+  </div>
+  <table class="mini_calendar" cellspacing="0">
+    <caption class="screenreader-only">Calendar</caption>
+    <thead>
+      <tr>
+          <th scope="col">
+            <span class="screenreader-only">
+              Sunday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Monday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Tuesday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Wednesday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Thursday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Friday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Saturday
+            </span>
+          </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_08_27" class="mini_calendar_day day other_month previous_month date_08_27_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                27
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_28" class="mini_calendar_day day other_month previous_month date_08_28_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                28
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_29" class="mini_calendar_day day other_month previous_month date_08_29_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                29
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_30" class="mini_calendar_day day other_month previous_month date_08_30_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                30
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_31" class="mini_calendar_day day other_month previous_month date_08_31_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                31
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_01" class="mini_calendar_day day current_month date_09_01_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                1
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_02" class="mini_calendar_day day current_month date_09_02_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                2
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_03" class="mini_calendar_day day current_month date_09_03_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                3
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_04" class="mini_calendar_day day current_month date_09_04_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                4
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_05" class="mini_calendar_day day current_month date_09_05_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                5
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_06" class="mini_calendar_day day current_month date_09_06_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                6
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_07" class="mini_calendar_day day current_month date_09_07_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                7
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_08" class="mini_calendar_day day current_month date_09_08_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                8
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_09" class="mini_calendar_day day current_month date_09_09_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                9
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_10" class="mini_calendar_day day current_month date_09_10_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                10
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_11" class="mini_calendar_day day current_month date_09_11_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                11
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_12" class="mini_calendar_day day current_month date_09_12_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                12
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_13" class="mini_calendar_day day current_month date_09_13_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                13
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_14" class="mini_calendar_day day current_month date_09_14_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                14
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_15" class="mini_calendar_day day current_month date_09_15_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                15
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_16" class="mini_calendar_day day current_month date_09_16_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                16
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_17" class="mini_calendar_day day current_month date_09_17_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                17
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_18" class="mini_calendar_day day current_month date_09_18_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                18
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_19" class="mini_calendar_day day current_month date_09_19_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                19
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_20" class="mini_calendar_day day current_month date_09_20_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                20
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_21" class="mini_calendar_day day current_month date_09_21_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                21
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_22" class="mini_calendar_day day current_month date_09_22_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                22
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_23" class="mini_calendar_day day current_month date_09_23_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                23
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_24" class="mini_calendar_day day current_month today date_09_24_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                24
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_25" class="mini_calendar_day day current_month date_09_25_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                25
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_26" class="mini_calendar_day day current_month date_09_26_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                26
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_27" class="mini_calendar_day day current_month date_09_27_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                27
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_28" class="mini_calendar_day day current_month date_09_28_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                28
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_29" class="mini_calendar_day day current_month date_09_29_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                29
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_30" class="mini_calendar_day day current_month date_09_30_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                30
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_10_01" class="mini_calendar_day day other_month next_month date_10_01_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                1
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_02" class="mini_calendar_day day other_month next_month date_10_02_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                2
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_03" class="mini_calendar_day day other_month next_month date_10_03_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                3
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_04" class="mini_calendar_day day other_month next_month date_10_04_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                4
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_05" class="mini_calendar_day day other_month next_month date_10_05_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                5
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_06" class="mini_calendar_day day other_month next_month date_10_06_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                6
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_07" class="mini_calendar_day day other_month next_month date_10_07_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                7
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+    
+<div role="complementary" aria-label="Assignment Weights">
+  <h2>Course assignments are not weighted.</h2>
+</div>
+
+</div>
+
+<div id="editor_tabs" class="ui-tabs--mini" style="display: none;">
+
+  <span class="wiki-sidebar-header" role="heading" aria-level="2">Insert Content into the Page</span>
+  <ul>
+    <li><a href="#editor_tabs_2">Links</a></li>
+    <li><a href="#editor_tabs_4">Images</a></li>
+  </ul>
+  <div id="editor_tabs_2" role="application">
+    Link to other content in the course.
+      <a href="/courses/32939/external_tools/retrieve?url=%7B%7B+url+%7D%7D" id="external_tool_retrieve_url" style="display: none;">&nbsp;</a>
+      <a href="/courses/32939/external_tools/%7B%7B%20id%20%7D%7D/resource_selection?editor=1" id="context_external_tool_resource_selection_url" style="display: none;">&nbsp;</a>
+    Click any page to insert a link to that page.
+    <div id="pages_accordion" class="ui-accordion--mini" role="tabpanel">
+      <a href="https://canvas.harvard.edu/courses/32939/pages/%7B%7B%20page_url%20%7D%7D" id="wiki_sidebar_wiki_url" style="display: none;">&nbsp;</a>
+      <div>
+        <div class="header" aria-controls="pages_tab_panel" role="tab"><a href="#">Wiki Pages</a></div>
+        <div id="pages_tab_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/32939/pages/web-conference-sessions">Web Conference Sessions</a></li>
+            </ul>
+        </div>
+      </div>
+      <div>
+        <div aria-controls="assignment_panel" role="tab" class="header" aria-controls="wiki_pages_panel"><a href="#">Assignments</a></div>
+         <div id="assignment_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this assignment"><a href="/courses/32939/assignments">Assignment List</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32939/assignments/163992">Goals</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32939/assignments/165931">Paper 1 advertisement and assignment sequence</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32939/assignments/170805">Paper 1 assignment 4 DUE Wednesday 21 Sep by 11:59PM, Harvard Yard time</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32939/assignments/171486">Paper 1 final draft DUE Tuesday 26 Sep 2017 by 11:59PM </a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/32939/assignments/165930">Writing sample</a></li>
+            </ul>
+         </div>
+      </div>
+      <div>
+        <div aria-controls="quizzes_panel" class="header" role="tab"><a href="#">Quizzes</a></div>
+         <div id="quizzes_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this quiz"><a href="/courses/32939/quizzes">Quiz List</a></li>
+            </ul>
+         </div>
+      </div>
+      <div>
+        <div class="header" aria-controls="announcements_panel" role="tab"><a href="#">Announcements</a></div>
+         <div id="announcements_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this announcement"><a href="/courses/32939/announcements">Announcements List</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/32939/announcements/232910">Error: Assignment posted in Canvas yesterday</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/32939/announcements/235344">Session 1 recap</a></li>
+            </ul>
+         </div>
+      </div>
+
+      <div>
+        <div role="tab" aria-controls="discussions_panel" class="header"><a href="#">Discussions</a></div>
+         <div id="discussions_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this topic"><a href="/courses/32939/discussion_topics">Discussion Index</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32939/discussion_topics/241020">On writing</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32939/discussion_topics/237106">What is the best way for me to communicate with you?</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/32939/discussion_topics/235345">Test discussion</a></li>
+            </ul>
+         </div>
+      </div>
+
+      <div>
+        <div role="tab" aria-controls="modules_panel" class="header"><a href="#">Modules</a></div>
+          <div id="modules_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this module"><a href="/courses/32939/modules">Modules List</a></li>
+            </ul>
+          </div>
+      </div>
+
+      <div>
+        <div class="header" role="tab" aria-controls="groups_panel"><a href="#">Course Navigation</a></div>
+         <div role="tabpanel" id="groups_panel">
+            <ul class="wiki_pages page_list">
+                <li title="Click to insert a link to the assignments page"><a href="/courses/32939/assignments">Assignment List</a></li>
+                <li title="Click to insert a link to the wiki"><a href="https://canvas.harvard.edu/courses/32939/pages">Wiki Home</a></li>
+                <li title="Click to insert a link to the discussions page"><a href="/courses/32939/discussion_topics">Discussions Index</a></li>
+                <li title="Click to insert a link to the syllabus"><a href="/courses/32939/assignments/syllabus">Course Syllabus</a></li>
+                <li title="Click to insert a link to the announcements page"><a href="/courses/32939/announcements">Announcement List</a></li>
+                <li title="Click to insert a link to the files page"><a href="/courses/32939/files">Files Index</a></li>
+                <li title="Click to insert a link to the collaborations page"><a href="/courses/32939/collaborations">Collaborations</a></li>
+                <li title="Click to insert a link to the grades page"><a href="/courses/32939/grades">Grades</a></li>
+                <li title="Click to insert a link to the people page"><a href="/courses/32939/users">People</a></li>
+                <li title="Click to insert a link to the modules page"><a href="/courses/32939/modules">Modules</a></li>
+            </ul>
+         </div>
+      </div>
+    </div>
+
+  </div>
+  <div aria-atomic="true" id="editor_tabs_4">
+    Click any image to embed the image in the page.
+    <div>
+      <a tabindex="0" href="#" class="find_new_image_link find">Find images on flickr creative commons</a>
+    </div>
+    <div id="wiki_sidebar_image_uploads" class="uploading_file_list uploading_image_list" style="display: none;">
+      <div class="uploading">
+        Uploading <span class="filename">file</span>...
+        <div>
+          <img alt="Loading..." src="https://du11hjcvx0uqb.cloudfront.net/dist/images/ajax-loader-bar-71e6988298.gif" />
+        </div>
+      </div>
+      <div class="remaining">
+        <span class="files_remaining">0</span> more to upload
+      </div>
+      
+<a href="#" style="text-align: center display: none;" class="img_link" title="Click to embed image">
+  <div class="img_holder">
+    <img class="img" data-url="" src="" alt="{{ display_name }}" title="Click to embed {{ display_name }}">
+  </div>
+  <div class="display_name">{{ display_name }}</div>
+</a>
+
+    </div>
+    <div class="image_list_holder ">
+      <div class="dragging_message">Drop Images Here to upload</div>
+      <div class="image_list" style="max-height: 300px; overflow: auto;" data-url="/courses/32939/images">
+      </div>
+    </div>
+  </div>
+  <div style="display: none;">
+    <a href="/services?service_type=BookmarkService" class="bookmark_services_url">&nbsp;</a>
+    <a href="/search/bookmarks?q=%7B%7B+query+%7D%7D&amp;service_type=%7B%7B+service_type+%7D%7D" class="bookmark_search_url">&nbsp;</a>
+    <span class="context_code">course_32939</span>
+    <div id="wiki_sidebar_select_folder_dialog">
+      Select a destination folder for these <span class="file_count">&nbsp;</span> files:
+      <div style="margin: 20px;">
+        <select class="folder_id">
+        </select>
+      </div>
+      <div class="button-container">
+        <button type="button" class="btn select_button">Upload Files to Folder</button>
+        <button type="button" class="btn cancel_button btn button-secondary">Cancel</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+          </aside>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    <div style="display:none;"><!-- Everything inside of this should always stay hidden -->
+    </div>
+    
+<div id="cant_record_dialog" style="display: none;">
+  <div>
+    In order to create video or audio recordings your computer needs to be 
+    webcam-enabled.  If you don&#39;t have a webcam on your computer, you can still
+    record audio-only messages by first installing the Google Video Chat
+    plugin.
+  </div>
+  <div style="text-align: center; font-size: 1.5em; margin: 10px;">
+    <a href="http://www.google.com/chat/video" target="_blank" class="btn">Install the Video Plugin</a>
+  </div>
+  <div class="links" style="text-align: right; font-size: 0.8em; display: none;">
+    <a href="#" class="cant_record_link">Don&#39;t have a webcam?</a>
+  </div>
+</div>
+  <div id='aria_alerts' class='hide-text affix' role="alert" aria-live="assertive"></div>
+  <div id='StudentTray__Container'></div>
+  <script>
+  INST = {"environment":"production","allowMediaComments":true,"kalturaSettings":{"domain":"nv.instructuremedia.com","resource_domain":"nv.instructuremedia.com","rtmp_domain":"fms-prod.instructuremedia.com","partner_id":"9","subpartner_id":"0","player_ui_conf":"0","kcw_ui_conf":"0","upload_ui_conf":"0","max_file_size_bytes":534773760,"do_analytics":false,"hide_rte_button":false,"js_uploader":true},"googleAnalyticsAccount":"UA-9138420-1","disableScribdPreviews":true,"logPageViews":true,"maxVisibleEditorButtons":3,"editorButtons":[{"name":"YouTube","id":18015,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=youtube","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/youtube_icon.png","canvas_icon_class":null,"width":560,"height":600},{"name":"Vimeo","id":18016,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=vimeo","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/vimeo_icon.png","canvas_icon_class":null,"width":560,"height":600},{"name":"DCE Matterhorn Course Recordings","id":19109,"url":"https://dce-mhvideo-lti.herokuapp.com/mhvideo_lti/lti_launch","icon_url":"https://dce-mhvideo-lti.herokuapp.com/static/images/television.png","canvas_icon_class":null,"width":800,"height":400},{"name":"Course Info","id":20525,"url":"https://canvas-course-info.tlt.harvard.edu/course_info/lti_launch","icon_url":"https://canvas-course-info.tlt.harvard.edu/static/images/course-info.png","canvas_icon_class":null,"width":800,"height":400}]};
+  ENV = {"ASSET_HOST":"https://du11hjcvx0uqb.cloudfront.net","active_brand_config":"af37e5be444f4a553c9c812a9a990322","active_brand_config_json_url":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.json","url_to_what_gets_loaded_inside_the_tinymce_editor_css":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/what_gets_loaded_inside_the_tinymce_editor-542d1c188c.css","current_user_id":null,"current_user":{},"current_user_roles":null,"current_user_disabled_inbox":null,"files_domain":"cluster28-files.instructure.com","DOMAIN_ROOT_ACCOUNT_ID":18750000000000001,"k12":false,"help_link_name":"Help","help_link_icon":"help","use_high_contrast":null,"SETTINGS":{"open_registration":false,"eportfolios_enabled":true,"collapse_global_nav":null,"show_feedback_link":true,"enable_profiles":true},"context_asset_string":"course_32939","ping_url":"https://canvas.harvard.edu/api/v1/courses/32939/ping","TIMEZONE":"America/New_York","CONTEXT_TIMEZONE":"America/New_York","LOCALE":"en","BIGEASY_LOCALE":"en_US","FULLCALENDAR_LOCALE":"en","MOMENT_LOCALE":"en","RICH_CONTENT_SERVICE_ENABLED":true,"RICH_CONTENT_APP_HOST":"rich-content-iad.inscloudgate.net","RICH_CONTENT_CDN_HOST":"dvgcns7dz7zc.cloudfront.net/rce_service/versions/","RICH_CONTENT_SIDEBAR_SOURCE":"api","RICH_CONTENT_CAN_UPLOAD_FILES":false,"CONTEXT_ACTION_SOURCE":"syllabus","NEW_USER_TUTORIALS":{"is_enabled":false},"SYLLABUS_PER_PAGE":"100","CAN_READ":false,"SYLLABUS_BODY":"\u003cp\u003e\u003cimg style=\"width: 100%;\" src=\"/courses/32939/files/4155507/preview?verifier=kXOSkCoTNtCKLPMYkyyvsld8DJ7Tqbl0DU29DXDP\" alt=\"Marquee image: Harvard Extension School shield on decorative paper\" data-api-endpoint=\"https://canvas.harvard.edu/api/v1$IMS-CC-FILEBASE$/Template%20images/PaperShieldBanner.png?canvas_download=1\u0026amp;canvas_qs_verifier=KBdi7qbAsL1oyUp6f839HnhJ3DhpxlrUFFSzkluL\" data-api-returntype=\"File\"\u003e\u003c/p\u003e\n\u003ctable class=\"ic-Table\" style=\"width: 100%;\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cdiv class=\"content-box pad-box-micro border border-b border-t\" style=\"background-color: whitesmoke;\"\u003e\n\u003ch2 style=\"text-align: center;\"\u003e\u003ca class=\"icon-syllabus\" style=\"color: black; text-decoration: none;\"\u003e Syllabus\u003c/a\u003e\u003c/h2\u003e\n\u003c/div\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cp\u003e EXPO E-42c/W Section 3: Writing in the Sciences\u003c/p\u003e\n\u003cp\u003eFall Semester 2017\u003c/p\u003e\n\u003cp\u003eThursdays 8-10 PM (31 Aug -14 Dec 2017)\u003c/p\u003e\n\u003cp\u003eInstructor: Cynthia F.C. Hill  \u003c/p\u003e\n\u003cp\u003echill02@tufts.edu\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e\u003cbr\u003e \u003c/em\u003e \u003cstrong\u003e\u003cem\u003e\u003cbr\u003e \u003c/em\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cem\u003eNote: this syllabus may be subject to small changes\u003c/em\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003ch4\u003eCourse Description:\u003c/h4\u003e\n\u003cp\u003eAdvancements in genetic engineering and the farm­to­table movement have pushed consumers to think about where our food comes from, food production practices, and the implications of our choices as stakeholders in this complex equation. In this expository writing seminar, we will explore three interconnected themes: food production, sustainability, and nutrition. Students will read peer­reviewed research literature as well as other relevant source material to gain disciplinary literacy on ecological and biotechnological approaches to food production. Students will develop skills in both written and verbal communication for different audiences via in­class and take­home assignments. Students will use skills gained through these assignments to complete three main papers that are described briefly here: 1) analysis of a lay article with claims rooted in scientific research, 2) research and analysis of a claim that originates from advertisement or the media 3) review of current scientific literature, identification and proposal of an area of development pertaining to one of the three core themes of the course.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eGuidelines for writing-intensive courses (mandatory description adapted from the Extension School catalog):\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eWriting-intensive courses at Harvard Extension offer students the opportunity to develop their writing skills in the context of a particular academic discipline, and they all feature common elements.  Students will:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003edevelop core writing skills, as defined by the instructor, in the discipline of the course;\u003c/li\u003e\n\u003cli\u003ecomplete multiple writing assignments of varying lengths, at least 2 of which must be revised;\u003c/li\u003e\n\u003cli\u003eproduce a minimum of 10-12 pages of writing, exclusive of the required drafts, over the course of the term;\u003c/li\u003e\n\u003cli\u003emeet at least once in individual conference (in person, by phone, or electronically) with the instructor to discuss writing in progress;\u003c/li\u003e\n\u003cli\u003ereceive detailed feedback on their drafts and revisions, on both content and expression.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eTexts:\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eReadings will be available via the course website. These are purposely brief (5-10 pages long), to encourage you to engage with the content on a deeper level. Sometimes, supplemental readings will be provided, in case you wish to gain more contextual understanding of our topic.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch4\u003e \u003c/h4\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003e\u003cbr\u003e \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003ch4\u003eCourse Design, requirements, and expectations:\u003c/h4\u003e\n\u003cp\u003e\u003cstrong\u003ePrerequisites:\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eAs this is an intensive writing class, it is important that you have the basic skills to complete the core requirements thereof. Thus, on the first day of class, I will ask for an in-class writing sample to make sure you are prepared to write at the level required in this course.  If I have any concerns about your ability to succeed in this class, I will communicate with you confidentially via e-mail.\u003c/li\u003e\n\u003cli\u003eThis seminar is designed for students to interact with one another as we work together to gain understanding of the material and of the writing process. \u003cem\u003ePlease be prepared to commit your attention to each session and to share your writing and your ideas with your classmates so that our time together is as productive as possible\u003c/em\u003e.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003e \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eContacting me:  \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eI will respond to email messages within 24 hours, Monday through Friday. \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAttendance:  \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eIt is the policy of the Harvard Extension School Writing Program that students who miss more than two class meetings risk being failed. Because Writing Program courses depend on sequential writing activities, group workshopping, and lively class discussion, your consistent attendance is essential.  \u003cstrong\u003eConsistent lateness by more than twenty minutes will begin to count as absences after the second time\u003c/strong\u003e.  If you must miss a class, your assigned work is still due on time.  Please get in touch with a classmate to learn what was covered. \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAssignments and Homework\u003c/strong\u003e:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eYou will complete two short (4-6) page analytical essays and a longer-format paper (8-10 pages) that pertains to one of the three central themes of this course, which includes a brief review of the literature and proposes a new direction of development for the field. You will also deliver a brief presentation on your paper to the class.  Shorter writing assignments that feed into your three formal papers will be incorporated into the course.\u003c/li\u003e\n\u003cli\u003eYou will read peer-reviewed scientific literature and learn how to interpret and use that information for communication elsewhere.\u003c/li\u003e\n\u003cli\u003eWe may have pop quizzes on grammar, syntax, and other basic writing issues and/or in-class writing sample tests throughout the semester.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eCompletion of work:\u003c/strong\u003e \u003c/p\u003e\n\u003cp\u003eBecause the writing course is a planned sequence of assignments that build upon each other, and because writing workshops affect the schedule of the entire class, you must complete all the assigned exercises and stories to pass the course.  You must also write them on schedule – not in the last few days of the term after you have fallen behind.  Allow for computer problems and other mechanical failures; I recommend you print out and save hardcopies of all your work.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAccessibility services:\u003c/strong\u003e \u003c/p\u003e\n\u003cp\u003eThe Extension School is committed to providing an accessible academic community. The Accessibility Services Office offers a variety of accommodations and services to students with documented disabilities. Please visit www.extension.harvard.edu/accessibility-student-services for more information.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cbr\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAcademic Honesty:\u003c/strong\u003e \u003c/p\u003e\n\u003cp\u003eFollowing is Harvard College’s policy on academic honesty as stated in the Handbook for Students:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cem\u003eAll homework assignments, projects, lab reports, papers, and examinations submitted to a course are expected to be the student’s own work. Students should take great care to distinguish their own ideas and knowledge from information derived from sources.  The term “sources” includes not only published primary and secondary material, but also information and opinions gained directly from other people.\u003c/em\u003e\u003c/li\u003e\n\u003cli\u003e\u003cem\u003eThe responsibility for learning the proper forms of citation lies with the individual student. Quotations must be placed properly within quotation marks and must be cited fully.  In addition, all paraphrased material must be acknowledged completely.  Whenever ideas or facts are derived from a student’s reading and research or from a student’s own writing, the sources must be indicated.\u003c/em\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003ePlagiarism:\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003ePlagiarism is the theft of someone else’s ideas and work.  Whether a student copies verbatim or simply rephrases the ideas of another without properly acknowledging the source, the theft is the same.  A computer program written as part of the student’s academic work is, like a paper, expected to be the student’s original work and subject to the same standards of representation.  In the preparation of work submitted to meet course requirements, whether a draft or final version of a paper, project, assignment, computer program, or take-home examination, students must take great care to distinguish their own ideas and language from information derived from sources. \u003c/p\u003e\n\u003cp\u003eSources include published primary and secondary materials, the Internet, and information and opinions gained directly from other people.  Whenever ideas or facts are derived from a student’s reading or research, the sources must be properly cited.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eTHERE IS A PLAGIARISM GUIDE INCLUDED AT THE END OF THIS SYLLABUS\u003c/strong\u003e. You are responsible for familiarizing yourself with this guide and may be quizzed on it during the course of the semester.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cem\u003eYou are responsible for understanding Harvard Extension School policies on academic integrity (\u003c/em\u003e\u003ca href=\"http://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity\"\u003e\u003cem\u003ewww.extension.harvard.edu/resources-policies/student-conduct/academic-integrity\u003c/em\u003e\u003c/a\u003e\u003cem\u003e) and how to use sources responsibly. \u003c/em\u003eNot knowing the rules, misunderstanding the rules, running out of time, submitting the wrong draft, or being overwhelmed with multiple demands are not acceptable excuses. \u003cem\u003eThere are no excuses for failure to uphold academic integrity. To support your learning about academic citation rules, please visit the Harvard Extension School Tips to Avoid Plagiarism (\u003c/em\u003e\u003ca href=\"http://www.extension.harvard.edu/resources-policies/resources/tips-avoid-plagiarism\"\u003e\u003cem\u003ewww.extension.harvard.edu/resources-policies/resources/tips-avoid-plagiarism\u003c/em\u003e\u003c/a\u003e\u003cem\u003e), where you'll find links to the Harvard Guide to Using Sources and two free online 15-minute tutorials to test your knowledge of academic citation policy. The tutorials are anonymous open-learning tools.\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eFormat for Writing Assignments:  \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eAll work must be typed and \u003cstrong\u003ethoroughly proofread\u003c/strong\u003e.  For the most part, please use one-inch margins, 12 pt. font in Times, or Times New Roman.  In addition please note that formatting guidelines may change based on the various documents we construct.\u003c/p\u003e\n\u003cp\u003e\u003cem\u003ePlease submit all documents as PDFs unless otherwise instructed\u003c/em\u003e.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cbr\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eGrading: \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eStudents who turn in all the work that is asked of them, who demonstrate a solid introductory understanding of craft, and who produce compelling work, may earn top grades. \u003c/p\u003e\n\u003cp\u003eStudents who do not pass in all the work required of them may not receive a passing grade.  Work that indicates a lack of effort or interest – shoddy work, containing excessive and careless errors – will affect your grade, as will the lack of participation in class, or the failure to keep up with your weekly reading and writing assignments. \u003c/p\u003e\n\u003cp\u003e\u003cem\u003eGrading breakdown is as follows:\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"text-decoration: underline;\"\u003eWriting assignments:\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003eAnalysis papers 1 and 2 (15% each)                                                  30%\u003c/p\u003e\n\u003cp\u003eFinal writing assignment, paper 3                                                       30%\u003c/p\u003e\n\u003cp\u003eOral Presentation                                                                                15%    \u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"text-decoration: underline;\"\u003eCourse participation\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003eLeading and participating in weekly discussions                                 5%\u003c/p\u003e\n\u003cp\u003eIn-class exercises, reading notes, e-mail communication, drafts/outlines/activities for major writing assignments, etc.                                                                     20%\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eGrades reflect the quality and quantity of a student's work submitted throughout the term according to the grading standards listed below. Undergraduate- and graduate-credit students may earn the following grades:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cstrong\u003eA \u003c/strong\u003eand\u003cstrong\u003e A-\u003c/strong\u003e grades represent work whose superior quality indicates a full mastery of the subject and, in the case of \u003cstrong\u003eA,\u003c/strong\u003e work of \u003cstrong\u003e\u003cem\u003eextraordinary distinction\u003c/em\u003e\u003c/strong\u003e. There is no grade of A+.\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eB+, B, \u003c/strong\u003eand\u003cstrong\u003e B-\u003c/strong\u003e grades represent work of good to very good quality throughout the term; however, it does not merit special distinction.\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eC+, C, \u003c/strong\u003eand\u003cstrong\u003e C-\u003c/strong\u003e grades designate an average command of the course material.\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eD+, D, \u003c/strong\u003eand\u003cstrong\u003e D-\u003c/strong\u003e grades indicate work that shows a deficiency in knowledge of the material.\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eE \u003c/strong\u003eis a failing grade representing work that deserves no credit. \u003cstrong\u003eE\u003c/strong\u003e may also be assigned to students who do not submit required work in courses from which they have not officially withdrawn by the deadline.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eClass Participation:\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eTo foster an intellectual community in class, the course is structured as a seminar.  Throughout the term, we will be discussing the work of both professional and student writers, and it is crucial that you come to class prepared to offer insightful comments on assigned readings, as well as helpful feedback on your peers’ work.  Such a vital, ongoing intellectual conversation – about your writing and that of other scholars – comprises the heart of this course.  \u003cem\u003eTo be effective as a seminar participant, you will need to complete reading and writing tasks with great care, and be able to demonstrate that you have done so.\u003c/em\u003e Thoughtful attention and response to others’ comments is a part of being a member of this community. \u003c/p\u003e\n\u003cp\u003e\u003cem\u003eTo commit fully to this community, I ask students to refrain from engaging with unrelated activities whilst in the virtual classroom space.\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eIndividual Conferences:\u003c/strong\u003e \u003c/p\u003e\n\u003cp\u003eEach of you will meet with me individually at least once during the term to discuss your progress.  The purpose of our individual conference is to address in detail some of the ways you can accomplish successful revisions of your drafts as you work them into more polished, focused, and compelling work.\u003c/p\u003e\n\u003cp\u003eBeing absent for a conference without proper notice counts as a missed class. \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003e\u003cbr\u003e \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003e*Tentative* Course Schedule:\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003ePART ONE\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eSession 1: Thursday, 31 August\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eIn class\u003c/strong\u003e:  Introductions and expectations.\u003c/p\u003e\n\u003cp\u003eAbout writing: Purpose, Audience, Discourse Communities, Rhetorical Strategies and the process.  \u003c/p\u003e\n\u003cp\u003e\u003cem\u003eIn-class writing assessment assignment\u003c/em\u003e.  \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAssignment for next class\u003c/strong\u003e: read session 2 materials and be prepared to discuss your interpretations (not summaries!) of these in depth. Please take notes in a shareable format (e.g. save as a pdf, take a screenshot, take a photo) \u003cspan style=\"color: #339966;\"\u003eso that you can share them in class\u003c/span\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003e \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eSession 2: Thursday, 7 September \u003cbr\u003e\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eIn-class\u003c/strong\u003e: Discussion of reading assigned for class.   \u003c/p\u003e\n\u003cp\u003eDiscussion: What is an analysis? Identifying lenses for analysis - what directed your attention when you read the assignment? What work does the author do to invite discussion or thought about that lens?\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAssignment for next class\u003c/strong\u003e: draft your own analysis for Paper #1,\u003cem\u003e due next session\u003c/em\u003e\u003cem\u003e.\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003e \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eSession 3: Thursday, 14 September \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eIn-class:\u003c/strong\u003e In-class workshops of Paper #1;\u003c/p\u003e\n\u003cp\u003eDiscussion: What makes peer-review effective?  How can we make it do some of the heavy lifting?\u003c/p\u003e\n\u003cp\u003eAbout writing: Outline tool for Word.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAssignment for next class: \u003c/strong\u003eEmail consultation for paper 1 with me. Continue to draft your paper so that you can benefit from the workshop in the next session.\u003c/p\u003e\n\u003cbr\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eSession 4: Thursday, 21 September \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eIn-class: \u003c/strong\u003e“Last chance” workshops for Paper #1.\u003c/p\u003e\n\u003cp\u003eDiscussion: How do we navigate paper #1? What makes the process meaningful?\u003c/p\u003e\n\u003cp\u003eAbout writing: Clarity, Brevity, and Overall Structure; Paragraph Structure;\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAssignment for next class: \u003c/strong\u003e \u003cem\u003eFinal draft of analysis paper #1 due Monday 25 September. \u003c/em\u003eRead session 5 materials and take notes on your assumptions, what is missing contextually, what questions are raised. Be prepared to share your notes.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eSession 5: Thursday, 28 September \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eIn class\u003c/strong\u003e: Introduce and assign paper# 2; concept maps.\u003c/p\u003e\n\u003cp\u003eDiscussion: Stakeholders and camps – for whom do you write and how do you decide?\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAssignment for next class:\u003c/strong\u003e Assignment for paper #2 due next session, be ready to share this in class. Sign up for individual conference\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eSession 6: Thursday, 5 October\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eIn-class: \u003c/strong\u003eDiscuss final project and sequence of events.  In-class workshop on Paper #2.\u003c/p\u003e\n\u003cp\u003eDiscussion: perspectives and lenses, revisited\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAssignment for next class\u003c/strong\u003e: Assignment for analysis essay #2 due next session; Session 7 reading.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eSession 7: Thursday, 12 October \u003c/u\u003e\u003c/strong\u003e\u003cem\u003e(*depending on progress of assignments in sessions 5 and 6, contents of this session may be bumped to following week, including essay deadline*)\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eIn-class:\u003c/strong\u003e “Last chance” workshops for paper #2.\u003c/p\u003e\n\u003cp\u003eAbout writing: final project pieces – chaos and order\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAssignment for next class: \u003c/strong\u003e\u003cem\u003eFinal draft of Analysis Paper #2 due Monday 16 October \u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cem\u003e \u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003ePART TWO\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eSession 8: Thursday, 19 October \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eIn class: \u003c/strong\u003ePaper #3 workshop; Discuss possible branches for development, literature as source material (but not gospel).\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAssignment for next class:\u003c/strong\u003e TBD\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eSession 9: Thursday, 26 October \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eIn class: \u003c/strong\u003ediscuss annotated bibliography – grouping literature thematically, etc.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAssignment for next class: \u003c/strong\u003eTBD\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003e \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eSession 10: Thursday, 2 November\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eIn class: \u003c/strong\u003econtinue discussion of annotated bibliography.  Questions that arise from annotated bibliography – which to pursue, what has been done.  If applicable: discussion of funding agencies and strategy for proposals.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAssignment for next class: \u003c/strong\u003eTBD\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003e \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eSession 11: Thursday, 9 November \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eIn class: \u003c/strong\u003ePresenting the findings to an audience round 1; exploring what has been done, future directions, what gets funded (and what does not). Putting together the pieces to construct an argument.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAssignment for next class: \u003c/strong\u003eIdentify the larger themes and subthemes of your topic.  Fill in as much as possible and \u003cem\u003einclude your own questions about process or content\u003c/em\u003e as they arise!\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eSession 12: Thursday, 16 November \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eIn class:\u003c/strong\u003e Workshop paper #3 draft.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAssignment for next class: \u003c/strong\u003eWork on presentation – 7 minutes to present your topic, questions raised for future directions and possible outcomes – do rehearse and get a sense for what information is crucial, what is less so, etc.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eSession 13: Thursday, 30 November \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eIn class:\u003c/strong\u003e Presenting findings round 2; feedback groups: what needs to be articulated, highlighting what’s important.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAssignment for next class: \u003c/strong\u003eWrite up your argument in brief; work on full version of paper #3.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003e \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eSession 14: Thursday, 7 December \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eIn class:\u003c/strong\u003e Arguments in brief and full version of paper #3, compared.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAssignment for next class: \u003c/strong\u003eTBD\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003e \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eSession 15: Thursday, 14 December \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eIn class: \u003c/strong\u003eDecisions for funding.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003eALL FINAL WORK DUE THURSDAY, 14 DECEMBER\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003e\u003cbr\u003e \u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cu\u003ePlagiarism Guide\u003c/u\u003e\u003c/strong\u003e: \u003c/p\u003e\n\u003cp\u003e\u003cem\u003ePlagiarism is the act of passing off someone else's work as your own.\u003c/em\u003e  Sometimes plagiarism is simple dishonesty.  People who buy, borrow, or steal a paper to turn in as their own work know they are plagiarizing.  Those who copy word-for-word - or who change a word here and there while copying - without enclosing the copied passage in quotation marks and identifying the author should know that they are plagiarizing.\u003c/p\u003e\n\u003cp\u003e           \u003c/p\u003e\n\u003cp\u003e\u003cem\u003eBut plagiarizing can be more complicated in act and intent.\u003c/em\u003e  Paraphrasing, which is stating someone else's ideas, can be a useful way to support your own ideas, but it can lead to unintentional plagiarism.  Jotting down notes and ideas from sources and thoughtlessly using them without proper attributions to the authors or titles of those sources may result in a paper that is only a mosaic of your words and those of others that appear, nonetheless, to be yours.\u003c/p\u003e\n\u003cp\u003e           \u003c/p\u003e\n\u003cp\u003eAnother innocent way to plagiarize is to allow your fellow students and friends - those outside your peer-review group - to give you too much rhetorical help or do too much editing and proofreading of your work.  If you think you have received substantial help in any way from people whose names will not appear as authors of the paper, acknowledge that help in a short sentence at the end of the paper or in your list of works cited.  If you are not sure how much help is too much, talk with me, so that we can decide what kind of outside-of-class help (and how much) is proper, and how to give credit where credit is due.\u003c/p\u003e\n\u003cp\u003e           \u003c/p\u003e\n\u003cp\u003eAs they are drafting their work, conscientious writers keep careful track of when they use ideas and words from sources.  They diligently try to distinguish between their own ideas, those of others, and common knowledge.  They try to identify which part of their work comes from an identifiable source and then document their use of that source in accordance with established academic or professional conventions, such as a parenthetical citation and a works cited list.  If you are in doubt about what needs documentation, talk with your instructor.\u003c/p\u003e\n\u003cp\u003e           \u003c/p\u003e\n\u003cp\u003eWhen thinking about plagiarism, it is hard to avoid talking about ideas as if they were objects like tables and chairs.  Of course they are not.  You should not feel that you are under pressure to invent new ideas - which is probably impossible.  So-called original writing consists of thinking through ideas and expressing them in your own way.  \u003cem\u003eThe result may not be entirely new, but if honestly done, it may well be interesting and worthwhile reading\u003c/em\u003e.  Print or electronic sources, as well as other people, may add good ideas to your own thoughts.  When they do so in identifiable and specific ways, give them the credit they deserve. The following examples should clarify the difference between dishonest and proper uses of sources:\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eOriginal Source:\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eIt is not generally recognized that at the same time when women are making their way into every corner of our work world, only one percent of the professional engineers in the nation are female.  A generation ago this statistic would have raised no eyebrows, but today it is hard to believe.  The engineering schools, reacting to social and governmental pressures, have opened wide their gates and are recruiting women with zeal.  The major corporations, reacting to even more intense pressures, are offering attractive employment opportunities to practically all women engineering graduates.\u003c/p\u003e\n\u003cp\u003e            From Samuel C. Florman, \"Engineering and the Female Mind\" Copyright by \u003cem\u003eHarper's Magazine\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWord-for-Word Plagiarizing:\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eIn the following example, the writer devises part of the first sentence in  hopes that the reader won't notice that the rest of the paragraph is simply copied from the source.  The plagiarized words are italicized:\u003c/p\u003e\n\u003cp\u003eBecause women seem to be taking jobs of all kinds, \u003cem\u003efew people realize that only 1 percent of the professional engineers in the nation are female.  A generation ago this statistic\u003c/em\u003e \u003cem\u003ewould have raised no eyebrows, but today it is hard to believe.  The engineering schools, reacting to social and governmental pressures, have opened wide their gates and are recruiting women with zeal.  The major corporations, reacting to even more intense pressures, are offering attractive employment opportunities to practically all women engineering graduates\u003c/em\u003e.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eQuotation marks around all the copied text, followed by a parenthetical citation, would avoid plagiarism.  But even if that were done, a reader might well wonder why so much was quoted from Florman.  Beyond that, a reader will wonder why the writer chose to quote instead of paraphrase this passage, which as a whole is not very quotable.  Furthermore, a paper consisting largely of quoted passages would be relatively worthless.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003ePlagiarizing by Paraphrasing\u003c/strong\u003e:\u003c/p\u003e\n\u003cp\u003eIn this case the writer follows the progression of ideas in the source very closely - too closely - by substituting his or her own words and sentences for those of the original.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cbr\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eOriginal\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eIt is not generally recognized that at the same time when women are making their way into every corner of our work world, only one percent of the professional engineers in the nation are female. \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eA generation ago this statistic would have raised no eyebrows, but today it is hard to believe. \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eThe engineering schools, reacting to social and governmental pressures, have opened wide their gates and are recruiting women with zeal.  The major corporations, reacting to even more intense pressures, are offering attractive employment opportunities to practically all women engineering graduates.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eParaphrase\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eFew people realize, now that women are finding jobs in all fields, that a tiny percentage of the country's engineers are women.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eYears ago this would have surprised no one but now it seems incredible.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eUnder great pressure, engineering schools are searching out women, and big companies are offering good jobs to practically all women who graduate with engineering degrees.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eThe writer appears to be generating his or her own ideas.  In fact, they are Florman's ideas presented in the writer's words without acknowledgment.  The writer could avoid plagiarism here by introducing the paraphrase with an attribution to Florman and following them with a parenthetical citation.  Such an introduction is underlined here:\u003c/p\u003e\n\u003cp\u003e                        \u003cu\u003eSamuel Florman points out that\u003c/u\u003e few people realize... (page number).\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eProperly used, paraphrase is a valuable technique.  You should use it to simplify or summarize so that the ideas or information, properly attributed in the introduction and documented in a parenthetical citation may be woven into the pattern of your own ideas.  You should not use paraphrase simply to avoid quotation; you should use it to express another's ideas in your own words when those ideas are not worth quoting verbatim.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eMosaic Plagiarism\u003c/strong\u003e:\u003c/p\u003e\n\u003cp\u003eWith this more sophisticated kind of plagiarism, the writer lifts phrases and terms from the source and embeds them into his of her own prose.  Words and phrases that the writer lifts verbatim or with slight changes are italicized:\u003c/p\u003e\n\u003cp\u003eThe pressure is on to get more women into engineering.  \u003cem\u003eThe engineering schools and major corporations have opened wide their gates and are recruiting women\u003c/em\u003e zealously.  \u003cem\u003ePractically all women engineering graduates\u003c/em\u003e can find attractive jobs.  Nevertheless, at the moment, \u003cem\u003eonly 1 percent of the professional engineers in the country are female.\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eEven though mosaic plagiarism may be caused by sloppy note taking, \u003cem\u003eit always looks thoroughly dishonest\u003c/em\u003e and will be judged as such.  Above, just adding an introduction and a parenthetical citation will not eliminate the plagiarism since quotation marks are not used where required.  Adding them would raise the question why the writer thinks those short phrases and basic statements are worth quoting.  The best solution is to paraphrase: recast the plagiarized parts in your own words, introduce the passage properly, and add a parenthetical citation.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSummary\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eUsing quotation marks around original wording avoids the charge of plagiarism, but when overdone, makes for a patchwork paper.  When most of what you want to say comes from a source, either quote directly or paraphrase.  In both cases, introduce your borrowed words or ideas by attributing them to the author and follow them with a parenthetical citation.\u003c/p\u003e\n\u003cp\u003e           \u003c/p\u003e\n\u003cp\u003eThe secret to using sources productively is to make them work to support and amplify your ideas.  If you find, as you work at paraphrasing, quoting, and citing, that you are only pasting sources together with a few of your own words and ideas - that too much of your paper comes from your sources and not enough from your own mind - then go back to the drawing board.  Try redrafting the paper without looking at your sources, using your own ideas.  Only after completing a draft should you add the specific words and ideas from your sources to support what you want to say.  \u003cem\u003eIf you have any doubts, talk with me ASAP.\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cdiv class=\"content-box pad-box-micro border border-b border-t\" style=\"background-color: whitesmoke;\"\u003e\n\u003ch2 style=\"text-align: center;\"\u003e\u003ca class=\"icon-rubric-dark\" style=\"color: black; text-decoration: none;\"\u003e Course Information\u003c/a\u003e\u003c/h2\u003e\n\u003c/div\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cp\u003e \u003ciframe style=\"width: 100%; height: 200px;\" title=\"Course Info\" src=\"https://canvas-course-info.tlt.harvard.edu/course_info/widget.html?f=title\u0026amp;f=course.registrar_code_display\u0026amp;f=term.display_name\u0026amp;f=instructors_display\u0026amp;f=location\u0026amp;f=meeting_time\u0026amp;f=exam_group\u0026amp;f=description\u0026amp;f=notes\" width=\"300\" height=\"150\" allowfullscreen=\"allowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\"\u003e\u003c/iframe\u003e \u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003ctable style=\"width: 30%; float: right;\" cellspacing=\"10\" cellpadding=\"9\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"border-color: gray; background-color: whitesmoke;\"\u003e\n\u003ch2 style=\"text-align: center;\"\u003e\u003cspan style=\"color: #000000;\"\u003e\u003ca class=\"icon-user\" style=\"color: #000000;\" href=\"/courses/7955\" target=\"_blank\"\u003e\u003cspan style=\"font-size: 10pt;\"\u003eStudent Support Tips\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/h2\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"border-color: gray; background-color: whitesmoke;\"\u003e\n\u003ch2 style=\"text-align: center;\"\u003e\u003cspan style=\"color: #000000;\"\u003e\u003ca class=\"icon-educators\" style=\"color: #000000;\" href=\"/courses/4514\" target=\"_blank\"\u003e\u003cspan style=\"font-size: 10pt;\"\u003eInstructor Support Tips\u003c/span\u003e\u003c/a\u003e \u003c/span\u003e\u003c/h2\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp style=\"clear: both;\"\u003e \u003c/p\u003e","notices":[]};
+</script>
+
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/navigation_header.bundle-9669f80a51.js" defer="defer"></script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/4225508/global.min.js" defer="defer"></script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/3751539/EXPGlobal.js" defer="defer"></script>
+
+</div> <!-- #application -->
+</body>
+</html>

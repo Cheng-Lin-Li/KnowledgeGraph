@@ -1,0 +1,1514 @@
+
+
+<!DOCTYPE html>
+<html class="scripts-not-loaded" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Syllabus for Designing and Developing a Relational Database</title>
+  <!--[if lte IE 9]> <meta http-equiv=refresh content="0; URL=/ie-9-is-not-supported.html" /> <![endif]-->
+  <link rel="shortcut icon" type="image/x-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/favicon-e10d657a73.ico" />
+  <link rel="apple-touch-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/apple-touch-icon-585e5d997d.png" />
+  
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.css" />
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/common-de9877d2f0.css" />
+  <script>
+//<![CDATA[
+
+!function(){
+  var o,s,v;
+  if (!(window.Promise && Object.assign && Object.values && [].find && [].includes && (o={},s=Symbol(),v={},o[s]=v,o[s]===v) && (function f(){}).bind().name==='bound f')) {
+    s = 's', document.write('<'+s+'cr'+'ipt src="https://du11hjcvx0uqb.cloudfront.net/dist/ie11-polyfill-64b21f7f37.js"></'+s+'c'+'ript>');
+  }
+}();
+      
+//]]>
+</script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/lato-fontfaceobserver-11a14bc0b6.js" async="async"></script>
+  
+  <meta name="apple-itunes-app" content="app-id=480883488" />
+<link rel="manifest" href="/web-app-manifest/manifest.json" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#008EE2">
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/tinymce-29f8b0a23f.css" />
+<link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/syllabus-2f51f24f19.css" />
+  
+  <link rel="stylesheet" media="all" href="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/4225502/global.min.css" />
+  <script>
+    function _earlyClick(e){
+      var c = e.target
+      while (c && c.ownerDocument) {
+        if (c.getAttribute('href') == '#' || c.getAttribute('data-method')) {
+          e.preventDefault()
+          (_earlyClick.clicks = _earlyClick.clicks || []).push(c)
+          break
+        }
+        c = c.parentNode
+      }
+    }
+    document.addEventListener('click', _earlyClick)
+  </script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.js" defer="defer"></script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/vendor.bundle-2585fc489b.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/New_York-c3226761e3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/en_US-80a0ce259b.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/appBootstrap.bundle-43015c2be3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/common.bundle-07f53473d3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/syllabus.bundle-8eb56aaa04.js" defer="defer"></script>
+</head>
+
+<body class="with-left-side course-menu-expanded with-right-side syllabus primary-nav-expanded context-course_33089">
+
+<noscript>
+  <div role="alert" class="ic-flash-static ic-flash-error">
+    <div class="ic-flash__icon" aria-hidden="true">
+      <i class="icon-warning"></i>
+    </div>
+    <h1>You need to have JavaScript enabled in order to access this site.</h1>
+  </div>
+</noscript>
+
+
+
+
+
+<ul id="flash_message_holder"></ul>
+<div id="flash_screenreader_holder"></div>
+
+<div id="application" class="ic-app">
+  
+  <header id="header" class="ic-app-header no-print no-user">
+    <a href="#content" id="skip_navigation_link">Skip To Content</a>
+      <div role="region" class="ic-app-header__main-navigation" aria-label="Main Navigation">
+        <div class="ic-app-header__logomark-container">
+          <a href="https://canvas.harvard.edu/" class="ic-app-header__logomark">
+            <span class="screenreader-only">Dashboard</span>
+          </a>
+        </div>
+        <ul id="menu" class="ic-app-header__menu-list">
+            <li class="menu-item ic-app-header__menu-list-item">
+              <a id="global_nav_login_link" href="/login" class="ic-app-header__menu-list-link">
+                <div class="menu-item-icon-container" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--login" version="1.1" x="0" y="0" viewBox="241 -241 512 512" enable-background="new 241 -241 512 512" xml:space="preserve"><path d="M743.9 5.9l-35.7-35.7H492.9c-6.5-16.2-17.3-32-31.7-46.4 -50.4-50.4-132-50.4-182.4 0s-50.4 132.1 0 182.5 132 50.4 182.4 0c11.8-11.8 20.6-25.9 27-41.8H547L570.6 88l22.8-22.8L616.2 88 639 65.2 661.8 88l24.1-24.1 15.6-1.5 4.6-0.5L753 15 743.9 5.9 743.9 5.9zM694.4 37.1l-15.6 1.5 -4.6 0.5 -12.4 12.4 -12.9-12.9h-19.8l-12.9 12.9 -12.9-12.9h-19.8l-12.9 12.9 -12.9-12.9h-87.6l-2.9 8.8c-5.3 16-13.2 29.5-24.2 40.6 -40.3 40.3-105.6 40.3-145.9 0s-40.3-105.7 0-146 105.6-40.3 145.9 0c14.3 14.3 24.4 29.8 28.6 44.6l2.7 9.4h223.3l19 19L694.4 37.1 694.4 37.1zM322.3-16.2c-17.5 17.5-17.5 46 0 63.5 17.5 17.5 46 17.5 63.5 0 17.5-17.5 17.5-46 0-63.5C368.2-33.8 339.8-33.8 322.3-16.2L322.3-16.2zM367.6 29.1c-7.5 7.5-19.7 7.5-27.2 0 -7.5-7.5-7.5-19.7 0-27.2s19.7-7.5 27.2 0S375.2 21.6 367.6 29.1L367.6 29.1z"/></svg>
+
+                </div>
+                <div class="menu-item__text">
+                  Login
+                </div>
+              </a>
+            </li>
+          <li class="ic-app-header__menu-list-item ">
+            <a id="global_nav_dashboard_link" href="https://canvas.harvard.edu/" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--dashboard" version="1.1" x="0" y="0" viewBox="0 0 280 200" enable-background="new 0 0 280 200" xml:space="preserve"><path d="M273.09,180.75H197.47V164.47h62.62A122.16,122.16,0,1,0,17.85,142a124,124,0,0,0,2,22.51H90.18v16.29H6.89l-1.5-6.22A138.51,138.51,0,0,1,1.57,142C1.57,65.64,63.67,3.53,140,3.53S278.43,65.64,278.43,142a137.67,137.67,0,0,1-3.84,32.57ZM66.49,87.63,50.24,71.38,61.75,59.86,78,76.12Zm147,0L202,76.12l16.25-16.25,11.51,11.51ZM131.85,53.82v-23h16.29v23Zm15.63,142.3a31.71,31.71,0,0,1-28-16.81c-6.4-12.08-15.73-72.29-17.54-84.25a8.15,8.15,0,0,1,13.58-7.2c8.88,8.21,53.48,49.72,59.88,61.81a31.61,31.61,0,0,1-27.9,46.45ZM121.81,116.2c4.17,24.56,9.23,50.21,12,55.49A15.35,15.35,0,1,0,161,157.3C158.18,152,139.79,133.44,121.81,116.2Z" /></svg>
+
+              </div>
+              <div class="menu-item__text">Dashboard</div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ic-app-header__menu-list-item--active">
+            <a id="global_nav_courses_link" href="/courses" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--courses" version="1.1" x="0" y="0" viewBox="0 0 280 259" enable-background="new 0 0 280 259" xml:space="preserve"><path d="M73.31,198c-11.93,0-22.22,8-24,18.73a26.67,26.67,0,0,0-.3,3.63v.3a22,22,0,0,0,5.44,14.65,22.47,22.47,0,0,0,17.22,8H200V228.19h-134V213.08H200V198Zm21-105.74h90.64V62H94.3ZM79.19,107.34V46.92H200v60.42Zm7.55,30.21V122.45H192.49v15.11ZM71.65,16.71A22.72,22.72,0,0,0,49,39.36V190.88a41.12,41.12,0,0,1,24.32-8h157V16.71ZM33.88,39.36A37.78,37.78,0,0,1,71.65,1.6H245.36V198H215.15v45.32h22.66V258.4H71.65a37.85,37.85,0,0,1-37.76-37.76Z"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Courses
+              </div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_calendar_link" href="/calendar" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--calendar" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M197.07,213.38h16.31V197.07H197.07Zm-16.31,16.31V180.76h48.92v48.92Zm-48.92-16.31h16.31V197.07H131.85Zm-16.31,16.31V180.76h48.92v48.92ZM66.62,213.38H82.93V197.07H66.62ZM50.32,229.68V180.76H99.24v48.92Zm146.75-81.53h16.31V131.85H197.07Zm-16.31,16.31V115.54h48.92v48.92Zm-48.92-16.31h16.31V131.85H131.85Zm-16.31,16.31V115.54h48.92v48.92ZM66.62,148.15H82.93V131.85H66.62ZM50.32,164.46V115.54H99.24v48.92ZM34,262.29H246V82.93H34ZM246,66.62V42.16A8.17,8.17,0,0,0,237.84,34H213.38v8.15a8.15,8.15,0,1,1-16.31,0V34H82.93v8.15a8.15,8.15,0,0,1-16.31,0V34H42.16A8.17,8.17,0,0,0,34,42.16V66.62Zm-8.15-48.92a24.49,24.49,0,0,1,24.46,24.46V278.6H17.71V42.16A24.49,24.49,0,0,1,42.16,17.71H66.62V9.55a8.15,8.15,0,0,1,16.31,0v8.15H197.07V9.55a8.15,8.15,0,1,1,16.31,0v8.15Z"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Calendar
+              </div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_conversations_link" href="/conversations" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--inbox" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M91.72,120.75h96.56V104.65H91.72Zm0,48.28h80.47V152.94H91.72Zm0-96.56h80.47V56.37H91.72Zm160.94,34.88H228.52V10.78h-177v96.56H27.34A24.17,24.17,0,0,0,3.2,131.48V244.14a24.17,24.17,0,0,0,24.14,24.14H252.66a24.17,24.17,0,0,0,24.14-24.14V131.48A24.17,24.17,0,0,0,252.66,107.34Zm0,16.09a8.06,8.06,0,0,1,8,8v51.77l-32.19,19.31V123.44ZM67.58,203.91v-177H212.42v177ZM27.34,123.44H51.48v79.13L19.29,183.26V131.48A8.06,8.06,0,0,1,27.34,123.44ZM252.66,252.19H27.34a8.06,8.06,0,0,1-8-8V202l30,18H230.75l30-18v42.12A8.06,8.06,0,0,1,252.66,252.19Z"/></svg>
+
+                <span class="menu-item__badge" style="display: none">0</span>
+              </div>
+              <div class="menu-item__text">
+                Inbox
+              </div>
+            </a>
+          </li>
+          <li class="ic-app-header__menu-list-item">
+           <a id="global_nav_help_link" class="ic-app-header__menu-list-link" data-track-category="help system" data-track-label="help button" href="http://help.instructure.com/">
+              <div class="menu-item-icon-container" role="presentation">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg menu-item__icon svg-icon-help" version="1.1" x="0" y="0" viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve" fill="currentColor"><path d="M100,127.88A11.15,11.15,0,1,0,111.16,139,11.16,11.16,0,0,0,100,127.88Zm8.82-88.08a33.19,33.19,0,0,1,23.5,23.5,33.54,33.54,0,0,1-24,41.23,3.4,3.4,0,0,0-2.74,3.15v9.06H94.42v-9.06a14.57,14.57,0,0,1,11.13-14,22.43,22.43,0,0,0,13.66-10.27,22.73,22.73,0,0,0,2.31-17.37A21.92,21.92,0,0,0,106,50.59a22.67,22.67,0,0,0-19.68,3.88,22.18,22.18,0,0,0-8.65,17.64H66.54a33.25,33.25,0,0,1,13-26.47A33.72,33.72,0,0,1,108.82,39.8ZM100,5.2A94.8,94.8,0,1,0,194.8,100,94.91,94.91,0,0,0,100,5.2m0,178.45A83.65,83.65,0,1,1,183.65,100,83.73,83.73,0,0,1,100,183.65" transform="translate(-5.2 -5.2)"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Help
+              </div>
+</a>          </li>
+        </ul>
+      </div>
+      <div class="ic-app-header__secondary-navigation">
+        <ul class="ic-app-header__menu-list">
+          <li class="menu-item ic-app-header__menu-list-item">
+            <button
+              id="primaryNavToggle"
+              class="ic-app-header__menu-list-link ic-app-header__menu-list-link--nav-toggle"
+              aria-label="
+                Minimize global navigation"
+              title="
+                Minimize global navigation"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--navtoggle" version="1.1" x="0" y="0" width="40" height="32" viewBox="0 0 40 32" xml:space="preserve">
+  <path d="M39.5,30.28V2.48H37.18v27.8Zm-4.93-13.9L22.17,4,20.53,5.61l9.61,9.61H.5v2.31H30.14l-9.61,9.61,1.64,1.64Z"/>
+</svg>
+
+            </button>
+          </li>
+        </ul>
+      </div>
+    <div id="global_nav_tray_container"></div>
+  </header>
+
+
+  <div id="instructure_ajax_error_box">
+    <div style="text-align: right; background-color: #fff;"><a href="#" class="close_instructure_ajax_error_box_link">Close</a></div>
+    <iframe id="instructure_ajax_error_result" src="about:blank" style="border: 0;" title="Error"></iframe>
+  </div>
+
+  
+
+  <div id="wrapper" class="ic-Layout-wrapper">
+      <div class="ic-app-nav-toggle-and-crumbs no-print">
+          <button type="button" id="courseMenuToggle" class="Button Button--link ic-app-course-nav-toggle" aria-live="polite" aria-label="Hide Courses Navigation Menu" title="Hide Courses Navigation Menu">
+            <i class="icon-hamburger" aria-hidden="true"></i>
+          </button>
+          <div class="ic-app-crumbs">
+        <nav id="breadcrumbs" role="navigation" aria-label="breadcrumbs"><ul><li class="home"><a href="/"><span class="ellipsible">      <i class="icon-home"
+         title="My Dashboard">
+        <span class="screenreader-only">My Dashboard</span>
+      </i>
+</span></a></li><li><span class="ellipsible">CSCI E-59 (15406)</span></li><li><span class="ellipsible">Syllabus</span></li></ul></nav>
+        </div>
+      </div>
+    <div id="main" class="ic-Layout-columns">
+        <div class="ic-Layout-watermark"></div>
+        <div id="left-side"
+          class="ic-app-course-menu list-view"
+          style="display: block"
+          >
+              <span id="section-tabs-header-subtitle" class="ellipsis">2017-2018 Fall</span>
+            <nav role="navigation" aria-label="Courses Navigation Menu"><ul id="section-tabs"><li class="section"><a href="/courses/33089/assignments/syllabus" title="Syllabus" class="syllabus active">Syllabus</a></li><li class="section"><a href="/courses/33089/external_tools/25809" title="Web Conference Sessions" class="context_external_tool_25809">Web Conference Sessions</a></li><li class="section"><a href="/courses/33089/external_tools/13815" title="Student Resources" class="context_external_tool_13815">Student Resources</a></li></ul></nav>
+        </div>
+      <div id="not_right_side" class="ic-app-main-content">
+        <div id="content-wrapper" class="ic-Layout-contentWrapper">
+            
+
+          <div id="content" class="ic-Layout-contentMain" role="main">
+            
+
+
+
+<div class="ic-Action-header">
+  <div class="ic-Action-header__Primary">
+    <h1 class="ic-Action-header__Heading">Course Syllabus</h1>
+  </div>
+  <div class="ic-Action-header__Secondary">
+    <a href="#" class="jump_to_today_link">Jump to Today</a>
+  </div>
+</div>
+
+<div id="course_syllabus" style="margin-bottom: 10px;" class="user_content">
+  <table>
+<tbody>
+<tr>
+<td width="114">
+<p>Course N°:</p>
+</td>
+<td width="342">
+<h4><strong>CSCI E-59</strong></h4>
+</td>
+</tr>
+<tr>
+<td width="114">
+<p>Course Title:</p>
+</td>
+<td width="342">
+<p><strong>Designing and Developing a Relational Database</strong></p>
+</td>
+</tr>
+<tr>
+<td width="114">
+<p>Class Time:</p>
+</td>
+<td width="342">
+<p>Wednesday 5:10 pm – 7:10 pm</p>
+</td>
+</tr>
+<tr>
+<td width="114">
+<p>Semester:</p>
+</td>
+<td width="342">
+<p>Fall 2017</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Here is a <a class="instructure_file_link instructure_scribd_file" title="syllabus.pdf" href="/courses/33089/files/4428152/download?verifier=jGiebLI3j4ehZcSqDzqwTDJ2HynHNPX7ivlMBHry&amp;wrap=1">PDF version</a> of the syllabus.</p>
+<p><strong>Teaching Staff</strong></p>
+<table>
+<tbody>
+<tr>
+<td width="96">
+<p>Instructor:</p>
+</td>
+<td width="372">
+<h4><strong>Maria R. Garcia Altobello</strong></h4>
+</td>
+</tr>
+<tr>
+<td width="96">
+<p>Email:</p>
+</td>
+<td width="372">
+<p><a href="mailto:mrgarcia@fas.harvard.edu">mrgarcia@fas.harvard.edu</a></p>
+</td>
+</tr>
+<tr>
+<td width="96">
+<p>Lecture:</p>
+</td>
+<td width="372">
+<p>Wednesday 5:10 pm – 7:10 pm</p>
+</td>
+</tr>
+<tr>
+<td width="96">
+<p>Office Hours:</p>
+</td>
+<td width="372">
+<p>Wednesdays before or after class by appointment</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Introduction</strong></p>
+<p>This course focuses in the design and development of database applications, with an emphasis on sound database design. Database design is a business not a data problem.  To successfully design a database, the analyst needs to understand the information of the organization.  This includes using all the data research and analysis techniques available, and searching inside of the toolbox to select those tools that will allow the analyst to understand the business the organization is in.  Information is data within a particular context.  Thus, if the person understands the information required by the organization, he/she will be able to organize the data in such a way that answers the questions required by the organization.  Although governed by a number of rules and standards, database design is an art.  Only practice will allow an individual to learn what better suits each particular need.</p>
+<p>The course will cover database design, the relational database model, relational database management systems, the SQL language, transaction processing and other database concepts.</p>
+<p>For database services, we will use the <strong>Oracle version 12c</strong> database management system as the principal vehicle for demonstrating and building relational databases and exploring important database management system concepts such as schema definition, referential integrity, SQL queries, triggers, stored procedures, transaction processing, and access control.</p>
+<p><strong>Audience</strong></p>
+<p>This course is intended for individuals interested in gaining a thorough understanding of database application design and development. Individuals interested in enhancing their knowledge or broadening their skills with respect to database management systems and client/server application development should benefit from this course.  The focus of this course is on using high-level software tools in order to develop software applications.  It should be viewed as a solid introduction to a broad set of topics, anyone of which the student may want to focus upon as an area of specialization in the future, and a good prerequisite for a number of more specialized courses in the computer science curriculum.</p>
+<p><strong>Prerequisites</strong></p>
+<p>The instructor assumes students have familiarity with general business situations, but no previous knowledge on designing and building database applications. Familiarity with databases as an end user is a plus.</p>
+<p>In addition, students must have programming experience, such that learning a new language is not an obstacle.</p>
+<p>Finally, students must have sufficient hands-on experience with Unix/Linux and text editors.</p>
+<p><strong>Catalog Description</strong></p>
+<p>This course provides the concepts and skills necessary to design and develop a relational database. After learning database design concepts through practical applications, students build a working database using Oracle and to serve the information needs of an enterprise. Through hands-on projects, students will design, build, populate, query, and write transactions and stored procedures for a relational database using SQL and PL/SQL.  As a final project, students will build a prototype database. Prerequisites:  programming experience and familiarity with Unix/Linux.</p>
+<p><strong>Learning Outcomes</strong></p>
+<p>Upon completion of this course, students will be able to:</p>
+<ol>
+<li>Demonstrate ability to design a database to solve an information problem, by applying the relational model.</li>
+<li>Transform business requirements into business solutions using database technologies.</li>
+<li>Formulate queries, transactions, and triggers to support management decision-making processes.</li>
+<li>Become aware of issues pertaining distributed database management systems, especially transaction processing, concurrency control, and security.</li>
+</ol>
+<p><strong>Texts</strong></p>
+<p>While there is no specific textbook requirement, students are encouraged to purchase at least one book on <strong>database concepts</strong> and/or <strong>SQL</strong>.</p>
+<p>Textbooks complement class lectures, and help students consider points of view which may differ from those of the instructor. This contributes to creating a solid foundation in the subject.  A guide to suggested readings for recommended texts will be available on the Course Website.</p>
+<p><strong>Teaching Strategies</strong></p>
+<p>Over the course of the term, the instructor will employ one or more of the following strategies:</p>
+<ul>
+<li>Lecture</li>
+<li>Practical Applications</li>
+<li>Sections</li>
+</ul>
+<p><strong>Lecture</strong></p>
+<p>Under this section, the instructor will present the basic concepts to be covered. Depending on the subject, students may be exposed to other supplemental material.  The lecture will rely heavily on questions posed by the students.</p>
+<p><strong>Practical Applications</strong></p>
+<p>Under this section, the instructor will walk students through exercises that represent an application of the concepts covered. Students may bring their own laptops to class, and follow along with the instructor.  A great part of the course covers a hands-on approach to database implementation.</p>
+<p><strong>Sections</strong></p>
+<p>Starting the first week of class, optional sections will be held each week. Sections are one and a half hours long.  Each section is taught by a course Teaching Assistant.  The number of sections is dependent on course enrollment.  While attendance is not required, it is highly recommended that you try to attend at least one section each week.  You may attend as many sections as you wish.</p>
+<p><strong>Evaluation Methods</strong></p>
+<p>Assignments for this class range from written work on database design to SQL, client development computer exercises to a final project. The workload to complete the written work and computing assignments is short, but intensive.  Depending upon your experience, each assignment should take an average of four to six hours to complete.  There is one examination in this course, but major emphasis is placed upon the assignments and the final project.  You should expect to devote a significant amount of time over a one-month period to complete the final project.</p>
+<p>The final grade will be calculated as follows:</p>
+<p>¨       Database Assignments              500 points</p>
+<p>¨       Pop Quizzes                              140 points</p>
+<p>¨       Final Project Proposal                100 points</p>
+<p>¨       Final Project                             260 points</p>
+<p><strong>Database Assignments</strong></p>
+<p>There will be four assignments during the term:</p>
+<table>
+<tbody>
+<tr>
+<td width="60">
+<p>PS-1</p>
+</td>
+<td width="300">
+<p>Database Design using Normalization</p>
+</td>
+<td width="96">
+<h4>100 points</h4>
+</td>
+</tr>
+<tr>
+<td width="60">
+<p>PS-2</p>
+</td>
+<td width="300">
+<p>Database Design and Data Modeling using Entity Relationship Analysis</p>
+</td>
+<td width="96">
+<p>150 points</p>
+</td>
+</tr>
+<tr>
+<td width="60">
+<p>PS-3</p>
+</td>
+<td width="300">
+<p>Defining and Querying a Database using SQL</p>
+</td>
+<td width="96">
+<p>100 points</p>
+</td>
+</tr>
+<tr>
+<td width="60">
+<p>PS-4</p>
+</td>
+<td width="300">
+<p>Database Integrity using SQL and PL/SQL</p>
+</td>
+<td width="96">
+<p>150 points</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="360">
+<p>Total</p>
+</td>
+<td width="96">
+<p>500 points</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Pop Quizzes</strong></p>
+<p>There will be fourteen pop quizzes during the term. The pop quiz consists of one or two questions related to a topic discussed during the lecture.  Students are strongly advised to watch the lecture before attempting to answer the pop quiz.</p>
+<p><strong>Final Project</strong></p>
+<p>The final project consists of the design and implementation of a database application to solve an information management problem of your own choosing; perhaps something relevant to information needs at your workplace.  Database design is the most critical part of the final project.</p>
+<p>The final project is due by the last class on <strong>December 13, 2017</strong>.  The final project is in many respects a composite of the entire course content.  Plan for this early.  Consultations with the Teaching Assistants or myself are expected as you proceed.  In general, the final project should reflect concepts from the entire course content.  Details on the final project will be provided later in the course.</p>
+<p><strong>Late Submission Policy</strong></p>
+<p>All assignments will be due by <strong>6:00 pm EDT</strong>.  Late assignments will be accepted and graded according to the following guidelines:</p>
+<table>
+<tbody>
+<tr>
+<td width="108">
+<p><strong>Days Late</strong></p>
+</td>
+<td width="102">
+<p><strong>Penalty</strong></p>
+</td>
+</tr>
+<tr>
+<td width="108">
+<p>Up to 1</p>
+</td>
+<td width="102">
+<p>10%</p>
+</td>
+</tr>
+<tr>
+<td width="108">
+<p>Up to 2</p>
+</td>
+<td width="102">
+<p>20%</p>
+</td>
+</tr>
+<tr>
+<td width="108">
+<p>Up to 3</p>
+</td>
+<td width="102">
+<p>30%</p>
+</td>
+</tr>
+<tr>
+<td width="108">
+<p>Up to 4</p>
+</td>
+<td width="102">
+<p>100%</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>This late policy does not apply to the final project.</strong>  The final project must be handed-in on or before <strong>December 13, 2017</strong>.  Final grades will be calculated on the basis of completed assignments, the midterm, and the final project.  Zero credit will be given for unfinished work.</p>
+<p>Extensions will be granted only for the most extenuating circumstances, and generally only for the final project. You must petition the class instructor for an extension on or before <strong>November 30, 2017</strong>.</p>
+<p><strong>Late Token Policy</strong></p>
+<p>Students have 3 late tokens, each worth one day. Tokens may be applied to submitted assignments only.  Each token allows students to submit an assignment a day late without any explanation.  Students may use all 3 tokens in one assignment or a token on 3 different assignments.  The late assignment policy will apply to additional late days, as indicated above.</p>
+<p>There are no exceptions to this policy. Exceptions are unfair to other students, and impose an added burden on teaching assistants. <strong>The tokens expire on November 30, 2017.</strong>  Thus, they may not be applied to the final project.</p>
+<p><strong>Assignment Review Policy</strong></p>
+<p>Students must address their comments on the graded assignments to the TA who graded them. If the TA and the student are not able to reach an understanding, the TA or the student may request the instructor to review it.</p>
+<p><strong>Resubmission Policy</strong></p>
+<p>Once graded, assignments may not be resubmitted for regrading.</p>
+<p><strong>Grade Calculation</strong></p>
+<p>The total points accumulated will be converted to the Extension School grading scale at the end of the semester.  The following score criteria will be used:</p>
+<table>
+<tbody>
+<tr>
+<td width="72">
+<p><strong>Grade</strong></p>
+</td>
+<td width="102">
+<p><strong>Definition</strong></p>
+</td>
+<td width="102">
+<p><strong>Quality Points</strong></p>
+</td>
+<td width="60">
+<p><strong>Score</strong></p>
+</td>
+</tr>
+<tr>
+<td width="72">
+<p>A</p>
+</td>
+<td width="102">
+<p>Excellent</p>
+</td>
+<td width="102">
+<p>4.00</p>
+</td>
+<td width="60">
+<p>96-100</p>
+</td>
+</tr>
+<tr>
+<td width="72">
+<p>A-</p>
+</td>
+<td width="102">
+<p>Excellent</p>
+</td>
+<td width="102">
+<p>3.75</p>
+</td>
+<td width="60">
+<p>90-95</p>
+</td>
+</tr>
+<tr>
+<td width="72">
+<p>B+</p>
+</td>
+<td width="102">
+<p>Very Good</p>
+</td>
+<td width="102">
+<p>3.25</p>
+</td>
+<td width="60">
+<p>87-89</p>
+</td>
+</tr>
+<tr>
+<td width="72">
+<p>B</p>
+</td>
+<td width="102">
+<p>Good</p>
+</td>
+<td width="102">
+<p>3.00</p>
+</td>
+<td width="60">
+<p>84-86</p>
+</td>
+</tr>
+<tr>
+<td width="72">
+<p>B-</p>
+</td>
+<td width="102">
+<p>Good</p>
+</td>
+<td width="102">
+<p>2.75</p>
+</td>
+<td width="60">
+<p>80-83</p>
+</td>
+</tr>
+<tr>
+<td width="72">
+<p>C+</p>
+</td>
+<td width="102">
+<p>Average</p>
+</td>
+<td width="102">
+<p>2.25</p>
+</td>
+<td width="60">
+<p>77-79</p>
+</td>
+</tr>
+<tr>
+<td width="72">
+<p>C</p>
+</td>
+<td width="102">
+<p>Average</p>
+</td>
+<td width="102">
+<p>2.00</p>
+</td>
+<td width="60">
+<p>74-76</p>
+</td>
+</tr>
+<tr>
+<td width="72">
+<p>C-</p>
+</td>
+<td width="102">
+<p>Average</p>
+</td>
+<td width="102">
+<p>1.75</p>
+</td>
+<td width="60">
+<p>70-73</p>
+</td>
+</tr>
+<tr>
+<td width="72">
+<p>D+</p>
+</td>
+<td width="102">
+<p>Deficient</p>
+</td>
+<td width="102">
+<p>1.25</p>
+</td>
+<td width="60">
+<p>67-69</p>
+</td>
+</tr>
+<tr>
+<td width="72">
+<p>D</p>
+</td>
+<td width="102">
+<p>Deficient</p>
+</td>
+<td width="102">
+<p>1.00</p>
+</td>
+<td width="60">
+<p>64-66</p>
+</td>
+</tr>
+<tr>
+<td width="72">
+<p>D-</p>
+</td>
+<td width="102">
+<p>Deficient</p>
+</td>
+<td width="102">
+<p>0.75</p>
+</td>
+<td width="60">
+<p>60-63</p>
+</td>
+</tr>
+<tr>
+<td width="72">
+<p>E</p>
+</td>
+<td width="102">
+<p>Failure</p>
+</td>
+<td width="102">
+<p>0.00</p>
+</td>
+<td width="60">
+<p>0-60</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Final grades will be calculated on the basis of completed assignments and the final project. No credit will be given for unfinished assignments. The final grade will be based upon a standardized curve aggregated by overall class performance.</p>
+<p><strong>Technical Requirements</strong></p>
+<p>To gain access to selected handouts, students will need to download the most recent version of <strong>Adobe Acrobat Reader</strong>.  This software is available for free at:  <a href="http://www.adobe.com/">http://www.adobe.com</a>.</p>
+<p>To access <strong>Oracle</strong> students must use a special <strong>Unix</strong> account provided on the Extension School server, <strong>cscie60.dce.harvard.edu</strong>.  If you have access to the Internet you may connect to the Oracle server via telnet, using a secure terminal emulator to your Unix account on cscie60.dce.harvard.edu.</p>
+<p>You may use your favorite text editor to write your code. If you use a Windows-based editor you will need to transfer the .cfm files to you Unix account on cscie60.dce.harvard.edu using secure file transfer software (SFTP).  Harvard degree and certificate candidates may download this software for free directly from the FAS Website:  <a href="http://www.fas.harvard.edu/computing">http://www.fas.harvard.edu/computing</a>. You must have a valid Harvard Student ID to access software available for download.</p>
+<p><strong>Course Communication</strong></p>
+<p>Classes meet online once a week for 2 hours. Aside from classes, students have a number of ways to communicate with the teaching staff and with their classmates.</p>
+<p><strong>Section:</strong></p>
+<p>You may attend any or all the Teaching Assistant sessions. Teaching Assistant sessions run for 1.5 hours, and will begin the first week of class.  The Teaching Assistant sessions are optional and are meant to reinforce and expand upon class topics as well as to discuss assignments and the project.  Although not mandatory, you are strongly encouraged to take advantage of this opportunity.</p>
+<p><strong>Office Hours:</strong></p>
+<p>You may schedule a meeting with a teaching assistant. Office hours are available before or after Teaching Assistant sections, and run for 30 minutes.  Additional hours may be scheduled by appointment.  Please, contact the teaching assistant directly to set up a mutually convenient time.</p>
+<p>You may schedule a meeting with the instructor. Office hours are available each Monday before class on a first come-first served basis.  Additional hours may be scheduled by appointment.  Please, contact your instructor if you are interested in meeting with her.</p>
+<p><strong>Discussion Boards:</strong></p>
+<p>You are encouraged to visit the course Website often for updated information about the course. If you require further assistance, you may seek an answer to your questions through the discussion boards.  You are encouraged to read the class postings and contribute with your responses.  Please refrain from posting solutions to assignments.  Note that you will need to register before posting to any of the above bulletin boards.</p>
+<p>There is also a new FAQ section. Some of your general questions might be featured in the FAQ section, and will be available to students taking this class at a later time.  The FAQ section is a blog.  Students are free to post a new item, or to comment on items already posted.</p>
+<p>Alternatively, you may contact the teaching staff by sending an email to the staff email available through the course Website.</p>
+<p><strong>Student Responsibilities</strong></p>
+<p>Students registered in this course are responsible for attending classes, taking notes, downloading the materials, completing the pop quizzes, and handing in their problem sets and final project.</p>
+<p>Make sure you keep a backup of all your work. Even if you submit your homework on time, there is no guarantee that your work will reach its destination as expected.  Your instructor or a member of the teaching staff may contact you in case there are any problems, but you are responsible for making sure your work receives proper credit, and this includes proper reception.</p>
+<p>As a word of advice, do not wait until the last moment to complete your work. If you do, you run the risk of experiencing unanticipated problems that might prevent your from completing your work on time.</p>
+<p>Students are expected to be familiar with the Academic Policy described in the Extension School catalogue.  You may contact the Registrar’s Office with questions in this regard.</p>
+<p><strong>Classroom Etiquette</strong></p>
+<p>All students should follow and maintain appropriate classroom etiquette. This means that you should not be noisy or disruptive during class time and that you should be polite and respectful to your fellow students, to your instructor, and to the teaching staff.  I promise to do the same.  If you note that appropriate etiquette is not being followed in your presence, I encourage you to contact me for assistance.</p>
+<p>Make sure you are familiar with online etiquette, by visiting <a href="http://www.netmanners.com/">http://www.netmanners.com/</a>.</p>
+<p><strong>Learning Disabilities</strong></p>
+<p>The Extension School is committed to providing an accessible academic community. The Disability Services Office offers a variety of accommodations and services to students with documented disabilities. Please visit <a href="http://www.extension.harvard.edu/resources-policies/resources/disability-services-accessibility">www.extension.harvard.edu/resources-policies/resources/disability-services-accessibility</a> for more information.</p>
+<p><strong>Academic Honesty</strong></p>
+<p>You are responsible for understanding Harvard Extension School policies on academic integrity (<a href="http://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity">www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity</a>) and how to use sources responsibly. Not knowing the rules, misunderstanding the rules, running out of time, submitting "the wrong draft", or being overwhelmed with multiple demands are not acceptable excuses.  There are no excuses for failure to uphold academic integrity.  To support your learning about academic citation rules, please visit the Harvard Extension School Tips to Avoid Plagiarism (<a href="http://www.extension.harvard.edu/resources-policies/resources/tips-avoid-plagiarism">www.extension.harvard.edu/resources-policies/resources/tips-avoid-plagiarism</a>), where you'll find links to the Harvard Guide to Using Sources and two, free, online 15-minute tutorials to test your knowledge of academic citation policy. The tutorials are anonymous open-learning tools.</p>
+</div>
+<div id="course_syllabus_details" style="display: none;">
+  <p>The syllabus page shows a table-oriented view of the course schedule, and the basics of
+course grading.  You can add any other comments, notes, or thoughts you have about the course
+structure, course policies or anything else.</p>
+
+<p>To add some comments, click the &quot;Edit&quot; link at the top.</p>
+</div>
+<form id="edit_course_syllabus_form" style="display: none; margin-bottom: 10px;" action="/courses/33089" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="EOjcWmbkgjp3rV3iuE4y2BhRosEWUFCZqzPQEgZgA8ZAu60UCaPqaAb+HKzLNEHoaWLFhXwWYffzUr1cfzJN7Q==" />
+  <div style="float: right;">
+    <a href="#" class="toggle_views_link toggle_html_editor_link">HTML Editor</a>
+    <a href="#" class="toggle_views_link toggle_rich_editor_link" style="display:none;">Rich Content Editor</a>
+  </div>
+  <label for="course_syllabus_body">Syllabus Description:</label>
+  <div class="clear"></div>
+  <textarea style="width: 100%; height: 300px;" id="course_syllabus_body" name="course[syllabus_body]">
+</textarea>
+  <div class='form-actions'>
+    <button type="button" class="btn cancel_button">Cancel</button>
+    <button type="submit" class='btn btn-primary'>Update Syllabus</button>
+  </div>
+</form>
+<h2>Course Summary:</h2>
+
+<div id="syllabusContainer">
+  <div id="syllabus_links">
+    <a id="toggle_special_dates_in_syllabus">&nbsp;</a>
+  </div>
+  <table id="syllabus" class="ic-Table--condensed">
+    <thead>
+      <tr>
+        <th scope="col" style="width: 25%;">Date</th>
+        <th scope="col" style="width: 75%;">Details</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td scope="row">
+          <span id="loading_indicator"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+          </div>
+        </div>
+        <div id="right-side-wrapper" class="ic-app-main-content__secondary">
+          <aside id="right-side" role="complementary">
+              
+<div id="sidebar_content">
+  
+<div class="mini_month">
+  <div class="mini-cal-header">
+    <button class="prev_month_link Button Button--icon-action"><i class="icon-arrow-open-left"></i><span class="screenreader-only">Prev month</span></button>
+    <button class="next_month_link Button Button--icon-action"><i class="icon-arrow-open-right"></i><span class="screenreader-only">Next month</span></button>
+    <span class="mini-cal-month-and-year">
+      <span class="month_name">September</span>
+      <span class="year_number">2017</span>
+    </span>
+  </div>
+  <div style="display: none;">
+    <span class="month_number">9</span>
+  </div>
+  <table class="mini_calendar" cellspacing="0">
+    <caption class="screenreader-only">Calendar</caption>
+    <thead>
+      <tr>
+          <th scope="col">
+            <span class="screenreader-only">
+              Sunday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Monday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Tuesday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Wednesday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Thursday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Friday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Saturday
+            </span>
+          </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_08_27" class="mini_calendar_day day other_month previous_month date_08_27_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                27
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_28" class="mini_calendar_day day other_month previous_month date_08_28_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                28
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_29" class="mini_calendar_day day other_month previous_month date_08_29_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                29
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_30" class="mini_calendar_day day other_month previous_month date_08_30_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                30
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_31" class="mini_calendar_day day other_month previous_month date_08_31_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                31
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_01" class="mini_calendar_day day current_month date_09_01_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                1
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_02" class="mini_calendar_day day current_month date_09_02_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                2
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_03" class="mini_calendar_day day current_month date_09_03_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                3
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_04" class="mini_calendar_day day current_month date_09_04_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                4
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_05" class="mini_calendar_day day current_month date_09_05_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                5
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_06" class="mini_calendar_day day current_month date_09_06_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                6
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_07" class="mini_calendar_day day current_month date_09_07_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                7
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_08" class="mini_calendar_day day current_month date_09_08_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                8
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_09" class="mini_calendar_day day current_month date_09_09_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                9
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_10" class="mini_calendar_day day current_month date_09_10_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                10
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_11" class="mini_calendar_day day current_month date_09_11_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                11
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_12" class="mini_calendar_day day current_month date_09_12_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                12
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_13" class="mini_calendar_day day current_month date_09_13_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                13
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_14" class="mini_calendar_day day current_month date_09_14_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                14
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_15" class="mini_calendar_day day current_month date_09_15_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                15
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_16" class="mini_calendar_day day current_month date_09_16_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                16
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_17" class="mini_calendar_day day current_month date_09_17_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                17
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_18" class="mini_calendar_day day current_month date_09_18_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                18
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_19" class="mini_calendar_day day current_month date_09_19_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                19
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_20" class="mini_calendar_day day current_month date_09_20_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                20
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_21" class="mini_calendar_day day current_month date_09_21_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                21
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_22" class="mini_calendar_day day current_month date_09_22_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                22
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_23" class="mini_calendar_day day current_month date_09_23_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                23
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_24" class="mini_calendar_day day current_month today date_09_24_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                24
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_25" class="mini_calendar_day day current_month date_09_25_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                25
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_26" class="mini_calendar_day day current_month date_09_26_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                26
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_27" class="mini_calendar_day day current_month date_09_27_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                27
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_28" class="mini_calendar_day day current_month date_09_28_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                28
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_29" class="mini_calendar_day day current_month date_09_29_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                29
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_30" class="mini_calendar_day day current_month date_09_30_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                30
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_10_01" class="mini_calendar_day day other_month next_month date_10_01_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                1
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_02" class="mini_calendar_day day other_month next_month date_10_02_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                2
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_03" class="mini_calendar_day day other_month next_month date_10_03_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                3
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_04" class="mini_calendar_day day other_month next_month date_10_04_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                4
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_05" class="mini_calendar_day day other_month next_month date_10_05_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                5
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_06" class="mini_calendar_day day other_month next_month date_10_06_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                6
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_07" class="mini_calendar_day day other_month next_month date_10_07_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                7
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+    
+<div role="complementary" aria-label="Assignment Weights">
+  <h2>Course assignments are not weighted.</h2>
+</div>
+
+</div>
+
+<div id="editor_tabs" class="ui-tabs--mini" style="display: none;">
+
+  <span class="wiki-sidebar-header" role="heading" aria-level="2">Insert Content into the Page</span>
+  <ul>
+    <li><a href="#editor_tabs_2">Links</a></li>
+    <li><a href="#editor_tabs_4">Images</a></li>
+  </ul>
+  <div id="editor_tabs_2" role="application">
+    Link to other content in the course.
+      <a href="/courses/33089/external_tools/retrieve?url=%7B%7B+url+%7D%7D" id="external_tool_retrieve_url" style="display: none;">&nbsp;</a>
+      <a href="/courses/33089/external_tools/%7B%7B%20id%20%7D%7D/resource_selection?editor=1" id="context_external_tool_resource_selection_url" style="display: none;">&nbsp;</a>
+    Click any page to insert a link to that page.
+    <div id="pages_accordion" class="ui-accordion--mini" role="tabpanel">
+      <a href="https://canvas.harvard.edu/courses/33089/pages/%7B%7B%20page_url%20%7D%7D" id="wiki_sidebar_wiki_url" style="display: none;">&nbsp;</a>
+      <div>
+        <div class="header" aria-controls="pages_tab_panel" role="tab"><a href="#">Wiki Pages</a></div>
+        <div id="pages_tab_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33089/pages/additional-resources">Additional Resources</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33089/pages/home-page">Home Page</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33089/pages/lecture-video">Lecture Video</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33089/pages/section">Section</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33089/pages/teaching-staff">Teaching Staff</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33089/pages/textbooks">Textbooks</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33089/pages/web-conference-sessions">Web Conference Sessions</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33089/pages/week-1">Week 1</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33089/pages/week-2">Week 2</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33089/pages/week-3">Week 3</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33089/pages/week-4">Week 4</a></li>
+            </ul>
+        </div>
+      </div>
+      <div>
+        <div aria-controls="assignment_panel" role="tab" class="header" aria-controls="wiki_pages_panel"><a href="#">Assignments</a></div>
+         <div id="assignment_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this assignment"><a href="/courses/33089/assignments">Assignment List</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33089/assignments/154317">Connecting to the Oracle RDBMS</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33089/assignments/154318">Create a Simple Web Page</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33089/assignments/154319">Final Project</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33089/assignments/154320">Final Project Proposal</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33089/assignments/154352">Pop Quiz 1</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33089/assignments/154308">Pop Quiz 10</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33089/assignments/154309">Pop Quiz 11</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33089/assignments/154306">Pop Quiz 12</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33089/assignments/154315">Pop Quiz 13</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33089/assignments/154314">Pop Quiz 14</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33089/assignments/154311">Pop Quiz 2</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33089/assignments/154316">Pop Quiz 3</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33089/assignments/154307">Pop Quiz 4</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33089/assignments/154312">Pop Quiz 5</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33089/assignments/154353">Pop Quiz 6</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33089/assignments/154313">Pop Quiz 7</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33089/assignments/154310">Pop Quiz 8</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33089/assignments/154304">Pop Quiz 9</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33089/assignments/154321">PS-1</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33089/assignments/154322">PS-2</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33089/assignments/154323">PS-3</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33089/assignments/154324">PS-4</a></li>
+            </ul>
+         </div>
+      </div>
+      <div>
+        <div aria-controls="quizzes_panel" class="header" role="tab"><a href="#">Quizzes</a></div>
+         <div id="quizzes_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this quiz"><a href="/courses/33089/quizzes">Quiz List</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33089/quizzes/69570">Pop Quiz 9</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33089/quizzes/69572">Pop Quiz 12</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33089/quizzes/69573">Pop Quiz 4</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33089/quizzes/69574">Pop Quiz 10</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33089/quizzes/69575">Pop Quiz 11</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33089/quizzes/69576">Pop Quiz 8</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33089/quizzes/69577">Pop Quiz 2</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33089/quizzes/69578">Pop Quiz 5</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33089/quizzes/69580">Pop Quiz 7</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33089/quizzes/69581">Pop Quiz 14</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33089/quizzes/69582">Pop Quiz 13</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33089/quizzes/69583">Pop Quiz 3</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33089/quizzes/69591">Pop Quiz 1</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33089/quizzes/69592">Pop Quiz 6</a></li>
+            </ul>
+         </div>
+      </div>
+      <div>
+        <div class="header" aria-controls="announcements_panel" role="tab"><a href="#">Announcements</a></div>
+         <div id="announcements_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this announcement"><a href="/courses/33089/announcements">Announcements List</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33089/announcements/244510">Saturday TA Session to be conducted by Gundeep</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33089/announcements/244063">Today&#39;s session will be conducted by Gundeep</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33089/announcements/235062">All Waitlisted Students are confirmed enrollment.</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33089/announcements/234694">Syllabus is fixed!</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33089/announcements/226107">Welcome to CSCI E-59!</a></li>
+            </ul>
+         </div>
+      </div>
+
+      <div>
+        <div role="tab" aria-controls="discussions_panel" class="header"><a href="#">Discussions</a></div>
+         <div id="discussions_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this topic"><a href="/courses/33089/discussion_topics">Discussion Index</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33089/discussion_topics/226092">General Discussion</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33089/discussion_topics/226093">PS-1</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33089/discussion_topics/226094">PS-2</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33089/discussion_topics/226095">PS-3</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33089/discussion_topics/226096">PS-4</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33089/discussion_topics/226097">Final Project</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33089/discussion_topics/232175">Textbooks</a></li>
+            </ul>
+         </div>
+      </div>
+
+      <div>
+        <div role="tab" aria-controls="modules_panel" class="header"><a href="#">Modules</a></div>
+          <div id="modules_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this module"><a href="/courses/33089/modules">Modules List</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33089/modules/71420">Week 9</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33089/modules/71412">Week 1</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33089/modules/71417">Week 6</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33089/modules/71416">Week 5</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33089/modules/71419">Week 8</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33089/modules/71418">Week 7</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33089/modules/71414">Week 3</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33089/modules/71415">Week 4</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33089/modules/71413">Week 2</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33089/modules/71426">Week 15</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33089/modules/71425">Week 14</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33089/modules/71424">Week 13</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33089/modules/71423">Week 12</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33089/modules/71422">Week 11</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33089/modules/71421">Week 10</a></li>
+            </ul>
+          </div>
+      </div>
+
+      <div>
+        <div class="header" role="tab" aria-controls="groups_panel"><a href="#">Course Navigation</a></div>
+         <div role="tabpanel" id="groups_panel">
+            <ul class="wiki_pages page_list">
+                <li title="Click to insert a link to the assignments page"><a href="/courses/33089/assignments">Assignment List</a></li>
+                <li title="Click to insert a link to the wiki"><a href="https://canvas.harvard.edu/courses/33089/pages">Wiki Home</a></li>
+                <li title="Click to insert a link to the discussions page"><a href="/courses/33089/discussion_topics">Discussions Index</a></li>
+                <li title="Click to insert a link to the syllabus"><a href="/courses/33089/assignments/syllabus">Course Syllabus</a></li>
+                <li title="Click to insert a link to the announcements page"><a href="/courses/33089/announcements">Announcement List</a></li>
+                <li title="Click to insert a link to the files page"><a href="/courses/33089/files">Files Index</a></li>
+                <li title="Click to insert a link to the collaborations page"><a href="/courses/33089/collaborations">Collaborations</a></li>
+                <li title="Click to insert a link to the grades page"><a href="/courses/33089/grades">Grades</a></li>
+                <li title="Click to insert a link to the people page"><a href="/courses/33089/users">People</a></li>
+                <li title="Click to insert a link to the modules page"><a href="/courses/33089/modules">Modules</a></li>
+            </ul>
+         </div>
+      </div>
+    </div>
+
+  </div>
+  <div aria-atomic="true" id="editor_tabs_4">
+    Click any image to embed the image in the page.
+    <div>
+      <a tabindex="0" href="#" class="find_new_image_link find">Find images on flickr creative commons</a>
+    </div>
+    <div id="wiki_sidebar_image_uploads" class="uploading_file_list uploading_image_list" style="display: none;">
+      <div class="uploading">
+        Uploading <span class="filename">file</span>...
+        <div>
+          <img alt="Loading..." src="https://du11hjcvx0uqb.cloudfront.net/dist/images/ajax-loader-bar-71e6988298.gif" />
+        </div>
+      </div>
+      <div class="remaining">
+        <span class="files_remaining">0</span> more to upload
+      </div>
+      
+<a href="#" style="text-align: center display: none;" class="img_link" title="Click to embed image">
+  <div class="img_holder">
+    <img class="img" data-url="" src="" alt="{{ display_name }}" title="Click to embed {{ display_name }}">
+  </div>
+  <div class="display_name">{{ display_name }}</div>
+</a>
+
+    </div>
+    <div class="image_list_holder ">
+      <div class="dragging_message">Drop Images Here to upload</div>
+      <div class="image_list" style="max-height: 300px; overflow: auto;" data-url="/courses/33089/images">
+      </div>
+    </div>
+  </div>
+  <div style="display: none;">
+    <a href="/services?service_type=BookmarkService" class="bookmark_services_url">&nbsp;</a>
+    <a href="/search/bookmarks?q=%7B%7B+query+%7D%7D&amp;service_type=%7B%7B+service_type+%7D%7D" class="bookmark_search_url">&nbsp;</a>
+    <span class="context_code">course_33089</span>
+    <div id="wiki_sidebar_select_folder_dialog">
+      Select a destination folder for these <span class="file_count">&nbsp;</span> files:
+      <div style="margin: 20px;">
+        <select class="folder_id">
+        </select>
+      </div>
+      <div class="button-container">
+        <button type="button" class="btn select_button">Upload Files to Folder</button>
+        <button type="button" class="btn cancel_button btn button-secondary">Cancel</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+          </aside>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    <div style="display:none;"><!-- Everything inside of this should always stay hidden -->
+    </div>
+    
+<div id="cant_record_dialog" style="display: none;">
+  <div>
+    In order to create video or audio recordings your computer needs to be 
+    webcam-enabled.  If you don&#39;t have a webcam on your computer, you can still
+    record audio-only messages by first installing the Google Video Chat
+    plugin.
+  </div>
+  <div style="text-align: center; font-size: 1.5em; margin: 10px;">
+    <a href="http://www.google.com/chat/video" target="_blank" class="btn">Install the Video Plugin</a>
+  </div>
+  <div class="links" style="text-align: right; font-size: 0.8em; display: none;">
+    <a href="#" class="cant_record_link">Don&#39;t have a webcam?</a>
+  </div>
+</div>
+  <div id='aria_alerts' class='hide-text affix' role="alert" aria-live="assertive"></div>
+  <div id='StudentTray__Container'></div>
+  <script>
+  INST = {"environment":"production","allowMediaComments":true,"kalturaSettings":{"domain":"nv.instructuremedia.com","resource_domain":"nv.instructuremedia.com","rtmp_domain":"fms-prod.instructuremedia.com","partner_id":"9","subpartner_id":"0","player_ui_conf":"0","kcw_ui_conf":"0","upload_ui_conf":"0","max_file_size_bytes":534773760,"do_analytics":false,"hide_rte_button":false,"js_uploader":true},"googleAnalyticsAccount":"UA-9138420-1","disableScribdPreviews":true,"logPageViews":true,"maxVisibleEditorButtons":3,"editorButtons":[{"name":"YouTube","id":18015,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=youtube","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/youtube_icon.png","canvas_icon_class":null,"width":560,"height":600},{"name":"Vimeo","id":18016,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=vimeo","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/vimeo_icon.png","canvas_icon_class":null,"width":560,"height":600},{"name":"DCE Matterhorn Course Recordings","id":19109,"url":"https://dce-mhvideo-lti.herokuapp.com/mhvideo_lti/lti_launch","icon_url":"https://dce-mhvideo-lti.herokuapp.com/static/images/television.png","canvas_icon_class":null,"width":800,"height":400},{"name":"Course Info","id":20525,"url":"https://canvas-course-info.tlt.harvard.edu/course_info/lti_launch","icon_url":"https://canvas-course-info.tlt.harvard.edu/static/images/course-info.png","canvas_icon_class":null,"width":800,"height":400}]};
+  ENV = {"ASSET_HOST":"https://du11hjcvx0uqb.cloudfront.net","active_brand_config":"af37e5be444f4a553c9c812a9a990322","active_brand_config_json_url":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.json","url_to_what_gets_loaded_inside_the_tinymce_editor_css":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/what_gets_loaded_inside_the_tinymce_editor-542d1c188c.css","current_user_id":null,"current_user":{},"current_user_roles":null,"current_user_disabled_inbox":null,"files_domain":"cluster28-files.instructure.com","DOMAIN_ROOT_ACCOUNT_ID":18750000000000001,"k12":false,"help_link_name":"Help","help_link_icon":"help","use_high_contrast":null,"SETTINGS":{"open_registration":false,"eportfolios_enabled":true,"collapse_global_nav":null,"show_feedback_link":true,"enable_profiles":true},"context_asset_string":"course_33089","ping_url":"https://canvas.harvard.edu/api/v1/courses/33089/ping","TIMEZONE":"America/New_York","CONTEXT_TIMEZONE":"America/New_York","LOCALE":"en","BIGEASY_LOCALE":"en_US","FULLCALENDAR_LOCALE":"en","MOMENT_LOCALE":"en","RICH_CONTENT_SERVICE_ENABLED":true,"RICH_CONTENT_APP_HOST":"rich-content-iad.inscloudgate.net","RICH_CONTENT_CDN_HOST":"dvgcns7dz7zc.cloudfront.net/rce_service/versions/","RICH_CONTENT_SIDEBAR_SOURCE":"api","RICH_CONTENT_CAN_UPLOAD_FILES":false,"CONTEXT_ACTION_SOURCE":"syllabus","NEW_USER_TUTORIALS":{"is_enabled":false},"SYLLABUS_PER_PAGE":"100","CAN_READ":false,"SYLLABUS_BODY":"\u003ctable\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd width=\"114\"\u003e\n\u003cp\u003eCourse N°:\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"342\"\u003e\n\u003ch4\u003e\u003cstrong\u003eCSCI E-59\u003c/strong\u003e\u003c/h4\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"114\"\u003e\n\u003cp\u003eCourse Title:\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"342\"\u003e\n\u003cp\u003e\u003cstrong\u003eDesigning and Developing a Relational Database\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"114\"\u003e\n\u003cp\u003eClass Time:\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"342\"\u003e\n\u003cp\u003eWednesday 5:10 pm – 7:10 pm\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"114\"\u003e\n\u003cp\u003eSemester:\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"342\"\u003e\n\u003cp\u003eFall 2017\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eHere is a \u003ca class=\"instructure_file_link instructure_scribd_file\" title=\"syllabus.pdf\" href=\"/courses/33089/files/4428152/download?verifier=jGiebLI3j4ehZcSqDzqwTDJ2HynHNPX7ivlMBHry\u0026amp;wrap=1\"\u003ePDF version\u003c/a\u003e of the syllabus.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eTeaching Staff\u003c/strong\u003e\u003c/p\u003e\n\u003ctable\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd width=\"96\"\u003e\n\u003cp\u003eInstructor:\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"372\"\u003e\n\u003ch4\u003e\u003cstrong\u003eMaria R. Garcia Altobello\u003c/strong\u003e\u003c/h4\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"96\"\u003e\n\u003cp\u003eEmail:\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"372\"\u003e\n\u003cp\u003e\u003ca href=\"mailto:mrgarcia@fas.harvard.edu\"\u003emrgarcia@fas.harvard.edu\u003c/a\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"96\"\u003e\n\u003cp\u003eLecture:\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"372\"\u003e\n\u003cp\u003eWednesday 5:10 pm – 7:10 pm\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"96\"\u003e\n\u003cp\u003eOffice Hours:\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"372\"\u003e\n\u003cp\u003eWednesdays before or after class by appointment\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e\u003cstrong\u003eIntroduction\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eThis course focuses in the design and development of database applications, with an emphasis on sound database design. Database design is a business not a data problem.  To successfully design a database, the analyst needs to understand the information of the organization.  This includes using all the data research and analysis techniques available, and searching inside of the toolbox to select those tools that will allow the analyst to understand the business the organization is in.  Information is data within a particular context.  Thus, if the person understands the information required by the organization, he/she will be able to organize the data in such a way that answers the questions required by the organization.  Although governed by a number of rules and standards, database design is an art.  Only practice will allow an individual to learn what better suits each particular need.\u003c/p\u003e\n\u003cp\u003eThe course will cover database design, the relational database model, relational database management systems, the SQL language, transaction processing and other database concepts.\u003c/p\u003e\n\u003cp\u003eFor database services, we will use the \u003cstrong\u003eOracle version 12c\u003c/strong\u003e database management system as the principal vehicle for demonstrating and building relational databases and exploring important database management system concepts such as schema definition, referential integrity, SQL queries, triggers, stored procedures, transaction processing, and access control.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAudience\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eThis course is intended for individuals interested in gaining a thorough understanding of database application design and development. Individuals interested in enhancing their knowledge or broadening their skills with respect to database management systems and client/server application development should benefit from this course.  The focus of this course is on using high-level software tools in order to develop software applications.  It should be viewed as a solid introduction to a broad set of topics, anyone of which the student may want to focus upon as an area of specialization in the future, and a good prerequisite for a number of more specialized courses in the computer science curriculum.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003ePrerequisites\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eThe instructor assumes students have familiarity with general business situations, but no previous knowledge on designing and building database applications. Familiarity with databases as an end user is a plus.\u003c/p\u003e\n\u003cp\u003eIn addition, students must have programming experience, such that learning a new language is not an obstacle.\u003c/p\u003e\n\u003cp\u003eFinally, students must have sufficient hands-on experience with Unix/Linux and text editors.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eCatalog Description\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eThis course provides the concepts and skills necessary to design and develop a relational database. After learning database design concepts through practical applications, students build a working database using Oracle and to serve the information needs of an enterprise. Through hands-on projects, students will design, build, populate, query, and write transactions and stored procedures for a relational database using SQL and PL/SQL.  As a final project, students will build a prototype database. Prerequisites:  programming experience and familiarity with Unix/Linux.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eLearning Outcomes\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eUpon completion of this course, students will be able to:\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003eDemonstrate ability to design a database to solve an information problem, by applying the relational model.\u003c/li\u003e\n\u003cli\u003eTransform business requirements into business solutions using database technologies.\u003c/li\u003e\n\u003cli\u003eFormulate queries, transactions, and triggers to support management decision-making processes.\u003c/li\u003e\n\u003cli\u003eBecome aware of issues pertaining distributed database management systems, especially transaction processing, concurrency control, and security.\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cstrong\u003eTexts\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eWhile there is no specific textbook requirement, students are encouraged to purchase at least one book on \u003cstrong\u003edatabase concepts\u003c/strong\u003e and/or \u003cstrong\u003eSQL\u003c/strong\u003e.\u003c/p\u003e\n\u003cp\u003eTextbooks complement class lectures, and help students consider points of view which may differ from those of the instructor. This contributes to creating a solid foundation in the subject.  A guide to suggested readings for recommended texts will be available on the Course Website.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eTeaching Strategies\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eOver the course of the term, the instructor will employ one or more of the following strategies:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eLecture\u003c/li\u003e\n\u003cli\u003ePractical Applications\u003c/li\u003e\n\u003cli\u003eSections\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003eLecture\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eUnder this section, the instructor will present the basic concepts to be covered. Depending on the subject, students may be exposed to other supplemental material.  The lecture will rely heavily on questions posed by the students.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003ePractical Applications\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eUnder this section, the instructor will walk students through exercises that represent an application of the concepts covered. Students may bring their own laptops to class, and follow along with the instructor.  A great part of the course covers a hands-on approach to database implementation.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSections\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eStarting the first week of class, optional sections will be held each week. Sections are one and a half hours long.  Each section is taught by a course Teaching Assistant.  The number of sections is dependent on course enrollment.  While attendance is not required, it is highly recommended that you try to attend at least one section each week.  You may attend as many sections as you wish.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eEvaluation Methods\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eAssignments for this class range from written work on database design to SQL, client development computer exercises to a final project. The workload to complete the written work and computing assignments is short, but intensive.  Depending upon your experience, each assignment should take an average of four to six hours to complete.  There is one examination in this course, but major emphasis is placed upon the assignments and the final project.  You should expect to devote a significant amount of time over a one-month period to complete the final project.\u003c/p\u003e\n\u003cp\u003eThe final grade will be calculated as follows:\u003c/p\u003e\n\u003cp\u003e¨       Database Assignments              500 points\u003c/p\u003e\n\u003cp\u003e¨       Pop Quizzes                              140 points\u003c/p\u003e\n\u003cp\u003e¨       Final Project Proposal                100 points\u003c/p\u003e\n\u003cp\u003e¨       Final Project                             260 points\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eDatabase Assignments\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eThere will be four assignments during the term:\u003c/p\u003e\n\u003ctable\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd width=\"60\"\u003e\n\u003cp\u003ePS-1\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"300\"\u003e\n\u003cp\u003eDatabase Design using Normalization\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"96\"\u003e\n\u003ch4\u003e100 points\u003c/h4\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"60\"\u003e\n\u003cp\u003ePS-2\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"300\"\u003e\n\u003cp\u003eDatabase Design and Data Modeling using Entity Relationship Analysis\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"96\"\u003e\n\u003cp\u003e150 points\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"60\"\u003e\n\u003cp\u003ePS-3\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"300\"\u003e\n\u003cp\u003eDefining and Querying a Database using SQL\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"96\"\u003e\n\u003cp\u003e100 points\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"60\"\u003e\n\u003cp\u003ePS-4\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"300\"\u003e\n\u003cp\u003eDatabase Integrity using SQL and PL/SQL\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"96\"\u003e\n\u003cp\u003e150 points\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd colspan=\"2\" width=\"360\"\u003e\n\u003cp\u003eTotal\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"96\"\u003e\n\u003cp\u003e500 points\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e\u003cstrong\u003ePop Quizzes\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eThere will be fourteen pop quizzes during the term. The pop quiz consists of one or two questions related to a topic discussed during the lecture.  Students are strongly advised to watch the lecture before attempting to answer the pop quiz.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eFinal Project\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eThe final project consists of the design and implementation of a database application to solve an information management problem of your own choosing; perhaps something relevant to information needs at your workplace.  Database design is the most critical part of the final project.\u003c/p\u003e\n\u003cp\u003eThe final project is due by the last class on \u003cstrong\u003eDecember 13, 2017\u003c/strong\u003e.  The final project is in many respects a composite of the entire course content.  Plan for this early.  Consultations with the Teaching Assistants or myself are expected as you proceed.  In general, the final project should reflect concepts from the entire course content.  Details on the final project will be provided later in the course.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eLate Submission Policy\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eAll assignments will be due by \u003cstrong\u003e6:00 pm EDT\u003c/strong\u003e.  Late assignments will be accepted and graded according to the following guidelines:\u003c/p\u003e\n\u003ctable\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd width=\"108\"\u003e\n\u003cp\u003e\u003cstrong\u003eDays Late\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003e\u003cstrong\u003ePenalty\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"108\"\u003e\n\u003cp\u003eUp to 1\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003e10%\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"108\"\u003e\n\u003cp\u003eUp to 2\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003e20%\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"108\"\u003e\n\u003cp\u003eUp to 3\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003e30%\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"108\"\u003e\n\u003cp\u003eUp to 4\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003e100%\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e\u003cstrong\u003eThis late policy does not apply to the final project.\u003c/strong\u003e  The final project must be handed-in on or before \u003cstrong\u003eDecember 13, 2017\u003c/strong\u003e.  Final grades will be calculated on the basis of completed assignments, the midterm, and the final project.  Zero credit will be given for unfinished work.\u003c/p\u003e\n\u003cp\u003eExtensions will be granted only for the most extenuating circumstances, and generally only for the final project. You must petition the class instructor for an extension on or before \u003cstrong\u003eNovember 30, 2017\u003c/strong\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eLate Token Policy\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eStudents have 3 late tokens, each worth one day. Tokens may be applied to submitted assignments only.  Each token allows students to submit an assignment a day late without any explanation.  Students may use all 3 tokens in one assignment or a token on 3 different assignments.  The late assignment policy will apply to additional late days, as indicated above.\u003c/p\u003e\n\u003cp\u003eThere are no exceptions to this policy. Exceptions are unfair to other students, and impose an added burden on teaching assistants. \u003cstrong\u003eThe tokens expire on November 30, 2017.\u003c/strong\u003e  Thus, they may not be applied to the final project.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAssignment Review Policy\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eStudents must address their comments on the graded assignments to the TA who graded them. If the TA and the student are not able to reach an understanding, the TA or the student may request the instructor to review it.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eResubmission Policy\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eOnce graded, assignments may not be resubmitted for regrading.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eGrade Calculation\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eThe total points accumulated will be converted to the Extension School grading scale at the end of the semester.  The following score criteria will be used:\u003c/p\u003e\n\u003ctable\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd width=\"72\"\u003e\n\u003cp\u003e\u003cstrong\u003eGrade\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003e\u003cstrong\u003eDefinition\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003e\u003cstrong\u003eQuality Points\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"60\"\u003e\n\u003cp\u003e\u003cstrong\u003eScore\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"72\"\u003e\n\u003cp\u003eA\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003eExcellent\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003e4.00\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"60\"\u003e\n\u003cp\u003e96-100\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"72\"\u003e\n\u003cp\u003eA-\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003eExcellent\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003e3.75\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"60\"\u003e\n\u003cp\u003e90-95\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"72\"\u003e\n\u003cp\u003eB+\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003eVery Good\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003e3.25\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"60\"\u003e\n\u003cp\u003e87-89\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"72\"\u003e\n\u003cp\u003eB\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003eGood\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003e3.00\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"60\"\u003e\n\u003cp\u003e84-86\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"72\"\u003e\n\u003cp\u003eB-\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003eGood\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003e2.75\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"60\"\u003e\n\u003cp\u003e80-83\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"72\"\u003e\n\u003cp\u003eC+\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003eAverage\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003e2.25\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"60\"\u003e\n\u003cp\u003e77-79\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"72\"\u003e\n\u003cp\u003eC\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003eAverage\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003e2.00\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"60\"\u003e\n\u003cp\u003e74-76\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"72\"\u003e\n\u003cp\u003eC-\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003eAverage\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003e1.75\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"60\"\u003e\n\u003cp\u003e70-73\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"72\"\u003e\n\u003cp\u003eD+\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003eDeficient\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003e1.25\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"60\"\u003e\n\u003cp\u003e67-69\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"72\"\u003e\n\u003cp\u003eD\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003eDeficient\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003e1.00\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"60\"\u003e\n\u003cp\u003e64-66\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"72\"\u003e\n\u003cp\u003eD-\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003eDeficient\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003e0.75\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"60\"\u003e\n\u003cp\u003e60-63\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"72\"\u003e\n\u003cp\u003eE\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003eFailure\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"102\"\u003e\n\u003cp\u003e0.00\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"60\"\u003e\n\u003cp\u003e0-60\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eFinal grades will be calculated on the basis of completed assignments and the final project. No credit will be given for unfinished assignments. The final grade will be based upon a standardized curve aggregated by overall class performance.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eTechnical Requirements\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eTo gain access to selected handouts, students will need to download the most recent version of \u003cstrong\u003eAdobe Acrobat Reader\u003c/strong\u003e.  This software is available for free at:  \u003ca href=\"http://www.adobe.com/\"\u003ehttp://www.adobe.com\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003eTo access \u003cstrong\u003eOracle\u003c/strong\u003e students must use a special \u003cstrong\u003eUnix\u003c/strong\u003e account provided on the Extension School server, \u003cstrong\u003ecscie60.dce.harvard.edu\u003c/strong\u003e.  If you have access to the Internet you may connect to the Oracle server via telnet, using a secure terminal emulator to your Unix account on cscie60.dce.harvard.edu.\u003c/p\u003e\n\u003cp\u003eYou may use your favorite text editor to write your code. If you use a Windows-based editor you will need to transfer the .cfm files to you Unix account on cscie60.dce.harvard.edu using secure file transfer software (SFTP).  Harvard degree and certificate candidates may download this software for free directly from the FAS Website:  \u003ca href=\"http://www.fas.harvard.edu/computing\"\u003ehttp://www.fas.harvard.edu/computing\u003c/a\u003e. You must have a valid Harvard Student ID to access software available for download.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eCourse Communication\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eClasses meet online once a week for 2 hours. Aside from classes, students have a number of ways to communicate with the teaching staff and with their classmates.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSection:\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eYou may attend any or all the Teaching Assistant sessions. Teaching Assistant sessions run for 1.5 hours, and will begin the first week of class.  The Teaching Assistant sessions are optional and are meant to reinforce and expand upon class topics as well as to discuss assignments and the project.  Although not mandatory, you are strongly encouraged to take advantage of this opportunity.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eOffice Hours:\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eYou may schedule a meeting with a teaching assistant. Office hours are available before or after Teaching Assistant sections, and run for 30 minutes.  Additional hours may be scheduled by appointment.  Please, contact the teaching assistant directly to set up a mutually convenient time.\u003c/p\u003e\n\u003cp\u003eYou may schedule a meeting with the instructor. Office hours are available each Monday before class on a first come-first served basis.  Additional hours may be scheduled by appointment.  Please, contact your instructor if you are interested in meeting with her.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eDiscussion Boards:\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eYou are encouraged to visit the course Website often for updated information about the course. If you require further assistance, you may seek an answer to your questions through the discussion boards.  You are encouraged to read the class postings and contribute with your responses.  Please refrain from posting solutions to assignments.  Note that you will need to register before posting to any of the above bulletin boards.\u003c/p\u003e\n\u003cp\u003eThere is also a new FAQ section. Some of your general questions might be featured in the FAQ section, and will be available to students taking this class at a later time.  The FAQ section is a blog.  Students are free to post a new item, or to comment on items already posted.\u003c/p\u003e\n\u003cp\u003eAlternatively, you may contact the teaching staff by sending an email to the staff email available through the course Website.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eStudent Responsibilities\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eStudents registered in this course are responsible for attending classes, taking notes, downloading the materials, completing the pop quizzes, and handing in their problem sets and final project.\u003c/p\u003e\n\u003cp\u003eMake sure you keep a backup of all your work. Even if you submit your homework on time, there is no guarantee that your work will reach its destination as expected.  Your instructor or a member of the teaching staff may contact you in case there are any problems, but you are responsible for making sure your work receives proper credit, and this includes proper reception.\u003c/p\u003e\n\u003cp\u003eAs a word of advice, do not wait until the last moment to complete your work. If you do, you run the risk of experiencing unanticipated problems that might prevent your from completing your work on time.\u003c/p\u003e\n\u003cp\u003eStudents are expected to be familiar with the Academic Policy described in the Extension School catalogue.  You may contact the Registrar’s Office with questions in this regard.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eClassroom Etiquette\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eAll students should follow and maintain appropriate classroom etiquette. This means that you should not be noisy or disruptive during class time and that you should be polite and respectful to your fellow students, to your instructor, and to the teaching staff.  I promise to do the same.  If you note that appropriate etiquette is not being followed in your presence, I encourage you to contact me for assistance.\u003c/p\u003e\n\u003cp\u003eMake sure you are familiar with online etiquette, by visiting \u003ca href=\"http://www.netmanners.com/\"\u003ehttp://www.netmanners.com/\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eLearning Disabilities\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eThe Extension School is committed to providing an accessible academic community. The Disability Services Office offers a variety of accommodations and services to students with documented disabilities. Please visit \u003ca href=\"http://www.extension.harvard.edu/resources-policies/resources/disability-services-accessibility\"\u003ewww.extension.harvard.edu/resources-policies/resources/disability-services-accessibility\u003c/a\u003e for more information.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAcademic Honesty\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eYou are responsible for understanding Harvard Extension School policies on academic integrity (\u003ca href=\"http://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity\"\u003ewww.extension.harvard.edu/resources-policies/student-conduct/academic-integrity\u003c/a\u003e) and how to use sources responsibly. Not knowing the rules, misunderstanding the rules, running out of time, submitting \"the wrong draft\", or being overwhelmed with multiple demands are not acceptable excuses.  There are no excuses for failure to uphold academic integrity.  To support your learning about academic citation rules, please visit the Harvard Extension School Tips to Avoid Plagiarism (\u003ca href=\"http://www.extension.harvard.edu/resources-policies/resources/tips-avoid-plagiarism\"\u003ewww.extension.harvard.edu/resources-policies/resources/tips-avoid-plagiarism\u003c/a\u003e), where you'll find links to the Harvard Guide to Using Sources and two, free, online 15-minute tutorials to test your knowledge of academic citation policy. The tutorials are anonymous open-learning tools.\u003c/p\u003e","notices":[]};
+</script>
+
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/navigation_header.bundle-9669f80a51.js" defer="defer"></script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/4225508/global.min.js" defer="defer"></script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/3751539/EXPGlobal.js" defer="defer"></script>
+
+</div> <!-- #application -->
+</body>
+</html>

@@ -1,0 +1,1519 @@
+
+
+<!DOCTYPE html>
+<html class="scripts-not-loaded" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Syllabus for Intermediate Statistics: Methods and Modeling</title>
+  <!--[if lte IE 9]> <meta http-equiv=refresh content="0; URL=/ie-9-is-not-supported.html" /> <![endif]-->
+  <link rel="shortcut icon" type="image/x-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/favicon-e10d657a73.ico" />
+  <link rel="apple-touch-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/apple-touch-icon-585e5d997d.png" />
+  
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.css" />
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/common-de9877d2f0.css" />
+  <script>
+//<![CDATA[
+
+!function(){
+  var o,s,v;
+  if (!(window.Promise && Object.assign && Object.values && [].find && [].includes && (o={},s=Symbol(),v={},o[s]=v,o[s]===v) && (function f(){}).bind().name==='bound f')) {
+    s = 's', document.write('<'+s+'cr'+'ipt src="https://du11hjcvx0uqb.cloudfront.net/dist/ie11-polyfill-64b21f7f37.js"></'+s+'c'+'ript>');
+  }
+}();
+      
+//]]>
+</script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/lato-fontfaceobserver-11a14bc0b6.js" async="async"></script>
+  
+  <meta name="apple-itunes-app" content="app-id=480883488" />
+<link rel="manifest" href="/web-app-manifest/manifest.json" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#008EE2">
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/tinymce-29f8b0a23f.css" />
+<link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/syllabus-2f51f24f19.css" />
+  
+  <link rel="stylesheet" media="all" href="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/4225502/global.min.css" />
+  <script>
+    function _earlyClick(e){
+      var c = e.target
+      while (c && c.ownerDocument) {
+        if (c.getAttribute('href') == '#' || c.getAttribute('data-method')) {
+          e.preventDefault()
+          (_earlyClick.clicks = _earlyClick.clicks || []).push(c)
+          break
+        }
+        c = c.parentNode
+      }
+    }
+    document.addEventListener('click', _earlyClick)
+  </script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.js" defer="defer"></script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/vendor.bundle-2585fc489b.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/New_York-c3226761e3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/en_US-80a0ce259b.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/appBootstrap.bundle-43015c2be3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/common.bundle-07f53473d3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/syllabus.bundle-8eb56aaa04.js" defer="defer"></script>
+</head>
+
+<body class="with-left-side course-menu-expanded with-right-side syllabus primary-nav-expanded context-course_33157">
+
+<noscript>
+  <div role="alert" class="ic-flash-static ic-flash-error">
+    <div class="ic-flash__icon" aria-hidden="true">
+      <i class="icon-warning"></i>
+    </div>
+    <h1>You need to have JavaScript enabled in order to access this site.</h1>
+  </div>
+</noscript>
+
+
+
+
+
+<ul id="flash_message_holder"></ul>
+<div id="flash_screenreader_holder"></div>
+
+<div id="application" class="ic-app">
+  
+  <header id="header" class="ic-app-header no-print no-user">
+    <a href="#content" id="skip_navigation_link">Skip To Content</a>
+      <div role="region" class="ic-app-header__main-navigation" aria-label="Main Navigation">
+        <div class="ic-app-header__logomark-container">
+          <a href="https://canvas.harvard.edu/" class="ic-app-header__logomark">
+            <span class="screenreader-only">Dashboard</span>
+          </a>
+        </div>
+        <ul id="menu" class="ic-app-header__menu-list">
+            <li class="menu-item ic-app-header__menu-list-item">
+              <a id="global_nav_login_link" href="/login" class="ic-app-header__menu-list-link">
+                <div class="menu-item-icon-container" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--login" version="1.1" x="0" y="0" viewBox="241 -241 512 512" enable-background="new 241 -241 512 512" xml:space="preserve"><path d="M743.9 5.9l-35.7-35.7H492.9c-6.5-16.2-17.3-32-31.7-46.4 -50.4-50.4-132-50.4-182.4 0s-50.4 132.1 0 182.5 132 50.4 182.4 0c11.8-11.8 20.6-25.9 27-41.8H547L570.6 88l22.8-22.8L616.2 88 639 65.2 661.8 88l24.1-24.1 15.6-1.5 4.6-0.5L753 15 743.9 5.9 743.9 5.9zM694.4 37.1l-15.6 1.5 -4.6 0.5 -12.4 12.4 -12.9-12.9h-19.8l-12.9 12.9 -12.9-12.9h-19.8l-12.9 12.9 -12.9-12.9h-87.6l-2.9 8.8c-5.3 16-13.2 29.5-24.2 40.6 -40.3 40.3-105.6 40.3-145.9 0s-40.3-105.7 0-146 105.6-40.3 145.9 0c14.3 14.3 24.4 29.8 28.6 44.6l2.7 9.4h223.3l19 19L694.4 37.1 694.4 37.1zM322.3-16.2c-17.5 17.5-17.5 46 0 63.5 17.5 17.5 46 17.5 63.5 0 17.5-17.5 17.5-46 0-63.5C368.2-33.8 339.8-33.8 322.3-16.2L322.3-16.2zM367.6 29.1c-7.5 7.5-19.7 7.5-27.2 0 -7.5-7.5-7.5-19.7 0-27.2s19.7-7.5 27.2 0S375.2 21.6 367.6 29.1L367.6 29.1z"/></svg>
+
+                </div>
+                <div class="menu-item__text">
+                  Login
+                </div>
+              </a>
+            </li>
+          <li class="ic-app-header__menu-list-item ">
+            <a id="global_nav_dashboard_link" href="https://canvas.harvard.edu/" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--dashboard" version="1.1" x="0" y="0" viewBox="0 0 280 200" enable-background="new 0 0 280 200" xml:space="preserve"><path d="M273.09,180.75H197.47V164.47h62.62A122.16,122.16,0,1,0,17.85,142a124,124,0,0,0,2,22.51H90.18v16.29H6.89l-1.5-6.22A138.51,138.51,0,0,1,1.57,142C1.57,65.64,63.67,3.53,140,3.53S278.43,65.64,278.43,142a137.67,137.67,0,0,1-3.84,32.57ZM66.49,87.63,50.24,71.38,61.75,59.86,78,76.12Zm147,0L202,76.12l16.25-16.25,11.51,11.51ZM131.85,53.82v-23h16.29v23Zm15.63,142.3a31.71,31.71,0,0,1-28-16.81c-6.4-12.08-15.73-72.29-17.54-84.25a8.15,8.15,0,0,1,13.58-7.2c8.88,8.21,53.48,49.72,59.88,61.81a31.61,31.61,0,0,1-27.9,46.45ZM121.81,116.2c4.17,24.56,9.23,50.21,12,55.49A15.35,15.35,0,1,0,161,157.3C158.18,152,139.79,133.44,121.81,116.2Z" /></svg>
+
+              </div>
+              <div class="menu-item__text">Dashboard</div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ic-app-header__menu-list-item--active">
+            <a id="global_nav_courses_link" href="/courses" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--courses" version="1.1" x="0" y="0" viewBox="0 0 280 259" enable-background="new 0 0 280 259" xml:space="preserve"><path d="M73.31,198c-11.93,0-22.22,8-24,18.73a26.67,26.67,0,0,0-.3,3.63v.3a22,22,0,0,0,5.44,14.65,22.47,22.47,0,0,0,17.22,8H200V228.19h-134V213.08H200V198Zm21-105.74h90.64V62H94.3ZM79.19,107.34V46.92H200v60.42Zm7.55,30.21V122.45H192.49v15.11ZM71.65,16.71A22.72,22.72,0,0,0,49,39.36V190.88a41.12,41.12,0,0,1,24.32-8h157V16.71ZM33.88,39.36A37.78,37.78,0,0,1,71.65,1.6H245.36V198H215.15v45.32h22.66V258.4H71.65a37.85,37.85,0,0,1-37.76-37.76Z"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Courses
+              </div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_calendar_link" href="/calendar" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--calendar" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M197.07,213.38h16.31V197.07H197.07Zm-16.31,16.31V180.76h48.92v48.92Zm-48.92-16.31h16.31V197.07H131.85Zm-16.31,16.31V180.76h48.92v48.92ZM66.62,213.38H82.93V197.07H66.62ZM50.32,229.68V180.76H99.24v48.92Zm146.75-81.53h16.31V131.85H197.07Zm-16.31,16.31V115.54h48.92v48.92Zm-48.92-16.31h16.31V131.85H131.85Zm-16.31,16.31V115.54h48.92v48.92ZM66.62,148.15H82.93V131.85H66.62ZM50.32,164.46V115.54H99.24v48.92ZM34,262.29H246V82.93H34ZM246,66.62V42.16A8.17,8.17,0,0,0,237.84,34H213.38v8.15a8.15,8.15,0,1,1-16.31,0V34H82.93v8.15a8.15,8.15,0,0,1-16.31,0V34H42.16A8.17,8.17,0,0,0,34,42.16V66.62Zm-8.15-48.92a24.49,24.49,0,0,1,24.46,24.46V278.6H17.71V42.16A24.49,24.49,0,0,1,42.16,17.71H66.62V9.55a8.15,8.15,0,0,1,16.31,0v8.15H197.07V9.55a8.15,8.15,0,1,1,16.31,0v8.15Z"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Calendar
+              </div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_conversations_link" href="/conversations" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--inbox" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M91.72,120.75h96.56V104.65H91.72Zm0,48.28h80.47V152.94H91.72Zm0-96.56h80.47V56.37H91.72Zm160.94,34.88H228.52V10.78h-177v96.56H27.34A24.17,24.17,0,0,0,3.2,131.48V244.14a24.17,24.17,0,0,0,24.14,24.14H252.66a24.17,24.17,0,0,0,24.14-24.14V131.48A24.17,24.17,0,0,0,252.66,107.34Zm0,16.09a8.06,8.06,0,0,1,8,8v51.77l-32.19,19.31V123.44ZM67.58,203.91v-177H212.42v177ZM27.34,123.44H51.48v79.13L19.29,183.26V131.48A8.06,8.06,0,0,1,27.34,123.44ZM252.66,252.19H27.34a8.06,8.06,0,0,1-8-8V202l30,18H230.75l30-18v42.12A8.06,8.06,0,0,1,252.66,252.19Z"/></svg>
+
+                <span class="menu-item__badge" style="display: none">0</span>
+              </div>
+              <div class="menu-item__text">
+                Inbox
+              </div>
+            </a>
+          </li>
+          <li class="ic-app-header__menu-list-item">
+           <a id="global_nav_help_link" class="ic-app-header__menu-list-link" data-track-category="help system" data-track-label="help button" href="http://help.instructure.com/">
+              <div class="menu-item-icon-container" role="presentation">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg menu-item__icon svg-icon-help" version="1.1" x="0" y="0" viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve" fill="currentColor"><path d="M100,127.88A11.15,11.15,0,1,0,111.16,139,11.16,11.16,0,0,0,100,127.88Zm8.82-88.08a33.19,33.19,0,0,1,23.5,23.5,33.54,33.54,0,0,1-24,41.23,3.4,3.4,0,0,0-2.74,3.15v9.06H94.42v-9.06a14.57,14.57,0,0,1,11.13-14,22.43,22.43,0,0,0,13.66-10.27,22.73,22.73,0,0,0,2.31-17.37A21.92,21.92,0,0,0,106,50.59a22.67,22.67,0,0,0-19.68,3.88,22.18,22.18,0,0,0-8.65,17.64H66.54a33.25,33.25,0,0,1,13-26.47A33.72,33.72,0,0,1,108.82,39.8ZM100,5.2A94.8,94.8,0,1,0,194.8,100,94.91,94.91,0,0,0,100,5.2m0,178.45A83.65,83.65,0,1,1,183.65,100,83.73,83.73,0,0,1,100,183.65" transform="translate(-5.2 -5.2)"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Help
+              </div>
+</a>          </li>
+        </ul>
+      </div>
+      <div class="ic-app-header__secondary-navigation">
+        <ul class="ic-app-header__menu-list">
+          <li class="menu-item ic-app-header__menu-list-item">
+            <button
+              id="primaryNavToggle"
+              class="ic-app-header__menu-list-link ic-app-header__menu-list-link--nav-toggle"
+              aria-label="
+                Minimize global navigation"
+              title="
+                Minimize global navigation"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--navtoggle" version="1.1" x="0" y="0" width="40" height="32" viewBox="0 0 40 32" xml:space="preserve">
+  <path d="M39.5,30.28V2.48H37.18v27.8Zm-4.93-13.9L22.17,4,20.53,5.61l9.61,9.61H.5v2.31H30.14l-9.61,9.61,1.64,1.64Z"/>
+</svg>
+
+            </button>
+          </li>
+        </ul>
+      </div>
+    <div id="global_nav_tray_container"></div>
+  </header>
+
+
+  <div id="instructure_ajax_error_box">
+    <div style="text-align: right; background-color: #fff;"><a href="#" class="close_instructure_ajax_error_box_link">Close</a></div>
+    <iframe id="instructure_ajax_error_result" src="about:blank" style="border: 0;" title="Error"></iframe>
+  </div>
+
+  
+
+  <div id="wrapper" class="ic-Layout-wrapper">
+      <div class="ic-app-nav-toggle-and-crumbs no-print">
+          <button type="button" id="courseMenuToggle" class="Button Button--link ic-app-course-nav-toggle" aria-live="polite" aria-label="Hide Courses Navigation Menu" title="Hide Courses Navigation Menu">
+            <i class="icon-hamburger" aria-hidden="true"></i>
+          </button>
+          <div class="ic-app-crumbs">
+        <nav id="breadcrumbs" role="navigation" aria-label="breadcrumbs"><ul><li class="home"><a href="/"><span class="ellipsible">      <i class="icon-home"
+         title="My Dashboard">
+        <span class="screenreader-only">My Dashboard</span>
+      </i>
+</span></a></li><li><span class="ellipsible">STAT E-150 (14567)</span></li><li><span class="ellipsible">Syllabus</span></li></ul></nav>
+        </div>
+      </div>
+    <div id="main" class="ic-Layout-columns">
+        <div class="ic-Layout-watermark"></div>
+        <div id="left-side"
+          class="ic-app-course-menu list-view"
+          style="display: block"
+          >
+              <span id="section-tabs-header-subtitle" class="ellipsis">2017-2018 Fall</span>
+            <nav role="navigation" aria-label="Courses Navigation Menu"><ul id="section-tabs"><li class="section"><a href="/courses/33157/assignments/syllabus" title="Syllabus" class="syllabus active">Syllabus</a></li><li class="section"><a href="/courses/33157/external_tools/26553" title="Yellowdig" class="context_external_tool_26553">Yellowdig</a></li><li class="section"><a href="/courses/33157/external_tools/13815" title="Student Resources" class="context_external_tool_13815">Student Resources</a></li><li class="section"><a href="/courses/33157/external_tools/26832" title="Secure Exam Proctor" class="context_external_tool_26832">Secure Exam Proctor</a></li></ul></nav>
+        </div>
+      <div id="not_right_side" class="ic-app-main-content">
+        <div id="content-wrapper" class="ic-Layout-contentWrapper">
+            
+
+          <div id="content" class="ic-Layout-contentMain" role="main">
+            
+
+
+
+<div class="ic-Action-header">
+  <div class="ic-Action-header__Primary">
+    <h1 class="ic-Action-header__Heading">Course Syllabus</h1>
+  </div>
+  <div class="ic-Action-header__Secondary">
+    <a href="#" class="jump_to_today_link">Jump to Today</a>
+  </div>
+</div>
+
+<div id="course_syllabus" style="margin-bottom: 10px;" class="user_content">
+  <p><img style="width: 100%;" src="/courses/33157/files/4157312/preview?verifier=8v6bMt6EM8rdtxdh8UMQ5UqxGqMx7FEcCH9oXJJr" alt="Marquee image: Harvard Extension School shield on decorative paper" data-api-endpoint="https://canvas.harvard.edu/api/v1$IMS-CC-FILEBASE$/Template%20images/PaperShieldBanner.png?canvas_download=1&amp;canvas_qs_verifier=fuNQGxPnjWtiQj3kunQDBFlWVCuKoGPeANEkKTeF" data-api-returntype="File"></p>
+<h2> STAT E-150 Fall 2017 Syllabus</h2>
+<p>This course is offered on campus with an online option.  Students in the area are strongly encouraged to attend in person.  All students will be graded on participation, whether in class or on the Canvas platform.</p>
+<p>This intermediate statistics course is intended to give students familiarity with statistical tools used to analyze data in a variety of disciplines, including psychology, and provides experience reading and understanding studies based on data analysis. Topics include experimental design, selecting and assessing a model, linear regression, analysis of variance, repeated measures, and transformation of data. We will also learn about research design and avoiding bias in your studies.  These topics are explored using the statistical package SPSS, with a focus on understanding how to use and interpret SPSS output. </p>
+<p><strong>IMPORTANT</strong>: This is an intermediate level course, and assumes that students have completed STAT E-100 or an equivalent introduction to statistics.  Students should be familiar with basic descriptive statistics, hypothesis testing, independent and dependent variables, and estimation.   Most (but not all) computation will be conducted using SPSS; a solid understanding of the basics of statistical inference is far more important than computational skill.  While students are expected to understand proportions, percentages, and fractions, familiarity with calculus is not necessary. There will be a short quiz to assess basic statistical knowledge, which you should complete. This will both help you gauge if you are prepared for the course and give me a sense of how well various fundamental topics are understood by the majority of the class.  Please check the course website in early August for a link to the quiz.</p>
+<p><strong>Textbook: </strong>Field, A. (2013). <em>Discovering Statistics Using IBM SPSS Statistics, 4</em><em><sup>th</sup></em><em> Edition.</em>  Sage Publications: London.  The book is available at the Coop, and on-line at the <a href="https://us.sagepub.com/en-us/nam/discovering-statistics-using-ibm-spss-statistics/book238032%20">publisher's website</a>, at <a href="https://www.amazon.com/Discovering-Statistics-Using-IBM-SPSS/dp/1446249182">Amazon</a> and probably other places.  The sage site also contains a link to <a href="https://studysites.sagepub.com/field4e/study/default.htm">the companion site</a>.  You should be familiar with the contents in Chapters 1 and 2 for the first class.  If you’ve taken an intro stats course, this should be a review.  However, do pay special attention to sections 1.2.1 (the research process) and 2.4 (modeling), as these are the conceptual underpinnings of this class and to sections 1.7 (reporting data) and 2.7.1 (effect sizes), as they reflect how you should write up answers to both homework &amp; the exams.</p>
+<p><strong>Software:</strong>  We will be using the statistical software SPSS in class and for most assignments. SPSS has a fairly straightforward user interface, as well as the capability to store syntax as code.  SPSS is available through <a href="http://downloads.fas.harvard.edu/download">Harvard Computer Services</a>, or you may obtain your own copy.  Instructions for accessing and using SPSS will be provided, as well as links to helpful support sites.</p>
+<p><strong>Sections</strong>:   Each week, the TAs will lead a one-hour review section, where they will go over topics that may be challenging as well as answering questions.  These review sections will be held using Zoom, so you can attend from the comfort of your own home.  Details are being finalized, but the review will likely be Sunday late afternoon/early evening.</p>
+<p><strong>Discussions</strong>:  There will be discussions for each class and its topics, accessible via the DISCUSSIONS link on the course webpage. The TAs will be monitoring this regularly, as will I.  We LOVE it when students ask questions; it helps us understand what topics we need to spend more time on. You can ask questions about the reading, or the topics covered in lectures.  You can also start your own discussions for things like finding study groups, and (for graduate students) finding partners to work on the final project.  Note that your participation in class, in review sections, and on the discussion board is part of your grade.  More information on participation is available in the file on <a href="/courses/33157/pages/homework-and-participation-policy">homework and participation policy</a>.  Distance students should pay particular attention to the section on class participation.</p>
+<p><strong>Homework Assignments:</strong>  Assignments will be posted to the assignment tab (on the left nav of the course page) by the start of class on Monday.</p>
+<p>Please submit the homework assignment as a pdf. Upload homework to the "assignments" tab on the left pane of the canvas screen.  Assignments are due at 11:59 pm (Boston time, even if you're elsewhere) on the due date\\.  You can hand in each of these two assignments up to five days late, and you do not need to explain why the assignment is late.  Assignments more than five days late, or after the second late homework, will be considered incomplete and receive a grade of 0.</p>
+<p>Homework assignments will be graded by the TAs on a check/plus/minus system. </p>
+<ul>
+<li>check+ = 10 points</li>
+<li>check = 8 points</li>
+<li>check- = 6 points</li>
+<li>Incomplete = Scaled to represent amount of work done</li>
+</ul>
+<p>After your assignment is graded, you will be able to check Canvas see your grade and any comments from the grader. If you have questions about a grade, please be sure to raise the issue within two weeks of the date the assignment was graded.  You can also see a sample assignment that would merit a check plus. More information on homework is available in the file on homework and participation policy.</p>
+<p><strong>Examinations:</strong>  There will be a mid-term and final examination.  The final isn't cumulative, but the material in the second half of the class will build on material from the first half.</p>
+<p>Both the mid-term and the final exam will be administered via Canvas, using software called Proctorio, which monitors for cheating. Proctorio requires that you download an app onto your computer and that you use the Chrome browser on a computer that has a camera and microphone, and will record the room.  Both exams will be open book, open note, and you can use a calculator (though you probably won't need one), but you are not allowed to access the Internet or ask anyone else for input.  The exams will be designed to take two hours, but you will have three hours to complete them. If you do not have the necessary technical capabilities, or do not feel comfortable being recorded, you have the option of taking the exam at a recognized test center with a live proctor. Both exams will be available for at least twenty-four hours, and will be due at 11:59 pm on the date given on the syllabus (October 31 for the midterm; December 19 for the final exam).  Note that the exam window will close at 11:59 <em>Boston time</em>, so if you start the exam later than 8:59 pm, you will have less than three hours to complete it. Please plan your schedule accordingly.  If you know you will be unable to take exams on those dates for any reason other than a religious holiday, you should not take this section of the course.</p>
+<p>There will be an opportunity to take a short quiz using Proctorio a few weeks into the semester, to ensure your computer meets specs and to let you experience Proctorio without the stress of an actual exam.</p>
+<p><strong>Final Project (graduate students only)</strong>:  Graduate students will form groups of 4-7 students and complete a research project, including formulating a research questions, gathering data (directly or from available sources), performing the appropriate analysis, and interpreting results.  Students will present a proposal to the class in the form of a video, as well as writing up the results for submission.  Both the presentation and report will contribute to the grade.  Part of the purpose of this project is for you to have the opportunity to do research as part of a team; there are challenges associated with this, and you should be learning how to navigate the challenges of working with people whose study style and schedule may be very different from your own.  <a href="/courses/33157/pages/overview-of-graduate-project">See separate document for the details of the graduate final project</a>.</p>
+<p><strong>Grading:</strong>  Undergraduate grades will be based on your participation (in class and on the discussion board), your homework assignments, and your scores on the mid-term and final exam. Graduate grades will be based on your participation (in class and on the discussion board), your homework assignments, the graduate project, your scores on the mid-term and final exam.</p>
+<p> </p>
+<table style="height: 12px;" border="=" width="100%" cellpadding="0">
+<tbody>
+<tr style="height: 48px;">
+<td style="height: 48px;" width="35%"></td>
+<td style="height: 48px;" width="33%">
+<p><strong>Undergraduate</strong></p>
+</td>
+<td style="height: 48px;" width="30%">
+<p><strong>Graduate</strong></p>
+</td>
+</tr>
+<tr style="height: 48px;">
+<td style="height: 48px;" width="35%">
+<p><strong>Class participation</strong></p>
+</td>
+<td style="height: 48px;" width="33%">
+<p>20%</p>
+</td>
+<td style="height: 48px;" width="30%">
+<p>16%</p>
+</td>
+</tr>
+<tr style="height: 48px;">
+<td style="height: 48px;" width="35%">
+<p><strong>Homework Assignments</strong></p>
+</td>
+<td style="height: 48px;" width="33%">
+<p>25%</p>
+</td>
+<td style="height: 48px;" width="30%">
+<p>20%</p>
+</td>
+</tr>
+<tr style="height: 48px;">
+<td style="height: 48px;" width="35%">
+<p><strong>Midterm Exam</strong></p>
+</td>
+<td style="height: 48px;" width="33%">
+<p>25%</p>
+</td>
+<td style="height: 48px;" width="30%">
+<p>20%</p>
+</td>
+</tr>
+<tr style="height: 48px;">
+<td style="height: 48px;" width="35%">
+<p><strong>Final Exam</strong></p>
+</td>
+<td style="height: 48px;" width="33%">
+<p>30%</p>
+</td>
+<td style="height: 48px;" width="30%">
+<p>24%</p>
+</td>
+</tr>
+<tr style="height: 8px;">
+<td style="height: 8px;" width="35%">
+<p><strong>Graduate Project</strong></p>
+</td>
+<td style="height: 8px;" width="33%"></td>
+<td style="height: 8px;" width="30%">
+<p>20%</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Letter grades will be based on total score.</p>
+<table style="margin-left: auto; margin-right: auto;" border="=" width="185">
+<tbody>
+<tr>
+<td width="101">
+<p style="text-align: center;">Numeric Grade</p>
+</td>
+<td width="84">
+<p style="text-align: center;">Letter Grade</p>
+</td>
+</tr>
+<tr>
+<td>
+<p style="text-align: center;"> 93-100</p>
+</td>
+<td>
+<p style="text-align: center;">A</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<p> 90-92</p>
+</td>
+<td>
+<p>A-</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<p> 86-89</p>
+</td>
+<td>
+<p>B+</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<p> 83-85</p>
+</td>
+<td>
+<p style="text-align: left;">B</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<p> 80-82</p>
+</td>
+<td>
+<p>B-</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<p> 76-79</p>
+</td>
+<td>
+<p>C+</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<p> 73-75</p>
+</td>
+<td>
+<p>C</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<p> 70-72</p>
+</td>
+<td>
+<p>C-</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<p> 66-69</p>
+</td>
+<td>
+<p>D+</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<p> 63-65</p>
+</td>
+<td>
+<p>D</p>
+</td>
+</tr>
+<tr style="text-align: center;">
+<td>
+<p> 60-62</p>
+</td>
+<td>
+<p>D-</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">
+<p> 0-59</p>
+</td>
+<td>
+<p style="text-align: center;">E</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p> </p>
+<p> </p>
+<p><strong>Accessibility: </strong>The Extension School is committed to providing an accessible academic community. The Disability Services Office offers a variety of accommodations and services to students with documented disabilities. Please visit <a href="https://fasmail.harvard.edu/OWA/redir.aspx?C=_XKOWzfGPk6egIqQYmEZHCC1AxnHkdIIdxbKR9PeCm4LnCSUDKb6yRgEjwcHh9c9HiAhheY3z6E.&amp;URL=http%3a%2f%2fwww.extension.harvard.edu%2fresources-policies%2fresources%2fdisability-services-accessibility">www.extension.harvard.edu/resources-policies/resources/disability-services-accessibility</a> for more information. </p>
+<p><strong>Academic Integrity: </strong>You are responsible for understanding Harvard Extension School policies on academic integrity (<a href="https://fasmail.harvard.edu/OWA/redir.aspx?C=_XKOWzfGPk6egIqQYmEZHCC1AxnHkdIIdxbKR9PeCm4LnCSUDKb6yRgEjwcHh9c9HiAhheY3z6E.&amp;URL=http%3a%2f%2fwww.extension.harvard.edu%2fresources-policies%2fstudent-conduct%2facademic-integrity">www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity</a>) and how to use sources responsibly. Not knowing the rules, misunderstanding the rules, running out of time, submitting "the wrong draft", or being overwhelmed with multiple demands are not acceptable excuses. There are no excuses for failure to uphold academic integrity. To support your learning about academic citation rules, please visit the Harvard Extension School Tips to Avoid Plagiarism (<a href="https://fasmail.harvard.edu/OWA/redir.aspx?C=_XKOWzfGPk6egIqQYmEZHCC1AxnHkdIIdxbKR9PeCm4LnCSUDKb6yRgEjwcHh9c9HiAhheY3z6E.&amp;URL=http%3a%2f%2fwww.extension.harvard.edu%2fresources-policies%2fresources%2ftips-avoid-plagiarism">www.extension.harvard.edu/resources-policies/resources/tips-avoid-plagiarism</a>), where you'll find links to the Harvard Guide to Using Sources and two, free, online 15-minute tutorials to test your knowledge of academic citation policy. The tutorials are anonymous open-learning tools.</p>
+<p><strong>Week-by-Week </strong>: (Note: I retain the right to make minor changes to this schedule; exams and graduate project deadlines will not change).</p>
+<table style="width: 805px;" border="=">
+<tbody>
+<tr>
+<td style="width: 71px;">
+<p><strong>Date</strong></p>
+</td>
+<td style="width: 385px;">
+<p><strong>Topic</strong></p>
+</td>
+<td style="width: 204px;">
+<p><strong>Reading</strong></p>
+</td>
+<td style="width: 113px;">
+<p><strong>Graduate Research Project</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 71px;">
+<p>28-Aug</p>
+</td>
+<td style="width: 385px;">
+<p>Chapters 1-2; About the Course, Philosophy of Statistics, Modeling</p>
+</td>
+<td style="width: 204px;">
+<p>Chapters 1/2</p>
+</td>
+<td style="width: 113px;">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td style="width: 71px;">
+<p>4-Sep</p>
+</td>
+<td style="width: 385px;">
+<p><strong>Labor Day - No class!</strong></p>
+</td>
+<td style="width: 204px;"></td>
+<td style="width: 113px;"></td>
+</tr>
+<tr>
+<td style="width: 71px;">
+<p>11-Sep</p>
+</td>
+<td style="width: 385px;">
+<p>Chapters 5; Bias (Graduate Students form groups)</p>
+</td>
+<td style="width: 204px;">
+<p>Chapter 5 (also read Chapter 3 about SPSS)</p>
+</td>
+<td style="width: 113px;">
+<p>Form teams  (Sept. 15)</p>
+</td>
+</tr>
+<tr>
+<td style="width: 71px;">
+<p>18-Sep</p>
+</td>
+<td style="width: 385px;">
+<p>Linear Regression, Part 1 (single predictor)</p>
+</td>
+<td style="width: 204px;">
+<p>Chapter 8: First half</p>
+</td>
+<td style="width: 113px;"></td>
+</tr>
+<tr>
+<td style="width: 71px;">
+<p>25-Sep</p>
+</td>
+<td style="width: 385px;">
+<p>Linear Regression, Part 2 (this time, it's multiple)</p>
+</td>
+<td style="width: 204px;">
+<p>Chapter 8: Second half</p>
+</td>
+<td style="width: 113px;">
+<p>Brief proposal due</p>
+</td>
+</tr>
+<tr>
+<td style="width: 71px;">
+<p>2-Oct</p>
+</td>
+<td style="width: 385px;">
+<p>Linear Regression, Part 3 (interactions, power, prediction intervals and more)</p>
+</td>
+<td style="width: 204px;">
+<p>Parts of Chapter 10, also several articles available on line about topics not in book</p>
+</td>
+<td style="width: 113px;"></td>
+</tr>
+<tr>
+<td style="width: 71px;">
+<p>9-Oct</p>
+</td>
+<td style="width: 385px;">
+<p><strong>Columbus Day - No class!</strong></p>
+</td>
+<td style="width: 204px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 113px;">
+<p><strong> </strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 71px;">
+<p>16-Oct</p>
+</td>
+<td style="width: 385px;">
+<p>Chapter 11, One-Way ANOVA</p>
+</td>
+<td style="width: 204px;">
+<p>Chapter 11</p>
+</td>
+<td style="width: 113px;"></td>
+</tr>
+<tr>
+<td style="width: 71px;">
+<p>23-Oct</p>
+</td>
+<td style="width: 385px;">
+<p>REVIEW</p>
+</td>
+<td style="width: 204px;">
+<p> </p>
+</td>
+<td style="width: 113px;">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td style="width: 71px;">
+<p>30-Oct</p>
+</td>
+<td style="width: 385px;">
+<p><strong>MIDTERM EXAM</strong></p>
+</td>
+<td style="width: 204px;"></td>
+<td style="width: 113px;"></td>
+</tr>
+<tr>
+<td style="width: 71px;">
+<p>6-Nov</p>
+</td>
+<td style="width: 385px;">
+<p>ANCOVA</p>
+</td>
+<td style="width: 204px;">
+<p>Chapter 12</p>
+</td>
+<td style="width: 113px;">
+<p>Video proposal due</p>
+</td>
+</tr>
+<tr>
+<td style="width: 71px;">
+<p>13-Nov</p>
+</td>
+<td style="width: 385px;">
+<p>Factorial ANOVA</p>
+</td>
+<td style="width: 204px;">
+<p>Chapter 13</p>
+</td>
+<td style="width: 113px;"></td>
+</tr>
+<tr>
+<td style="width: 71px;">
+<p>20-Nov</p>
+</td>
+<td style="width: 385px;">
+<p>Repeated Measures</p>
+</td>
+<td style="width: 204px;">
+<p>Chapter 14</p>
+</td>
+<td style="width: 113px;">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td style="width: 71px;">
+<p>27-Nov</p>
+</td>
+<td style="width: 385px;">
+<p>Logistic Regression, Part 1 (intro to concept)</p>
+</td>
+<td style="width: 204px;">
+<p>Chapter 19: First half</p>
+</td>
+<td style="width: 113px;">
+<p>Written proposal due</p>
+</td>
+</tr>
+<tr>
+<td style="width: 71px;">
+<p>4-Dec</p>
+</td>
+<td style="width: 385px;">
+<p>Logistic Regression, Part 2 (testing assumptions, multinomial regression)</p>
+</td>
+<td style="width: 204px;">
+<p>Chapter 19: Second half</p>
+</td>
+<td style="width: 113px;">
+<p> </p>
+</td>
+</tr>
+<tr>
+<td style="width: 71px;">
+<p>11-Dec</p>
+</td>
+<td style="width: 385px;">
+<p>REVIEW</p>
+</td>
+<td style="width: 204px;"></td>
+<td style="width: 113px;"></td>
+</tr>
+<tr>
+<td style="width: 71px;">
+<p>18-Dec</p>
+</td>
+<td style="width: 385px;">
+<p><strong>FINAL EXAM </strong></p>
+</td>
+<td style="width: 204px;">
+<p><strong> </strong></p>
+</td>
+<td style="width: 113px;">
+<p><strong>Final project due</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p>See you in class. </p>
+</div>
+<div id="course_syllabus_details" style="display: none;">
+  <p>The syllabus page shows a table-oriented view of the course schedule, and the basics of
+course grading.  You can add any other comments, notes, or thoughts you have about the course
+structure, course policies or anything else.</p>
+
+<p>To add some comments, click the &quot;Edit&quot; link at the top.</p>
+</div>
+<form id="edit_course_syllabus_form" style="display: none; margin-bottom: 10px;" action="/courses/33157" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="xBmiCU63lG2SbG810lwA/TE9S6a0is4zqRTqCqHkPWKyQOBAe9LfCPoUHWWiazanVHAsn+P+j1TFU4NQ5bxHNA==" />
+  <div style="float: right;">
+    <a href="#" class="toggle_views_link toggle_html_editor_link">HTML Editor</a>
+    <a href="#" class="toggle_views_link toggle_rich_editor_link" style="display:none;">Rich Content Editor</a>
+  </div>
+  <label for="course_syllabus_body">Syllabus Description:</label>
+  <div class="clear"></div>
+  <textarea style="width: 100%; height: 300px;" id="course_syllabus_body" name="course[syllabus_body]">
+</textarea>
+  <div class='form-actions'>
+    <button type="button" class="btn cancel_button">Cancel</button>
+    <button type="submit" class='btn btn-primary'>Update Syllabus</button>
+  </div>
+</form>
+<h2>Course Summary:</h2>
+
+<div id="syllabusContainer">
+  <div id="syllabus_links">
+    <a id="toggle_special_dates_in_syllabus">&nbsp;</a>
+  </div>
+  <table id="syllabus" class="ic-Table--condensed">
+    <thead>
+      <tr>
+        <th scope="col" style="width: 25%;">Date</th>
+        <th scope="col" style="width: 75%;">Details</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td scope="row">
+          <span id="loading_indicator"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+          </div>
+        </div>
+        <div id="right-side-wrapper" class="ic-app-main-content__secondary">
+          <aside id="right-side" role="complementary">
+              
+<div id="sidebar_content">
+  
+<div class="mini_month">
+  <div class="mini-cal-header">
+    <button class="prev_month_link Button Button--icon-action"><i class="icon-arrow-open-left"></i><span class="screenreader-only">Prev month</span></button>
+    <button class="next_month_link Button Button--icon-action"><i class="icon-arrow-open-right"></i><span class="screenreader-only">Next month</span></button>
+    <span class="mini-cal-month-and-year">
+      <span class="month_name">September</span>
+      <span class="year_number">2017</span>
+    </span>
+  </div>
+  <div style="display: none;">
+    <span class="month_number">9</span>
+  </div>
+  <table class="mini_calendar" cellspacing="0">
+    <caption class="screenreader-only">Calendar</caption>
+    <thead>
+      <tr>
+          <th scope="col">
+            <span class="screenreader-only">
+              Sunday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Monday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Tuesday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Wednesday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Thursday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Friday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Saturday
+            </span>
+          </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_08_27" class="mini_calendar_day day other_month previous_month date_08_27_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                27
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_28" class="mini_calendar_day day other_month previous_month date_08_28_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                28
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_29" class="mini_calendar_day day other_month previous_month date_08_29_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                29
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_30" class="mini_calendar_day day other_month previous_month date_08_30_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                30
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_31" class="mini_calendar_day day other_month previous_month date_08_31_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                31
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_01" class="mini_calendar_day day current_month date_09_01_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                1
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_02" class="mini_calendar_day day current_month date_09_02_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                2
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_03" class="mini_calendar_day day current_month date_09_03_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                3
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_04" class="mini_calendar_day day current_month date_09_04_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                4
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_05" class="mini_calendar_day day current_month date_09_05_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                5
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_06" class="mini_calendar_day day current_month date_09_06_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                6
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_07" class="mini_calendar_day day current_month date_09_07_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                7
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_08" class="mini_calendar_day day current_month date_09_08_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                8
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_09" class="mini_calendar_day day current_month date_09_09_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                9
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_10" class="mini_calendar_day day current_month date_09_10_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                10
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_11" class="mini_calendar_day day current_month date_09_11_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                11
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_12" class="mini_calendar_day day current_month date_09_12_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                12
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_13" class="mini_calendar_day day current_month date_09_13_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                13
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_14" class="mini_calendar_day day current_month date_09_14_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                14
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_15" class="mini_calendar_day day current_month date_09_15_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                15
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_16" class="mini_calendar_day day current_month date_09_16_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                16
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_17" class="mini_calendar_day day current_month date_09_17_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                17
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_18" class="mini_calendar_day day current_month date_09_18_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                18
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_19" class="mini_calendar_day day current_month date_09_19_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                19
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_20" class="mini_calendar_day day current_month date_09_20_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                20
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_21" class="mini_calendar_day day current_month date_09_21_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                21
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_22" class="mini_calendar_day day current_month date_09_22_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                22
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_23" class="mini_calendar_day day current_month date_09_23_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                23
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_24" class="mini_calendar_day day current_month today date_09_24_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                24
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_25" class="mini_calendar_day day current_month date_09_25_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                25
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_26" class="mini_calendar_day day current_month date_09_26_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                26
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_27" class="mini_calendar_day day current_month date_09_27_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                27
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_28" class="mini_calendar_day day current_month date_09_28_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                28
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_29" class="mini_calendar_day day current_month date_09_29_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                29
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_30" class="mini_calendar_day day current_month date_09_30_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                30
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_10_01" class="mini_calendar_day day other_month next_month date_10_01_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                1
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_02" class="mini_calendar_day day other_month next_month date_10_02_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                2
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_03" class="mini_calendar_day day other_month next_month date_10_03_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                3
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_04" class="mini_calendar_day day other_month next_month date_10_04_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                4
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_05" class="mini_calendar_day day other_month next_month date_10_05_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                5
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_06" class="mini_calendar_day day other_month next_month date_10_06_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                6
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_07" class="mini_calendar_day day other_month next_month date_10_07_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                7
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+    
+<div role="complementary" aria-label="Assignment Weights">
+  <h2>Course assignments are not weighted.</h2>
+</div>
+
+</div>
+
+<div id="editor_tabs" class="ui-tabs--mini" style="display: none;">
+
+  <span class="wiki-sidebar-header" role="heading" aria-level="2">Insert Content into the Page</span>
+  <ul>
+    <li><a href="#editor_tabs_2">Links</a></li>
+    <li><a href="#editor_tabs_4">Images</a></li>
+  </ul>
+  <div id="editor_tabs_2" role="application">
+    Link to other content in the course.
+      <a href="/courses/33157/external_tools/retrieve?url=%7B%7B+url+%7D%7D" id="external_tool_retrieve_url" style="display: none;">&nbsp;</a>
+      <a href="/courses/33157/external_tools/%7B%7B%20id%20%7D%7D/resource_selection?editor=1" id="context_external_tool_resource_selection_url" style="display: none;">&nbsp;</a>
+    Click any page to insert a link to that page.
+    <div id="pages_accordion" class="ui-accordion--mini" role="tabpanel">
+      <a href="https://canvas.harvard.edu/courses/33157/pages/%7B%7B%20page_url%20%7D%7D" id="wiki_sidebar_wiki_url" style="display: none;">&nbsp;</a>
+      <div>
+        <div class="header" aria-controls="pages_tab_panel" role="tab"><a href="#">Wiki Pages</a></div>
+        <div id="pages_tab_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33157/pages/attendance-participation-and-homework">Attendance, Participation, and Homework</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33157/pages/getting-help">Getting Help</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33157/pages/getting-started-with-proctorio-student-guide">Getting Started with Proctorio - Student Guide</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33157/pages/getting-started-with-proctorio-student-guide-2">Getting Started with Proctorio - Student Guide-2</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33157/pages/overview-of-graduate-project">Overview of Graduate Project</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33157/pages/resources-for-graduate-project-posters">Resources for Graduate Project Posters</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33157/pages/some-common-spss-problems">Some common SPSS problems</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33157/pages/some-sample-grad-project-submissions">Some sample Grad Project Submissions</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33157/pages/stat-e-150-survival-tips">STAT E-150 Survival Tips</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33157/pages/using-zoom">Using Zoom</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33157/pages/week-five-overview">Week Five Overview</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33157/pages/week-four-overview">Week Four Overview</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33157/pages/week-one-overview">Week One Overview</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33157/pages/week-six-overview-october-16">Week Six Overview - October 16</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33157/pages/week-three-overview">Week Three Overview</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33157/pages/week-two-overview">Week Two Overview</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33157/pages/welcome-to-intermediate-statistics">Welcome to Intermediate Statistics</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33157/pages/zoom-resources">Zoom Resources</a></li>
+            </ul>
+        </div>
+      </div>
+      <div>
+        <div aria-controls="assignment_panel" role="tab" class="header" aria-controls="wiki_pages_panel"><a href="#">Assignments</a></div>
+         <div id="assignment_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments">Assignment List</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/168432">Attendance - August 28</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/168455">Attendance - December 11</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/168454">Attendance - December 4</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/168451">Attendance - November 13</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/168452">Attendance - November 20</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/168453">Attendance - November 27</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/168450">Attendance - November 6</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/168448">Attendance - October 16</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/168447">Attendance - October 2</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/168449">Attendance - October 23</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/168444">Attendance - September 11</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/168445">Attendance - September 18</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/168446">Attendance - September 25</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/152788">Final Exam (Remotely Proctored)</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/152658">Form Groups for Graduate Project</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/152659">Graduate Project Brief Description </a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/152660">Graduate Project Final Report</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/152661">Graduate Project Formal Written Proposal</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/152662">Graduate Student Video Proposals</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/152664">HW Assignment 10 - Logistic Regression; Read about more topics in Logistic Regression</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/152665">HW Assignment 11 - More topics in Logistic Regression</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/152663">HW Assignment 1 - Intro to modeling and SPSS; read about Bias</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/152666">HW Assignment 2 - Bias; Read about single linear regression</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/152668">HW Assignment 3 - Single Linear Regression; read about Multiple Regression</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/152809">HW Assignment 4 - Multiple Regression; read about more topics in Regression</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/152669">HW Assignment 5 - More about Regression; read about One-way ANOVA</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/152670">HW Assignment 6 - One-Way ANOVA; read about ANCOVA</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/152671">HW Assignment 7 - ANCOVA; Read about Factorial ANOVA</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/152672">HW Assignment 8 - Factorial ANOVA; read about Repeated Measures ANOVA</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/152673">HW Assignment 9 - Repeated Measures ANOVA; Read about Logistic Regression</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/152674">Peer Assessment</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/152684">Penalty for lateness</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/152785">Post First Class Survey</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/152786">Practice Midterm Exam (Remotely Proctored)</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/152787">Proctorio Practice (Remotely Proctored)</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33157/assignments/169364">STAT E-150 Fall 2017 Midterm Exam (Remotely Proctored)</a></li>
+            </ul>
+         </div>
+      </div>
+      <div>
+        <div aria-controls="quizzes_panel" class="header" role="tab"><a href="#">Quizzes</a></div>
+         <div id="quizzes_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this quiz"><a href="/courses/33157/quizzes">Quiz List</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33157/quizzes/69004">Post First Class Survey</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33157/quizzes/69005">Practice Midterm Exam (Remotely Proctored)</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33157/quizzes/69006">Proctorio Practice (Remotely Proctored)</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33157/quizzes/69007">Final Exam (Remotely Proctored)</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33157/quizzes/69586">Pre-Test</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33157/quizzes/73118">STAT E-150 Fall 2017 Midterm Exam (Remotely Proctored)</a></li>
+            </ul>
+         </div>
+      </div>
+      <div>
+        <div class="header" aria-controls="announcements_panel" role="tab"><a href="#">Announcements</a></div>
+         <div id="announcements_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this announcement"><a href="/courses/33157/announcements">Announcements List</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33157/announcements/244131">Correction to HW Assignment #3 (due Monday Sept 25)</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33157/announcements/243507">Corrected PowerPoint for Monday Sept 18</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33157/announcements/240149">Section Recording from 09.10.2017</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33157/announcements/241990">Two weekly Q&amp;A sessions with TAs;</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33157/announcements/241818">HW 1 Solutions &amp; Tomorrow&#39;s presentation are available; also info on grad groups</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33157/announcements/240423">Graduate project - talk to your classmates, don&#39;t just add your name on the spreadsheet!</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33157/announcements/237959">Section this Sunday, Sept 10th @ 5pm ET</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33157/announcements/236027">Zoom room recording and Powerpoint slides for section 1 on Sept 3, 2017</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33157/announcements/238742">Troubleshooting common SPSS problems, and more homework help</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33157/announcements/234041">Link to the Zoom room of Stat E-150 Fall 2017 and September 3rd section</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33157/announcements/238063">Survival tips - and attendence</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33157/announcements/239237">Graduate project - form groups by Friday!</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33157/announcements/235773">No class tomorrow!  And other less important things...</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33157/announcements/233861">Lecture video is generally posted about 24 hours after class</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33157/announcements/233803">First class, and </a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33157/announcements/233398">Class presentation available</a></li>
+            </ul>
+         </div>
+      </div>
+
+      <div>
+        <div role="tab" aria-controls="discussions_panel" class="header"><a href="#">Discussions</a></div>
+         <div id="discussions_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this topic"><a href="/courses/33157/discussion_topics">Discussion Index</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33157/discussion_topics/224190">Graduate Student Project:  Find Teammates</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33157/discussion_topics/224192">General discussion about Week 1</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33157/discussion_topics/224191">Questions to Address in the Week 1 Review Section</a></li>
+            </ul>
+         </div>
+      </div>
+
+      <div>
+        <div role="tab" aria-controls="modules_panel" class="header"><a href="#">Modules</a></div>
+          <div id="modules_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this module"><a href="/courses/33157/modules">Modules List</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33157/modules/70475">One-Way ANOVA - October 16</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33157/modules/70474">Linear Regression Part 3 -October 2</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33157/modules/70471">Bias - September 11</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33157/modules/70472">Linear Regression, Part 1 - September 18</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33157/modules/70473">Linear Regression, Part 2 - September 25</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33157/modules/70469">Introduction to the class - August 28</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33157/modules/70466">Graduate Student Project</a></li>
+            </ul>
+          </div>
+      </div>
+
+      <div>
+        <div class="header" role="tab" aria-controls="groups_panel"><a href="#">Course Navigation</a></div>
+         <div role="tabpanel" id="groups_panel">
+            <ul class="wiki_pages page_list">
+                <li title="Click to insert a link to the assignments page"><a href="/courses/33157/assignments">Assignment List</a></li>
+                <li title="Click to insert a link to the wiki"><a href="https://canvas.harvard.edu/courses/33157/pages">Wiki Home</a></li>
+                <li title="Click to insert a link to the discussions page"><a href="/courses/33157/discussion_topics">Discussions Index</a></li>
+                <li title="Click to insert a link to the syllabus"><a href="/courses/33157/assignments/syllabus">Course Syllabus</a></li>
+                <li title="Click to insert a link to the announcements page"><a href="/courses/33157/announcements">Announcement List</a></li>
+                <li title="Click to insert a link to the files page"><a href="/courses/33157/files">Files Index</a></li>
+                <li title="Click to insert a link to the collaborations page"><a href="/courses/33157/collaborations">Collaborations</a></li>
+                <li title="Click to insert a link to the grades page"><a href="/courses/33157/grades">Grades</a></li>
+                <li title="Click to insert a link to the people page"><a href="/courses/33157/users">People</a></li>
+                <li title="Click to insert a link to the modules page"><a href="/courses/33157/modules">Modules</a></li>
+            </ul>
+         </div>
+      </div>
+    </div>
+
+  </div>
+  <div aria-atomic="true" id="editor_tabs_4">
+    Click any image to embed the image in the page.
+    <div>
+      <a tabindex="0" href="#" class="find_new_image_link find">Find images on flickr creative commons</a>
+    </div>
+    <div id="wiki_sidebar_image_uploads" class="uploading_file_list uploading_image_list" style="display: none;">
+      <div class="uploading">
+        Uploading <span class="filename">file</span>...
+        <div>
+          <img alt="Loading..." src="https://du11hjcvx0uqb.cloudfront.net/dist/images/ajax-loader-bar-71e6988298.gif" />
+        </div>
+      </div>
+      <div class="remaining">
+        <span class="files_remaining">0</span> more to upload
+      </div>
+      
+<a href="#" style="text-align: center display: none;" class="img_link" title="Click to embed image">
+  <div class="img_holder">
+    <img class="img" data-url="" src="" alt="{{ display_name }}" title="Click to embed {{ display_name }}">
+  </div>
+  <div class="display_name">{{ display_name }}</div>
+</a>
+
+    </div>
+    <div class="image_list_holder ">
+      <div class="dragging_message">Drop Images Here to upload</div>
+      <div class="image_list" style="max-height: 300px; overflow: auto;" data-url="/courses/33157/images">
+      </div>
+    </div>
+  </div>
+  <div style="display: none;">
+    <a href="/services?service_type=BookmarkService" class="bookmark_services_url">&nbsp;</a>
+    <a href="/search/bookmarks?q=%7B%7B+query+%7D%7D&amp;service_type=%7B%7B+service_type+%7D%7D" class="bookmark_search_url">&nbsp;</a>
+    <span class="context_code">course_33157</span>
+    <div id="wiki_sidebar_select_folder_dialog">
+      Select a destination folder for these <span class="file_count">&nbsp;</span> files:
+      <div style="margin: 20px;">
+        <select class="folder_id">
+        </select>
+      </div>
+      <div class="button-container">
+        <button type="button" class="btn select_button">Upload Files to Folder</button>
+        <button type="button" class="btn cancel_button btn button-secondary">Cancel</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+          </aside>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    <div style="display:none;"><!-- Everything inside of this should always stay hidden -->
+    </div>
+    
+<div id="cant_record_dialog" style="display: none;">
+  <div>
+    In order to create video or audio recordings your computer needs to be 
+    webcam-enabled.  If you don&#39;t have a webcam on your computer, you can still
+    record audio-only messages by first installing the Google Video Chat
+    plugin.
+  </div>
+  <div style="text-align: center; font-size: 1.5em; margin: 10px;">
+    <a href="http://www.google.com/chat/video" target="_blank" class="btn">Install the Video Plugin</a>
+  </div>
+  <div class="links" style="text-align: right; font-size: 0.8em; display: none;">
+    <a href="#" class="cant_record_link">Don&#39;t have a webcam?</a>
+  </div>
+</div>
+  <div id='aria_alerts' class='hide-text affix' role="alert" aria-live="assertive"></div>
+  <div id='StudentTray__Container'></div>
+  <script>
+  INST = {"environment":"production","allowMediaComments":true,"kalturaSettings":{"domain":"nv.instructuremedia.com","resource_domain":"nv.instructuremedia.com","rtmp_domain":"fms-prod.instructuremedia.com","partner_id":"9","subpartner_id":"0","player_ui_conf":"0","kcw_ui_conf":"0","upload_ui_conf":"0","max_file_size_bytes":534773760,"do_analytics":false,"hide_rte_button":false,"js_uploader":true},"googleAnalyticsAccount":"UA-9138420-1","disableScribdPreviews":true,"logPageViews":true,"maxVisibleEditorButtons":3,"editorButtons":[{"name":"YouTube","id":18015,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=youtube","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/youtube_icon.png","canvas_icon_class":null,"width":560,"height":600},{"name":"Vimeo","id":18016,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=vimeo","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/vimeo_icon.png","canvas_icon_class":null,"width":560,"height":600},{"name":"DCE Matterhorn Course Recordings","id":19109,"url":"https://dce-mhvideo-lti.herokuapp.com/mhvideo_lti/lti_launch","icon_url":"https://dce-mhvideo-lti.herokuapp.com/static/images/television.png","canvas_icon_class":null,"width":800,"height":400},{"name":"Course Info","id":20525,"url":"https://canvas-course-info.tlt.harvard.edu/course_info/lti_launch","icon_url":"https://canvas-course-info.tlt.harvard.edu/static/images/course-info.png","canvas_icon_class":null,"width":800,"height":400}]};
+  ENV = {"ASSET_HOST":"https://du11hjcvx0uqb.cloudfront.net","active_brand_config":"af37e5be444f4a553c9c812a9a990322","active_brand_config_json_url":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.json","url_to_what_gets_loaded_inside_the_tinymce_editor_css":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/what_gets_loaded_inside_the_tinymce_editor-542d1c188c.css","current_user_id":null,"current_user":{},"current_user_roles":null,"current_user_disabled_inbox":null,"files_domain":"cluster28-files.instructure.com","DOMAIN_ROOT_ACCOUNT_ID":18750000000000001,"k12":false,"help_link_name":"Help","help_link_icon":"help","use_high_contrast":null,"SETTINGS":{"open_registration":false,"eportfolios_enabled":true,"collapse_global_nav":null,"show_feedback_link":true,"enable_profiles":true},"context_asset_string":"course_33157","ping_url":"https://canvas.harvard.edu/api/v1/courses/33157/ping","TIMEZONE":"America/New_York","CONTEXT_TIMEZONE":"America/New_York","LOCALE":"en","BIGEASY_LOCALE":"en_US","FULLCALENDAR_LOCALE":"en","MOMENT_LOCALE":"en","RICH_CONTENT_SERVICE_ENABLED":true,"RICH_CONTENT_APP_HOST":"rich-content-iad.inscloudgate.net","RICH_CONTENT_CDN_HOST":"dvgcns7dz7zc.cloudfront.net/rce_service/versions/","RICH_CONTENT_SIDEBAR_SOURCE":"api","RICH_CONTENT_CAN_UPLOAD_FILES":false,"CONTEXT_ACTION_SOURCE":"syllabus","NEW_USER_TUTORIALS":{"is_enabled":false},"SYLLABUS_PER_PAGE":"100","CAN_READ":false,"SYLLABUS_BODY":"\u003cp\u003e\u003cimg style=\"width: 100%;\" src=\"/courses/33157/files/4157312/preview?verifier=8v6bMt6EM8rdtxdh8UMQ5UqxGqMx7FEcCH9oXJJr\" alt=\"Marquee image: Harvard Extension School shield on decorative paper\" data-api-endpoint=\"https://canvas.harvard.edu/api/v1$IMS-CC-FILEBASE$/Template%20images/PaperShieldBanner.png?canvas_download=1\u0026amp;canvas_qs_verifier=fuNQGxPnjWtiQj3kunQDBFlWVCuKoGPeANEkKTeF\" data-api-returntype=\"File\"\u003e\u003c/p\u003e\n\u003ch2\u003e STAT E-150 Fall 2017 Syllabus\u003c/h2\u003e\n\u003cp\u003eThis course is offered on campus with an online option.  Students in the area are strongly encouraged to attend in person.  All students will be graded on participation, whether in class or on the Canvas platform.\u003c/p\u003e\n\u003cp\u003eThis intermediate statistics course is intended to give students familiarity with statistical tools used to analyze data in a variety of disciplines, including psychology, and provides experience reading and understanding studies based on data analysis. Topics include experimental design, selecting and assessing a model, linear regression, analysis of variance, repeated measures, and transformation of data. We will also learn about research design and avoiding bias in your studies.  These topics are explored using the statistical package SPSS, with a focus on understanding how to use and interpret SPSS output. \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eIMPORTANT\u003c/strong\u003e: This is an intermediate level course, and assumes that students have completed STAT E-100 or an equivalent introduction to statistics.  Students should be familiar with basic descriptive statistics, hypothesis testing, independent and dependent variables, and estimation.   Most (but not all) computation will be conducted using SPSS; a solid understanding of the basics of statistical inference is far more important than computational skill.  While students are expected to understand proportions, percentages, and fractions, familiarity with calculus is not necessary. There will be a short quiz to assess basic statistical knowledge, which you should complete. This will both help you gauge if you are prepared for the course and give me a sense of how well various fundamental topics are understood by the majority of the class.  Please check the course website in early August for a link to the quiz.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eTextbook: \u003c/strong\u003eField, A. (2013). \u003cem\u003eDiscovering Statistics Using IBM SPSS Statistics, 4\u003c/em\u003e\u003cem\u003e\u003csup\u003eth\u003c/sup\u003e\u003c/em\u003e\u003cem\u003e Edition.\u003c/em\u003e  Sage Publications: London.  The book is available at the Coop, and on-line at the \u003ca href=\"https://us.sagepub.com/en-us/nam/discovering-statistics-using-ibm-spss-statistics/book238032%20\"\u003epublisher's website\u003c/a\u003e, at \u003ca href=\"https://www.amazon.com/Discovering-Statistics-Using-IBM-SPSS/dp/1446249182\"\u003eAmazon\u003c/a\u003e and probably other places.  The sage site also contains a link to \u003ca href=\"https://studysites.sagepub.com/field4e/study/default.htm\"\u003ethe companion site\u003c/a\u003e.  You should be familiar with the contents in Chapters 1 and 2 for the first class.  If you’ve taken an intro stats course, this should be a review.  However, do pay special attention to sections 1.2.1 (the research process) and 2.4 (modeling), as these are the conceptual underpinnings of this class and to sections 1.7 (reporting data) and 2.7.1 (effect sizes), as they reflect how you should write up answers to both homework \u0026amp; the exams.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSoftware:\u003c/strong\u003e  We will be using the statistical software SPSS in class and for most assignments. SPSS has a fairly straightforward user interface, as well as the capability to store syntax as code.  SPSS is available through \u003ca href=\"http://downloads.fas.harvard.edu/download\"\u003eHarvard Computer Services\u003c/a\u003e, or you may obtain your own copy.  Instructions for accessing and using SPSS will be provided, as well as links to helpful support sites.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSections\u003c/strong\u003e:   Each week, the TAs will lead a one-hour review section, where they will go over topics that may be challenging as well as answering questions.  These review sections will be held using Zoom, so you can attend from the comfort of your own home.  Details are being finalized, but the review will likely be Sunday late afternoon/early evening.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eDiscussions\u003c/strong\u003e:  There will be discussions for each class and its topics, accessible via the DISCUSSIONS link on the course webpage. The TAs will be monitoring this regularly, as will I.  We LOVE it when students ask questions; it helps us understand what topics we need to spend more time on. You can ask questions about the reading, or the topics covered in lectures.  You can also start your own discussions for things like finding study groups, and (for graduate students) finding partners to work on the final project.  Note that your participation in class, in review sections, and on the discussion board is part of your grade.  More information on participation is available in the file on \u003ca href=\"/courses/33157/pages/homework-and-participation-policy\"\u003ehomework and participation policy\u003c/a\u003e.  Distance students should pay particular attention to the section on class participation.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eHomework Assignments:\u003c/strong\u003e  Assignments will be posted to the assignment tab (on the left nav of the course page) by the start of class on Monday.\u003c/p\u003e\n\u003cp\u003ePlease submit the homework assignment as a pdf. Upload homework to the \"assignments\" tab on the left pane of the canvas screen.  Assignments are due at 11:59 pm (Boston time, even if you're elsewhere) on the due date\\\\.  You can hand in each of these two assignments up to five days late, and you do not need to explain why the assignment is late.  Assignments more than five days late, or after the second late homework, will be considered incomplete and receive a grade of 0.\u003c/p\u003e\n\u003cp\u003eHomework assignments will be graded by the TAs on a check/plus/minus system. \u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003echeck+ = 10 points\u003c/li\u003e\n\u003cli\u003echeck = 8 points\u003c/li\u003e\n\u003cli\u003echeck- = 6 points\u003c/li\u003e\n\u003cli\u003eIncomplete = Scaled to represent amount of work done\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eAfter your assignment is graded, you will be able to check Canvas see your grade and any comments from the grader. If you have questions about a grade, please be sure to raise the issue within two weeks of the date the assignment was graded.  You can also see a sample assignment that would merit a check plus. More information on homework is available in the file on homework and participation policy.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eExaminations:\u003c/strong\u003e  There will be a mid-term and final examination.  The final isn't cumulative, but the material in the second half of the class will build on material from the first half.\u003c/p\u003e\n\u003cp\u003eBoth the mid-term and the final exam will be administered via Canvas, using software called Proctorio, which monitors for cheating. Proctorio requires that you download an app onto your computer and that you use the Chrome browser on a computer that has a camera and microphone, and will record the room.  Both exams will be open book, open note, and you can use a calculator (though you probably won't need one), but you are not allowed to access the Internet or ask anyone else for input.  The exams will be designed to take two hours, but you will have three hours to complete them. If you do not have the necessary technical capabilities, or do not feel comfortable being recorded, you have the option of taking the exam at a recognized test center with a live proctor. Both exams will be available for at least twenty-four hours, and will be due at 11:59 pm on the date given on the syllabus (October 31 for the midterm; December 19 for the final exam).  Note that the exam window will close at 11:59 \u003cem\u003eBoston time\u003c/em\u003e, so if you start the exam later than 8:59 pm, you will have less than three hours to complete it. Please plan your schedule accordingly.  If you know you will be unable to take exams on those dates for any reason other than a religious holiday, you should not take this section of the course.\u003c/p\u003e\n\u003cp\u003eThere will be an opportunity to take a short quiz using Proctorio a few weeks into the semester, to ensure your computer meets specs and to let you experience Proctorio without the stress of an actual exam.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eFinal Project (graduate students only)\u003c/strong\u003e:  Graduate students will form groups of 4-7 students and complete a research project, including formulating a research questions, gathering data (directly or from available sources), performing the appropriate analysis, and interpreting results.  Students will present a proposal to the class in the form of a video, as well as writing up the results for submission.  Both the presentation and report will contribute to the grade.  Part of the purpose of this project is for you to have the opportunity to do research as part of a team; there are challenges associated with this, and you should be learning how to navigate the challenges of working with people whose study style and schedule may be very different from your own.  \u003ca href=\"/courses/33157/pages/overview-of-graduate-project\"\u003eSee separate document for the details of the graduate final project\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eGrading:\u003c/strong\u003e  Undergraduate grades will be based on your participation (in class and on the discussion board), your homework assignments, and your scores on the mid-term and final exam. Graduate grades will be based on your participation (in class and on the discussion board), your homework assignments, the graduate project, your scores on the mid-term and final exam.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003ctable style=\"height: 12px;\" border=\"=\" width=\"100%\" cellpadding=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr style=\"height: 48px;\"\u003e\n\u003ctd style=\"height: 48px;\" width=\"35%\"\u003e\u003c/td\u003e\n\u003ctd style=\"height: 48px;\" width=\"33%\"\u003e\n\u003cp\u003e\u003cstrong\u003eUndergraduate\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"height: 48px;\" width=\"30%\"\u003e\n\u003cp\u003e\u003cstrong\u003eGraduate\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 48px;\"\u003e\n\u003ctd style=\"height: 48px;\" width=\"35%\"\u003e\n\u003cp\u003e\u003cstrong\u003eClass participation\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"height: 48px;\" width=\"33%\"\u003e\n\u003cp\u003e20%\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"height: 48px;\" width=\"30%\"\u003e\n\u003cp\u003e16%\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 48px;\"\u003e\n\u003ctd style=\"height: 48px;\" width=\"35%\"\u003e\n\u003cp\u003e\u003cstrong\u003eHomework Assignments\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"height: 48px;\" width=\"33%\"\u003e\n\u003cp\u003e25%\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"height: 48px;\" width=\"30%\"\u003e\n\u003cp\u003e20%\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 48px;\"\u003e\n\u003ctd style=\"height: 48px;\" width=\"35%\"\u003e\n\u003cp\u003e\u003cstrong\u003eMidterm Exam\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"height: 48px;\" width=\"33%\"\u003e\n\u003cp\u003e25%\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"height: 48px;\" width=\"30%\"\u003e\n\u003cp\u003e20%\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 48px;\"\u003e\n\u003ctd style=\"height: 48px;\" width=\"35%\"\u003e\n\u003cp\u003e\u003cstrong\u003eFinal Exam\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"height: 48px;\" width=\"33%\"\u003e\n\u003cp\u003e30%\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"height: 48px;\" width=\"30%\"\u003e\n\u003cp\u003e24%\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"height: 8px;\"\u003e\n\u003ctd style=\"height: 8px;\" width=\"35%\"\u003e\n\u003cp\u003e\u003cstrong\u003eGraduate Project\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"height: 8px;\" width=\"33%\"\u003e\u003c/td\u003e\n\u003ctd style=\"height: 8px;\" width=\"30%\"\u003e\n\u003cp\u003e20%\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003eLetter grades will be based on total score.\u003c/p\u003e\n\u003ctable style=\"margin-left: auto; margin-right: auto;\" border=\"=\" width=\"185\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd width=\"101\"\u003e\n\u003cp style=\"text-align: center;\"\u003eNumeric Grade\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"84\"\u003e\n\u003cp style=\"text-align: center;\"\u003eLetter Grade\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cp style=\"text-align: center;\"\u003e 93-100\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd\u003e\n\u003cp style=\"text-align: center;\"\u003eA\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"text-align: center;\"\u003e\n\u003ctd\u003e\n\u003cp\u003e 90-92\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd\u003e\n\u003cp\u003eA-\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"text-align: center;\"\u003e\n\u003ctd\u003e\n\u003cp\u003e 86-89\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd\u003e\n\u003cp\u003eB+\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"text-align: center;\"\u003e\n\u003ctd\u003e\n\u003cp\u003e 83-85\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd\u003e\n\u003cp style=\"text-align: left;\"\u003eB\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"text-align: center;\"\u003e\n\u003ctd\u003e\n\u003cp\u003e 80-82\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd\u003e\n\u003cp\u003eB-\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"text-align: center;\"\u003e\n\u003ctd\u003e\n\u003cp\u003e 76-79\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd\u003e\n\u003cp\u003eC+\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"text-align: center;\"\u003e\n\u003ctd\u003e\n\u003cp\u003e 73-75\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd\u003e\n\u003cp\u003eC\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"text-align: center;\"\u003e\n\u003ctd\u003e\n\u003cp\u003e 70-72\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd\u003e\n\u003cp\u003eC-\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"text-align: center;\"\u003e\n\u003ctd\u003e\n\u003cp\u003e 66-69\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd\u003e\n\u003cp\u003eD+\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"text-align: center;\"\u003e\n\u003ctd\u003e\n\u003cp\u003e 63-65\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd\u003e\n\u003cp\u003eD\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr style=\"text-align: center;\"\u003e\n\u003ctd\u003e\n\u003cp\u003e 60-62\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd\u003e\n\u003cp\u003eD-\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"text-align: center;\"\u003e\n\u003cp\u003e 0-59\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd\u003e\n\u003cp style=\"text-align: center;\"\u003eE\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAccessibility: \u003c/strong\u003eThe Extension School is committed to providing an accessible academic community. The Disability Services Office offers a variety of accommodations and services to students with documented disabilities. Please visit \u003ca href=\"https://fasmail.harvard.edu/OWA/redir.aspx?C=_XKOWzfGPk6egIqQYmEZHCC1AxnHkdIIdxbKR9PeCm4LnCSUDKb6yRgEjwcHh9c9HiAhheY3z6E.\u0026amp;URL=http%3a%2f%2fwww.extension.harvard.edu%2fresources-policies%2fresources%2fdisability-services-accessibility\"\u003ewww.extension.harvard.edu/resources-policies/resources/disability-services-accessibility\u003c/a\u003e for more information. \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAcademic Integrity: \u003c/strong\u003eYou are responsible for understanding Harvard Extension School policies on academic integrity (\u003ca href=\"https://fasmail.harvard.edu/OWA/redir.aspx?C=_XKOWzfGPk6egIqQYmEZHCC1AxnHkdIIdxbKR9PeCm4LnCSUDKb6yRgEjwcHh9c9HiAhheY3z6E.\u0026amp;URL=http%3a%2f%2fwww.extension.harvard.edu%2fresources-policies%2fstudent-conduct%2facademic-integrity\"\u003ewww.extension.harvard.edu/resources-policies/student-conduct/academic-integrity\u003c/a\u003e) and how to use sources responsibly. Not knowing the rules, misunderstanding the rules, running out of time, submitting \"the wrong draft\", or being overwhelmed with multiple demands are not acceptable excuses. There are no excuses for failure to uphold academic integrity. To support your learning about academic citation rules, please visit the Harvard Extension School Tips to Avoid Plagiarism (\u003ca href=\"https://fasmail.harvard.edu/OWA/redir.aspx?C=_XKOWzfGPk6egIqQYmEZHCC1AxnHkdIIdxbKR9PeCm4LnCSUDKb6yRgEjwcHh9c9HiAhheY3z6E.\u0026amp;URL=http%3a%2f%2fwww.extension.harvard.edu%2fresources-policies%2fresources%2ftips-avoid-plagiarism\"\u003ewww.extension.harvard.edu/resources-policies/resources/tips-avoid-plagiarism\u003c/a\u003e), where you'll find links to the Harvard Guide to Using Sources and two, free, online 15-minute tutorials to test your knowledge of academic citation policy. The tutorials are anonymous open-learning tools.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWeek-by-Week \u003c/strong\u003e: (Note: I retain the right to make minor changes to this schedule; exams and graduate project deadlines will not change).\u003c/p\u003e\n\u003ctable style=\"width: 805px;\" border=\"=\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 71px;\"\u003e\n\u003cp\u003e\u003cstrong\u003eDate\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 385px;\"\u003e\n\u003cp\u003e\u003cstrong\u003eTopic\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 204px;\"\u003e\n\u003cp\u003e\u003cstrong\u003eReading\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 113px;\"\u003e\n\u003cp\u003e\u003cstrong\u003eGraduate Research Project\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 71px;\"\u003e\n\u003cp\u003e28-Aug\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 385px;\"\u003e\n\u003cp\u003eChapters 1-2; About the Course, Philosophy of Statistics, Modeling\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 204px;\"\u003e\n\u003cp\u003eChapters 1/2\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 113px;\"\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 71px;\"\u003e\n\u003cp\u003e4-Sep\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 385px;\"\u003e\n\u003cp\u003e\u003cstrong\u003eLabor Day - No class!\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 204px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"width: 113px;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 71px;\"\u003e\n\u003cp\u003e11-Sep\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 385px;\"\u003e\n\u003cp\u003eChapters 5; Bias (Graduate Students form groups)\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 204px;\"\u003e\n\u003cp\u003eChapter 5 (also read Chapter 3 about SPSS)\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 113px;\"\u003e\n\u003cp\u003eForm teams  (Sept. 15)\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 71px;\"\u003e\n\u003cp\u003e18-Sep\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 385px;\"\u003e\n\u003cp\u003eLinear Regression, Part 1 (single predictor)\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 204px;\"\u003e\n\u003cp\u003eChapter 8: First half\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 113px;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 71px;\"\u003e\n\u003cp\u003e25-Sep\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 385px;\"\u003e\n\u003cp\u003eLinear Regression, Part 2 (this time, it's multiple)\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 204px;\"\u003e\n\u003cp\u003eChapter 8: Second half\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 113px;\"\u003e\n\u003cp\u003eBrief proposal due\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 71px;\"\u003e\n\u003cp\u003e2-Oct\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 385px;\"\u003e\n\u003cp\u003eLinear Regression, Part 3 (interactions, power, prediction intervals and more)\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 204px;\"\u003e\n\u003cp\u003eParts of Chapter 10, also several articles available on line about topics not in book\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 113px;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 71px;\"\u003e\n\u003cp\u003e9-Oct\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 385px;\"\u003e\n\u003cp\u003e\u003cstrong\u003eColumbus Day - No class!\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 204px;\"\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 113px;\"\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 71px;\"\u003e\n\u003cp\u003e16-Oct\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 385px;\"\u003e\n\u003cp\u003eChapter 11, One-Way ANOVA\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 204px;\"\u003e\n\u003cp\u003eChapter 11\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 113px;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 71px;\"\u003e\n\u003cp\u003e23-Oct\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 385px;\"\u003e\n\u003cp\u003eREVIEW\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 204px;\"\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 113px;\"\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 71px;\"\u003e\n\u003cp\u003e30-Oct\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 385px;\"\u003e\n\u003cp\u003e\u003cstrong\u003eMIDTERM EXAM\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 204px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"width: 113px;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 71px;\"\u003e\n\u003cp\u003e6-Nov\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 385px;\"\u003e\n\u003cp\u003eANCOVA\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 204px;\"\u003e\n\u003cp\u003eChapter 12\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 113px;\"\u003e\n\u003cp\u003eVideo proposal due\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 71px;\"\u003e\n\u003cp\u003e13-Nov\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 385px;\"\u003e\n\u003cp\u003eFactorial ANOVA\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 204px;\"\u003e\n\u003cp\u003eChapter 13\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 113px;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 71px;\"\u003e\n\u003cp\u003e20-Nov\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 385px;\"\u003e\n\u003cp\u003eRepeated Measures\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 204px;\"\u003e\n\u003cp\u003eChapter 14\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 113px;\"\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 71px;\"\u003e\n\u003cp\u003e27-Nov\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 385px;\"\u003e\n\u003cp\u003eLogistic Regression, Part 1 (intro to concept)\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 204px;\"\u003e\n\u003cp\u003eChapter 19: First half\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 113px;\"\u003e\n\u003cp\u003eWritten proposal due\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 71px;\"\u003e\n\u003cp\u003e4-Dec\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 385px;\"\u003e\n\u003cp\u003eLogistic Regression, Part 2 (testing assumptions, multinomial regression)\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 204px;\"\u003e\n\u003cp\u003eChapter 19: Second half\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 113px;\"\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 71px;\"\u003e\n\u003cp\u003e11-Dec\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 385px;\"\u003e\n\u003cp\u003eREVIEW\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 204px;\"\u003e\u003c/td\u003e\n\u003ctd style=\"width: 113px;\"\u003e\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"width: 71px;\"\u003e\n\u003cp\u003e18-Dec\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 385px;\"\u003e\n\u003cp\u003e\u003cstrong\u003eFINAL EXAM \u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 204px;\"\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd style=\"width: 113px;\"\u003e\n\u003cp\u003e\u003cstrong\u003eFinal project due\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eSee you in class. \u003c/p\u003e","notices":[]};
+</script>
+
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/navigation_header.bundle-9669f80a51.js" defer="defer"></script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/4225508/global.min.js" defer="defer"></script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/3751539/EXPGlobal.js" defer="defer"></script>
+
+</div> <!-- #application -->
+</body>
+</html>

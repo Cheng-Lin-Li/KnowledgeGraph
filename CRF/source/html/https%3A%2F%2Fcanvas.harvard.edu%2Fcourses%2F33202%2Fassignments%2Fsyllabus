@@ -1,0 +1,1625 @@
+
+
+<!DOCTYPE html>
+<html class="scripts-not-loaded" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Syllabus for Introduction to Quantitative Methods for the Social Sciences and Humanities</title>
+  <!--[if lte IE 9]> <meta http-equiv=refresh content="0; URL=/ie-9-is-not-supported.html" /> <![endif]-->
+  <link rel="shortcut icon" type="image/x-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/favicon-e10d657a73.ico" />
+  <link rel="apple-touch-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/apple-touch-icon-585e5d997d.png" />
+  
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.css" />
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/common-de9877d2f0.css" />
+  <script>
+//<![CDATA[
+
+!function(){
+  var o,s,v;
+  if (!(window.Promise && Object.assign && Object.values && [].find && [].includes && (o={},s=Symbol(),v={},o[s]=v,o[s]===v) && (function f(){}).bind().name==='bound f')) {
+    s = 's', document.write('<'+s+'cr'+'ipt src="https://du11hjcvx0uqb.cloudfront.net/dist/ie11-polyfill-64b21f7f37.js"></'+s+'c'+'ript>');
+  }
+}();
+      
+//]]>
+</script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/lato-fontfaceobserver-11a14bc0b6.js" async="async"></script>
+  
+  <meta name="apple-itunes-app" content="app-id=480883488" />
+<link rel="manifest" href="/web-app-manifest/manifest.json" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#008EE2">
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/tinymce-29f8b0a23f.css" />
+<link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/syllabus-2f51f24f19.css" />
+  
+  <link rel="stylesheet" media="all" href="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/4225502/global.min.css" />
+  <script>
+    function _earlyClick(e){
+      var c = e.target
+      while (c && c.ownerDocument) {
+        if (c.getAttribute('href') == '#' || c.getAttribute('data-method')) {
+          e.preventDefault()
+          (_earlyClick.clicks = _earlyClick.clicks || []).push(c)
+          break
+        }
+        c = c.parentNode
+      }
+    }
+    document.addEventListener('click', _earlyClick)
+  </script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.js" defer="defer"></script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/vendor.bundle-2585fc489b.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/New_York-c3226761e3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/en_US-80a0ce259b.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/appBootstrap.bundle-43015c2be3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/common.bundle-07f53473d3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/syllabus.bundle-8eb56aaa04.js" defer="defer"></script>
+</head>
+
+<body class="with-left-side course-menu-expanded with-right-side syllabus primary-nav-expanded context-course_33202">
+
+<noscript>
+  <div role="alert" class="ic-flash-static ic-flash-error">
+    <div class="ic-flash__icon" aria-hidden="true">
+      <i class="icon-warning"></i>
+    </div>
+    <h1>You need to have JavaScript enabled in order to access this site.</h1>
+  </div>
+</noscript>
+
+
+
+
+
+<ul id="flash_message_holder"></ul>
+<div id="flash_screenreader_holder"></div>
+
+<div id="application" class="ic-app">
+  
+  <header id="header" class="ic-app-header no-print no-user">
+    <a href="#content" id="skip_navigation_link">Skip To Content</a>
+      <div role="region" class="ic-app-header__main-navigation" aria-label="Main Navigation">
+        <div class="ic-app-header__logomark-container">
+          <a href="https://canvas.harvard.edu/" class="ic-app-header__logomark">
+            <span class="screenreader-only">Dashboard</span>
+          </a>
+        </div>
+        <ul id="menu" class="ic-app-header__menu-list">
+            <li class="menu-item ic-app-header__menu-list-item">
+              <a id="global_nav_login_link" href="/login" class="ic-app-header__menu-list-link">
+                <div class="menu-item-icon-container" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--login" version="1.1" x="0" y="0" viewBox="241 -241 512 512" enable-background="new 241 -241 512 512" xml:space="preserve"><path d="M743.9 5.9l-35.7-35.7H492.9c-6.5-16.2-17.3-32-31.7-46.4 -50.4-50.4-132-50.4-182.4 0s-50.4 132.1 0 182.5 132 50.4 182.4 0c11.8-11.8 20.6-25.9 27-41.8H547L570.6 88l22.8-22.8L616.2 88 639 65.2 661.8 88l24.1-24.1 15.6-1.5 4.6-0.5L753 15 743.9 5.9 743.9 5.9zM694.4 37.1l-15.6 1.5 -4.6 0.5 -12.4 12.4 -12.9-12.9h-19.8l-12.9 12.9 -12.9-12.9h-19.8l-12.9 12.9 -12.9-12.9h-87.6l-2.9 8.8c-5.3 16-13.2 29.5-24.2 40.6 -40.3 40.3-105.6 40.3-145.9 0s-40.3-105.7 0-146 105.6-40.3 145.9 0c14.3 14.3 24.4 29.8 28.6 44.6l2.7 9.4h223.3l19 19L694.4 37.1 694.4 37.1zM322.3-16.2c-17.5 17.5-17.5 46 0 63.5 17.5 17.5 46 17.5 63.5 0 17.5-17.5 17.5-46 0-63.5C368.2-33.8 339.8-33.8 322.3-16.2L322.3-16.2zM367.6 29.1c-7.5 7.5-19.7 7.5-27.2 0 -7.5-7.5-7.5-19.7 0-27.2s19.7-7.5 27.2 0S375.2 21.6 367.6 29.1L367.6 29.1z"/></svg>
+
+                </div>
+                <div class="menu-item__text">
+                  Login
+                </div>
+              </a>
+            </li>
+          <li class="ic-app-header__menu-list-item ">
+            <a id="global_nav_dashboard_link" href="https://canvas.harvard.edu/" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--dashboard" version="1.1" x="0" y="0" viewBox="0 0 280 200" enable-background="new 0 0 280 200" xml:space="preserve"><path d="M273.09,180.75H197.47V164.47h62.62A122.16,122.16,0,1,0,17.85,142a124,124,0,0,0,2,22.51H90.18v16.29H6.89l-1.5-6.22A138.51,138.51,0,0,1,1.57,142C1.57,65.64,63.67,3.53,140,3.53S278.43,65.64,278.43,142a137.67,137.67,0,0,1-3.84,32.57ZM66.49,87.63,50.24,71.38,61.75,59.86,78,76.12Zm147,0L202,76.12l16.25-16.25,11.51,11.51ZM131.85,53.82v-23h16.29v23Zm15.63,142.3a31.71,31.71,0,0,1-28-16.81c-6.4-12.08-15.73-72.29-17.54-84.25a8.15,8.15,0,0,1,13.58-7.2c8.88,8.21,53.48,49.72,59.88,61.81a31.61,31.61,0,0,1-27.9,46.45ZM121.81,116.2c4.17,24.56,9.23,50.21,12,55.49A15.35,15.35,0,1,0,161,157.3C158.18,152,139.79,133.44,121.81,116.2Z" /></svg>
+
+              </div>
+              <div class="menu-item__text">Dashboard</div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ic-app-header__menu-list-item--active">
+            <a id="global_nav_courses_link" href="/courses" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--courses" version="1.1" x="0" y="0" viewBox="0 0 280 259" enable-background="new 0 0 280 259" xml:space="preserve"><path d="M73.31,198c-11.93,0-22.22,8-24,18.73a26.67,26.67,0,0,0-.3,3.63v.3a22,22,0,0,0,5.44,14.65,22.47,22.47,0,0,0,17.22,8H200V228.19h-134V213.08H200V198Zm21-105.74h90.64V62H94.3ZM79.19,107.34V46.92H200v60.42Zm7.55,30.21V122.45H192.49v15.11ZM71.65,16.71A22.72,22.72,0,0,0,49,39.36V190.88a41.12,41.12,0,0,1,24.32-8h157V16.71ZM33.88,39.36A37.78,37.78,0,0,1,71.65,1.6H245.36V198H215.15v45.32h22.66V258.4H71.65a37.85,37.85,0,0,1-37.76-37.76Z"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Courses
+              </div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_calendar_link" href="/calendar" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--calendar" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M197.07,213.38h16.31V197.07H197.07Zm-16.31,16.31V180.76h48.92v48.92Zm-48.92-16.31h16.31V197.07H131.85Zm-16.31,16.31V180.76h48.92v48.92ZM66.62,213.38H82.93V197.07H66.62ZM50.32,229.68V180.76H99.24v48.92Zm146.75-81.53h16.31V131.85H197.07Zm-16.31,16.31V115.54h48.92v48.92Zm-48.92-16.31h16.31V131.85H131.85Zm-16.31,16.31V115.54h48.92v48.92ZM66.62,148.15H82.93V131.85H66.62ZM50.32,164.46V115.54H99.24v48.92ZM34,262.29H246V82.93H34ZM246,66.62V42.16A8.17,8.17,0,0,0,237.84,34H213.38v8.15a8.15,8.15,0,1,1-16.31,0V34H82.93v8.15a8.15,8.15,0,0,1-16.31,0V34H42.16A8.17,8.17,0,0,0,34,42.16V66.62Zm-8.15-48.92a24.49,24.49,0,0,1,24.46,24.46V278.6H17.71V42.16A24.49,24.49,0,0,1,42.16,17.71H66.62V9.55a8.15,8.15,0,0,1,16.31,0v8.15H197.07V9.55a8.15,8.15,0,1,1,16.31,0v8.15Z"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Calendar
+              </div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_conversations_link" href="/conversations" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--inbox" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M91.72,120.75h96.56V104.65H91.72Zm0,48.28h80.47V152.94H91.72Zm0-96.56h80.47V56.37H91.72Zm160.94,34.88H228.52V10.78h-177v96.56H27.34A24.17,24.17,0,0,0,3.2,131.48V244.14a24.17,24.17,0,0,0,24.14,24.14H252.66a24.17,24.17,0,0,0,24.14-24.14V131.48A24.17,24.17,0,0,0,252.66,107.34Zm0,16.09a8.06,8.06,0,0,1,8,8v51.77l-32.19,19.31V123.44ZM67.58,203.91v-177H212.42v177ZM27.34,123.44H51.48v79.13L19.29,183.26V131.48A8.06,8.06,0,0,1,27.34,123.44ZM252.66,252.19H27.34a8.06,8.06,0,0,1-8-8V202l30,18H230.75l30-18v42.12A8.06,8.06,0,0,1,252.66,252.19Z"/></svg>
+
+                <span class="menu-item__badge" style="display: none">0</span>
+              </div>
+              <div class="menu-item__text">
+                Inbox
+              </div>
+            </a>
+          </li>
+          <li class="ic-app-header__menu-list-item">
+           <a id="global_nav_help_link" class="ic-app-header__menu-list-link" data-track-category="help system" data-track-label="help button" href="http://help.instructure.com/">
+              <div class="menu-item-icon-container" role="presentation">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg menu-item__icon svg-icon-help" version="1.1" x="0" y="0" viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve" fill="currentColor"><path d="M100,127.88A11.15,11.15,0,1,0,111.16,139,11.16,11.16,0,0,0,100,127.88Zm8.82-88.08a33.19,33.19,0,0,1,23.5,23.5,33.54,33.54,0,0,1-24,41.23,3.4,3.4,0,0,0-2.74,3.15v9.06H94.42v-9.06a14.57,14.57,0,0,1,11.13-14,22.43,22.43,0,0,0,13.66-10.27,22.73,22.73,0,0,0,2.31-17.37A21.92,21.92,0,0,0,106,50.59a22.67,22.67,0,0,0-19.68,3.88,22.18,22.18,0,0,0-8.65,17.64H66.54a33.25,33.25,0,0,1,13-26.47A33.72,33.72,0,0,1,108.82,39.8ZM100,5.2A94.8,94.8,0,1,0,194.8,100,94.91,94.91,0,0,0,100,5.2m0,178.45A83.65,83.65,0,1,1,183.65,100,83.73,83.73,0,0,1,100,183.65" transform="translate(-5.2 -5.2)"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Help
+              </div>
+</a>          </li>
+        </ul>
+      </div>
+      <div class="ic-app-header__secondary-navigation">
+        <ul class="ic-app-header__menu-list">
+          <li class="menu-item ic-app-header__menu-list-item">
+            <button
+              id="primaryNavToggle"
+              class="ic-app-header__menu-list-link ic-app-header__menu-list-link--nav-toggle"
+              aria-label="
+                Minimize global navigation"
+              title="
+                Minimize global navigation"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--navtoggle" version="1.1" x="0" y="0" width="40" height="32" viewBox="0 0 40 32" xml:space="preserve">
+  <path d="M39.5,30.28V2.48H37.18v27.8Zm-4.93-13.9L22.17,4,20.53,5.61l9.61,9.61H.5v2.31H30.14l-9.61,9.61,1.64,1.64Z"/>
+</svg>
+
+            </button>
+          </li>
+        </ul>
+      </div>
+    <div id="global_nav_tray_container"></div>
+  </header>
+
+
+  <div id="instructure_ajax_error_box">
+    <div style="text-align: right; background-color: #fff;"><a href="#" class="close_instructure_ajax_error_box_link">Close</a></div>
+    <iframe id="instructure_ajax_error_result" src="about:blank" style="border: 0;" title="Error"></iframe>
+  </div>
+
+  
+
+  <div id="wrapper" class="ic-Layout-wrapper">
+      <div class="ic-app-nav-toggle-and-crumbs no-print">
+          <button type="button" id="courseMenuToggle" class="Button Button--link ic-app-course-nav-toggle" aria-live="polite" aria-label="Hide Courses Navigation Menu" title="Hide Courses Navigation Menu">
+            <i class="icon-hamburger" aria-hidden="true"></i>
+          </button>
+          <div class="ic-app-crumbs">
+        <nav id="breadcrumbs" role="navigation" aria-label="breadcrumbs"><ul><li class="home"><a href="/"><span class="ellipsible">      <i class="icon-home"
+         title="My Dashboard">
+        <span class="screenreader-only">My Dashboard</span>
+      </i>
+</span></a></li><li><span class="ellipsible">STAT E-100 (14574)</span></li><li><span class="ellipsible">Syllabus</span></li></ul></nav>
+        </div>
+      </div>
+    <div id="main" class="ic-Layout-columns">
+        <div class="ic-Layout-watermark"></div>
+        <div id="left-side"
+          class="ic-app-course-menu list-view"
+          style="display: block"
+          >
+              <span id="section-tabs-header-subtitle" class="ellipsis">2017-2018 Fall</span>
+            <nav role="navigation" aria-label="Courses Navigation Menu"><ul id="section-tabs"><li class="section"><a href="/courses/33202/assignments/syllabus" title="Syllabus" class="syllabus active">Syllabus</a></li><li class="section"><a href="/courses/33202/external_tools/13815" title="Student Resources" class="context_external_tool_13815">Student Resources</a></li></ul></nav>
+        </div>
+      <div id="not_right_side" class="ic-app-main-content">
+        <div id="content-wrapper" class="ic-Layout-contentWrapper">
+            
+
+          <div id="content" class="ic-Layout-contentMain" role="main">
+            
+
+
+
+<div class="ic-Action-header">
+  <div class="ic-Action-header__Primary">
+    <h1 class="ic-Action-header__Heading">Course Syllabus</h1>
+  </div>
+  <div class="ic-Action-header__Secondary">
+    <a href="#" class="jump_to_today_link">Jump to Today</a>
+  </div>
+</div>
+
+<div id="course_syllabus" style="margin-bottom: 10px;" class="user_content">
+  <div style="margin: auto;">
+<table style="width: 100%; background-color: 3498c2;" title="Course Syllabus and Information can be found on this page">
+<tbody>
+<tr>
+<td style="color: white; text-align: center; background-color: #3498c2;">
+<h2>  Course Syllabus &amp; Information</h2>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<iframe style="display: block; margin-left: auto; margin-right: auto;" src="https://www.youtube.com/embed/n4sOXfm-8iU?modestbranding=1&amp;rel=0&amp;showinfo=0&amp;" width="300" height="150" allowfullscreen="allowfullscreen"></iframe>
+<h3 style="text-align: center;"> <strong>Stat</strong> <strong>E-100:</strong><strong> </strong><strong>Introduction to Quantitative Methods for the Social Sciences and Humanities</strong><br>Tentative Syllabus for Fall Semester 2017</h3>
+<p> </p>
+<p><strong>Please Note:</strong> The syllabus is <strong>required</strong> reading for the course. You will be expected to understand the policies and assignments discussed in the syllabus.<strong> To view the course syllabus as a pdf, click <a href="/courses/33202/files/folder/Course%20Syllabus%20and%20Documents?">here</a>.<br></strong></p>
+<p><strong>Overview: </strong>This course introduces the basic concepts of data analysis and statistical computing, both increasingly used in the social sciences and the humanities. The emphasis is on the practical application of quantitative reasoning, visualization, and data analysis. The goal is to provide students pragmatic tools for assessing statistical claims and conducting their own basic statistical analyses. Topics covered include basic descriptive measures, measures of association, sampling and sample size estimation, and simple linear regression. Assignments are based on real-world data and problems in a wide range of fields in the social sciences and humanities, including psychology, sociology, education, and public health.</p>
+<p> </p>
+<h4><strong><u>I. Course Mechanics</u></strong></h4>
+<p><strong>Instructor</strong>: Ethan Fosse (Ph.D., Harvard)<br>Office Hours: By appointment<br>Email: <a href="mailto:efosse@princeton.edu">efosse@princeton.edu</a> or <a href="mailto:fosse.ethan@gmail.com">fosse.ethan@gmail.com</a> </p>
+<p><strong>Course</strong> <strong>Lectures:</strong> Course lectures will be delivered online via weekly modules. New modules will be released on the course website every Thursday at 5pm, starting on Thursday, August 31, 2017. Students will have the week to complete all material at their own pace (abiding by the due dates for assignments).</p>
+<p><strong>Weekly Sections:</strong> There will be weekly online sections during which teaching assistants will review topics from the lectures, outline additional example problems, and answer questions about the semi-weekly missions. Sections will be scheduled throughout the week for students to attend at their convenience. Although attendance at specific sections is not mandatory, students are strongly encouraged to attend at least one section per week if they have questions about the course material. More details will be available as the semester begins.</p>
+<p><strong>Teaching Assistant Office Hours:</strong> Each teaching assistant will also hold office hours online. Information can be found <a href="/courses/33202/pages/sections-and-office-hours">here</a>.</p>
+<p><strong>Assigned Teaching Assistant:</strong> You will be assigned a teaching assistant for the duration of the course after the semester starts. You may attend any online section (or all sections) that fit your schedule, but your assigned teaching assistant is your first contact for grading concerns, section issues, and questions about the missions or exams.</p>
+<p> </p>
+<h4>
+<strong><u>II. Course Resources</u></strong> </h4>
+<p><strong>Course Website: </strong>The course website will have additional information on the course mechanics, missions, lecture materials, and the teaching staff. Also note that all exams will be taken entirely online and the missions will be submitted entirely through course website. It will be updated as the semester starts. The course website may be accessed here (make sure you log in so you can view the website): <a href="/courses/33202/assignments/syllabus">https://canvas.harvard.edu/courses/33202/assignments/syllabus</a></p>
+<p><strong>Required Textbooks</strong>: There are two required textbooks for the course, one for learning statistical concepts and another for learning how to use statistical software:</p>
+<ul>
+<li>For learning <strong>statistical concepts</strong>, the required textbook is <em>OpenIntro Statistics, 3<sup>rd</sup> Edition</em> by David M. Dietz, Christopher D. Barr, and Mine Cetinkaya-Rundel published in 2015. It is available online for <strong>free</strong> as a pdf or for less than $10 from Amazon: <a href="https://www.openintro.org/stat/textbook.php?stat_book=os">https://www.openintro.org/stat/textbook.php?stat_book=os</a>
+</li>
+</ul>
+<ul>
+<li>For learning <strong>statistical software</strong>, the required textbook is <em>A Student’s Guide to R</em> by Nicholas J. Horton, Daniel T. Kaplan, and Randall Pruim. It is available on the course website for <strong>free</strong> as a pdf or online via this link: <a href="https://cran.r-project.org/doc/contrib/Horton+Pruim+Kaplan_MOSAIC-StudentGuide.pdf">https://cran.r-project.org/doc/contrib/Horton+Pruim+Kaplan_MOSAIC-StudentGuide.pdf</a>
+</li>
+</ul>
+<p><strong>Statistical Software: </strong>This course is focused primarily on helping you learn basic statistical concepts. However, learning statistical concepts is generally aided by analyzing data using statistical software. Because of its popularity and applicability, this course will focus on using R with RStudio. R is the underlying programming language, while RStudio is a graphical user interface that makes working with R much easier. Both are free, open-source, and used widely by statisticians. To install R with RStudio, go to the following link and click on the installer for your computer’s operational system: <a href="https://www.rstudio.com/products/rstudio/download/">https://www.rstudio.com/products/rstudio/download/</a> More information about installing R will be available in the Orientation module on the course website at the start of the semester.</p>
+<p> </p>
+<h4><strong><u>III. Grading and Course Requirements</u></strong></h4>
+<p>For all students, your grade will be based on the following:</p>
+<ul>
+<li>Participation in <strong>module questions</strong> that will count for <strong>10%</strong> of your grade</li>
+<li>Regularly-assigned<strong> missions</strong> that will count for <strong>20%</strong> of your grade</li>
+<li>
+<strong>Two</strong> <strong>online exams</strong> that will count for <strong>40%</strong> of your grade</li>
+<li>A <strong>final project </strong>that will count for <strong>30% </strong>of your grade</li>
+</ul>
+<p><strong>Module Questions (10%):</strong> Accompanying each week’s lectures are a set of module questions to test your understanding of the material. You will <strong>not</strong> be evaluated on whether or not you obtain the right answer on these questions, only that you answered them. If you answer all of the questions, then you will obtain a full participation grade.</p>
+<p><strong>Missions (20%):</strong> Missions are assigned and submitted online through the course website. Each mission focuses on a particular set of questions around a particular topic or theme. Details on the missions will be published on the course website as the semester starts. Late missions are not accepted for any reason. Working with other students on the missions is allowed and encouraged but only as long as you hand in your <strong>own work</strong> and do not simply copy the work of someone else. For the missions you will be graded on whether or not you have given the correct answer for each question.</p>
+<p><strong>Online Examinations (40%)</strong>: There will be <strong>two </strong>exams during the course, each worth 20% of your overall grade. Each exam will last 2 hours and will be <strong>offered online</strong> on the course website during a specified time period over several days. You will not need a proctor to take the online exams. Each exam will consist of three parts: first, a set of multiple choice questions; second, a set of questions in which you will be asked to enter a numerical answer; and third, a small set of questions<span> that require you to critically evaluate the interpretation of statistical analyses</span>. The exams are “open book” in that you can use any textbook, notes, missions, or lecture slides to help you answer the questions. <strong>The exams are designed to test your knowledge of basic statistical concepts, not your ability to use R</strong>. To the extent R will be tested, you will only be asked to interpret standard statistical output in the form of tables and graphs.</p>
+<ul>
+<li>
+<strong>Exam 1</strong>: Released at 5pm Eastern Standard Time (EST) on Thursday October 19. Due at 11:59pm EST on Sunday October 22.</li>
+<li>
+<strong>Exam 2</strong>: Released at 5pm Eastern Standard Time (EST) on Thursday December 14. Due at 11:59pm EST on Sunday December 17.</li>
+</ul>
+<p><strong>Final Project (30%)</strong>: Both undergraduate and graduate students are expected to conduct a final project, with differing requirements:</p>
+<ul>
+<li>For <strong>undergraduate students</strong>, the final project is a short paper (<strong>no more than 5 pages</strong>) in which you analyze a dataset using one of the methods discussed in the course. Students are expected to use one of the datasets used during the course, although you may use another dataset if desired. The final project will be submitted online through the course website. </li>
+</ul>
+<ul>
+<li>For <strong>graduate students</strong>, the final project will consist of a paper (<strong>no more than 10 pages</strong>) describing the analysis of a dataset using one the methods discussed in the course. You may use one of the datasets used in the course or another dataset. The final project will be submitted online through the course website. </li>
+</ul>
+<p> </p>
+<h4><strong><u>IV. Tentative Course Schedule</u></strong></h4>
+<p>The tentative course schedule is given below. It is subject to change as the semester begins. The due dates for missions, assigned textbook readings, and lecture topics are subject to change. In the table below, <strong>OI</strong> refers to the <em>OpenIntro Statistics</em> while <strong>SG</strong> refers to the <em>Student’s Guide to R</em>.</p>
+<p><strong> </strong></p>
+<table width="0">
+<tbody>
+<tr>
+<td width="222">
+<p><strong>Date</strong></p>
+</td>
+<td width="252">
+<p><strong>Lecture<br></strong></p>
+</td>
+<td width="143">
+<p><strong>Readings &amp;  Due Dates<br></strong></p>
+</td>
+</tr>
+<tr>
+<td width="78">
+<p>8/31/17</p>
+</td>
+<td width="222">
+<p>Introduction to Data</p>
+</td>
+<td width="252">
+<p><strong>OI</strong>: Ch. 1: Pp. 7-13, 15-20</p>
+<p><strong>SG</strong>: Pp. 5-7, 11-12; Ch. 1: Pp. 13-14; Ch. 2: Pp. 15-16, 20-25</p>
+</td>
+<td width="143">
+<p>None</p>
+</td>
+</tr>
+<tr>
+<td width="78">
+<p>9/7/17</p>
+</td>
+<td width="222">
+<p>Categorical Data</p>
+</td>
+<td width="252">
+<p><strong>OI</strong>: Ch. 1: Pp. 43-48</p>
+<p><strong>SG</strong>: Ch. 4: Pg. 39 only; Ch. 6: Pp. 55, 57   </p>
+</td>
+<td width="143">
+<p>None</p>
+</td>
+</tr>
+<tr>
+<td width="78">
+<p>9/14/17</p>
+</td>
+<td width="222">
+<p>Numerical Data</p>
+</td>
+<td width="252">
+<p><strong>OI</strong>: Ch. 1: Pp. 28-37</p>
+<p><strong>SG</strong>: Ch. 3: Pp. 27-34</p>
+</td>
+<td width="143">
+<p>Mission #1</p>
+</td>
+</tr>
+<tr>
+<td width="78">
+<p>9/21/17</p>
+</td>
+<td width="222">
+<p>Probability Tables and Relative Risk</p>
+</td>
+<td width="252">
+<p><strong>OI</strong>: Ch. 2: Pp. 76-101</p>
+<p><strong>SG</strong>: Re-read Ch. 6: Pp. 55, 57</p>
+</td>
+<td width="143">
+<p>Mission #2</p>
+</td>
+</tr>
+<tr>
+<td width="78">
+<p>9/28/17</p>
+</td>
+<td width="222">
+<p>Correlation Analysis</p>
+</td>
+<td width="252">
+<p><strong>OI</strong>: Ch. 1: Pp. 26-27; Ch. 7: Pp. 338-339</p>
+<p><strong>SG</strong>: Ch. 5: Pp. 45-46</p>
+</td>
+<td width="143">
+<p>Mission #3</p>
+</td>
+</tr>
+<tr>
+<td width="78">
+<p>10/5/17</p>
+</td>
+<td width="222">
+<p>Simple Linear Regression</p>
+</td>
+<td width="252">
+<p><strong>OI</strong>: Ch. 7: Pp. 331-338, 340-348</p>
+<p><strong>SG</strong>: Ch. 5: Pp. 47-48</p>
+</td>
+<td width="143">
+<p>Mission #4</p>
+</td>
+</tr>
+<tr>
+<td width="78">
+<p>10/12/17</p>
+</td>
+<td width="222">
+<p>Basics of Sampling</p>
+</td>
+<td width="252">
+<p><strong>OI</strong>: Ch.1: Pp. 20-23; Ch. 3: Pp. 127-141; Ch. 4: Pp. 168-174</p>
+<p><strong>SG</strong>: Ch. 3: Pg. 35</p>
+</td>
+<td width="143">
+<p>Mission #5</p>
+</td>
+</tr>
+<tr>
+<td width="78">
+<p>10/19/17</p>
+</td>
+<td width="222">
+<p><strong>Exam 1</strong></p>
+</td>
+<td width="252">
+<p>None</p>
+</td>
+<td width="143">
+<p>None</p>
+</td>
+</tr>
+<tr>
+<td width="78">
+<p>10/26/17</p>
+</td>
+<td width="222">
+<p>Sampling Distribution</p>
+</td>
+<td width="252">
+<p><strong>OI</strong>: Ch. 4: Pp. 175-197</p>
+<p><strong>SG</strong>: None</p>
+</td>
+<td width="143">
+<p>None</p>
+</td>
+</tr>
+<tr>
+<td width="78">
+<p>11/2/17</p>
+</td>
+<td width="222">
+<p>Tests for Means</p>
+</td>
+<td width="252">
+<p><strong>OI</strong>: Ch.5: Pp. 219-239</p>
+<p><strong>SG</strong>: Ch. 3, Pp. 36-37</p>
+</td>
+<td width="143">
+<p>Mission #6</p>
+</td>
+</tr>
+<tr>
+<td width="78">
+<p>11/9/17</p>
+</td>
+<td width="222">
+<p>Tests for Proportions</p>
+</td>
+<td width="252">
+<p><strong>OI</strong>: Ch. 6: Pp. 274-286</p>
+<p><strong>SG</strong>: Ch. 4: Pp. 41-42</p>
+</td>
+<td width="143">
+<p>Mission #7</p>
+</td>
+</tr>
+<tr>
+<td width="78">
+<p>11/16/17</p>
+</td>
+<td width="222">
+<p>Tests for Contingency Tables</p>
+</td>
+<td width="252">
+<p><strong>OI</strong>: Ch. 6: Pp. 297-302</p>
+<p><strong>SG</strong>: Ch. 4: Pp. 42-44; Ch. 10: Pp. 75-76</p>
+</td>
+<td width="143">
+<p>Mission #8</p>
+</td>
+</tr>
+<tr>
+<td width="78">
+<p>11/23/17</p>
+</td>
+<td width="222">
+<p>Thanksgiving Break</p>
+</td>
+<td width="252">
+<p>None</p>
+</td>
+<td width="143">
+<p>None</p>
+</td>
+</tr>
+<tr>
+<td width="78">
+<p>11/30/17</p>
+</td>
+<td width="222">
+<p>Inferences for Correlation and Simple Linear Regression</p>
+</td>
+<td width="252">
+<p><strong>OI</strong>: Ch. 7: Pp. 351-355</p>
+<p><strong>SG</strong>: Re-read Ch. 5: Pp. 47-48</p>
+</td>
+<td width="143">
+<p>Mission #9</p>
+</td>
+</tr>
+<tr>
+<td width="78">
+<p>12/7/17</p>
+</td>
+<td width="222">
+<p>Course Review</p>
+</td>
+<td width="252">
+<p>None</p>
+</td>
+<td width="143">
+<p>Final Project</p>
+</td>
+</tr>
+<tr>
+<td width="78">
+<p>12/14/17</p>
+</td>
+<td width="222"><strong>Exam 2</strong></td>
+<td width="252">
+<p>None</p>
+</td>
+<td width="143">
+<p>None</p>
+</td>
+</tr>
+</tbody>
+</table>
+<br>
+<h4><strong><u>V. Other Course Policies</u></strong></h4>
+<p><strong>Collaboration:</strong> You may discuss the missions with other students, but you must give the final answer yourself. Solutions prepared by copying or paraphrasing someone else’s work are not acceptable. All computer output you submit must come from work that you have done yourself.</p>
+<p><strong>Academic Integrity:</strong> Harvard University expects students to understand and maintain high standards of academic integrity. Breaches of academic integrity are subject to review and may be grounds for disciplinary action. Please review the examples of violations of academic integrity at the following link: <a href="https://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity">https://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity</a></p>
+</div>
+<div style="margin: auto;">
+<table style="width: 100%; background-color: 3498c2;" title="Course Syllabus and Information can be found on this page">
+<tbody>
+<tr>
+<td style="color: white; text-align: center; background-color: #3498c2;">
+<h2>  Course Syllabus &amp; Information</h2>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<iframe style="display: block; margin-left: auto; margin-right: auto;" src="https://www.youtube.com/embed/n4sOXfm-8iU?modestbranding=1&amp;rel=0&amp;showinfo=0&amp;" width="300" height="150" allowfullscreen="allowfullscreen"></iframe>
+<h3 style="text-align: center;"> <strong>Stat</strong> <strong>E-100:</strong><strong> </strong><strong>Introduction to Quantitative Methods for the Social Sciences and Humanities</strong><br>Tentative Syllabus for Fall Semester 2017</h3>
+<p> </p>
+<p><strong>Please Note:</strong> The syllabus is <strong>required</strong> reading for the course. You will be expected to understand the policies and assignments discussed in the syllabus.<strong> To view the course syllabus as a pdf, click <a href="/courses/33202/files/folder/Course%20Syllabus%20and%20Documents?">here</a>.<br></strong></p>
+<p><strong>Overview: </strong>This course introduces the basic concepts of data analysis and statistical computing, both increasingly used in the social sciences and the humanities. The emphasis is on the practical application of quantitative reasoning, visualization, and data analysis. The goal is to provide students pragmatic tools for assessing statistical claims and conducting their own basic statistical analyses. Topics covered include basic descriptive measures, measures of association, sampling and sample size estimation, and simple linear regression. Assignments are based on real-world data and problems in a wide range of fields in the social sciences and humanities, including psychology, sociology, education, and public health.</p>
+<p> </p>
+<h4><strong><u>I. Course Mechanics</u></strong></h4>
+<p><strong>Instructor</strong>: Ethan Fosse (Ph.D., Harvard)<br>Office Hours: To be determined<br>Email: <a href="mailto:efosse@princeton.edu">efosse@princeton.edu</a> or <a href="mailto:fosse.ethan@gmail.com">fosse.ethan@gmail.com</a> </p>
+<p><strong>Course</strong> <strong>Lectures:</strong> Course lectures will be delivered online via weekly modules. New modules will be released on the course website every Thursday at 5pm, starting on Thursday, August 31, 2017. Students will have the week to complete all material at their own pace (abiding by the due dates for assignments).</p>
+<p><strong>Weekly Sections:</strong> There will be weekly online sections during which teaching assistants will review topics from the lectures, outline additional example problems, and answer questions about the semi-weekly missions. Sections will be scheduled throughout the week for students to attend at their convenience. Although attendance at specific sections is not mandatory, students are strongly encouraged to attend at least one section per week if they have questions about the course material. More details will be available as the semester begins.</p>
+<p><strong>Teaching Assistant Office Hours:</strong> Each teaching assistant will also hold office hours online. Information can be found <a href="/courses/33202/pages/sections-and-office-hours">here</a>.</p>
+<p><strong>Assigned Teaching Assistant:</strong> You will be assigned a teaching assistant for the duration of the course after the semester starts. You may attend any online section (or all sections) that fit your schedule, but your assigned teaching assistant is your first contact for grading concerns, section issues, and questions about the missions or exams.</p>
+<p> </p>
+<h4>
+<strong><u>II. Course Resources</u></strong> </h4>
+<p><strong>Course Website: </strong>The course website will have additional information on the course mechanics, missions, lecture materials, and the teaching staff. Also note that all exams will be taken entirely online and the missions will be submitted entirely through course website. It will be updated as the semester starts. The course website may be accessed here (make sure you log in so you can view the website): <a href="/courses/33202/assignments/syllabus">https://canvas.harvard.edu/courses/33202/assignments/syllabus</a></p>
+<p><strong>Required Textbooks</strong>: There are two required textbooks for the course, one for learning statistical concepts and another for learning how to use statistical software:</p>
+<ul>
+<li>For learning <strong>statistical concepts</strong>, the required textbook is <em>OpenIntro Statistics, 3<sup>rd</sup> Edition</em> by David M. Dietz, Christopher D. Barr, and Mine Cetinkaya-Rundel published in 2015. It is available online for <strong>free</strong> as a pdf or for less than $10 from Amazon: <a href="https://www.openintro.org/stat/textbook.php?stat_book=os">https://www.openintro.org/stat/textbook.php?stat_book=os</a>
+</li>
+</ul>
+<ul>
+<li>For learning <strong>statistical software</strong>, the required textbook is <em>A Student’s Guide to R</em> by Nicholas J. Horton, Daniel T. Kaplan, and Randall Pruim. It is available on the course website for <strong>free</strong> as a pdf or online via this link: <a href="https://cran.r-project.org/doc/contrib/Horton+Pruim+Kaplan_MOSAIC-StudentGuide.pdf">https://cran.r-project.org/doc/contrib/Horton+Pruim+Kaplan_MOSAIC-StudentGuide.pdf</a>
+</li>
+</ul>
+<p><strong>Statistical Software: </strong>This course is focused primarily on helping you learn basic statistical concepts. However, learning statistical concepts is generally aided by analyzing data using statistical software. Because of its popularity and applicability, this course will focus on using R with RStudio. R is the underlying programming language, while RStudio is a graphical user interface that makes working with R much easier. Both are free, open-source, and used widely by statisticians. To install R with RStudio, go to the following link and click on the installer for your computer’s operational system: <a href="https://www.rstudio.com/products/rstudio/download/">https://www.rstudio.com/products/rstudio/download/</a> More information about installing R will be available in the Orientation module on the course website at the start of the semester.</p>
+<p> </p>
+<h4><strong><u>III. Grading and Course Requirements</u></strong></h4>
+<p>For all students, your grade will be based on the following:</p>
+<ul>
+<li>Participation in <strong>module questions</strong> that will count for <strong>10%</strong> of your grade</li>
+<li>Regularly-assigned<strong> missions</strong> that will count for <strong>20%</strong> of your grade</li>
+<li>
+<strong>Two</strong> <strong>online exams</strong> that will count for <strong>40%</strong> of your grade</li>
+<li>A <strong>final project </strong>that will count for <strong>30% </strong>of your grade</li>
+</ul>
+<p><strong>Module Questions (10%):</strong> Accompanying each week’s lectures are a set of module questions to test your understanding of the material. You will <strong>not</strong> be evaluated on whether or not you obtain the right answer on these questions, only that you answered them. If you answer all of the questions, then you will obtain a full participation grade.</p>
+<p><strong>Missions (20%):</strong> Missions are assigned and submitted online through the course website. Each mission focuses on a particular set of questions around a particular topic or theme. Details on the missions will be published on the course website as the semester starts. Late missions are not accepted for any reason. Working with other students on the missions is allowed and encouraged but only as long as you hand in your <strong>own work</strong> and do not simply copy the work of someone else. For the missions you will be graded on whether or not you have given the correct answer for each question.</p>
+<p><strong>Online Examinations (40%)</strong>: There will be <strong>two </strong>exams during the course, each worth 20% of your overall grade. Each exam will last 2 hours and will be <strong>offered online</strong> on the course website during a specified time period over several days. You will not need a proctor to take the online exams. Each exam will consist of three parts: first, a set of multiple choice questions; second, a set of questions in which you will be asked to enter a numerical answer; and third, a small set of questions<span> that require you to critically evaluate the interpretation of statistical analyses</span>. The exams are “open book” in that you can use any textbook, notes, missions, or lecture slides to help you answer the questions. <strong>The exams are designed to test your knowledge of basic statistical concepts, not your ability to use R</strong>. To the extent R will be tested, you will only be asked to interpret standard statistical output in the form of tables and graphs.</p>
+<ul>
+<li>
+<strong>Exam 1</strong>: Released at 5pm Eastern Standard Time (EST) on Thursday October 19. Due at 11:59pm EST on Sunday October 22.</li>
+<li>
+<strong>Exam 2</strong>: Released at 5pm Eastern Standard Time (EST) on Thursday December 14. Due at 11:59pm EST on Sunday December 17.</li>
+</ul>
+<p><strong>Final Project (30%)</strong>: Both undergraduate and graduate students are expected to conduct a final project, with differing requirements:</p>
+<ul>
+<li>For <strong>undergraduate students</strong>, the final project is a short paper (<strong>no more than 5 pages</strong>) in which you analyze a dataset using one of the methods discussed in the course. Students are expected to use one of the datasets used during the course, although you may use another dataset if desired. The final project will be submitted online through the course website. </li>
+</ul>
+<ul>
+<li>For <strong>graduate students</strong>, the final project will consist of a paper (<strong>no more than 10 pages</strong>) describing the analysis of a dataset using one the methods discussed in the course. You may use one of the datasets used in the course or another dataset. The final project will be submitted online through the course website. </li>
+</ul>
+<p> </p>
+<h4><strong><u>IV. Tentative Course Schedule</u></strong></h4>
+<p>The tentative course schedule is given below. It is subject to change as the semester begins. The due dates for missions, assigned textbook readings, and lecture topics are subject to change. In the table below, <strong>OI</strong> refers to the <em>OpenIntro Statistics</em> while <strong>SG</strong> refers to the <em>Student’s Guide to R</em>.</p>
+<p><strong>Date</strong></p>
+<strong>Assignment Due</strong><br>
+<h4><strong><u>V. Other Course Policies</u></strong></h4>
+<p><strong>Collaboration:</strong> You may discuss the missions with other students, but you must give the final answer yourself. Solutions prepared by copying or paraphrasing someone else’s work are not acceptable. All computer output you submit must come from work that you have done yourself.</p>
+<p><strong>Academic Integrity:</strong> Harvard University expects students to understand and maintain high standards of academic integrity. Breaches of academic integrity are subject to review and may be grounds for disciplinary action. Please review the examples of violations of academic integrity at the following link: <a href="https://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity">https://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity</a></p>
+</div>
+</div>
+<div id="course_syllabus_details" style="display: none;">
+  <p>The syllabus page shows a table-oriented view of the course schedule, and the basics of
+course grading.  You can add any other comments, notes, or thoughts you have about the course
+structure, course policies or anything else.</p>
+
+<p>To add some comments, click the &quot;Edit&quot; link at the top.</p>
+</div>
+<form id="edit_course_syllabus_form" style="display: none; margin-bottom: 10px;" action="/courses/33202" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="MR5yNMmZfTPoI1AB3Z8ip8f+II9m4Jbfi22xzGSGEhxzWQZihukyWJJlBDClr0H0qMZxxAWopK/CH8CYDa1Dew==" />
+  <div style="float: right;">
+    <a href="#" class="toggle_views_link toggle_html_editor_link">HTML Editor</a>
+    <a href="#" class="toggle_views_link toggle_rich_editor_link" style="display:none;">Rich Content Editor</a>
+  </div>
+  <label for="course_syllabus_body">Syllabus Description:</label>
+  <div class="clear"></div>
+  <textarea style="width: 100%; height: 300px;" id="course_syllabus_body" name="course[syllabus_body]">
+</textarea>
+  <div class='form-actions'>
+    <button type="button" class="btn cancel_button">Cancel</button>
+    <button type="submit" class='btn btn-primary'>Update Syllabus</button>
+  </div>
+</form>
+<h2>Course Summary:</h2>
+
+<div id="syllabusContainer">
+  <div id="syllabus_links">
+    <a id="toggle_special_dates_in_syllabus">&nbsp;</a>
+  </div>
+  <table id="syllabus" class="ic-Table--condensed">
+    <thead>
+      <tr>
+        <th scope="col" style="width: 25%;">Date</th>
+        <th scope="col" style="width: 75%;">Details</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td scope="row">
+          <span id="loading_indicator"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+          </div>
+        </div>
+        <div id="right-side-wrapper" class="ic-app-main-content__secondary">
+          <aside id="right-side" role="complementary">
+              
+<div id="sidebar_content">
+  
+<div class="mini_month">
+  <div class="mini-cal-header">
+    <button class="prev_month_link Button Button--icon-action"><i class="icon-arrow-open-left"></i><span class="screenreader-only">Prev month</span></button>
+    <button class="next_month_link Button Button--icon-action"><i class="icon-arrow-open-right"></i><span class="screenreader-only">Next month</span></button>
+    <span class="mini-cal-month-and-year">
+      <span class="month_name">September</span>
+      <span class="year_number">2017</span>
+    </span>
+  </div>
+  <div style="display: none;">
+    <span class="month_number">9</span>
+  </div>
+  <table class="mini_calendar" cellspacing="0">
+    <caption class="screenreader-only">Calendar</caption>
+    <thead>
+      <tr>
+          <th scope="col">
+            <span class="screenreader-only">
+              Sunday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Monday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Tuesday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Wednesday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Thursday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Friday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Saturday
+            </span>
+          </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_08_27" class="mini_calendar_day day other_month previous_month date_08_27_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                27
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_28" class="mini_calendar_day day other_month previous_month date_08_28_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                28
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_29" class="mini_calendar_day day other_month previous_month date_08_29_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                29
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_30" class="mini_calendar_day day other_month previous_month date_08_30_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                30
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_31" class="mini_calendar_day day other_month previous_month date_08_31_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                31
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_01" class="mini_calendar_day day current_month date_09_01_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                1
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_02" class="mini_calendar_day day current_month date_09_02_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                2
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_03" class="mini_calendar_day day current_month date_09_03_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                3
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_04" class="mini_calendar_day day current_month date_09_04_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                4
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_05" class="mini_calendar_day day current_month date_09_05_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                5
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_06" class="mini_calendar_day day current_month date_09_06_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                6
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_07" class="mini_calendar_day day current_month date_09_07_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                7
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_08" class="mini_calendar_day day current_month date_09_08_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                8
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_09" class="mini_calendar_day day current_month date_09_09_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                9
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_10" class="mini_calendar_day day current_month date_09_10_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                10
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_11" class="mini_calendar_day day current_month date_09_11_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                11
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_12" class="mini_calendar_day day current_month date_09_12_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                12
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_13" class="mini_calendar_day day current_month date_09_13_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                13
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_14" class="mini_calendar_day day current_month date_09_14_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                14
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_15" class="mini_calendar_day day current_month date_09_15_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                15
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_16" class="mini_calendar_day day current_month date_09_16_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                16
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_17" class="mini_calendar_day day current_month date_09_17_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                17
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_18" class="mini_calendar_day day current_month date_09_18_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                18
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_19" class="mini_calendar_day day current_month date_09_19_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                19
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_20" class="mini_calendar_day day current_month date_09_20_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                20
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_21" class="mini_calendar_day day current_month date_09_21_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                21
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_22" class="mini_calendar_day day current_month date_09_22_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                22
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_23" class="mini_calendar_day day current_month date_09_23_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                23
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_24" class="mini_calendar_day day current_month today date_09_24_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                24
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_25" class="mini_calendar_day day current_month date_09_25_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                25
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_26" class="mini_calendar_day day current_month date_09_26_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                26
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_27" class="mini_calendar_day day current_month date_09_27_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                27
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_28" class="mini_calendar_day day current_month date_09_28_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                28
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_29" class="mini_calendar_day day current_month date_09_29_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                29
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_30" class="mini_calendar_day day current_month date_09_30_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                30
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_10_01" class="mini_calendar_day day other_month next_month date_10_01_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                1
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_02" class="mini_calendar_day day other_month next_month date_10_02_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                2
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_03" class="mini_calendar_day day other_month next_month date_10_03_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                3
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_04" class="mini_calendar_day day other_month next_month date_10_04_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                4
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_05" class="mini_calendar_day day other_month next_month date_10_05_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                5
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_06" class="mini_calendar_day day other_month next_month date_10_06_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                6
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_07" class="mini_calendar_day day other_month next_month date_10_07_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                7
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+    
+<div role="complementary" aria-label="Assignment Weights">
+  <h2>Assignments are weighted by group:</h2>
+
+  <table class="summary">
+    <thead>
+    <tr>
+      <th scope='col'>Group</th>
+      <th scope='col'>Weight</th>
+    </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <th scope='row'>Assignments</th>
+          <td>0%</td>
+        </tr>
+        <tr>
+          <th scope='row'>Other</th>
+          <td>0%</td>
+        </tr>
+        <tr>
+          <th scope='row'>Missions</th>
+          <td>20%</td>
+        </tr>
+        <tr>
+          <th scope='row'>Midterm Exam</th>
+          <td>20%</td>
+        </tr>
+        <tr>
+          <th scope='row'>Final Project</th>
+          <td>30%</td>
+        </tr>
+        <tr>
+          <th scope='row'>Final Exam</th>
+          <td>20%</td>
+        </tr>
+        <tr>
+          <th scope='row'>Participation (Weekly Quizzes)</th>
+          <td>10%</td>
+        </tr>
+      <tr style="font-weight: bold;">
+        <th scope='row'>Total</th>
+        <td>100%</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+</div>
+
+<div id="editor_tabs" class="ui-tabs--mini" style="display: none;">
+
+  <span class="wiki-sidebar-header" role="heading" aria-level="2">Insert Content into the Page</span>
+  <ul>
+    <li><a href="#editor_tabs_2">Links</a></li>
+    <li><a href="#editor_tabs_4">Images</a></li>
+  </ul>
+  <div id="editor_tabs_2" role="application">
+    Link to other content in the course.
+      <a href="/courses/33202/external_tools/retrieve?url=%7B%7B+url+%7D%7D" id="external_tool_retrieve_url" style="display: none;">&nbsp;</a>
+      <a href="/courses/33202/external_tools/%7B%7B%20id%20%7D%7D/resource_selection?editor=1" id="context_external_tool_resource_selection_url" style="display: none;">&nbsp;</a>
+    Click any page to insert a link to that page.
+    <div id="pages_accordion" class="ui-accordion--mini" role="tabpanel">
+      <a href="https://canvas.harvard.edu/courses/33202/pages/%7B%7B%20page_url%20%7D%7D" id="wiki_sidebar_wiki_url" style="display: none;">&nbsp;</a>
+      <div>
+        <div class="header" aria-controls="pages_tab_panel" role="tab"><a href="#">Wiki Pages</a></div>
+        <div id="pages_tab_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/bar-graphs-and-mosaic-plots-for-two-categorical-variables">Bar Graphs and Mosaic Plots for Two Categorical Variables</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/basics-of-study-design">Basics of Study Design</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/conclusion">Conclusion</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/contingency-tables-for-two-categorical-variables">Contingency Tables for Two Categorical Variables</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/course-structure">Course Structure</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/describing-center-and-location">Describing Center and Location</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/frequency-tables-and-graphs-for-one-categorical-variable">Frequency Tables and Graphs for One Categorical Variable</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/getting-started-with-rstudio">Getting Started with RStudio</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/measures-of-variation-or-spread">Measures of Variation (or Spread)</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/meet-the-teaching-staff">Meet the Teaching Staff</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/proportions-as-probabilities">Proportions as Probabilities</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/relative-risk-and-conditional-probability">Relative Risk and Conditional Probability</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/r-tutorials">R Tutorials</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/samples-and-populations">Samples and Populations</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/sections-and-office-hours">Sections and Office Hours</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/section-videos">Section Videos</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/stat-e-100-home">STAT E-100 Home</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/tips-for-navigating-this-canvas-site">Tips for Navigating this Canvas Site</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/types-of-data">Types of Data</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/visualizing-numerical-data">Visualizing Numerical Data</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/week-1-introduction-to-data">Week 1: Introduction to Data</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/week-2-categorical-data">Week 2: Categorical Data</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/week-2-conclusion">Week 2 Conclusion</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/week-3-conclusion">Week 3 Conclusion</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/week-3-numerical-data">Week 3: Numerical Data</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/week-4-conclusion">Week 4 Conclusion</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/week-4-probability-tables-and-relative-risk">Week 4: Probability Tables and Relative Risk</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/welcome">Welcome</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/where-do-i-go-for-help">Where Do I Go For Help?</a></li>
+                  <li title="Click to insert a link to this page"><a role="button" href="/courses/33202/pages/working-with-probability-tables">Working with Probability Tables</a></li>
+            </ul>
+        </div>
+      </div>
+      <div>
+        <div aria-controls="assignment_panel" role="tab" class="header" aria-controls="wiki_pages_panel"><a href="#">Assignments</a></div>
+         <div id="assignment_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments">Assignment List</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151652">Final Exam</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151679">Final Project - Graduate Students Only</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151680">Final Project - Undergraduate Students Only</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151669">Midterm Exam</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151648">Mission 1: Introduction to Data and Categorical Data</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151670">Mission 2: Numerical Data</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151631">Mission 3: Probability Tables and Relative Risk</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151644">Mission 4: Correlation Analysis</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151673">Mission 5: Simple Linear Regression</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151672">Mission 6: Basics of Sampling/Sampling Distribution</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151632">Mission 7: Tests for Means</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151637">Mission 8: Tests for Proportions</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151667">Mission 9: Tests for Contingency Tables</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151681">Participation</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151629">Week 10 Practice Quiz 1: The Central Limit Theorem</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151678">Week 10 Practice Quiz 2: Confidence Intervals</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151647">Week 10 Practice Quiz 3: Basics of Hypothesis Testing</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151676">Week 11 Practice Quiz 1: The t-Distribution Model</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151628">Week 11 Practice Quiz 2: One-Sample z-Test and z-Intervals</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151655">Week 11 Practice Quiz 3: One-Sample t-Test and t-Intervals</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151635">Week 12 Practice Quiz 1: Sampling Distribution of a Proportion</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151662">Week 12 Practice Quiz 2: One-Sample z-Test for a Proportion</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151675">Week 12 Practice Quiz 3: Inferences for Difference of Two Proportions</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151640">Week 12 Practice Quiz 4: Inferences for Difference of Two Means</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151664">Week 13 Practice Quiz 1: The 𝜒2 One-Way Goodness-of-Fit Test</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151660">Week 13 Practice Quiz 2: The 𝜒2 Two-Way Test for Independence</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151634">Week 13 Practice Quiz 3: One-Way Analysis of Variance (ANOVA)</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151643">Week 14 Practice Quiz 1: Inferences for Correlation</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151661">Week 14 Practice Quiz 2: Inferences for Regression</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151633">Week 14 Practice Quiz 3: Introduction to Multiple Linear Regression</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151671">Week 15 Practice Quiz 1: Descriptive Statistics</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151666">Week 15 Practice Quiz 2: Inferential Statistics: Means and Proportions</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151656">Week 15 Practice Quiz 3: Inferential Statistics: Contingency Tables, Correlation, and Regression</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151641">Week 1 Practice Quiz 1: Types of Data</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151636">Week 1 Practice Quiz 2: Samples and Populations</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151663">Week 1 Practice Quiz 3: Basics of Study Design</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151674">Week 2 Practice Quiz 1: Frequency Tables and Graphs for One Categorical Variable</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151657">Week 2 Practice Quiz 2: Contingency Tables for Two Categorical Variables</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151627">Week 2 Practice Quiz 3: Bar Graphs and Mosaic Plots for Two Categorical Variables</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151642">Week 3 Practice Quiz 1: Describing Center and Location</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151659">Week 3 Practice Quiz 2: Measures of Variation (or Spread)</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151677">Week 3 Practice Quiz 3: Visualizing Numerical Data</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151651">Week 4 Practice Quiz 1: Proportions as Probabilities</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151650">Week 4 Practice Quiz 2: Working with Probability Tables</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151668">Week 4 Practice Quiz 3: Relative Risk and Conditional Probability</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151645">Week 5 Practice Quiz 1: From Scatter Plots to Covariance</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151646">Week 5 Practice Quiz 2: Understanding Correlation</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151653">Week 5 Practice Quiz 3: Linear and Nonlinear Transformations</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151658">Week 5 Practice Quiz 4: The Empirical Rule and Chebyshev’s Rule</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151639">Week 6 Practice Quiz 1: Fitting a Line to a Scatterplot</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151665">Week 6 Practice Quiz 2: The Method of Least Squares</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151654">Week 6 Practice Quiz 3: Decomposing Variation and Measures of Fit</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151630">Week 7 Practice Quiz 1: From Samples to Populations</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151638">Week 7 Practice Quiz 2: The Normal Distribution Model</a></li>
+                <li title="Click to insert a link to this assignment"><a href="/courses/33202/assignments/151649">Week 7 Practice Quiz 3: Working with Z-Scores and the Normal Distribution Model</a></li>
+            </ul>
+         </div>
+      </div>
+      <div>
+        <div aria-controls="quizzes_panel" class="header" role="tab"><a href="#">Quizzes</a></div>
+         <div id="quizzes_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes">Quiz List</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68632">Week 2 Practice Quiz 3: Bar Graphs and Mosaic Plots for Two Categorical Variables</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68633">Week 11 Practice Quiz 2: One-Sample z-Test and z-Intervals</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68634">Week 10 Practice Quiz 1: The Central Limit Theorem</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68635">Week 7 Practice Quiz 1: From Samples to Populations</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68636">Mission 3: Probability Tables and Relative Risk</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68637">Mission 7: Tests for Means</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68638">Week 14 Practice Quiz 3: Introduction to Multiple Linear Regression</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68639">Practice Final Exam</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68640">Week 13 Practice Quiz 3: One-Way Analysis of Variance (ANOVA)</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68641">Week 12 Practice Quiz 1: Sampling Distribution of a Proportion</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68642">Week 1 Practice Quiz 2: Samples and Populations</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68643">Mission 8: Tests for Proportions</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68644">Week 7 Practice Quiz 2: The Normal Distribution Model</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68645">Week 6 Practice Quiz 1: Fitting a Line to a Scatterplot</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68646">Week 12 Practice Quiz 4: Inferences for Difference of Two Means</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68647">Week 1 Practice Quiz 1: Types of Data</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68648">Week 3 Practice Quiz 1: Describing Center and Location</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68649">Week 14 Practice Quiz 1: Inferences for Correlation</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68650">Mission 4: Correlation Analysis</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68651">Week 5 Practice Quiz 1: From Scatter Plots to Covariance</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68652">Week 5 Practice Quiz 2: Understanding Correlation</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68653">Week 10 Practice Quiz 3: Basics of Hypothesis Testing</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68654">Practice Midterm Exam</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68655">Mission 1: Introduction to Data and Categorical Data</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68656">Week 7 Practice Quiz 3: Working with Z-Scores and the Normal Distribution Model</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68657">Week 4 Practice Quiz 2: Working with Probability Tables</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68658">Week 4 Practice Quiz 1: Proportions as Probabilities</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68659">Final Exam</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68660">Week 5 Practice Quiz 3: Linear and Nonlinear Transformations</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68661">Week 6 Practice Quiz 3: Decomposing Variation and Measures of Fit</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68662">Week 11 Practice Quiz 3: One-Sample t-Test and t-Intervals</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68663">Week 15 Practice Quiz 3: Inferential Statistics: Contingency Tables, Correlation, and Regression</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68664">Week 2 Practice Quiz 2: Contingency Tables for Two Categorical Variables</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68665">Week 5 Practice Quiz 4: The Empirical Rule and Chebyshev’s Rule</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68666">Week 3 Practice Quiz 2: Measures of Variation (or Spread)</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68667">Week 13 Practice Quiz 2: The 𝜒2 Two-Way Test for Independence</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68668">Week 14 Practice Quiz 2: Inferences for Regression</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68669">Week 12 Practice Quiz 2: One-Sample z-Test for a Proportion</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68670">Week 1 Practice Quiz 3: Basics of Study Design</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68671">Week 13 Practice Quiz 1: The 𝜒2 One-Way Goodness-of-Fit Test</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68672">Week 6 Practice Quiz 2: The Method of Least Squares</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68673">Week 15 Practice Quiz 2: Inferential Statistics: Means and Proportions</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68674">Mission 9: Tests for Contingency Tables</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68675">Week 4 Practice Quiz 3: Relative Risk and Conditional Probability</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68676">Midterm Exam</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68677">Mission 2: Numerical Data</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68678">Week 15 Practice Quiz 1: Descriptive Statistics</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68679">Mission 6: Basics of Sampling/Sampling Distribution</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68680">Mission 5: Simple Linear Regression</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68681">Week 2 Practice Quiz 1: Frequency Tables and Graphs for One Categorical Variable</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68682">Week 12 Practice Quiz 3: Inferences for Difference of Two Proportions</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68683">Week 11 Practice Quiz 1: The t-Distribution Model</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68684">Week 3 Practice Quiz 3: Visualizing Numerical Data</a></li>
+                <li title="Click to insert a link to this quiz"><a href="/courses/33202/quizzes/68685">Week 10 Practice Quiz 2: Confidence Intervals</a></li>
+            </ul>
+         </div>
+      </div>
+      <div>
+        <div class="header" aria-controls="announcements_panel" role="tab"><a href="#">Announcements</a></div>
+         <div id="announcements_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this announcement"><a href="/courses/33202/announcements">Announcements List</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33202/announcements/243982">Week 4: Probability Tables and Relative Risk</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33202/announcements/241044">Week 2 Updated Videos (with links); More R Tutorials for Analyzing Numerical Data</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33202/announcements/242862">Reminder: Sections tonight!</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33202/announcements/241004">Making the Most of Section Videos and R Tutorials</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33202/announcements/240982">Reminder: Section TONIGHT at 8PM, EST</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33202/announcements/240830">Reminder: Titanic Homework Assignment Due at 5PM, EST</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33202/announcements/240762">Week 3: Numerical Data</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33202/announcements/236630">First Section Tonight!</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33202/announcements/239031">Section Tonight!</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33202/announcements/239200">More Upcoming Sections</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33202/announcements/240713">R Tutorials Updated</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33202/announcements/237822">Note on Supplemental Readings</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33202/announcements/237538">Week 2: Categorical Data</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33202/announcements/234826">Week 1: Introduction to Data</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33202/announcements/223131">Greetings Stat E-100 Students!</a></li>
+            </ul>
+         </div>
+      </div>
+
+      <div>
+        <div role="tab" aria-controls="discussions_panel" class="header"><a href="#">Discussions</a></div>
+         <div id="discussions_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics">Discussion Index</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/244465">No Title</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/238135">Class Community Discussion</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/240549">Data Science Certificate</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/242448">Standard Variance greater than maximum distance to average?</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/243306">Why do we divide by (n-1) when calculating sample variance</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/243533">Final Graduate project</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/244090">Re Variance and Standard Deviation, squaring the distance from mean</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/241398">Population Variance Degrees of Freedom</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/241559">Mission #2 - Discussion Thread</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/241572">Representative sample - Question</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/234954">Questions for Sections</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/242086">R language: How to Filter the dataset by values in a column</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/239555">Mission #1 - Discussion Thread</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/240962">Famous Statistical Quotations</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/241652">Errata in Week 3, Quiz 3</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/241252">Week 3 - R - Popularkids errors</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/239502">R Code Examples </a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/240917">Class Recorded Videos Link</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/238129">Are mosaic plots inferior to dodged bar graphs?</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/237110">Issue in Joining Section 2</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/239301">Use of tilde in mosaic</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/239233">Quiz 3, Question 2 Mosaic Plot</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/224953">Statistics is Everywhere!</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/235012">Sources of public data for analysis</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/233272">Question About Installing R/RStudio? Ask Here!</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/238367">Distribution: Conditional and Unconditional</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/238268">Due date for Mission 1</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/238649">Error in eval(x, data, env)</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/237849">Working on Missions in advance, preparing for missed classes?</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/238355">Is the data from Titanic.RData real or modified for learning practice purpose?</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/238128">Creating Good Graphics</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/237107">Video Conference/Zoom</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/238112">Final Project</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/235481">Discrete variable definition</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/237676">CategoricalData.pptx download link is pointing to the PDF file in Week 2</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/235029">Variable Type</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/235130">Video - Lecture</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/235850">Files / R Tutorials, permission denied</a></li>
+                <li title="Click to insert a link to this topic"><a href="/courses/33202/discussion_topics/234729">Yes/No data as Numerical</a></li>
+            </ul>
+         </div>
+      </div>
+
+      <div>
+        <div role="tab" aria-controls="modules_panel" class="header"><a href="#">Modules</a></div>
+          <div id="modules_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this module"><a href="/courses/33202/modules">Modules List</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33202/modules/69833">Week 4</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33202/modules/69832">Week 3</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33202/modules/69831">Week 2</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33202/modules/69830">Week 1</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33202/modules/69829">Week 0: Orientation</a></li>
+                <li title="Click to insert a link to this module"><a href="/courses/33202/modules/69828">Course Information</a></li>
+            </ul>
+          </div>
+      </div>
+
+      <div>
+        <div class="header" role="tab" aria-controls="groups_panel"><a href="#">Course Navigation</a></div>
+         <div role="tabpanel" id="groups_panel">
+            <ul class="wiki_pages page_list">
+                <li title="Click to insert a link to the assignments page"><a href="/courses/33202/assignments">Assignment List</a></li>
+                <li title="Click to insert a link to the wiki"><a href="https://canvas.harvard.edu/courses/33202/pages">Wiki Home</a></li>
+                <li title="Click to insert a link to the discussions page"><a href="/courses/33202/discussion_topics">Discussions Index</a></li>
+                <li title="Click to insert a link to the syllabus"><a href="/courses/33202/assignments/syllabus">Course Syllabus</a></li>
+                <li title="Click to insert a link to the announcements page"><a href="/courses/33202/announcements">Announcement List</a></li>
+                <li title="Click to insert a link to the files page"><a href="/courses/33202/files">Files Index</a></li>
+                <li title="Click to insert a link to the collaborations page"><a href="/courses/33202/collaborations">Collaborations</a></li>
+                <li title="Click to insert a link to the grades page"><a href="/courses/33202/grades">Grades</a></li>
+                <li title="Click to insert a link to the people page"><a href="/courses/33202/users">People</a></li>
+                <li title="Click to insert a link to the modules page"><a href="/courses/33202/modules">Modules</a></li>
+            </ul>
+         </div>
+      </div>
+    </div>
+
+  </div>
+  <div aria-atomic="true" id="editor_tabs_4">
+    Click any image to embed the image in the page.
+    <div>
+      <a tabindex="0" href="#" class="find_new_image_link find">Find images on flickr creative commons</a>
+    </div>
+    <div id="wiki_sidebar_image_uploads" class="uploading_file_list uploading_image_list" style="display: none;">
+      <div class="uploading">
+        Uploading <span class="filename">file</span>...
+        <div>
+          <img alt="Loading..." src="https://du11hjcvx0uqb.cloudfront.net/dist/images/ajax-loader-bar-71e6988298.gif" />
+        </div>
+      </div>
+      <div class="remaining">
+        <span class="files_remaining">0</span> more to upload
+      </div>
+      
+<a href="#" style="text-align: center display: none;" class="img_link" title="Click to embed image">
+  <div class="img_holder">
+    <img class="img" data-url="" src="" alt="{{ display_name }}" title="Click to embed {{ display_name }}">
+  </div>
+  <div class="display_name">{{ display_name }}</div>
+</a>
+
+    </div>
+    <div class="image_list_holder ">
+      <div class="dragging_message">Drop Images Here to upload</div>
+      <div class="image_list" style="max-height: 300px; overflow: auto;" data-url="/courses/33202/images">
+      </div>
+    </div>
+  </div>
+  <div style="display: none;">
+    <a href="/services?service_type=BookmarkService" class="bookmark_services_url">&nbsp;</a>
+    <a href="/search/bookmarks?q=%7B%7B+query+%7D%7D&amp;service_type=%7B%7B+service_type+%7D%7D" class="bookmark_search_url">&nbsp;</a>
+    <span class="context_code">course_33202</span>
+    <div id="wiki_sidebar_select_folder_dialog">
+      Select a destination folder for these <span class="file_count">&nbsp;</span> files:
+      <div style="margin: 20px;">
+        <select class="folder_id">
+            <option value="1311443">course files</option>
+        </select>
+      </div>
+      <div class="button-container">
+        <button type="button" class="btn select_button">Upload Files to Folder</button>
+        <button type="button" class="btn cancel_button btn button-secondary">Cancel</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+          </aside>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    <div style="display:none;"><!-- Everything inside of this should always stay hidden -->
+    </div>
+    
+<div id="cant_record_dialog" style="display: none;">
+  <div>
+    In order to create video or audio recordings your computer needs to be 
+    webcam-enabled.  If you don&#39;t have a webcam on your computer, you can still
+    record audio-only messages by first installing the Google Video Chat
+    plugin.
+  </div>
+  <div style="text-align: center; font-size: 1.5em; margin: 10px;">
+    <a href="http://www.google.com/chat/video" target="_blank" class="btn">Install the Video Plugin</a>
+  </div>
+  <div class="links" style="text-align: right; font-size: 0.8em; display: none;">
+    <a href="#" class="cant_record_link">Don&#39;t have a webcam?</a>
+  </div>
+</div>
+  <div id='aria_alerts' class='hide-text affix' role="alert" aria-live="assertive"></div>
+  <div id='StudentTray__Container'></div>
+  <script>
+  INST = {"environment":"production","allowMediaComments":true,"kalturaSettings":{"domain":"nv.instructuremedia.com","resource_domain":"nv.instructuremedia.com","rtmp_domain":"fms-prod.instructuremedia.com","partner_id":"9","subpartner_id":"0","player_ui_conf":"0","kcw_ui_conf":"0","upload_ui_conf":"0","max_file_size_bytes":534773760,"do_analytics":false,"hide_rte_button":false,"js_uploader":true},"googleAnalyticsAccount":"UA-9138420-1","disableScribdPreviews":true,"logPageViews":true,"maxVisibleEditorButtons":3,"editorButtons":[{"name":"YouTube","id":18015,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=youtube","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/youtube_icon.png","canvas_icon_class":null,"width":560,"height":600},{"name":"Vimeo","id":18016,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=vimeo","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/vimeo_icon.png","canvas_icon_class":null,"width":560,"height":600},{"name":"DCE Matterhorn Course Recordings","id":19109,"url":"https://dce-mhvideo-lti.herokuapp.com/mhvideo_lti/lti_launch","icon_url":"https://dce-mhvideo-lti.herokuapp.com/static/images/television.png","canvas_icon_class":null,"width":800,"height":400},{"name":"Course Info","id":20525,"url":"https://canvas-course-info.tlt.harvard.edu/course_info/lti_launch","icon_url":"https://canvas-course-info.tlt.harvard.edu/static/images/course-info.png","canvas_icon_class":null,"width":800,"height":400}]};
+  ENV = {"ASSET_HOST":"https://du11hjcvx0uqb.cloudfront.net","active_brand_config":"af37e5be444f4a553c9c812a9a990322","active_brand_config_json_url":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.json","url_to_what_gets_loaded_inside_the_tinymce_editor_css":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/what_gets_loaded_inside_the_tinymce_editor-542d1c188c.css","current_user_id":null,"current_user":{},"current_user_roles":null,"current_user_disabled_inbox":null,"files_domain":"cluster28-files.instructure.com","DOMAIN_ROOT_ACCOUNT_ID":18750000000000001,"k12":false,"help_link_name":"Help","help_link_icon":"help","use_high_contrast":null,"SETTINGS":{"open_registration":false,"eportfolios_enabled":true,"collapse_global_nav":null,"show_feedback_link":true,"enable_profiles":true},"context_asset_string":"course_33202","ping_url":"https://canvas.harvard.edu/api/v1/courses/33202/ping","TIMEZONE":"America/New_York","CONTEXT_TIMEZONE":"America/New_York","LOCALE":"en","BIGEASY_LOCALE":"en_US","FULLCALENDAR_LOCALE":"en","MOMENT_LOCALE":"en","RICH_CONTENT_SERVICE_ENABLED":true,"RICH_CONTENT_APP_HOST":"rich-content-iad.inscloudgate.net","RICH_CONTENT_CDN_HOST":"dvgcns7dz7zc.cloudfront.net/rce_service/versions/","RICH_CONTENT_SIDEBAR_SOURCE":"api","RICH_CONTENT_CAN_UPLOAD_FILES":false,"CONTEXT_ACTION_SOURCE":"syllabus","NEW_USER_TUTORIALS":{"is_enabled":false},"SYLLABUS_PER_PAGE":"100","CAN_READ":false,"SYLLABUS_BODY":"\u003cdiv style=\"margin: auto;\"\u003e\n\u003ctable style=\"width: 100%; background-color: 3498c2;\" title=\"Course Syllabus and Information can be found on this page\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"color: white; text-align: center; background-color: #3498c2;\"\u003e\n\u003ch2\u003e  Course Syllabus \u0026amp; Information\u003c/h2\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003ciframe style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://www.youtube.com/embed/n4sOXfm-8iU?modestbranding=1\u0026amp;rel=0\u0026amp;showinfo=0\u0026amp;\" width=\"300\" height=\"150\" allowfullscreen=\"allowfullscreen\"\u003e\u003c/iframe\u003e\n\u003ch3 style=\"text-align: center;\"\u003e \u003cstrong\u003eStat\u003c/strong\u003e \u003cstrong\u003eE-100:\u003c/strong\u003e\u003cstrong\u003e \u003c/strong\u003e\u003cstrong\u003eIntroduction to Quantitative Methods for the Social Sciences and Humanities\u003c/strong\u003e\u003cbr\u003eTentative Syllabus for Fall Semester 2017\u003c/h3\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003ePlease Note:\u003c/strong\u003e The syllabus is \u003cstrong\u003erequired\u003c/strong\u003e reading for the course. You will be expected to understand the policies and assignments discussed in the syllabus.\u003cstrong\u003e To view the course syllabus as a pdf, click \u003ca href=\"/courses/33202/files/folder/Course%20Syllabus%20and%20Documents?\"\u003ehere\u003c/a\u003e.\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eOverview: \u003c/strong\u003eThis course introduces the basic concepts of data analysis and statistical computing, both increasingly used in the social sciences and the humanities. The emphasis is on the practical application of quantitative reasoning, visualization, and data analysis. The goal is to provide students pragmatic tools for assessing statistical claims and conducting their own basic statistical analyses. Topics covered include basic descriptive measures, measures of association, sampling and sample size estimation, and simple linear regression. Assignments are based on real-world data and problems in a wide range of fields in the social sciences and humanities, including psychology, sociology, education, and public health.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003ch4\u003e\u003cstrong\u003e\u003cu\u003eI. Course Mechanics\u003c/u\u003e\u003c/strong\u003e\u003c/h4\u003e\n\u003cp\u003e\u003cstrong\u003eInstructor\u003c/strong\u003e: Ethan Fosse (Ph.D., Harvard)\u003cbr\u003eOffice Hours: By appointment\u003cbr\u003eEmail: \u003ca href=\"mailto:efosse@princeton.edu\"\u003eefosse@princeton.edu\u003c/a\u003e or \u003ca href=\"mailto:fosse.ethan@gmail.com\"\u003efosse.ethan@gmail.com\u003c/a\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eCourse\u003c/strong\u003e \u003cstrong\u003eLectures:\u003c/strong\u003e Course lectures will be delivered online via weekly modules. New modules will be released on the course website every Thursday at 5pm, starting on Thursday, August 31, 2017. Students will have the week to complete all material at their own pace (abiding by the due dates for assignments).\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWeekly Sections:\u003c/strong\u003e There will be weekly online sections during which teaching assistants will review topics from the lectures, outline additional example problems, and answer questions about the semi-weekly missions. Sections will be scheduled throughout the week for students to attend at their convenience. Although attendance at specific sections is not mandatory, students are strongly encouraged to attend at least one section per week if they have questions about the course material. More details will be available as the semester begins.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eTeaching Assistant Office Hours:\u003c/strong\u003e Each teaching assistant will also hold office hours online. Information can be found \u003ca href=\"/courses/33202/pages/sections-and-office-hours\"\u003ehere\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAssigned Teaching Assistant:\u003c/strong\u003e You will be assigned a teaching assistant for the duration of the course after the semester starts. You may attend any online section (or all sections) that fit your schedule, but your assigned teaching assistant is your first contact for grading concerns, section issues, and questions about the missions or exams.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003ch4\u003e\n\u003cstrong\u003e\u003cu\u003eII. Course Resources\u003c/u\u003e\u003c/strong\u003e \u003c/h4\u003e\n\u003cp\u003e\u003cstrong\u003eCourse Website: \u003c/strong\u003eThe course website will have additional information on the course mechanics, missions, lecture materials, and the teaching staff. Also note that all exams will be taken entirely online and the missions will be submitted entirely through course website. It will be updated as the semester starts. The course website may be accessed here (make sure you log in so you can view the website): \u003ca href=\"/courses/33202/assignments/syllabus\"\u003ehttps://canvas.harvard.edu/courses/33202/assignments/syllabus\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eRequired Textbooks\u003c/strong\u003e: There are two required textbooks for the course, one for learning statistical concepts and another for learning how to use statistical software:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFor learning \u003cstrong\u003estatistical concepts\u003c/strong\u003e, the required textbook is \u003cem\u003eOpenIntro Statistics, 3\u003csup\u003erd\u003c/sup\u003e Edition\u003c/em\u003e by David M. Dietz, Christopher D. Barr, and Mine Cetinkaya-Rundel published in 2015. It is available online for \u003cstrong\u003efree\u003c/strong\u003e as a pdf or for less than $10 from Amazon: \u003ca href=\"https://www.openintro.org/stat/textbook.php?stat_book=os\"\u003ehttps://www.openintro.org/stat/textbook.php?stat_book=os\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cul\u003e\n\u003cli\u003eFor learning \u003cstrong\u003estatistical software\u003c/strong\u003e, the required textbook is \u003cem\u003eA Student’s Guide to R\u003c/em\u003e by Nicholas J. Horton, Daniel T. Kaplan, and Randall Pruim. It is available on the course website for \u003cstrong\u003efree\u003c/strong\u003e as a pdf or online via this link: \u003ca href=\"https://cran.r-project.org/doc/contrib/Horton+Pruim+Kaplan_MOSAIC-StudentGuide.pdf\"\u003ehttps://cran.r-project.org/doc/contrib/Horton+Pruim+Kaplan_MOSAIC-StudentGuide.pdf\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003eStatistical Software: \u003c/strong\u003eThis course is focused primarily on helping you learn basic statistical concepts. However, learning statistical concepts is generally aided by analyzing data using statistical software. Because of its popularity and applicability, this course will focus on using R with RStudio. R is the underlying programming language, while RStudio is a graphical user interface that makes working with R much easier. Both are free, open-source, and used widely by statisticians. To install R with RStudio, go to the following link and click on the installer for your computer’s operational system: \u003ca href=\"https://www.rstudio.com/products/rstudio/download/\"\u003ehttps://www.rstudio.com/products/rstudio/download/\u003c/a\u003e More information about installing R will be available in the Orientation module on the course website at the start of the semester.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003ch4\u003e\u003cstrong\u003e\u003cu\u003eIII. Grading and Course Requirements\u003c/u\u003e\u003c/strong\u003e\u003c/h4\u003e\n\u003cp\u003eFor all students, your grade will be based on the following:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eParticipation in \u003cstrong\u003emodule questions\u003c/strong\u003e that will count for \u003cstrong\u003e10%\u003c/strong\u003e of your grade\u003c/li\u003e\n\u003cli\u003eRegularly-assigned\u003cstrong\u003e missions\u003c/strong\u003e that will count for \u003cstrong\u003e20%\u003c/strong\u003e of your grade\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eTwo\u003c/strong\u003e \u003cstrong\u003eonline exams\u003c/strong\u003e that will count for \u003cstrong\u003e40%\u003c/strong\u003e of your grade\u003c/li\u003e\n\u003cli\u003eA \u003cstrong\u003efinal project \u003c/strong\u003ethat will count for \u003cstrong\u003e30% \u003c/strong\u003eof your grade\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003eModule Questions (10%):\u003c/strong\u003e Accompanying each week’s lectures are a set of module questions to test your understanding of the material. You will \u003cstrong\u003enot\u003c/strong\u003e be evaluated on whether or not you obtain the right answer on these questions, only that you answered them. If you answer all of the questions, then you will obtain a full participation grade.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eMissions (20%):\u003c/strong\u003e Missions are assigned and submitted online through the course website. Each mission focuses on a particular set of questions around a particular topic or theme. Details on the missions will be published on the course website as the semester starts. Late missions are not accepted for any reason. Working with other students on the missions is allowed and encouraged but only as long as you hand in your \u003cstrong\u003eown work\u003c/strong\u003e and do not simply copy the work of someone else. For the missions you will be graded on whether or not you have given the correct answer for each question.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eOnline Examinations (40%)\u003c/strong\u003e: There will be \u003cstrong\u003etwo \u003c/strong\u003eexams during the course, each worth 20% of your overall grade. Each exam will last 2 hours and will be \u003cstrong\u003eoffered online\u003c/strong\u003e on the course website during a specified time period over several days. You will not need a proctor to take the online exams. Each exam will consist of three parts: first, a set of multiple choice questions; second, a set of questions in which you will be asked to enter a numerical answer; and third, a small set of questions\u003cspan\u003e that require you to critically evaluate the interpretation of statistical analyses\u003c/span\u003e. The exams are “open book” in that you can use any textbook, notes, missions, or lecture slides to help you answer the questions. \u003cstrong\u003eThe exams are designed to test your knowledge of basic statistical concepts, not your ability to use R\u003c/strong\u003e. To the extent R will be tested, you will only be asked to interpret standard statistical output in the form of tables and graphs.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cstrong\u003eExam 1\u003c/strong\u003e: Released at 5pm Eastern Standard Time (EST) on Thursday October 19. Due at 11:59pm EST on Sunday October 22.\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eExam 2\u003c/strong\u003e: Released at 5pm Eastern Standard Time (EST) on Thursday December 14. Due at 11:59pm EST on Sunday December 17.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003eFinal Project (30%)\u003c/strong\u003e: Both undergraduate and graduate students are expected to conduct a final project, with differing requirements:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFor \u003cstrong\u003eundergraduate students\u003c/strong\u003e, the final project is a short paper (\u003cstrong\u003eno more than 5 pages\u003c/strong\u003e) in which you analyze a dataset using one of the methods discussed in the course. Students are expected to use one of the datasets used during the course, although you may use another dataset if desired. The final project will be submitted online through the course website. \u003c/li\u003e\n\u003c/ul\u003e\n\u003cul\u003e\n\u003cli\u003eFor \u003cstrong\u003egraduate students\u003c/strong\u003e, the final project will consist of a paper (\u003cstrong\u003eno more than 10 pages\u003c/strong\u003e) describing the analysis of a dataset using one the methods discussed in the course. You may use one of the datasets used in the course or another dataset. The final project will be submitted online through the course website. \u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003ch4\u003e\u003cstrong\u003e\u003cu\u003eIV. Tentative Course Schedule\u003c/u\u003e\u003c/strong\u003e\u003c/h4\u003e\n\u003cp\u003eThe tentative course schedule is given below. It is subject to change as the semester begins. The due dates for missions, assigned textbook readings, and lecture topics are subject to change. In the table below, \u003cstrong\u003eOI\u003c/strong\u003e refers to the \u003cem\u003eOpenIntro Statistics\u003c/em\u003e while \u003cstrong\u003eSG\u003c/strong\u003e refers to the \u003cem\u003eStudent’s Guide to R\u003c/em\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003ctable width=\"0\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd width=\"222\"\u003e\n\u003cp\u003e\u003cstrong\u003eDate\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"252\"\u003e\n\u003cp\u003e\u003cstrong\u003eLecture\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"143\"\u003e\n\u003cp\u003e\u003cstrong\u003eReadings \u0026amp;  Due Dates\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"78\"\u003e\n\u003cp\u003e8/31/17\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"222\"\u003e\n\u003cp\u003eIntroduction to Data\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"252\"\u003e\n\u003cp\u003e\u003cstrong\u003eOI\u003c/strong\u003e: Ch. 1: Pp. 7-13, 15-20\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSG\u003c/strong\u003e: Pp. 5-7, 11-12; Ch. 1: Pp. 13-14; Ch. 2: Pp. 15-16, 20-25\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"143\"\u003e\n\u003cp\u003eNone\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"78\"\u003e\n\u003cp\u003e9/7/17\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"222\"\u003e\n\u003cp\u003eCategorical Data\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"252\"\u003e\n\u003cp\u003e\u003cstrong\u003eOI\u003c/strong\u003e: Ch. 1: Pp. 43-48\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSG\u003c/strong\u003e: Ch. 4: Pg. 39 only; Ch. 6: Pp. 55, 57   \u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"143\"\u003e\n\u003cp\u003eNone\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"78\"\u003e\n\u003cp\u003e9/14/17\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"222\"\u003e\n\u003cp\u003eNumerical Data\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"252\"\u003e\n\u003cp\u003e\u003cstrong\u003eOI\u003c/strong\u003e: Ch. 1: Pp. 28-37\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSG\u003c/strong\u003e: Ch. 3: Pp. 27-34\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"143\"\u003e\n\u003cp\u003eMission #1\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"78\"\u003e\n\u003cp\u003e9/21/17\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"222\"\u003e\n\u003cp\u003eProbability Tables and Relative Risk\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"252\"\u003e\n\u003cp\u003e\u003cstrong\u003eOI\u003c/strong\u003e: Ch. 2: Pp. 76-101\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSG\u003c/strong\u003e: Re-read Ch. 6: Pp. 55, 57\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"143\"\u003e\n\u003cp\u003eMission #2\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"78\"\u003e\n\u003cp\u003e9/28/17\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"222\"\u003e\n\u003cp\u003eCorrelation Analysis\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"252\"\u003e\n\u003cp\u003e\u003cstrong\u003eOI\u003c/strong\u003e: Ch. 1: Pp. 26-27; Ch. 7: Pp. 338-339\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSG\u003c/strong\u003e: Ch. 5: Pp. 45-46\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"143\"\u003e\n\u003cp\u003eMission #3\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"78\"\u003e\n\u003cp\u003e10/5/17\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"222\"\u003e\n\u003cp\u003eSimple Linear Regression\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"252\"\u003e\n\u003cp\u003e\u003cstrong\u003eOI\u003c/strong\u003e: Ch. 7: Pp. 331-338, 340-348\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSG\u003c/strong\u003e: Ch. 5: Pp. 47-48\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"143\"\u003e\n\u003cp\u003eMission #4\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"78\"\u003e\n\u003cp\u003e10/12/17\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"222\"\u003e\n\u003cp\u003eBasics of Sampling\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"252\"\u003e\n\u003cp\u003e\u003cstrong\u003eOI\u003c/strong\u003e: Ch.1: Pp. 20-23; Ch. 3: Pp. 127-141; Ch. 4: Pp. 168-174\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSG\u003c/strong\u003e: Ch. 3: Pg. 35\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"143\"\u003e\n\u003cp\u003eMission #5\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"78\"\u003e\n\u003cp\u003e10/19/17\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"222\"\u003e\n\u003cp\u003e\u003cstrong\u003eExam 1\u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"252\"\u003e\n\u003cp\u003eNone\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"143\"\u003e\n\u003cp\u003eNone\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"78\"\u003e\n\u003cp\u003e10/26/17\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"222\"\u003e\n\u003cp\u003eSampling Distribution\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"252\"\u003e\n\u003cp\u003e\u003cstrong\u003eOI\u003c/strong\u003e: Ch. 4: Pp. 175-197\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSG\u003c/strong\u003e: None\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"143\"\u003e\n\u003cp\u003eNone\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"78\"\u003e\n\u003cp\u003e11/2/17\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"222\"\u003e\n\u003cp\u003eTests for Means\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"252\"\u003e\n\u003cp\u003e\u003cstrong\u003eOI\u003c/strong\u003e: Ch.5: Pp. 219-239\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSG\u003c/strong\u003e: Ch. 3, Pp. 36-37\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"143\"\u003e\n\u003cp\u003eMission #6\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"78\"\u003e\n\u003cp\u003e11/9/17\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"222\"\u003e\n\u003cp\u003eTests for Proportions\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"252\"\u003e\n\u003cp\u003e\u003cstrong\u003eOI\u003c/strong\u003e: Ch. 6: Pp. 274-286\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSG\u003c/strong\u003e: Ch. 4: Pp. 41-42\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"143\"\u003e\n\u003cp\u003eMission #7\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"78\"\u003e\n\u003cp\u003e11/16/17\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"222\"\u003e\n\u003cp\u003eTests for Contingency Tables\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"252\"\u003e\n\u003cp\u003e\u003cstrong\u003eOI\u003c/strong\u003e: Ch. 6: Pp. 297-302\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSG\u003c/strong\u003e: Ch. 4: Pp. 42-44; Ch. 10: Pp. 75-76\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"143\"\u003e\n\u003cp\u003eMission #8\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"78\"\u003e\n\u003cp\u003e11/23/17\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"222\"\u003e\n\u003cp\u003eThanksgiving Break\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"252\"\u003e\n\u003cp\u003eNone\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"143\"\u003e\n\u003cp\u003eNone\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"78\"\u003e\n\u003cp\u003e11/30/17\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"222\"\u003e\n\u003cp\u003eInferences for Correlation and Simple Linear Regression\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"252\"\u003e\n\u003cp\u003e\u003cstrong\u003eOI\u003c/strong\u003e: Ch. 7: Pp. 351-355\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSG\u003c/strong\u003e: Re-read Ch. 5: Pp. 47-48\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"143\"\u003e\n\u003cp\u003eMission #9\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"78\"\u003e\n\u003cp\u003e12/7/17\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"222\"\u003e\n\u003cp\u003eCourse Review\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"252\"\u003e\n\u003cp\u003eNone\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"143\"\u003e\n\u003cp\u003eFinal Project\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd width=\"78\"\u003e\n\u003cp\u003e12/14/17\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"222\"\u003e\u003cstrong\u003eExam 2\u003c/strong\u003e\u003c/td\u003e\n\u003ctd width=\"252\"\u003e\n\u003cp\u003eNone\u003c/p\u003e\n\u003c/td\u003e\n\u003ctd width=\"143\"\u003e\n\u003cp\u003eNone\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cbr\u003e\n\u003ch4\u003e\u003cstrong\u003e\u003cu\u003eV. Other Course Policies\u003c/u\u003e\u003c/strong\u003e\u003c/h4\u003e\n\u003cp\u003e\u003cstrong\u003eCollaboration:\u003c/strong\u003e You may discuss the missions with other students, but you must give the final answer yourself. Solutions prepared by copying or paraphrasing someone else’s work are not acceptable. All computer output you submit must come from work that you have done yourself.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAcademic Integrity:\u003c/strong\u003e Harvard University expects students to understand and maintain high standards of academic integrity. Breaches of academic integrity are subject to review and may be grounds for disciplinary action. Please review the examples of violations of academic integrity at the following link: \u003ca href=\"https://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity\"\u003ehttps://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity\u003c/a\u003e\u003c/p\u003e\n\u003c/div\u003e\n\u003cdiv style=\"margin: auto;\"\u003e\n\u003ctable style=\"width: 100%; background-color: 3498c2;\" title=\"Course Syllabus and Information can be found on this page\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"color: white; text-align: center; background-color: #3498c2;\"\u003e\n\u003ch2\u003e  Course Syllabus \u0026amp; Information\u003c/h2\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003ciframe style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://www.youtube.com/embed/n4sOXfm-8iU?modestbranding=1\u0026amp;rel=0\u0026amp;showinfo=0\u0026amp;\" width=\"300\" height=\"150\" allowfullscreen=\"allowfullscreen\"\u003e\u003c/iframe\u003e\n\u003ch3 style=\"text-align: center;\"\u003e \u003cstrong\u003eStat\u003c/strong\u003e \u003cstrong\u003eE-100:\u003c/strong\u003e\u003cstrong\u003e \u003c/strong\u003e\u003cstrong\u003eIntroduction to Quantitative Methods for the Social Sciences and Humanities\u003c/strong\u003e\u003cbr\u003eTentative Syllabus for Fall Semester 2017\u003c/h3\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003ePlease Note:\u003c/strong\u003e The syllabus is \u003cstrong\u003erequired\u003c/strong\u003e reading for the course. You will be expected to understand the policies and assignments discussed in the syllabus.\u003cstrong\u003e To view the course syllabus as a pdf, click \u003ca href=\"/courses/33202/files/folder/Course%20Syllabus%20and%20Documents?\"\u003ehere\u003c/a\u003e.\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eOverview: \u003c/strong\u003eThis course introduces the basic concepts of data analysis and statistical computing, both increasingly used in the social sciences and the humanities. The emphasis is on the practical application of quantitative reasoning, visualization, and data analysis. The goal is to provide students pragmatic tools for assessing statistical claims and conducting their own basic statistical analyses. Topics covered include basic descriptive measures, measures of association, sampling and sample size estimation, and simple linear regression. Assignments are based on real-world data and problems in a wide range of fields in the social sciences and humanities, including psychology, sociology, education, and public health.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003ch4\u003e\u003cstrong\u003e\u003cu\u003eI. Course Mechanics\u003c/u\u003e\u003c/strong\u003e\u003c/h4\u003e\n\u003cp\u003e\u003cstrong\u003eInstructor\u003c/strong\u003e: Ethan Fosse (Ph.D., Harvard)\u003cbr\u003eOffice Hours: To be determined\u003cbr\u003eEmail: \u003ca href=\"mailto:efosse@princeton.edu\"\u003eefosse@princeton.edu\u003c/a\u003e or \u003ca href=\"mailto:fosse.ethan@gmail.com\"\u003efosse.ethan@gmail.com\u003c/a\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eCourse\u003c/strong\u003e \u003cstrong\u003eLectures:\u003c/strong\u003e Course lectures will be delivered online via weekly modules. New modules will be released on the course website every Thursday at 5pm, starting on Thursday, August 31, 2017. Students will have the week to complete all material at their own pace (abiding by the due dates for assignments).\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWeekly Sections:\u003c/strong\u003e There will be weekly online sections during which teaching assistants will review topics from the lectures, outline additional example problems, and answer questions about the semi-weekly missions. Sections will be scheduled throughout the week for students to attend at their convenience. Although attendance at specific sections is not mandatory, students are strongly encouraged to attend at least one section per week if they have questions about the course material. More details will be available as the semester begins.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eTeaching Assistant Office Hours:\u003c/strong\u003e Each teaching assistant will also hold office hours online. Information can be found \u003ca href=\"/courses/33202/pages/sections-and-office-hours\"\u003ehere\u003c/a\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAssigned Teaching Assistant:\u003c/strong\u003e You will be assigned a teaching assistant for the duration of the course after the semester starts. You may attend any online section (or all sections) that fit your schedule, but your assigned teaching assistant is your first contact for grading concerns, section issues, and questions about the missions or exams.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003ch4\u003e\n\u003cstrong\u003e\u003cu\u003eII. Course Resources\u003c/u\u003e\u003c/strong\u003e \u003c/h4\u003e\n\u003cp\u003e\u003cstrong\u003eCourse Website: \u003c/strong\u003eThe course website will have additional information on the course mechanics, missions, lecture materials, and the teaching staff. Also note that all exams will be taken entirely online and the missions will be submitted entirely through course website. It will be updated as the semester starts. The course website may be accessed here (make sure you log in so you can view the website): \u003ca href=\"/courses/33202/assignments/syllabus\"\u003ehttps://canvas.harvard.edu/courses/33202/assignments/syllabus\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eRequired Textbooks\u003c/strong\u003e: There are two required textbooks for the course, one for learning statistical concepts and another for learning how to use statistical software:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFor learning \u003cstrong\u003estatistical concepts\u003c/strong\u003e, the required textbook is \u003cem\u003eOpenIntro Statistics, 3\u003csup\u003erd\u003c/sup\u003e Edition\u003c/em\u003e by David M. Dietz, Christopher D. Barr, and Mine Cetinkaya-Rundel published in 2015. It is available online for \u003cstrong\u003efree\u003c/strong\u003e as a pdf or for less than $10 from Amazon: \u003ca href=\"https://www.openintro.org/stat/textbook.php?stat_book=os\"\u003ehttps://www.openintro.org/stat/textbook.php?stat_book=os\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cul\u003e\n\u003cli\u003eFor learning \u003cstrong\u003estatistical software\u003c/strong\u003e, the required textbook is \u003cem\u003eA Student’s Guide to R\u003c/em\u003e by Nicholas J. Horton, Daniel T. Kaplan, and Randall Pruim. It is available on the course website for \u003cstrong\u003efree\u003c/strong\u003e as a pdf or online via this link: \u003ca href=\"https://cran.r-project.org/doc/contrib/Horton+Pruim+Kaplan_MOSAIC-StudentGuide.pdf\"\u003ehttps://cran.r-project.org/doc/contrib/Horton+Pruim+Kaplan_MOSAIC-StudentGuide.pdf\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003eStatistical Software: \u003c/strong\u003eThis course is focused primarily on helping you learn basic statistical concepts. However, learning statistical concepts is generally aided by analyzing data using statistical software. Because of its popularity and applicability, this course will focus on using R with RStudio. R is the underlying programming language, while RStudio is a graphical user interface that makes working with R much easier. Both are free, open-source, and used widely by statisticians. To install R with RStudio, go to the following link and click on the installer for your computer’s operational system: \u003ca href=\"https://www.rstudio.com/products/rstudio/download/\"\u003ehttps://www.rstudio.com/products/rstudio/download/\u003c/a\u003e More information about installing R will be available in the Orientation module on the course website at the start of the semester.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003ch4\u003e\u003cstrong\u003e\u003cu\u003eIII. Grading and Course Requirements\u003c/u\u003e\u003c/strong\u003e\u003c/h4\u003e\n\u003cp\u003eFor all students, your grade will be based on the following:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eParticipation in \u003cstrong\u003emodule questions\u003c/strong\u003e that will count for \u003cstrong\u003e10%\u003c/strong\u003e of your grade\u003c/li\u003e\n\u003cli\u003eRegularly-assigned\u003cstrong\u003e missions\u003c/strong\u003e that will count for \u003cstrong\u003e20%\u003c/strong\u003e of your grade\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eTwo\u003c/strong\u003e \u003cstrong\u003eonline exams\u003c/strong\u003e that will count for \u003cstrong\u003e40%\u003c/strong\u003e of your grade\u003c/li\u003e\n\u003cli\u003eA \u003cstrong\u003efinal project \u003c/strong\u003ethat will count for \u003cstrong\u003e30% \u003c/strong\u003eof your grade\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003eModule Questions (10%):\u003c/strong\u003e Accompanying each week’s lectures are a set of module questions to test your understanding of the material. You will \u003cstrong\u003enot\u003c/strong\u003e be evaluated on whether or not you obtain the right answer on these questions, only that you answered them. If you answer all of the questions, then you will obtain a full participation grade.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eMissions (20%):\u003c/strong\u003e Missions are assigned and submitted online through the course website. Each mission focuses on a particular set of questions around a particular topic or theme. Details on the missions will be published on the course website as the semester starts. Late missions are not accepted for any reason. Working with other students on the missions is allowed and encouraged but only as long as you hand in your \u003cstrong\u003eown work\u003c/strong\u003e and do not simply copy the work of someone else. For the missions you will be graded on whether or not you have given the correct answer for each question.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eOnline Examinations (40%)\u003c/strong\u003e: There will be \u003cstrong\u003etwo \u003c/strong\u003eexams during the course, each worth 20% of your overall grade. Each exam will last 2 hours and will be \u003cstrong\u003eoffered online\u003c/strong\u003e on the course website during a specified time period over several days. You will not need a proctor to take the online exams. Each exam will consist of three parts: first, a set of multiple choice questions; second, a set of questions in which you will be asked to enter a numerical answer; and third, a small set of questions\u003cspan\u003e that require you to critically evaluate the interpretation of statistical analyses\u003c/span\u003e. The exams are “open book” in that you can use any textbook, notes, missions, or lecture slides to help you answer the questions. \u003cstrong\u003eThe exams are designed to test your knowledge of basic statistical concepts, not your ability to use R\u003c/strong\u003e. To the extent R will be tested, you will only be asked to interpret standard statistical output in the form of tables and graphs.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cstrong\u003eExam 1\u003c/strong\u003e: Released at 5pm Eastern Standard Time (EST) on Thursday October 19. Due at 11:59pm EST on Sunday October 22.\u003c/li\u003e\n\u003cli\u003e\n\u003cstrong\u003eExam 2\u003c/strong\u003e: Released at 5pm Eastern Standard Time (EST) on Thursday December 14. Due at 11:59pm EST on Sunday December 17.\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e\u003cstrong\u003eFinal Project (30%)\u003c/strong\u003e: Both undergraduate and graduate students are expected to conduct a final project, with differing requirements:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eFor \u003cstrong\u003eundergraduate students\u003c/strong\u003e, the final project is a short paper (\u003cstrong\u003eno more than 5 pages\u003c/strong\u003e) in which you analyze a dataset using one of the methods discussed in the course. Students are expected to use one of the datasets used during the course, although you may use another dataset if desired. The final project will be submitted online through the course website. \u003c/li\u003e\n\u003c/ul\u003e\n\u003cul\u003e\n\u003cli\u003eFor \u003cstrong\u003egraduate students\u003c/strong\u003e, the final project will consist of a paper (\u003cstrong\u003eno more than 10 pages\u003c/strong\u003e) describing the analysis of a dataset using one the methods discussed in the course. You may use one of the datasets used in the course or another dataset. The final project will be submitted online through the course website. \u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003ch4\u003e\u003cstrong\u003e\u003cu\u003eIV. Tentative Course Schedule\u003c/u\u003e\u003c/strong\u003e\u003c/h4\u003e\n\u003cp\u003eThe tentative course schedule is given below. It is subject to change as the semester begins. The due dates for missions, assigned textbook readings, and lecture topics are subject to change. In the table below, \u003cstrong\u003eOI\u003c/strong\u003e refers to the \u003cem\u003eOpenIntro Statistics\u003c/em\u003e while \u003cstrong\u003eSG\u003c/strong\u003e refers to the \u003cem\u003eStudent’s Guide to R\u003c/em\u003e.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eDate\u003c/strong\u003e\u003c/p\u003e\n\u003cstrong\u003eAssignment Due\u003c/strong\u003e\u003cbr\u003e\n\u003ch4\u003e\u003cstrong\u003e\u003cu\u003eV. Other Course Policies\u003c/u\u003e\u003c/strong\u003e\u003c/h4\u003e\n\u003cp\u003e\u003cstrong\u003eCollaboration:\u003c/strong\u003e You may discuss the missions with other students, but you must give the final answer yourself. Solutions prepared by copying or paraphrasing someone else’s work are not acceptable. All computer output you submit must come from work that you have done yourself.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAcademic Integrity:\u003c/strong\u003e Harvard University expects students to understand and maintain high standards of academic integrity. Breaches of academic integrity are subject to review and may be grounds for disciplinary action. Please review the examples of violations of academic integrity at the following link: \u003ca href=\"https://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity\"\u003ehttps://www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity\u003c/a\u003e\u003c/p\u003e\n\u003c/div\u003e","notices":[]};
+</script>
+
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/navigation_header.bundle-9669f80a51.js" defer="defer"></script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/4225508/global.min.js" defer="defer"></script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/3751539/EXPGlobal.js" defer="defer"></script>
+
+</div> <!-- #application -->
+</body>
+</html>

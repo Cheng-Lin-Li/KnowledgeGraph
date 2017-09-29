@@ -1,0 +1,1220 @@
+
+
+<!DOCTYPE html>
+<html class="scripts-not-loaded" lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Syllabus for Literary Theory in Comparison: An Introduction</title>
+  <!--[if lte IE 9]> <meta http-equiv=refresh content="0; URL=/ie-9-is-not-supported.html" /> <![endif]-->
+  <link rel="shortcut icon" type="image/x-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/favicon-e10d657a73.ico" />
+  <link rel="apple-touch-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/apple-touch-icon-585e5d997d.png" />
+  
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.css" />
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/common-de9877d2f0.css" />
+  <script>
+//<![CDATA[
+
+!function(){
+  var o,s,v;
+  if (!(window.Promise && Object.assign && Object.values && [].find && [].includes && (o={},s=Symbol(),v={},o[s]=v,o[s]===v) && (function f(){}).bind().name==='bound f')) {
+    s = 's', document.write('<'+s+'cr'+'ipt src="https://du11hjcvx0uqb.cloudfront.net/dist/ie11-polyfill-64b21f7f37.js"></'+s+'c'+'ript>');
+  }
+}();
+      
+//]]>
+</script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/lato-fontfaceobserver-11a14bc0b6.js" async="async"></script>
+  
+  <meta name="apple-itunes-app" content="app-id=480883488" />
+<link rel="manifest" href="/web-app-manifest/manifest.json" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#008EE2">
+  <link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/tinymce-29f8b0a23f.css" />
+<link rel="stylesheet" media="all" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/syllabus-2f51f24f19.css" />
+  
+  <link rel="stylesheet" media="all" href="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/4225502/global.min.css" />
+  <script>
+    function _earlyClick(e){
+      var c = e.target
+      while (c && c.ownerDocument) {
+        if (c.getAttribute('href') == '#' || c.getAttribute('data-method')) {
+          e.preventDefault()
+          (_earlyClick.clicks = _earlyClick.clicks || []).push(c)
+          break
+        }
+        c = c.parentNode
+      }
+    }
+    document.addEventListener('click', _earlyClick)
+  </script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.js" defer="defer"></script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/vendor.bundle-2585fc489b.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/New_York-c3226761e3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/en_US-80a0ce259b.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/appBootstrap.bundle-43015c2be3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/common.bundle-07f53473d3.js" defer="defer"></script>
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/syllabus.bundle-8eb56aaa04.js" defer="defer"></script>
+</head>
+
+<body class="with-left-side course-menu-expanded with-right-side syllabus primary-nav-expanded context-course_33853">
+
+<noscript>
+  <div role="alert" class="ic-flash-static ic-flash-error">
+    <div class="ic-flash__icon" aria-hidden="true">
+      <i class="icon-warning"></i>
+    </div>
+    <h1>You need to have JavaScript enabled in order to access this site.</h1>
+  </div>
+</noscript>
+
+
+
+
+
+<ul id="flash_message_holder"></ul>
+<div id="flash_screenreader_holder"></div>
+
+<div id="application" class="ic-app">
+  
+  <header id="header" class="ic-app-header no-print no-user">
+    <a href="#content" id="skip_navigation_link">Skip To Content</a>
+      <div role="region" class="ic-app-header__main-navigation" aria-label="Main Navigation">
+        <div class="ic-app-header__logomark-container">
+          <a href="https://canvas.harvard.edu/" class="ic-app-header__logomark">
+            <span class="screenreader-only">Dashboard</span>
+          </a>
+        </div>
+        <ul id="menu" class="ic-app-header__menu-list">
+            <li class="menu-item ic-app-header__menu-list-item">
+              <a id="global_nav_login_link" href="/login" class="ic-app-header__menu-list-link">
+                <div class="menu-item-icon-container" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--login" version="1.1" x="0" y="0" viewBox="241 -241 512 512" enable-background="new 241 -241 512 512" xml:space="preserve"><path d="M743.9 5.9l-35.7-35.7H492.9c-6.5-16.2-17.3-32-31.7-46.4 -50.4-50.4-132-50.4-182.4 0s-50.4 132.1 0 182.5 132 50.4 182.4 0c11.8-11.8 20.6-25.9 27-41.8H547L570.6 88l22.8-22.8L616.2 88 639 65.2 661.8 88l24.1-24.1 15.6-1.5 4.6-0.5L753 15 743.9 5.9 743.9 5.9zM694.4 37.1l-15.6 1.5 -4.6 0.5 -12.4 12.4 -12.9-12.9h-19.8l-12.9 12.9 -12.9-12.9h-19.8l-12.9 12.9 -12.9-12.9h-87.6l-2.9 8.8c-5.3 16-13.2 29.5-24.2 40.6 -40.3 40.3-105.6 40.3-145.9 0s-40.3-105.7 0-146 105.6-40.3 145.9 0c14.3 14.3 24.4 29.8 28.6 44.6l2.7 9.4h223.3l19 19L694.4 37.1 694.4 37.1zM322.3-16.2c-17.5 17.5-17.5 46 0 63.5 17.5 17.5 46 17.5 63.5 0 17.5-17.5 17.5-46 0-63.5C368.2-33.8 339.8-33.8 322.3-16.2L322.3-16.2zM367.6 29.1c-7.5 7.5-19.7 7.5-27.2 0 -7.5-7.5-7.5-19.7 0-27.2s19.7-7.5 27.2 0S375.2 21.6 367.6 29.1L367.6 29.1z"/></svg>
+
+                </div>
+                <div class="menu-item__text">
+                  Login
+                </div>
+              </a>
+            </li>
+          <li class="ic-app-header__menu-list-item ">
+            <a id="global_nav_dashboard_link" href="https://canvas.harvard.edu/" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--dashboard" version="1.1" x="0" y="0" viewBox="0 0 280 200" enable-background="new 0 0 280 200" xml:space="preserve"><path d="M273.09,180.75H197.47V164.47h62.62A122.16,122.16,0,1,0,17.85,142a124,124,0,0,0,2,22.51H90.18v16.29H6.89l-1.5-6.22A138.51,138.51,0,0,1,1.57,142C1.57,65.64,63.67,3.53,140,3.53S278.43,65.64,278.43,142a137.67,137.67,0,0,1-3.84,32.57ZM66.49,87.63,50.24,71.38,61.75,59.86,78,76.12Zm147,0L202,76.12l16.25-16.25,11.51,11.51ZM131.85,53.82v-23h16.29v23Zm15.63,142.3a31.71,31.71,0,0,1-28-16.81c-6.4-12.08-15.73-72.29-17.54-84.25a8.15,8.15,0,0,1,13.58-7.2c8.88,8.21,53.48,49.72,59.88,61.81a31.61,31.61,0,0,1-27.9,46.45ZM121.81,116.2c4.17,24.56,9.23,50.21,12,55.49A15.35,15.35,0,1,0,161,157.3C158.18,152,139.79,133.44,121.81,116.2Z" /></svg>
+
+              </div>
+              <div class="menu-item__text">Dashboard</div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ic-app-header__menu-list-item--active">
+            <a id="global_nav_courses_link" href="/courses" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--courses" version="1.1" x="0" y="0" viewBox="0 0 280 259" enable-background="new 0 0 280 259" xml:space="preserve"><path d="M73.31,198c-11.93,0-22.22,8-24,18.73a26.67,26.67,0,0,0-.3,3.63v.3a22,22,0,0,0,5.44,14.65,22.47,22.47,0,0,0,17.22,8H200V228.19h-134V213.08H200V198Zm21-105.74h90.64V62H94.3ZM79.19,107.34V46.92H200v60.42Zm7.55,30.21V122.45H192.49v15.11ZM71.65,16.71A22.72,22.72,0,0,0,49,39.36V190.88a41.12,41.12,0,0,1,24.32-8h157V16.71ZM33.88,39.36A37.78,37.78,0,0,1,71.65,1.6H245.36V198H215.15v45.32h22.66V258.4H71.65a37.85,37.85,0,0,1-37.76-37.76Z"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Courses
+              </div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_calendar_link" href="/calendar" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--calendar" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M197.07,213.38h16.31V197.07H197.07Zm-16.31,16.31V180.76h48.92v48.92Zm-48.92-16.31h16.31V197.07H131.85Zm-16.31,16.31V180.76h48.92v48.92ZM66.62,213.38H82.93V197.07H66.62ZM50.32,229.68V180.76H99.24v48.92Zm146.75-81.53h16.31V131.85H197.07Zm-16.31,16.31V115.54h48.92v48.92Zm-48.92-16.31h16.31V131.85H131.85Zm-16.31,16.31V115.54h48.92v48.92ZM66.62,148.15H82.93V131.85H66.62ZM50.32,164.46V115.54H99.24v48.92ZM34,262.29H246V82.93H34ZM246,66.62V42.16A8.17,8.17,0,0,0,237.84,34H213.38v8.15a8.15,8.15,0,1,1-16.31,0V34H82.93v8.15a8.15,8.15,0,0,1-16.31,0V34H42.16A8.17,8.17,0,0,0,34,42.16V66.62Zm-8.15-48.92a24.49,24.49,0,0,1,24.46,24.46V278.6H17.71V42.16A24.49,24.49,0,0,1,42.16,17.71H66.62V9.55a8.15,8.15,0,0,1,16.31,0v8.15H197.07V9.55a8.15,8.15,0,1,1,16.31,0v8.15Z"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Calendar
+              </div>
+            </a>
+          </li>
+          <li class="menu-item ic-app-header__menu-list-item ">
+            <a id="global_nav_conversations_link" href="/conversations" class="ic-app-header__menu-list-link">
+              <div class="menu-item-icon-container" aria-hidden="true">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--inbox" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M91.72,120.75h96.56V104.65H91.72Zm0,48.28h80.47V152.94H91.72Zm0-96.56h80.47V56.37H91.72Zm160.94,34.88H228.52V10.78h-177v96.56H27.34A24.17,24.17,0,0,0,3.2,131.48V244.14a24.17,24.17,0,0,0,24.14,24.14H252.66a24.17,24.17,0,0,0,24.14-24.14V131.48A24.17,24.17,0,0,0,252.66,107.34Zm0,16.09a8.06,8.06,0,0,1,8,8v51.77l-32.19,19.31V123.44ZM67.58,203.91v-177H212.42v177ZM27.34,123.44H51.48v79.13L19.29,183.26V131.48A8.06,8.06,0,0,1,27.34,123.44ZM252.66,252.19H27.34a8.06,8.06,0,0,1-8-8V202l30,18H230.75l30-18v42.12A8.06,8.06,0,0,1,252.66,252.19Z"/></svg>
+
+                <span class="menu-item__badge" style="display: none">0</span>
+              </div>
+              <div class="menu-item__text">
+                Inbox
+              </div>
+            </a>
+          </li>
+          <li class="ic-app-header__menu-list-item">
+           <a id="global_nav_help_link" class="ic-app-header__menu-list-link" data-track-category="help system" data-track-label="help button" href="http://help.instructure.com/">
+              <div class="menu-item-icon-container" role="presentation">
+                <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg menu-item__icon svg-icon-help" version="1.1" x="0" y="0" viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve" fill="currentColor"><path d="M100,127.88A11.15,11.15,0,1,0,111.16,139,11.16,11.16,0,0,0,100,127.88Zm8.82-88.08a33.19,33.19,0,0,1,23.5,23.5,33.54,33.54,0,0,1-24,41.23,3.4,3.4,0,0,0-2.74,3.15v9.06H94.42v-9.06a14.57,14.57,0,0,1,11.13-14,22.43,22.43,0,0,0,13.66-10.27,22.73,22.73,0,0,0,2.31-17.37A21.92,21.92,0,0,0,106,50.59a22.67,22.67,0,0,0-19.68,3.88,22.18,22.18,0,0,0-8.65,17.64H66.54a33.25,33.25,0,0,1,13-26.47A33.72,33.72,0,0,1,108.82,39.8ZM100,5.2A94.8,94.8,0,1,0,194.8,100,94.91,94.91,0,0,0,100,5.2m0,178.45A83.65,83.65,0,1,1,183.65,100,83.73,83.73,0,0,1,100,183.65" transform="translate(-5.2 -5.2)"/></svg>
+
+              </div>
+              <div class="menu-item__text">
+                Help
+              </div>
+</a>          </li>
+        </ul>
+      </div>
+      <div class="ic-app-header__secondary-navigation">
+        <ul class="ic-app-header__menu-list">
+          <li class="menu-item ic-app-header__menu-list-item">
+            <button
+              id="primaryNavToggle"
+              class="ic-app-header__menu-list-link ic-app-header__menu-list-link--nav-toggle"
+              aria-label="
+                Minimize global navigation"
+              title="
+                Minimize global navigation"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--navtoggle" version="1.1" x="0" y="0" width="40" height="32" viewBox="0 0 40 32" xml:space="preserve">
+  <path d="M39.5,30.28V2.48H37.18v27.8Zm-4.93-13.9L22.17,4,20.53,5.61l9.61,9.61H.5v2.31H30.14l-9.61,9.61,1.64,1.64Z"/>
+</svg>
+
+            </button>
+          </li>
+        </ul>
+      </div>
+    <div id="global_nav_tray_container"></div>
+  </header>
+
+
+  <div id="instructure_ajax_error_box">
+    <div style="text-align: right; background-color: #fff;"><a href="#" class="close_instructure_ajax_error_box_link">Close</a></div>
+    <iframe id="instructure_ajax_error_result" src="about:blank" style="border: 0;" title="Error"></iframe>
+  </div>
+
+  
+
+  <div id="wrapper" class="ic-Layout-wrapper">
+      <div class="ic-app-nav-toggle-and-crumbs no-print">
+          <button type="button" id="courseMenuToggle" class="Button Button--link ic-app-course-nav-toggle" aria-live="polite" aria-label="Hide Courses Navigation Menu" title="Hide Courses Navigation Menu">
+            <i class="icon-hamburger" aria-hidden="true"></i>
+          </button>
+          <div class="ic-app-crumbs">
+        <nav id="breadcrumbs" role="navigation" aria-label="breadcrumbs"><ul><li class="home"><a href="/"><span class="ellipsible">      <i class="icon-home"
+         title="My Dashboard">
+        <span class="screenreader-only">My Dashboard</span>
+      </i>
+</span></a></li><li><span class="ellipsible">ENGL E-100 (15522)</span></li><li><span class="ellipsible">Syllabus</span></li></ul></nav>
+        </div>
+      </div>
+    <div id="main" class="ic-Layout-columns">
+        <div class="ic-Layout-watermark"></div>
+        <div id="left-side"
+          class="ic-app-course-menu list-view"
+          style="display: block"
+          >
+              <span id="section-tabs-header-subtitle" class="ellipsis">2017-2018 Fall</span>
+            <nav role="navigation" aria-label="Courses Navigation Menu"><ul id="section-tabs"><li class="section"><a href="/courses/33853/assignments/syllabus" title="Syllabus" class="syllabus active">Syllabus</a></li><li class="section"><a href="/courses/33853/external_tools/13815" title="Student Resources" class="context_external_tool_13815">Student Resources</a></li></ul></nav>
+        </div>
+      <div id="not_right_side" class="ic-app-main-content">
+        <div id="content-wrapper" class="ic-Layout-contentWrapper">
+            
+
+          <div id="content" class="ic-Layout-contentMain" role="main">
+            
+
+
+
+<div class="ic-Action-header">
+  <div class="ic-Action-header__Primary">
+    <h1 class="ic-Action-header__Heading">Course Syllabus</h1>
+  </div>
+  <div class="ic-Action-header__Secondary">
+    <a href="#" class="jump_to_today_link">Jump to Today</a>
+  </div>
+</div>
+
+<div id="course_syllabus" style="margin-bottom: 10px;" class="user_content">
+  <p><img style="width: 100%;" src="/courses/33853/files/4225647/preview?" alt="Marquee image: Harvard Extension School shield on decorative paper" data-api-endpoint="https://canvas.harvard.edu/api/v1$IMS-CC-FILEBASE$/Template%20images/PaperShieldBanner.png?canvas_download=1&amp;canvas_qs_verifier=KBdi7qbAsL1oyUp6f839HnhJ3DhpxlrUFFSzkluL" data-api-returntype="File"></p>
+<table class="ic-Table" style="width: 100%;">
+<tbody>
+<tr>
+<td>
+<div class="content-box pad-box-micro border border-b border-t" style="background-color: whitesmoke;">
+<h2 style="text-align: center;"><a class="icon-syllabus" style="color: black; text-decoration: none;"> Syllabus</a></h2>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<p> </p>
+<p> </p>
+<p>This course explores the relationship between theory and practice in literary terms. What is “theory,” and why should it concern itself with literature? We’ll be positing that for literature, reading and writing are co-extensive: literary theory is part and parcel of the field it seeks to analyze; literature is continuously seeking to elaborate its own theory.</p>
+<p> </p>
+<p><strong>August 29—December 12 | :. </strong></p>
+<p><strong>Tues. 7.40-9.40</strong>, Sever 111</p>
+<p><span><a href="http://literarytheoryincomparison.tumblr.com/">http://literarytheoryincomparison.tumblr.com/</a></span></p>
+<p><strong> </strong><a class="instructure_file_link instructure_scribd_file" title="ENGL E-100—Fall 2017 2.pdf" href="/courses/33853/files/4228006/download?wrap=1"><img src="http://literarytheoryincomparison.tumblr.com/post/127162239750/literary-theory-in-comparison-an-introduction"></a></p>
+<p> </p>
+<p><strong><span>Course description</span></strong><span>—</span></p>
+<p>This course explores the relationship between theory and practice in literary terms. What is “theory”, and why should it concern itself with literature? We’ll be positing that for literature, reading and writing are co-extensive: literary theory is part and parcel of the field it seeks to analyze; literature is continuously seeking to elaborate its own theory. During the semester, we will be reading literary theory as a literary genre and literary texts as reflections on theory. We will shed light on these questions through a range of literary and critical texts, which we will bring into comparison. We will consider three pairings: first, Virginia Woolf's novel <em>Orlando </em>(1928) with her essay <em>A Room of One's Own </em>(1929); then, Honoré de Balzac's short story <em>Sarrasine</em> (1830) with its extensive commentary by Roland Barthes in <em>S/Z</em> (1970); finally, Jorge Luis Borges's anthology of short-story <em>Fictions </em>(1944) with Michel Foucault's <em>The Order of Things </em>(1966). By engaging with these six seminal works, the course offers a focused yet comprehensive overview of some of the issues debated by literary theorists: authorship, style, gender, class, interpretation, semiotics, inter-textuality, plurality, books, libraries, knowledge and language. The students will learn how any given reading of a literary work can in fact be read as a “theoretical” piece; and how, in turn, theoretical criticism might be fruitfully analyzed as a work belonging to literary writing. <span>There are no prerequisites for the course; it is designed to teach participants the ropes of literary analysis, with a range of techniques pertaining to textual commentary and comparison between two forms of writing: literary pieces and critical analysis. </span>Many threads unite these authors across their national divisions. Connections and comparisons are the fuel of literary criticism: we’ll see how these texts compare one with another, build one upon another or dismiss their legacy throughout the semester.</p>
+<p> </p>
+<p>Knowledge of foreign languages (French, Spanish) is not assumed.</p>
+<p><strong>Attendance</strong>—Students are expected to attend all classes from beginning to end. Absence from more than two classes will affect the final grade. Please be sure to come to the office hours at least twice during the semester.</p>
+<p><strong> </strong></p>
+<p><strong>Course materials</strong>—All focus texts, primary and secondary sources included, will be posted on the course website.</p>
+<p><strong> </strong></p>
+<p><strong>Required books</strong>—All available at the Harvard Coop:</p>
+<ol>
+<li>Virginia Woolf (1928). <em>Orlando: A Biography</em>. A Harvest Book.</li>
+<li>Virginia Woolf (1929). <em>A Room of One’s Own.</em> A Harvest Book.</li>
+<li>Jorge Luis Borges [1946] (1988). <em>Collected Fictions</em>. Penguin Classics.</li>
+<li>Roland Barthes [1970] (1974). <em>S/Z</em>. Hill and Wang.</li>
+<li>Michel Foucault. <em>The Order of Things </em>[1970] (1994). Random House</li>
+</ol>
+<p><strong> </strong></p>
+<p><strong>Assessments</strong>—</p>
+<p><strong>Weekly responses</strong>—150-300 words per week in articulation with the theme (class blog) <strong>(5%)</strong></p>
+<p><strong>October 10 | Writing Deadline 1 | Woolf Paper | 1000 words (20%)</strong></p>
+<p><strong>November 21 | <span>Writing Deadline 2 </span></strong><strong>| Balzac Paper or Borges Paper | 1000 words (20%)</strong></p>
+<p><strong><span>December 14 | Writing Deadline 4 | Final Paper | 3000 words (40%)</span></strong></p>
+<p><strong><span>Class participation—</span></strong><span>Two interventions per class; two visits to office hours<strong> (10%)</strong></span></p>
+<p><strong>Calendar</strong></p>
+<p> </p>
+<ol>
+<li style="text-align: center;">
+<strong> Virginia Woolf</strong><strong>: </strong><strong>1928—1929</strong>
+</li>
+</ol>
+<p><strong>Week 1 | 1. Introduction</strong></p>
+<p><strong>Aug. 29</strong></p>
+<p><strong> </strong></p>
+<p><strong>Week 2 | 2. Authorship</strong></p>
+<p><strong>Virginia Woolf—</strong><strong><em>Orlando</em></strong><strong> (1928)</strong></p>
+<p><strong>“The Oak Tree”; “Nicholas Greene”; “Alexander Pope” </strong></p>
+<p><strong>Sept. 05</strong></p>
+<p><strong> </strong></p>
+<p><strong>Week 3 | 3. Style</strong></p>
+<p><strong>Virginia Woolf</strong><strong>—<em>Orlando</em> (1928)</strong></p>
+<p><strong>“Frost Fair</strong><strong>”</strong></p>
+<p><strong>Sept. 12</strong></p>
+<p><strong> </strong></p>
+<p><strong>Week 4 | 4. Gender</strong></p>
+<p><strong>Virginia Woolf—</strong><strong><em>A Room of One’s Own</em></strong><strong> (1929)</strong></p>
+<p><strong>“Judith Shakespeare”</strong></p>
+<p><strong>Sept. 19</strong></p>
+<p><strong> </strong></p>
+<p><strong>Week 5 | 5. Class</strong></p>
+<p><strong>Virginia Woolf—</strong><strong><em>A Room of One’s Own</em></strong><strong> (1929)</strong></p>
+<p><strong>“Mary Seton<span>”</span></strong></p>
+<p><strong>Sept. 26</strong></p>
+<p><strong> </strong></p>
+<ol start="2">
+<li style="text-align: center;">
+<strong> Honor</strong><strong>é de Balzac—Roland Barthes</strong><strong>: 1830—1970</strong>
+</li>
+</ol>
+<p><strong> </strong></p>
+<p><strong>Week 6 | 6. Interpretation</strong></p>
+<p><strong>Honoré de Balzac</strong><strong>—</strong><strong><em>Sarrasine</em></strong><strong> (1830)</strong></p>
+<p><strong>“At the Lantys” </strong></p>
+<p><strong>Oct. 3 </strong></p>
+<p><strong> </strong></p>
+<p><strong>Oct. 4 | Come to office hours | </strong><strong>Review Tutorials—Presentations for Paper #1</strong></p>
+<p> </p>
+<p><strong>Oct. 10 | No class | Writing Deadline 1 | Paper #1 (1000 words)</strong></p>
+<p><strong> </strong></p>
+<p><strong>Week 7 | 7. Semiotics</strong></p>
+<p><strong>Honoré de Balzac</strong><strong>—</strong><strong><em>Sarrasine</em></strong><strong> (1830)</strong></p>
+<p><strong>“The singer Zambinella”</strong></p>
+<p><strong>Oct. 17</strong></p>
+<p><strong> </strong></p>
+<p><strong>Week 8 | 8. Intertextuality</strong></p>
+<p><strong>Honoré de Balzac</strong><strong>—</strong><strong><em>Sarrasine</em></strong><strong> (1830)</strong></p>
+<p><strong>“Pygmalion” </strong></p>
+<p><strong>Oct. 24</strong></p>
+<p><strong> </strong></p>
+<p><strong>Week 9 | 9. Plurality</strong></p>
+<p><strong>Honoré de Balzac</strong><strong>—</strong><strong><em>Sarrasine</em></strong><strong> (1830)</strong></p>
+<p><strong>“The cardinal Cicognara” </strong></p>
+<p><strong>Oct. 31</strong></p>
+<ol start="3">
+<li style="text-align: center;"><strong> Jorge Luis Borges—Michel Foucault: 1939—1966</strong></li>
+</ol>
+<p><strong>Week 10 | 10. Books</strong></p>
+<p><strong>Jorge Luis Borges—<em>Book of Imaginary Beings</em> (1957); <em>Book of Sand</em> (1975)</strong></p>
+<p><strong>Nov. 7<br></strong></p>
+<p><strong>  <br></strong></p>
+<p><strong>Week 11 | 11. Libraries</strong></p>
+<p><strong>Jorge Luis Borges</strong></p>
+<p><strong>“The Total Library” (1939); “The Library of Babel” (1941) </strong></p>
+<p><strong>Nov. 14<br></strong></p>
+<p> </p>
+<p><strong>Nov. 15 | Come to office hours | Review Tutorials—Presentations for Paper #2</strong><strong><br></strong></p>
+<p> </p>
+<p><strong>Nov. 21 | No class | Thanksgiving Recess | </strong><strong>Writing Deadline 2 | Paper #2 (1000 words)</strong></p>
+<p> </p>
+<p><strong>Week 12 | 12. Knowledge</strong></p>
+<p><strong>Jorge Luis Borges</strong></p>
+<p><strong>“</strong><strong>Pierre M</strong><strong>é</strong><strong>nard, Author of the Quixote” (1939)</strong><strong>; “</strong><strong>On Exactitude in Science” (1946) </strong></p>
+<p><strong>Nov. 28<br></strong></p>
+<p><strong> </strong></p>
+<p><strong>Week 13 | 13. Language</strong></p>
+<p><strong>Jorge Luis Borges</strong></p>
+<p><strong>“</strong><strong>The Analytical Language of John Wilkins” (1942); </strong><strong>“</strong><strong>Tlön, Uqbar, Orbis Tertius” (1940)</strong></p>
+<p><strong>Dec. 5<br></strong></p>
+<p> </p>
+<p><strong>Dec. 6 | </strong><strong>Come to office hours | Review Tutorials—Presentations for Paper #4</strong></p>
+<p> </p>
+<p><strong>Week 14 | 14.  Review Session—Presentations for Paper #4<br></strong></p>
+<p><strong>Dec. 12</strong></p>
+<p> </p>
+<p><strong>Dec. 14 | Writing Deadline 4 | Paper #4 (2750-3000 words)</strong></p>
+<p> </p>
+<p style="text-align: center;"><strong>Reading Practices</strong></p>
+<ol>
+<li>The literary texts and critical texts we will study are few and brief—excerpts or short-stories—for the most part. Rather than covering extensive ground, what matters for this course is that you develop a sharp attention to details, and an ability to relate discrete parts with larger (thematic, generic, historic) wholes. We’ll build connections from inside the stylistic fabric of these works but also from within our corpus at large.</li>
+</ol>
+<p> </p>
+<ol start="2">
+<li>There are very few (if any) secondary sources: you are encouraged to actively find some, ask me for more, and read them at your leisure; however, the primary goal for this course is to refine your own critical voice through a direct engagement with the texts. Secondary sources are therefore appreciated but not essential.</li>
+</ol>
+<p> </p>
+<ol start="3">
+<li>As we read this selection of six literary and critical works, the twelve concepts we will uncover are: <strong>Authorship, Style, Gender, Class, Interpretation, Semiotics, Intertextuality, Plurality, Books, Libraries, Knowledge and Languages</strong>. They are intended as thematic guidelines to orient our reading of these works together ; they should not, however, pre-empt your own interpretation. In other words, they are open to revisions, if we decide they are necessary. We’ll test their validity in class. I look forward to lively discussions in the course of the semester.</li>
+</ol>
+<p><strong> </strong></p>
+<p style="text-align: center;"><strong>Response Paper Assignments</strong></p>
+<p><strong> </strong></p>
+<ol start="4">
+<li>In engaging with the weekly materials, it is crucial that you focus on the literary techniques covered in class, in connection to the comparison with critical discourse. In the weekly response (<strong>150-300 words</strong>) you’re asked to answer some of the questions posed by the course. For instance—What does it mean for this text to reflect on its production? What exactly speaks to the theoretical realm in this piece of fiction ? How is our weekly critical concept here translated in the realm of aesthetics? Through which discursive or stylistic channels, and to what effect ? How successful is this specific text at suggesting an <em>ars poetica</em>, or a literary theory reflecting on its own conditions of extistence? What concept-constructions or epistemological concerns are mobilised and elaborated when reading the text ? How can we stylistically account for them ? The response papers are due on <strong>Sundays, 5 pm</strong>.</li>
+</ol>
+<p><strong> </strong></p>
+<p style="text-align: center;"><strong>Short Paper and Final Paper Assignments</strong></p>
+<p> </p>
+<ol start="5">
+<li>In the first part of the semester, we’ll focus on Virginia Woolf’s brand of self-reflexive fiction and fictional literary criticism. In the second, we’ll move to Honoré de Balzac’s theory of artistic creation enmeshed with its refashioning by a textophage, multi-layering and over-writing exegesis by Roland Barthes. In the third part, we’ll consider Jorge Luis Borges’ imaginary objects of knowledge, reverberated by Michel Foucault’s later theoretical constructions of epistemological systems. Each of these three papers will be an in-depth analysis (<strong>1000 words</strong>) of one concept (<strong>Authorship, Style, Gender, Class </strong>for the Woolf paper ;<strong> Interpretation, Semiotics, Intertextuality, Plurality  </strong>for the Balzac paper ;<strong> Books, Libraries, Knowledge and Languages </strong>for the Borges paper) reflected in the two texts covered in class (<em>Orlando</em>, <em>A Room of One’s Own</em> for the Woolf paper—due <strong>Oct. 10 </strong>; <em>Sarrasine</em>, <em>S/Z </em>for the Balzac paper—due <strong>November 21 </strong>; <em>Fictions</em>, <em>The Order of Things</em> for the Borges paper—due <strong>November 21</strong>).</li>
+</ol>
+<p><strong> </strong></p>
+<ol start="6">
+<li>In the final paper (<strong>Dec. 14</strong>), you will choose a text we haven’t discussed in class from one of the anthologies assigned. You will be asked to reflect on these three modes of specular criticism and fiction writing into one coherent commentary on a new text of your own choosing—by an author we will have already encountered in class (<strong>2750-3000 words</strong>). You may choose between the three following options—all short-stories, which range from the very short to the extremely brief: <strong>1.</strong> Virginia Woolf, “The Lady in the Looking-Glass: A Reflection” (1929); <strong>2.</strong> Honoré de Balzac, “The Unknown Masterpiece (1831); <strong>3.</strong> Jose Luis Borges, “The Aleph” (1945). They will be made available to you from the outset of the semester. However, we can talk about other options during the office hours.</li>
+</ol>
+<p><strong> </strong></p>
+<p><strong>  </strong>7. Since the written assignments are brief, structure is paramount; the three small essays need a clear design and a proper introduction with a conclusion. This is true also for the final paper, in which you’ll showcase the literary skills learned throughout the course. We’ll cover the technique of the commentary in class; for now please note that the wordcount is an important factor, with a tolerance of 10% (+/-).</p>
+<p> </p>
+<ol start="8">
+<li>Extensions to hand in written work late can only be granted if the matter has been discussed well ahead of time with the lecturer.</li>
+</ol>
+<p><strong> </strong></p>
+<p style="text-align: center;"><strong>Class Participation and Grading</strong></p>
+<p> </p>
+<ol start="9">
+<li>Class participation is vital and graded: you’re expected to make two interventions per class—even a quick comment on each text at hand will do (10%).</li>
+</ol>
+<p><strong> </strong></p>
+<ol start="10">
+<li>The final grade is calculated as follows: Paper #1 (20%), Paper #2 (20%), and Final Paper (40%). Grades will be raised or lowered to reflect class participation (10%), weekly postings on the course blog (5%), and attending twice the office hours.</li>
+</ol>
+<p> </p>
+<h4>
+<strong>Accommodations for Students with Disabilities</strong>—Students needing academic adjustments or accommodations because of a documented disability must present their Faculty Letter from the <span>Accessible Education Office</span> (AEO) and speak with the lecturer by the end of the second week of the term:<strong> September 8th</strong>. Failure to do so may result in the lecturer’s inability to respond in a timely manner. All discussions will remain confidential.</h4>
+<p> </p>
+<p><strong>Collaboration Policy, Academic Integrity and Harvard Extension School Honor Code</strong>—All papers and exams must be the student’s own work. What this means is that students are permitted, and expected, to discuss their ideas with the instructors and other students as well as to request and accept advice from them. But if a piece of information or an idea comes from someone else, students should do the same thing that they would do when it comes from a book, an article, or online: cite the source. All academic work is collaborative in the sense that it builds on what others have written. Using such material is not plagiarism as long as it is appropriately cited. When using the same words as the source, put them inside quotation marks. If you are uncertain in a particular case: ask, don’t guess. <span>For final projects, students must include the following affirmation statement at the time of submission</span>: <span><strong>“I affirm my awareness of the standards of the Harvard Extention School Honor Code</strong>.<strong>”</strong> The regulations are available here—<a href="http://honor.fas.harvard.edu/">http://honor.fas.harvard.edu/</a></span></p>
+<p> </p>
+<p><strong>Pass/Fail and Auditor Policy</strong>—Permitted.</p>
+<p> </p>
+<p><strong>Personal Electronic Device Policy</strong>—Not permitted.</p>
+<p><strong> </strong></p>
+<p><strong>Course texts will be available here</strong><span>— <a href="http://literarytheoryincomparison.tumblr.com/">http://literarytheoryincomparison.tumblr.com/</a></span></p>
+<p> </p>
+<p> </p>
+<p><strong><span> </span></strong></p>
+<p><span> </span></p>
+<p><span> </span></p>
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<div class="content-box pad-box-micro border border-b border-t" style="background-color: whitesmoke;">
+<h2 style="text-align: center;"><a class="icon-rubric-dark" style="color: black; text-decoration: none;"> Course Information</a></h2>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<p> <iframe style="width: 100%; height: 200px;" title="Course Info" src="https://canvas-course-info.tlt.harvard.edu/course_info/widget.html?f=title&amp;f=course.registrar_code_display&amp;f=term.display_name&amp;f=instructors_display&amp;f=location&amp;f=meeting_time&amp;f=exam_group&amp;f=description&amp;f=notes" width="300" height="150" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen"></iframe> </p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="width: 30%; float: right;" cellspacing="10" cellpadding="9">
+<tbody>
+<tr>
+<td style="border-color: gray; background-color: whitesmoke;">
+<h2 style="text-align: center;"><span style="color: #000000;"><a class="icon-user" style="color: #000000;" href="/courses/7955" target="_blank"><span style="font-size: 10pt;">Student Support Tips</span></a></span></h2>
+</td>
+</tr>
+<tr>
+<td style="border-color: gray; background-color: whitesmoke;">
+<h2 style="text-align: center;"><span style="color: #000000;"><a class="icon-educators" style="color: #000000;" href="/courses/4514" target="_blank"><span style="font-size: 10pt;">Instructor Support Tips</span></a> </span></h2>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="clear: both;"> </p>
+</div>
+<div id="course_syllabus_details" style="display: none;">
+  <p>The syllabus page shows a table-oriented view of the course schedule, and the basics of
+course grading.  You can add any other comments, notes, or thoughts you have about the course
+structure, course policies or anything else.</p>
+
+<p>To add some comments, click the &quot;Edit&quot; link at the top.</p>
+</div>
+<form id="edit_course_syllabus_form" style="display: none; margin-bottom: 10px;" action="/courses/33853" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="7PNW+Wr7WrrFRvoSvndrzL4wdtxs3rWIymqGWgTKnSe5lD+hDcoXivMs0ULJQhiJ50UhjSK71Ob6DuEPNabkYw==" />
+  <div style="float: right;">
+    <a href="#" class="toggle_views_link toggle_html_editor_link">HTML Editor</a>
+    <a href="#" class="toggle_views_link toggle_rich_editor_link" style="display:none;">Rich Content Editor</a>
+  </div>
+  <label for="course_syllabus_body">Syllabus Description:</label>
+  <div class="clear"></div>
+  <textarea style="width: 100%; height: 300px;" id="course_syllabus_body" name="course[syllabus_body]">
+</textarea>
+  <div class='form-actions'>
+    <button type="button" class="btn cancel_button">Cancel</button>
+    <button type="submit" class='btn btn-primary'>Update Syllabus</button>
+  </div>
+</form>
+<h2>Course Summary:</h2>
+
+<div id="syllabusContainer">
+  <div id="syllabus_links">
+    <a id="toggle_special_dates_in_syllabus">&nbsp;</a>
+  </div>
+  <table id="syllabus" class="ic-Table--condensed">
+    <thead>
+      <tr>
+        <th scope="col" style="width: 25%;">Date</th>
+        <th scope="col" style="width: 75%;">Details</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td scope="row">
+          <span id="loading_indicator"/>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+          </div>
+        </div>
+        <div id="right-side-wrapper" class="ic-app-main-content__secondary">
+          <aside id="right-side" role="complementary">
+              
+<div id="sidebar_content">
+  
+<div class="mini_month">
+  <div class="mini-cal-header">
+    <button class="prev_month_link Button Button--icon-action"><i class="icon-arrow-open-left"></i><span class="screenreader-only">Prev month</span></button>
+    <button class="next_month_link Button Button--icon-action"><i class="icon-arrow-open-right"></i><span class="screenreader-only">Next month</span></button>
+    <span class="mini-cal-month-and-year">
+      <span class="month_name">September</span>
+      <span class="year_number">2017</span>
+    </span>
+  </div>
+  <div style="display: none;">
+    <span class="month_number">9</span>
+  </div>
+  <table class="mini_calendar" cellspacing="0">
+    <caption class="screenreader-only">Calendar</caption>
+    <thead>
+      <tr>
+          <th scope="col">
+            <span class="screenreader-only">
+              Sunday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Monday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Tuesday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Wednesday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Thursday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Friday
+            </span>
+          </th>
+          <th scope="col">
+            <span class="screenreader-only">
+              Saturday
+            </span>
+          </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_08_27" class="mini_calendar_day day other_month previous_month date_08_27_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                27
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_28" class="mini_calendar_day day other_month previous_month date_08_28_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                28
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_29" class="mini_calendar_day day other_month previous_month date_08_29_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                29
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_30" class="mini_calendar_day day other_month previous_month date_08_30_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                30
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_08_31" class="mini_calendar_day day other_month previous_month date_08_31_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                31
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_01" class="mini_calendar_day day current_month date_09_01_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                1
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_02" class="mini_calendar_day day current_month date_09_02_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                2
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_03" class="mini_calendar_day day current_month date_09_03_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                3
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_04" class="mini_calendar_day day current_month date_09_04_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                4
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_05" class="mini_calendar_day day current_month date_09_05_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                5
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_06" class="mini_calendar_day day current_month date_09_06_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                6
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_07" class="mini_calendar_day day current_month date_09_07_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                7
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_08" class="mini_calendar_day day current_month date_09_08_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                8
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_09" class="mini_calendar_day day current_month date_09_09_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                9
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_10" class="mini_calendar_day day current_month date_09_10_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                10
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_11" class="mini_calendar_day day current_month date_09_11_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                11
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_12" class="mini_calendar_day day current_month date_09_12_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                12
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_13" class="mini_calendar_day day current_month date_09_13_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                13
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_14" class="mini_calendar_day day current_month date_09_14_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                14
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_15" class="mini_calendar_day day current_month date_09_15_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                15
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_16" class="mini_calendar_day day current_month date_09_16_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                16
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_17" class="mini_calendar_day day current_month date_09_17_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                17
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_18" class="mini_calendar_day day current_month date_09_18_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                18
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_19" class="mini_calendar_day day current_month date_09_19_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                19
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_20" class="mini_calendar_day day current_month date_09_20_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                20
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_21" class="mini_calendar_day day current_month date_09_21_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                21
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_22" class="mini_calendar_day day current_month date_09_22_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                22
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_23" class="mini_calendar_day day current_month date_09_23_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                23
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_09_24" class="mini_calendar_day day current_month today date_09_24_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                24
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_25" class="mini_calendar_day day current_month date_09_25_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                25
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_26" class="mini_calendar_day day current_month date_09_26_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                26
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_27" class="mini_calendar_day day current_month date_09_27_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                27
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_28" class="mini_calendar_day day current_month date_09_28_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                28
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_29" class="mini_calendar_day day current_month date_09_29_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                29
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_09_30" class="mini_calendar_day day current_month date_09_30_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                30
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+      <tr class="mini_calendar_week">
+          <td id="mini_day_2017_10_01" class="mini_calendar_day day other_month next_month date_10_01_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                1
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_02" class="mini_calendar_day day other_month next_month date_10_02_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                2
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_03" class="mini_calendar_day day other_month next_month date_10_03_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                3
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_04" class="mini_calendar_day day other_month next_month date_10_04_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                4
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_05" class="mini_calendar_day day other_month next_month date_10_05_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                5
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_06" class="mini_calendar_day day other_month next_month date_10_06_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                6
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+          <td id="mini_day_2017_10_07" class="mini_calendar_day day other_month next_month date_10_07_2017">
+            <div class="day_wrapper">
+              <span class="day_number">
+                7
+              </span>
+              <span class="screenreader-only previous_month_text">Previous month</span>
+              <span class="screenreader-only next_month_text">Next month</span>
+              <span class="screenreader-only today_text">Today</span>
+              <span class="screenreader-only event_link_text">Click to view event details</span>
+            </div>
+          </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+    
+<div role="complementary" aria-label="Assignment Weights">
+  <h2>Course assignments are not weighted.</h2>
+</div>
+
+</div>
+
+<div id="editor_tabs" class="ui-tabs--mini" style="display: none;">
+
+  <span class="wiki-sidebar-header" role="heading" aria-level="2">Insert Content into the Page</span>
+  <ul>
+    <li><a href="#editor_tabs_2">Links</a></li>
+    <li><a href="#editor_tabs_4">Images</a></li>
+  </ul>
+  <div id="editor_tabs_2" role="application">
+    Link to other content in the course.
+      <a href="/courses/33853/external_tools/retrieve?url=%7B%7B+url+%7D%7D" id="external_tool_retrieve_url" style="display: none;">&nbsp;</a>
+      <a href="/courses/33853/external_tools/%7B%7B%20id%20%7D%7D/resource_selection?editor=1" id="context_external_tool_resource_selection_url" style="display: none;">&nbsp;</a>
+    Click any page to insert a link to that page.
+    <div id="pages_accordion" class="ui-accordion--mini" role="tabpanel">
+      <a href="https://canvas.harvard.edu/courses/33853/pages/%7B%7B%20page_url%20%7D%7D" id="wiki_sidebar_wiki_url" style="display: none;">&nbsp;</a>
+      <div>
+        <div class="header" aria-controls="pages_tab_panel" role="tab"><a href="#">Wiki Pages</a></div>
+        <div id="pages_tab_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+            </ul>
+        </div>
+      </div>
+      <div>
+        <div aria-controls="assignment_panel" role="tab" class="header" aria-controls="wiki_pages_panel"><a href="#">Assignments</a></div>
+         <div id="assignment_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this assignment"><a href="/courses/33853/assignments">Assignment List</a></li>
+            </ul>
+         </div>
+      </div>
+      <div>
+        <div aria-controls="quizzes_panel" class="header" role="tab"><a href="#">Quizzes</a></div>
+         <div id="quizzes_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this quiz"><a href="/courses/33853/quizzes">Quiz List</a></li>
+            </ul>
+         </div>
+      </div>
+      <div>
+        <div class="header" aria-controls="announcements_panel" role="tab"><a href="#">Announcements</a></div>
+         <div id="announcements_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this announcement"><a href="/courses/33853/announcements">Announcements List</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33853/announcements/236073">Week 2 | 2. Authorship :. Virginia Woolf—Orlando (1928) :. If you have yet to buy your own copy, see the scanned passages! (due *Tues. 5 pm*)</a></li>
+                <li title="Click to insert a link to this announcement"><a href="/courses/33853/announcements/236058">Week 2 | 2. Authorship :. Virginia Woolf—Orlando (1928) :. Check Piazza for blogposts or send me an email at cguedon@fas.harvard.edu in case of doubt!</a></li>
+            </ul>
+         </div>
+      </div>
+
+      <div>
+        <div role="tab" aria-controls="discussions_panel" class="header"><a href="#">Discussions</a></div>
+         <div id="discussions_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this topic"><a href="/courses/33853/discussion_topics">Discussion Index</a></li>
+            </ul>
+         </div>
+      </div>
+
+      <div>
+        <div role="tab" aria-controls="modules_panel" class="header"><a href="#">Modules</a></div>
+          <div id="modules_panel" role="tabpanel">
+            <ul class="wiki_pages page_list">
+              <li title="Click to insert a link to this module"><a href="/courses/33853/modules">Modules List</a></li>
+            </ul>
+          </div>
+      </div>
+
+      <div>
+        <div class="header" role="tab" aria-controls="groups_panel"><a href="#">Course Navigation</a></div>
+         <div role="tabpanel" id="groups_panel">
+            <ul class="wiki_pages page_list">
+                <li title="Click to insert a link to the assignments page"><a href="/courses/33853/assignments">Assignment List</a></li>
+                <li title="Click to insert a link to the wiki"><a href="https://canvas.harvard.edu/courses/33853/pages">Wiki Home</a></li>
+                <li title="Click to insert a link to the discussions page"><a href="/courses/33853/discussion_topics">Discussions Index</a></li>
+                <li title="Click to insert a link to the syllabus"><a href="/courses/33853/assignments/syllabus">Course Syllabus</a></li>
+                <li title="Click to insert a link to the announcements page"><a href="/courses/33853/announcements">Announcement List</a></li>
+                <li title="Click to insert a link to the files page"><a href="/courses/33853/files">Files Index</a></li>
+                <li title="Click to insert a link to the collaborations page"><a href="/courses/33853/collaborations">Collaborations</a></li>
+                <li title="Click to insert a link to the grades page"><a href="/courses/33853/grades">Grades</a></li>
+                <li title="Click to insert a link to the people page"><a href="/courses/33853/users">People</a></li>
+                <li title="Click to insert a link to the modules page"><a href="/courses/33853/modules">Modules</a></li>
+            </ul>
+         </div>
+      </div>
+    </div>
+
+  </div>
+  <div aria-atomic="true" id="editor_tabs_4">
+    Click any image to embed the image in the page.
+    <div>
+      <a tabindex="0" href="#" class="find_new_image_link find">Find images on flickr creative commons</a>
+    </div>
+    <div id="wiki_sidebar_image_uploads" class="uploading_file_list uploading_image_list" style="display: none;">
+      <div class="uploading">
+        Uploading <span class="filename">file</span>...
+        <div>
+          <img alt="Loading..." src="https://du11hjcvx0uqb.cloudfront.net/dist/images/ajax-loader-bar-71e6988298.gif" />
+        </div>
+      </div>
+      <div class="remaining">
+        <span class="files_remaining">0</span> more to upload
+      </div>
+      
+<a href="#" style="text-align: center display: none;" class="img_link" title="Click to embed image">
+  <div class="img_holder">
+    <img class="img" data-url="" src="" alt="{{ display_name }}" title="Click to embed {{ display_name }}">
+  </div>
+  <div class="display_name">{{ display_name }}</div>
+</a>
+
+    </div>
+    <div class="image_list_holder ">
+      <div class="dragging_message">Drop Images Here to upload</div>
+      <div class="image_list" style="max-height: 300px; overflow: auto;" data-url="/courses/33853/images">
+      </div>
+    </div>
+  </div>
+  <div style="display: none;">
+    <a href="/services?service_type=BookmarkService" class="bookmark_services_url">&nbsp;</a>
+    <a href="/search/bookmarks?q=%7B%7B+query+%7D%7D&amp;service_type=%7B%7B+service_type+%7D%7D" class="bookmark_search_url">&nbsp;</a>
+    <span class="context_code">course_33853</span>
+    <div id="wiki_sidebar_select_folder_dialog">
+      Select a destination folder for these <span class="file_count">&nbsp;</span> files:
+      <div style="margin: 20px;">
+        <select class="folder_id">
+        </select>
+      </div>
+      <div class="button-container">
+        <button type="button" class="btn select_button">Upload Files to Folder</button>
+        <button type="button" class="btn cancel_button btn button-secondary">Cancel</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+          </aside>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    <div style="display:none;"><!-- Everything inside of this should always stay hidden -->
+    </div>
+    
+<div id="cant_record_dialog" style="display: none;">
+  <div>
+    In order to create video or audio recordings your computer needs to be 
+    webcam-enabled.  If you don&#39;t have a webcam on your computer, you can still
+    record audio-only messages by first installing the Google Video Chat
+    plugin.
+  </div>
+  <div style="text-align: center; font-size: 1.5em; margin: 10px;">
+    <a href="http://www.google.com/chat/video" target="_blank" class="btn">Install the Video Plugin</a>
+  </div>
+  <div class="links" style="text-align: right; font-size: 0.8em; display: none;">
+    <a href="#" class="cant_record_link">Don&#39;t have a webcam?</a>
+  </div>
+</div>
+  <div id='aria_alerts' class='hide-text affix' role="alert" aria-live="assertive"></div>
+  <div id='StudentTray__Container'></div>
+  <script>
+  INST = {"environment":"production","allowMediaComments":true,"kalturaSettings":{"domain":"nv.instructuremedia.com","resource_domain":"nv.instructuremedia.com","rtmp_domain":"fms-prod.instructuremedia.com","partner_id":"9","subpartner_id":"0","player_ui_conf":"0","kcw_ui_conf":"0","upload_ui_conf":"0","max_file_size_bytes":534773760,"do_analytics":false,"hide_rte_button":false,"js_uploader":true},"googleAnalyticsAccount":"UA-9138420-1","disableScribdPreviews":true,"logPageViews":true,"maxVisibleEditorButtons":3,"editorButtons":[{"name":"YouTube","id":18015,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=youtube","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/youtube_icon.png","canvas_icon_class":null,"width":560,"height":600},{"name":"Vimeo","id":18016,"url":"https://www.edu-apps.org/lti_public_resources/?tool_id=vimeo","icon_url":"https://www.edu-apps.org/assets/lti_public_resources/vimeo_icon.png","canvas_icon_class":null,"width":560,"height":600},{"name":"DCE Matterhorn Course Recordings","id":19109,"url":"https://dce-mhvideo-lti.herokuapp.com/mhvideo_lti/lti_launch","icon_url":"https://dce-mhvideo-lti.herokuapp.com/static/images/television.png","canvas_icon_class":null,"width":800,"height":400},{"name":"Course Info","id":20525,"url":"https://canvas-course-info.tlt.harvard.edu/course_info/lti_launch","icon_url":"https://canvas-course-info.tlt.harvard.edu/static/images/course-info.png","canvas_icon_class":null,"width":800,"height":400}]};
+  ENV = {"ASSET_HOST":"https://du11hjcvx0uqb.cloudfront.net","active_brand_config":"af37e5be444f4a553c9c812a9a990322","active_brand_config_json_url":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/variables-b59440e479f072e9f8e5fa783f2fcc29.json","url_to_what_gets_loaded_inside_the_tinymce_editor_css":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/af37e5be444f4a553c9c812a9a990322/new_styles_normal_contrast/bundles/what_gets_loaded_inside_the_tinymce_editor-542d1c188c.css","current_user_id":null,"current_user":{},"current_user_roles":null,"current_user_disabled_inbox":null,"files_domain":"cluster28-files.instructure.com","DOMAIN_ROOT_ACCOUNT_ID":18750000000000001,"k12":false,"help_link_name":"Help","help_link_icon":"help","use_high_contrast":null,"SETTINGS":{"open_registration":false,"eportfolios_enabled":true,"collapse_global_nav":null,"show_feedback_link":true,"enable_profiles":true},"context_asset_string":"course_33853","ping_url":"https://canvas.harvard.edu/api/v1/courses/33853/ping","TIMEZONE":"America/New_York","CONTEXT_TIMEZONE":"America/New_York","LOCALE":"en","BIGEASY_LOCALE":"en_US","FULLCALENDAR_LOCALE":"en","MOMENT_LOCALE":"en","RICH_CONTENT_SERVICE_ENABLED":true,"RICH_CONTENT_APP_HOST":"rich-content-iad.inscloudgate.net","RICH_CONTENT_CDN_HOST":"dvgcns7dz7zc.cloudfront.net/rce_service/versions/","RICH_CONTENT_SIDEBAR_SOURCE":"api","RICH_CONTENT_CAN_UPLOAD_FILES":false,"CONTEXT_ACTION_SOURCE":"syllabus","NEW_USER_TUTORIALS":{"is_enabled":false},"SYLLABUS_PER_PAGE":"100","CAN_READ":false,"SYLLABUS_BODY":"\u003cp\u003e\u003cimg style=\"width: 100%;\" src=\"/courses/33853/files/4225647/preview?\" alt=\"Marquee image: Harvard Extension School shield on decorative paper\" data-api-endpoint=\"https://canvas.harvard.edu/api/v1$IMS-CC-FILEBASE$/Template%20images/PaperShieldBanner.png?canvas_download=1\u0026amp;canvas_qs_verifier=KBdi7qbAsL1oyUp6f839HnhJ3DhpxlrUFFSzkluL\" data-api-returntype=\"File\"\u003e\u003c/p\u003e\n\u003ctable class=\"ic-Table\" style=\"width: 100%;\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cdiv class=\"content-box pad-box-micro border border-b border-t\" style=\"background-color: whitesmoke;\"\u003e\n\u003ch2 style=\"text-align: center;\"\u003e\u003ca class=\"icon-syllabus\" style=\"color: black; text-decoration: none;\"\u003e Syllabus\u003c/a\u003e\u003c/h2\u003e\n\u003c/div\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eThis course explores the relationship between theory and practice in literary terms. What is “theory,” and why should it concern itself with literature? We’ll be positing that for literature, reading and writing are co-extensive: literary theory is part and parcel of the field it seeks to analyze; literature is continuously seeking to elaborate its own theory.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAugust 29—December 12 | :. \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eTues. 7.40-9.40\u003c/strong\u003e, Sever 111\u003c/p\u003e\n\u003cp\u003e\u003cspan\u003e\u003ca href=\"http://literarytheoryincomparison.tumblr.com/\"\u003ehttp://literarytheoryincomparison.tumblr.com/\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003ca class=\"instructure_file_link instructure_scribd_file\" title=\"ENGL E-100—Fall 2017 2.pdf\" href=\"/courses/33853/files/4228006/download?wrap=1\"\u003e\u003cimg src=\"http://literarytheoryincomparison.tumblr.com/post/127162239750/literary-theory-in-comparison-an-introduction\"\u003e\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cspan\u003eCourse description\u003c/span\u003e\u003c/strong\u003e\u003cspan\u003e—\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003eThis course explores the relationship between theory and practice in literary terms. What is “theory”, and why should it concern itself with literature? We’ll be positing that for literature, reading and writing are co-extensive: literary theory is part and parcel of the field it seeks to analyze; literature is continuously seeking to elaborate its own theory. During the semester, we will be reading literary theory as a literary genre and literary texts as reflections on theory. We will shed light on these questions through a range of literary and critical texts, which we will bring into comparison. We will consider three pairings: first, Virginia Woolf's novel \u003cem\u003eOrlando \u003c/em\u003e(1928) with her essay \u003cem\u003eA Room of One's Own \u003c/em\u003e(1929); then, Honoré de Balzac's short story \u003cem\u003eSarrasine\u003c/em\u003e (1830) with its extensive commentary by Roland Barthes in \u003cem\u003eS/Z\u003c/em\u003e (1970); finally, Jorge Luis Borges's anthology of short-story \u003cem\u003eFictions \u003c/em\u003e(1944) with Michel Foucault's \u003cem\u003eThe Order of Things \u003c/em\u003e(1966). By engaging with these six seminal works, the course offers a focused yet comprehensive overview of some of the issues debated by literary theorists: authorship, style, gender, class, interpretation, semiotics, inter-textuality, plurality, books, libraries, knowledge and language. The students will learn how any given reading of a literary work can in fact be read as a “theoretical” piece; and how, in turn, theoretical criticism might be fruitfully analyzed as a work belonging to literary writing. \u003cspan\u003eThere are no prerequisites for the course; it is designed to teach participants the ropes of literary analysis, with a range of techniques pertaining to textual commentary and comparison between two forms of writing: literary pieces and critical analysis. \u003c/span\u003eMany threads unite these authors across their national divisions. Connections and comparisons are the fuel of literary criticism: we’ll see how these texts compare one with another, build one upon another or dismiss their legacy throughout the semester.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eKnowledge of foreign languages (French, Spanish) is not assumed.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAttendance\u003c/strong\u003e—Students are expected to attend all classes from beginning to end. Absence from more than two classes will affect the final grade. Please be sure to come to the office hours at least twice during the semester.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eCourse materials\u003c/strong\u003e—All focus texts, primary and secondary sources included, will be posted on the course website.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eRequired books\u003c/strong\u003e—All available at the Harvard Coop:\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003eVirginia Woolf (1928). \u003cem\u003eOrlando: A Biography\u003c/em\u003e. A Harvest Book.\u003c/li\u003e\n\u003cli\u003eVirginia Woolf (1929). \u003cem\u003eA Room of One’s Own.\u003c/em\u003e A Harvest Book.\u003c/li\u003e\n\u003cli\u003eJorge Luis Borges [1946] (1988). \u003cem\u003eCollected Fictions\u003c/em\u003e. Penguin Classics.\u003c/li\u003e\n\u003cli\u003eRoland Barthes [1970] (1974). \u003cem\u003eS/Z\u003c/em\u003e. Hill and Wang.\u003c/li\u003e\n\u003cli\u003eMichel Foucault. \u003cem\u003eThe Order of Things \u003c/em\u003e[1970] (1994). Random House\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAssessments\u003c/strong\u003e—\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWeekly responses\u003c/strong\u003e—150-300 words per week in articulation with the theme (class blog) \u003cstrong\u003e(5%)\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eOctober 10 | Writing Deadline 1 | Woolf Paper | 1000 words (20%)\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eNovember 21 | \u003cspan\u003eWriting Deadline 2 \u003c/span\u003e\u003c/strong\u003e\u003cstrong\u003e| Balzac Paper or Borges Paper | 1000 words (20%)\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cspan\u003eDecember 14 | Writing Deadline 4 | Final Paper | 3000 words (40%)\u003c/span\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cspan\u003eClass participation—\u003c/span\u003e\u003c/strong\u003e\u003cspan\u003eTwo interventions per class; two visits to office hours\u003cstrong\u003e (10%)\u003c/strong\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eCalendar\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003col\u003e\n\u003cli style=\"text-align: center;\"\u003e\n\u003cstrong\u003e Virginia Woolf\u003c/strong\u003e\u003cstrong\u003e: \u003c/strong\u003e\u003cstrong\u003e1928—1929\u003c/strong\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 1 | 1. Introduction\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eAug. 29\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 2 | 2. Authorship\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eVirginia Woolf—\u003c/strong\u003e\u003cstrong\u003e\u003cem\u003eOrlando\u003c/em\u003e\u003c/strong\u003e\u003cstrong\u003e (1928)\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e“The Oak Tree”; “Nicholas Greene”; “Alexander Pope” \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSept. 05\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 3 | 3. Style\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eVirginia Woolf\u003c/strong\u003e\u003cstrong\u003e—\u003cem\u003eOrlando\u003c/em\u003e (1928)\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e“Frost Fair\u003c/strong\u003e\u003cstrong\u003e”\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSept. 12\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 4 | 4. Gender\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eVirginia Woolf—\u003c/strong\u003e\u003cstrong\u003e\u003cem\u003eA Room of One’s Own\u003c/em\u003e\u003c/strong\u003e\u003cstrong\u003e (1929)\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e“Judith Shakespeare”\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSept. 19\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 5 | 5. Class\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eVirginia Woolf—\u003c/strong\u003e\u003cstrong\u003e\u003cem\u003eA Room of One’s Own\u003c/em\u003e\u003c/strong\u003e\u003cstrong\u003e (1929)\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e“Mary Seton\u003cspan\u003e”\u003c/span\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eSept. 26\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003col start=\"2\"\u003e\n\u003cli style=\"text-align: center;\"\u003e\n\u003cstrong\u003e Honor\u003c/strong\u003e\u003cstrong\u003eé de Balzac—Roland Barthes\u003c/strong\u003e\u003cstrong\u003e: 1830—1970\u003c/strong\u003e\n\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 6 | 6. Interpretation\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eHonoré de Balzac\u003c/strong\u003e\u003cstrong\u003e—\u003c/strong\u003e\u003cstrong\u003e\u003cem\u003eSarrasine\u003c/em\u003e\u003c/strong\u003e\u003cstrong\u003e (1830)\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e“At the Lantys” \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eOct. 3 \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eOct. 4 | Come to office hours | \u003c/strong\u003e\u003cstrong\u003eReview Tutorials—Presentations for Paper #1\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eOct. 10 | No class | Writing Deadline 1 | Paper #1 (1000 words)\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 7 | 7. Semiotics\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eHonoré de Balzac\u003c/strong\u003e\u003cstrong\u003e—\u003c/strong\u003e\u003cstrong\u003e\u003cem\u003eSarrasine\u003c/em\u003e\u003c/strong\u003e\u003cstrong\u003e (1830)\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e“The singer Zambinella”\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eOct. 17\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 8 | 8. Intertextuality\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eHonoré de Balzac\u003c/strong\u003e\u003cstrong\u003e—\u003c/strong\u003e\u003cstrong\u003e\u003cem\u003eSarrasine\u003c/em\u003e\u003c/strong\u003e\u003cstrong\u003e (1830)\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e“Pygmalion” \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eOct. 24\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 9 | 9. Plurality\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eHonoré de Balzac\u003c/strong\u003e\u003cstrong\u003e—\u003c/strong\u003e\u003cstrong\u003e\u003cem\u003eSarrasine\u003c/em\u003e\u003c/strong\u003e\u003cstrong\u003e (1830)\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e“The cardinal Cicognara” \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eOct. 31\u003c/strong\u003e\u003c/p\u003e\n\u003col start=\"3\"\u003e\n\u003cli style=\"text-align: center;\"\u003e\u003cstrong\u003e Jorge Luis Borges—Michel Foucault: 1939—1966\u003c/strong\u003e\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 10 | 10. Books\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eJorge Luis Borges—\u003cem\u003eBook of Imaginary Beings\u003c/em\u003e (1957); \u003cem\u003eBook of Sand\u003c/em\u003e (1975)\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eNov. 7\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e  \u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 11 | 11. Libraries\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eJorge Luis Borges\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e“The Total Library” (1939); “The Library of Babel” (1941) \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eNov. 14\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eNov. 15 | Come to office hours | Review Tutorials—Presentations for Paper #2\u003c/strong\u003e\u003cstrong\u003e\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eNov. 21 | No class | Thanksgiving Recess | \u003c/strong\u003e\u003cstrong\u003eWriting Deadline 2 | Paper #2 (1000 words)\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 12 | 12. Knowledge\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eJorge Luis Borges\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e“\u003c/strong\u003e\u003cstrong\u003ePierre M\u003c/strong\u003e\u003cstrong\u003eé\u003c/strong\u003e\u003cstrong\u003enard, Author of the Quixote” (1939)\u003c/strong\u003e\u003cstrong\u003e; “\u003c/strong\u003e\u003cstrong\u003eOn Exactitude in Science” (1946) \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eNov. 28\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 13 | 13. Language\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eJorge Luis Borges\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e“\u003c/strong\u003e\u003cstrong\u003eThe Analytical Language of John Wilkins” (1942); \u003c/strong\u003e\u003cstrong\u003e“\u003c/strong\u003e\u003cstrong\u003eTlön, Uqbar, Orbis Tertius” (1940)\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eDec. 5\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eDec. 6 | \u003c/strong\u003e\u003cstrong\u003eCome to office hours | Review Tutorials—Presentations for Paper #4\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eWeek 14 | 14.  Review Session—Presentations for Paper #4\u003cbr\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eDec. 12\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eDec. 14 | Writing Deadline 4 | Paper #4 (2750-3000 words)\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp style=\"text-align: center;\"\u003e\u003cstrong\u003eReading Practices\u003c/strong\u003e\u003c/p\u003e\n\u003col\u003e\n\u003cli\u003eThe literary texts and critical texts we will study are few and brief—excerpts or short-stories—for the most part. Rather than covering extensive ground, what matters for this course is that you develop a sharp attention to details, and an ability to relate discrete parts with larger (thematic, generic, historic) wholes. We’ll build connections from inside the stylistic fabric of these works but also from within our corpus at large.\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003col start=\"2\"\u003e\n\u003cli\u003eThere are very few (if any) secondary sources: you are encouraged to actively find some, ask me for more, and read them at your leisure; however, the primary goal for this course is to refine your own critical voice through a direct engagement with the texts. Secondary sources are therefore appreciated but not essential.\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003col start=\"3\"\u003e\n\u003cli\u003eAs we read this selection of six literary and critical works, the twelve concepts we will uncover are: \u003cstrong\u003eAuthorship, Style, Gender, Class, Interpretation, Semiotics, Intertextuality, Plurality, Books, Libraries, Knowledge and Languages\u003c/strong\u003e. They are intended as thematic guidelines to orient our reading of these works together ; they should not, however, pre-empt your own interpretation. In other words, they are open to revisions, if we decide they are necessary. We’ll test their validity in class. I look forward to lively discussions in the course of the semester.\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp style=\"text-align: center;\"\u003e\u003cstrong\u003eResponse Paper Assignments\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003col start=\"4\"\u003e\n\u003cli\u003eIn engaging with the weekly materials, it is crucial that you focus on the literary techniques covered in class, in connection to the comparison with critical discourse. In the weekly response (\u003cstrong\u003e150-300 words\u003c/strong\u003e) you’re asked to answer some of the questions posed by the course. For instance—What does it mean for this text to reflect on its production? What exactly speaks to the theoretical realm in this piece of fiction ? How is our weekly critical concept here translated in the realm of aesthetics? Through which discursive or stylistic channels, and to what effect ? How successful is this specific text at suggesting an \u003cem\u003ears poetica\u003c/em\u003e, or a literary theory reflecting on its own conditions of extistence? What concept-constructions or epistemological concerns are mobilised and elaborated when reading the text ? How can we stylistically account for them ? The response papers are due on \u003cstrong\u003eSundays, 5 pm\u003c/strong\u003e.\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp style=\"text-align: center;\"\u003e\u003cstrong\u003eShort Paper and Final Paper Assignments\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003col start=\"5\"\u003e\n\u003cli\u003eIn the first part of the semester, we’ll focus on Virginia Woolf’s brand of self-reflexive fiction and fictional literary criticism. In the second, we’ll move to Honoré de Balzac’s theory of artistic creation enmeshed with its refashioning by a textophage, multi-layering and over-writing exegesis by Roland Barthes. In the third part, we’ll consider Jorge Luis Borges’ imaginary objects of knowledge, reverberated by Michel Foucault’s later theoretical constructions of epistemological systems. Each of these three papers will be an in-depth analysis (\u003cstrong\u003e1000 words\u003c/strong\u003e) of one concept (\u003cstrong\u003eAuthorship, Style, Gender, Class \u003c/strong\u003efor the Woolf paper ;\u003cstrong\u003e Interpretation, Semiotics, Intertextuality, Plurality  \u003c/strong\u003efor the Balzac paper ;\u003cstrong\u003e Books, Libraries, Knowledge and Languages \u003c/strong\u003efor the Borges paper) reflected in the two texts covered in class (\u003cem\u003eOrlando\u003c/em\u003e, \u003cem\u003eA Room of One’s Own\u003c/em\u003e for the Woolf paper—due \u003cstrong\u003eOct. 10 \u003c/strong\u003e; \u003cem\u003eSarrasine\u003c/em\u003e, \u003cem\u003eS/Z \u003c/em\u003efor the Balzac paper—due \u003cstrong\u003eNovember 21 \u003c/strong\u003e; \u003cem\u003eFictions\u003c/em\u003e, \u003cem\u003eThe Order of Things\u003c/em\u003e for the Borges paper—due \u003cstrong\u003eNovember 21\u003c/strong\u003e).\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003col start=\"6\"\u003e\n\u003cli\u003eIn the final paper (\u003cstrong\u003eDec. 14\u003c/strong\u003e), you will choose a text we haven’t discussed in class from one of the anthologies assigned. You will be asked to reflect on these three modes of specular criticism and fiction writing into one coherent commentary on a new text of your own choosing—by an author we will have already encountered in class (\u003cstrong\u003e2750-3000 words\u003c/strong\u003e). You may choose between the three following options—all short-stories, which range from the very short to the extremely brief: \u003cstrong\u003e1.\u003c/strong\u003e Virginia Woolf, “The Lady in the Looking-Glass: A Reflection” (1929); \u003cstrong\u003e2.\u003c/strong\u003e Honoré de Balzac, “The Unknown Masterpiece (1831); \u003cstrong\u003e3.\u003c/strong\u003e Jose Luis Borges, “The Aleph” (1945). They will be made available to you from the outset of the semester. However, we can talk about other options during the office hours.\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e  \u003c/strong\u003e7. Since the written assignments are brief, structure is paramount; the three small essays need a clear design and a proper introduction with a conclusion. This is true also for the final paper, in which you’ll showcase the literary skills learned throughout the course. We’ll cover the technique of the commentary in class; for now please note that the wordcount is an important factor, with a tolerance of 10% (+/-).\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003col start=\"8\"\u003e\n\u003cli\u003eExtensions to hand in written work late can only be granted if the matter has been discussed well ahead of time with the lecturer.\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp style=\"text-align: center;\"\u003e\u003cstrong\u003eClass Participation and Grading\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003col start=\"9\"\u003e\n\u003cli\u003eClass participation is vital and graded: you’re expected to make two interventions per class—even a quick comment on each text at hand will do (10%).\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003col start=\"10\"\u003e\n\u003cli\u003eThe final grade is calculated as follows: Paper #1 (20%), Paper #2 (20%), and Final Paper (40%). Grades will be raised or lowered to reflect class participation (10%), weekly postings on the course blog (5%), and attending twice the office hours.\u003c/li\u003e\n\u003c/ol\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003ch4\u003e\n\u003cstrong\u003eAccommodations for Students with Disabilities\u003c/strong\u003e—Students needing academic adjustments or accommodations because of a documented disability must present their Faculty Letter from the \u003cspan\u003eAccessible Education Office\u003c/span\u003e (AEO) and speak with the lecturer by the end of the second week of the term:\u003cstrong\u003e September 8th\u003c/strong\u003e. Failure to do so may result in the lecturer’s inability to respond in a timely manner. All discussions will remain confidential.\u003c/h4\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eCollaboration Policy, Academic Integrity and Harvard Extension School Honor Code\u003c/strong\u003e—All papers and exams must be the student’s own work. What this means is that students are permitted, and expected, to discuss their ideas with the instructors and other students as well as to request and accept advice from them. But if a piece of information or an idea comes from someone else, students should do the same thing that they would do when it comes from a book, an article, or online: cite the source. All academic work is collaborative in the sense that it builds on what others have written. Using such material is not plagiarism as long as it is appropriately cited. When using the same words as the source, put them inside quotation marks. If you are uncertain in a particular case: ask, don’t guess. \u003cspan\u003eFor final projects, students must include the following affirmation statement at the time of submission\u003c/span\u003e: \u003cspan\u003e\u003cstrong\u003e“I affirm my awareness of the standards of the Harvard Extention School Honor Code\u003c/strong\u003e.\u003cstrong\u003e”\u003c/strong\u003e The regulations are available here—\u003ca href=\"http://honor.fas.harvard.edu/\"\u003ehttp://honor.fas.harvard.edu/\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003ePass/Fail and Auditor Policy\u003c/strong\u003e—Permitted.\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003ePersonal Electronic Device Policy\u003c/strong\u003e—Not permitted.\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003eCourse texts will be available here\u003c/strong\u003e\u003cspan\u003e— \u003ca href=\"http://literarytheoryincomparison.tumblr.com/\"\u003ehttp://literarytheoryincomparison.tumblr.com/\u003c/a\u003e\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e\u003cspan\u003e \u003c/span\u003e\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan\u003e \u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cstrong\u003e \u003c/strong\u003e\u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cdiv class=\"content-box pad-box-micro border border-b border-t\" style=\"background-color: whitesmoke;\"\u003e\n\u003ch2 style=\"text-align: center;\"\u003e\u003ca class=\"icon-rubric-dark\" style=\"color: black; text-decoration: none;\"\u003e Course Information\u003c/a\u003e\u003c/h2\u003e\n\u003c/div\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd\u003e\n\u003cp\u003e \u003ciframe style=\"width: 100%; height: 200px;\" title=\"Course Info\" src=\"https://canvas-course-info.tlt.harvard.edu/course_info/widget.html?f=title\u0026amp;f=course.registrar_code_display\u0026amp;f=term.display_name\u0026amp;f=instructors_display\u0026amp;f=location\u0026amp;f=meeting_time\u0026amp;f=exam_group\u0026amp;f=description\u0026amp;f=notes\" width=\"300\" height=\"150\" allowfullscreen=\"allowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\"\u003e\u003c/iframe\u003e \u003c/p\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003ctable style=\"width: 30%; float: right;\" cellspacing=\"10\" cellpadding=\"9\"\u003e\n\u003ctbody\u003e\n\u003ctr\u003e\n\u003ctd style=\"border-color: gray; background-color: whitesmoke;\"\u003e\n\u003ch2 style=\"text-align: center;\"\u003e\u003cspan style=\"color: #000000;\"\u003e\u003ca class=\"icon-user\" style=\"color: #000000;\" href=\"/courses/7955\" target=\"_blank\"\u003e\u003cspan style=\"font-size: 10pt;\"\u003eStudent Support Tips\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\u003c/h2\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003ctr\u003e\n\u003ctd style=\"border-color: gray; background-color: whitesmoke;\"\u003e\n\u003ch2 style=\"text-align: center;\"\u003e\u003cspan style=\"color: #000000;\"\u003e\u003ca class=\"icon-educators\" style=\"color: #000000;\" href=\"/courses/4514\" target=\"_blank\"\u003e\u003cspan style=\"font-size: 10pt;\"\u003eInstructor Support Tips\u003c/span\u003e\u003c/a\u003e \u003c/span\u003e\u003c/h2\u003e\n\u003c/td\u003e\n\u003c/tr\u003e\n\u003c/tbody\u003e\n\u003c/table\u003e\n\u003cp style=\"clear: both;\"\u003e \u003c/p\u003e","notices":[]};
+</script>
+
+<script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/navigation_header.bundle-9669f80a51.js" defer="defer"></script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/4225508/global.min.js" defer="defer"></script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_18750000000000001/attachments/3751539/EXPGlobal.js" defer="defer"></script>
+
+</div> <!-- #application -->
+</body>
+</html>
