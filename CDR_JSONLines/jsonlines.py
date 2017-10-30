@@ -104,10 +104,10 @@ if __name__ == '__main__':
     if len(sys.argv) < 3:
         print('Usage: python ' + sys.argv[0] + ' <d> <html files input path> [output_path] [number of files]')
         print('       The program requires Python 3.6 to execute.')
-        print('       - d : Only draw the html file size distribution.')     
-        print('       - html files input path = input file path of html files')         
-        print('       - output_path = Optional, output file path of JSON Lines format')
-        print('       - number of files : Optional, number of html files you want to package into JSON Lines. Default value is all files.')                                             
+        print('         d : Only draw the html file size distribution.')     
+        print('         html files input path = input file path of html files')         
+        print('         output_path = Optional, output file path of JSON Lines format')
+        print('         number of files : Optional, number of html files you want to package into JSON Lines. Default value is all files.')                                             
         exit ()    
 
     if len(sys.argv) == 4:
