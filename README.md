@@ -18,7 +18,7 @@ Thanks,
 |[Market Index Prediction](https://github.com/Cheng-Lin-Li/Market-Trend-Prediction)| This is a final project of building knowledge graph. I and my teammate YuCheng Kuo leverage not only stock price information but also combine social media listening data to feed into a LSTM (Long Short Term Memory) machine learning model to predict the trend of next day and next 30 day of Dow Jones Industrial Average index . |[Project Repository](https://github.com/Cheng-Lin-Li/Market-Trend-Prediction)|
 
 
-## Reference:
+## Reference
 * CRF suite Example: https://github.com/scrapinghub/python-crfsuite/blob/master/examples/CoNLL%202002.ipynb
 * CRF Suite: https://python-crfsuite.readthedocs.io/en/latest/
 * Facebook Crawler by Jacob: https://github.com/chenjr0719/Facebook-Page-Crawler/edit/master/Facebook_Page_Crawler.py
